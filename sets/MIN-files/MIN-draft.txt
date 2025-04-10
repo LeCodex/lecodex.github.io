@@ -1,0 +1,3867 @@
+[CustomCards]
+	[
+		{
+			"name": "Unlit Cave",
+			"rarity": "cube",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/328_Unlit Cave.png"
+			}
+		},
+		{
+			"name": "Crafting Bench",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/308_Crafting Bench.png"
+			}
+		},
+		{
+			"name": "Flaming Weapons",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/176_Flaming Weapons.png"
+			}
+		},
+		{
+			"name": "Full Set",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/20_Full Set.png"
+			}
+		},
+		{
+			"name": "Fortune Pickaxe",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/178_Fortune Pickaxe.png"
+			}
+		},
+		{
+			"name": "Respawn and Collect",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/199_Respawn and Collect.png"
+			}
+		},
+		{
+			"name": "Piercing Crossbow",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/189_Piercing Crossbow.png"
+			}
+		},
+		{
+			"name": "Thorns Chestplate",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/150_Thorns Chestplate.png"
+			}
+		},
+		{
+			"name": "Impaling Trident",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/129_Impaling Trident.png"
+			}
+		},
+		{
+			"name": "Wooly Sheep",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Sheep",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/269_Wooly Sheep.png"
+			}
+		},
+		{
+			"name": "Sunken Stronghold",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Artifact",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/289_Sunken Stronghold.png"
+			}
+		},
+		{
+			"name": "Floating Allay",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/278_Floating Allay.png"
+			}
+		},
+		{
+			"name": "Alex, Ready for Battle",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Planeswalker — Alex",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/270_Alex, Ready for Battle.png"
+			}
+		},
+		{
+			"name": "Village Shepherd",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Creature — Villager Peasant",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/294_Village Shepherd.png"
+			}
+		},
+		{
+			"name": "Steve, Quaint Builder",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Planeswalker — Steve",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/287_Steve, Quaint Builder.png"
+			}
+		},
+		{
+			"name": "Grazing Grounds",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/237_Grazing Grounds.png"
+			}
+		},
+		{
+			"name": "Village Bell",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/49_Village Bell.png"
+			}
+		},
+		{
+			"name": "Pillager's Capture",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/139_Pillager's Capture.png"
+			}
+		},
+		{
+			"name": "Command Block",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/306_Command Block.png"
+			}
+		},
+		{
+			"name": "Armor Stand",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/302_Armor Stand.png"
+			}
+		},
+		{
+			"name": "Mob Spawner",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/318_Mob Spawner.png"
+			}
+		},
+		{
+			"name": "Warm Campfire",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/329_Warm Campfire.png"
+			}
+		},
+		{
+			"name": "Flower Forest",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/341_Flower Forest.png"
+			}
+		},
+		{
+			"name": "River Bed",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/353_River Bed.png"
+			}
+		},
+		{
+			"name": "Mushroom Island",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/346_Mushroom Island.png"
+			}
+		},
+		{
+			"name": "Badlands Desert",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/333_Badlands Desert.png"
+			}
+		},
+		{
+			"name": "Dark Forest",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/336_Dark Forest.png"
+			}
+		},
+		{
+			"name": "Thermal Vent",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/356_Thermal Vent.png"
+			}
+		},
+		{
+			"name": "Jungle",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/344_Jungle.png"
+			}
+		},
+		{
+			"name": "Savanna",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/355_Savanna.png"
+			}
+		},
+		{
+			"name": "Eroded Badlands",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/339_Eroded Badlands.png"
+			}
+		},
+		{
+			"name": "Amplified Terrain",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/331_Amplified Terrain.png"
+			}
+		},
+		{
+			"name": "Far Lands",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/340_Far Lands.png"
+			}
+		},
+		{
+			"name": "Unloaded Chunk",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/357_Unloaded Chunk.png"
+			}
+		},
+		{
+			"name": "Igloo Basement",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/342_Igloo Basement.png"
+			}
+		},
+		{
+			"name": "Ancient City",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/332_Ancient City.png"
+			}
+		},
+		{
+			"name": "Ruined Portal",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/354_Ruined Portal.png"
+			}
+		},
+		{
+			"name": "Peaceful Village",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/350_Peaceful Village.png"
+			}
+		},
+		{
+			"name": "Jungle Temple",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/345_Jungle Temple.png"
+			}
+		},
+		{
+			"name": "Witch Hut",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/358_Witch Hut.png"
+			}
+		},
+		{
+			"name": "Ocean Monument",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/349_Ocean Monument.png"
+			}
+		},
+		{
+			"name": "Abandoned Mineshaft",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/330_Abandoned Mineshaft.png"
+			}
+		},
+		{
+			"name": "Desert Well",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/337_Desert Well.png"
+			}
+		},
+		{
+			"name": "Pillager Outpost",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/351_Pillager Outpost.png"
+			}
+		},
+		{
+			"name": "Combat Arena",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/335_Combat Arena.png"
+			}
+		},
+		{
+			"name": "Cherry Grove",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/334_Cherry Grove.png"
+			}
+		},
+		{
+			"name": "The End, Dragon's Realm",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/338_The End, Dragon's Realm.png"
+			}
+		},
+		{
+			"name": "The Nether",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Legendary Enchantment Land — Saga",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/347_The Nether.png"
+			}
+		},
+		{
+			"name": "Axolotl",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Axolotl",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/272_Axolotl.png"
+			}
+		},
+		{
+			"name": "Illusioner",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Creature — Villager Wizard",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/281_Illusioner.png"
+			}
+		},
+		{
+			"name": "Zombified Piglin",
+			"rarity": "cube",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Zombie Boar",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/298_Zombified Piglin.png"
+			}
+		},
+		{
+			"name": "Raid Captain",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Villager Shaman",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/285_Raid Captain.png"
+			}
+		},
+		{
+			"name": "Iron Anvil",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/315_Iron Anvil.png"
+			}
+		},
+		{
+			"name": "Multishot Crossbow",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/135_Multishot Crossbow.png"
+			}
+		},
+		{
+			"name": "Efficiency Pickaxe",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/13_Efficiency Pickaxe.png"
+			}
+		},
+		{
+			"name": "Soul Speed Boots",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/202_Soul Speed Boots.png"
+			}
+		},
+		{
+			"name": "Totem Of Undying",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/152_Totem Of Undying.png"
+			}
+		},
+		{
+			"name": "Herobrine, Never Removed",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Herobrine",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/279_Herobrine, Never Removed.png"
+			}
+		},
+		{
+			"name": "Sculk Spread",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/256_Sculk Spread.png"
+			}
+		},
+		{
+			"name": "Cave Spider",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/223_Cave Spider.png"
+			}
+		},
+		{
+			"name": "Composter",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/226_Composter.png"
+			}
+		},
+		{
+			"name": "Scurrying Bats",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Creature — Bat",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/35_Scurrying Bats.png"
+			}
+		},
+		{
+			"name": "Closed Server",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/4_Closed Server.png"
+			}
+		},
+		{
+			"name": "Silverfish",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/258_Silverfish.png"
+			}
+		},
+		{
+			"name": "Tamed Cat",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/41_Tamed Cat.png"
+			}
+		},
+		{
+			"name": "Fall Damage",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/173_Fall Damage.png"
+			}
+		},
+		{
+			"name": "Creative Mode",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/7_Creative Mode.png"
+			}
+		},
+		{
+			"name": "Replace with Air",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/34_Replace with Air.png"
+			}
+		},
+		{
+			"name": "Chorus Fruit",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/59_Chorus Fruit.png"
+			}
+		},
+		{
+			"name": "Unload",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/103_Unload.png"
+			}
+		},
+		{
+			"name": "Dinnerbone",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/65_Dinnerbone.png"
+			}
+		},
+		{
+			"name": "jeb",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/241_jeb.png"
+			}
+		},
+		{
+			"name": "Surprise Explosion",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/203_Surprise Explosion.png"
+			}
+		},
+		{
+			"name": "Kill for Drops",
+			"rarity": "cube",
+			"mana_cost": "{X}{B}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/132_Kill for Drops.png"
+			}
+		},
+		{
+			"name": "Respawn Anchor",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/143_Respawn Anchor.png"
+			}
+		},
+		{
+			"name": "Lightning Strike",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/185_Lightning Strike.png"
+			}
+		},
+		{
+			"name": "Exposing Demolition",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/172_Exposing Demolition.png"
+			}
+		},
+		{
+			"name": "Mob Farm",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/134_Mob Farm.png"
+			}
+		},
+		{
+			"name": "Chrysopoeia",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/116_Chrysopoeia.png"
+			}
+		},
+		{
+			"name": "Smoking Blaze",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/201_Smoking Blaze.png"
+			}
+		},
+		{
+			"name": "Piglin Brute",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Boar Barbarian",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/190_Piglin Brute.png"
+			}
+		},
+		{
+			"name": "Uneasy Alliance",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/210_Uneasy Alliance.png"
+			}
+		},
+		{
+			"name": "Cliff Llamas",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Llama",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/3_Cliff Llamas.png"
+			}
+		},
+		{
+			"name": "Glow Squid",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Squid",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/72_Glow Squid.png"
+			}
+		},
+		{
+			"name": "Neverending Spawn",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/246_Neverending Spawn.png"
+			}
+		},
+		{
+			"name": "Potion of Harming",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/140_Potion of Harming.png"
+			}
+		},
+		{
+			"name": "Crossbow Piglin",
+			"rarity": "cube",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Boar Archer",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/167_Crossbow Piglin.png"
+			}
+		},
+		{
+			"name": "Coral Reef",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/63_Coral Reef.png"
+			}
+		},
+		{
+			"name": "Smithing Table",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/37_Smithing Table.png"
+			}
+		},
+		{
+			"name": "Oak Sapling",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land Creature — Forest Plant",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/348_Oak Sapling.png"
+			}
+		},
+		{
+			"name": "Golden Apple",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/236_Golden Apple.png"
+			}
+		},
+		{
+			"name": "Ramming Goat",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Goat",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/253_Ramming Goat.png"
+			}
+		},
+		{
+			"name": "Evoker",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Creature — Villager Shaman",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/277_Evoker.png"
+			}
+		},
+		{
+			"name": "Village Cleric",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Villager Cleric",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/292_Village Cleric.png"
+			}
+		},
+		{
+			"name": "Village Nitwit",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Villager Peasant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/52_Village Nitwit.png"
+			}
+		},
+		{
+			"name": "Village Fisherman",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Creature — Villager Peasant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/104_Village Fisherman.png"
+			}
+		},
+		{
+			"name": "Zombie Villager",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Villager",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/161_Zombie Villager.png"
+			}
+		},
+		{
+			"name": "Village Cartographer",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Villager Advisor",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/265_Village Cartographer.png"
+			}
+		},
+		{
+			"name": "Village Weaponsmith",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Villager Artificer",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/214_Village Weaponsmith.png"
+			}
+		},
+		{
+			"name": "Getting an Upgrade",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/71_Getting an Upgrade.png"
+			}
+		},
+		{
+			"name": "Fang Attack",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/123_Fang Attack.png"
+			}
+		},
+		{
+			"name": "Baby Zombie",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/111_Baby Zombie.png"
+			}
+		},
+		{
+			"name": "Crossbow Shot",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/8_Crossbow Shot.png"
+			}
+		},
+		{
+			"name": "Polar Bear",
+			"rarity": "cube",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bear",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/32_Polar Bear.png"
+			}
+		},
+		{
+			"name": "Pillager Raid",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/138_Pillager Raid.png"
+			}
+		},
+		{
+			"name": "Turn to Data",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/47_Turn to Data.png"
+			}
+		},
+		{
+			"name": "Iron Hopper",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/75_Iron Hopper.png"
+			}
+		},
+		{
+			"name": "Husk",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/127_Husk.png"
+			}
+		},
+		{
+			"name": "Wither Skeleton",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Warrior",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/157_Wither Skeleton.png"
+			}
+		},
+		{
+			"name": "Enter the Cave",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/230_Enter the Cave.png"
+			}
+		},
+		{
+			"name": "Village Butcher",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Villager Peasant",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/264_Village Butcher.png"
+			}
+		},
+		{
+			"name": "Jungle Parrot",
+			"rarity": "cube",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/77_Jungle Parrot.png"
+			}
+		},
+		{
+			"name": "Vindicator",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Villager Barbarian",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/266_Vindicator.png"
+			}
+		},
+		{
+			"name": "Meadow Cow",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Ox",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/27_Meadow Cow.png"
+			}
+		},
+		{
+			"name": "Banished Witch",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Villager Warlock",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/273_Banished Witch.png"
+			}
+		},
+		{
+			"name": "Trial Raid",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/208_Trial Raid.png"
+			}
+		},
+		{
+			"name": "Sea Dolphin",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/92_Sea Dolphin.png"
+			}
+		},
+		{
+			"name": "Victory Celebration",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/212_Victory Celebration.png"
+			}
+		},
+		{
+			"name": "Hero of the Village",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/22_Hero of the Village.png"
+			}
+		},
+		{
+			"name": "Kick",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/78_Kick.png"
+			}
+		},
+		{
+			"name": "Time Command",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/151_Time Command.png"
+			}
+		},
+		{
+			"name": "Critical Strike",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/166_Critical Strike.png"
+			}
+		},
+		{
+			"name": "Take Inventory",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/262_Take Inventory.png"
+			}
+		},
+		{
+			"name": "Ruthless Predation",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/255_Ruthless Predation.png"
+			}
+		},
+		{
+			"name": "Large Slime",
+			"rarity": "cube",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/243_Large Slime.png"
+			}
+		},
+		{
+			"name": "Spectator Mode",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/39_Spectator Mode.png"
+			}
+		},
+		{
+			"name": "Void Command",
+			"rarity": "cube",
+			"mana_cost": "{5}{W}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/53_Void Command.png"
+			}
+		},
+		{
+			"name": "Gold Bartering",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/179_Gold Bartering.png"
+			}
+		},
+		{
+			"name": "Wither Rose",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/156_Wither Rose.png"
+			}
+		},
+		{
+			"name": "Turtle",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Turtle",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/102_Turtle.png"
+			}
+		},
+		{
+			"name": "Ink Squid",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Squid",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/74_Ink Squid.png"
+			}
+		},
+		{
+			"name": "Tame Panda",
+			"rarity": "cube",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Bear",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/290_Tame Panda.png"
+			}
+		},
+		{
+			"name": "Pack Donkey",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Horse",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/284_Pack Donkey.png"
+			}
+		},
+		{
+			"name": "Clear Command",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/117_Clear Command.png"
+			}
+		},
+		{
+			"name": "Wild Fox",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Fox",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/215_Wild Fox.png"
+			}
+		},
+		{
+			"name": "Frost Stray",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Archer",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/124_Frost Stray.png"
+			}
+		},
+		{
+			"name": "Fish Bucket",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/69_Fish Bucket.png"
+			}
+		},
+		{
+			"name": "Midnight Siege",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/133_Midnight Siege.png"
+			}
+		},
+		{
+			"name": "Phantom",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/136_Phantom.png"
+			}
+		},
+		{
+			"name": "Arctic Fox",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Creature — Fox",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/221_Arctic Fox.png"
+			}
+		},
+		{
+			"name": "Small Chicken",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/94_Small Chicken.png"
+			}
+		},
+		{
+			"name": "Bee Hive",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/164_Bee Hive.png"
+			}
+		},
+		{
+			"name": "Crying Ghast",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Spirit",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/168_Crying Ghast.png"
+			}
+		},
+		{
+			"name": "Armored Horse",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Horse",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/55_Armored Horse.png"
+			}
+		},
+		{
+			"name": "Sniffer",
+			"rarity": "cube",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/259_Sniffer.png"
+			}
+		},
+		{
+			"name": "The Ender Dragon",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/276_The Ender Dragon.png"
+			}
+		},
+		{
+			"name": "Ravager",
+			"rarity": "cube",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/198_Ravager.png"
+			}
+		},
+		{
+			"name": "Lava Strider",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/184_Lava Strider.png"
+			}
+		},
+		{
+			"name": "Unite the Villagers",
+			"rarity": "cube",
+			"mana_cost": "{UR}{UB}{BG}{GW}{RW}",
+			"type": "Enchantment",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/299_Unite the Villagers.png"
+			}
+		},
+		{
+			"name": "Missing Block",
+			"rarity": "cube",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/317_Missing Block.png"
+			}
+		},
+		{
+			"name": "Nether Portal",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/187_Nether Portal.png"
+			}
+		},
+		{
+			"name": "Zombie Reinforcements",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/160_Zombie Reinforcements.png"
+			}
+		},
+		{
+			"name": "Dragon's Breath",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/229_Dragon's Breath.png"
+			}
+		},
+		{
+			"name": "Creaking",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Plant Illusion",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/64_Creaking.png"
+			}
+		},
+		{
+			"name": "Skeleton Horse",
+			"rarity": "cube",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Skeleton Horse",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/147_Skeleton Horse.png"
+			}
+		},
+		{
+			"name": "Change Data",
+			"rarity": "cube",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/58_Change Data.png"
+			}
+		},
+		{
+			"name": "Drowned",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/120_Drowned.png"
+			}
+		},
+		{
+			"name": "Zombie's Bite",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/162_Zombie's Bite.png"
+			}
+		},
+		{
+			"name": "Insect Infestation",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/240_Insect Infestation.png"
+			}
+		},
+		{
+			"name": "Swoop Down",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/205_Swoop Down.png"
+			}
+		},
+		{
+			"name": "Charging Strike",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/165_Charging Strike.png"
+			}
+		},
+		{
+			"name": "Snow Golem",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Artifact Creature — Golem",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/95_Snow Golem.png"
+			}
+		},
+		{
+			"name": "Temple Guardian",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/42_Temple Guardian.png"
+			}
+		},
+		{
+			"name": "Young Hoglin",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Creature — Boar",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/216_Young Hoglin.png"
+			}
+		},
+		{
+			"name": "Village Farmer",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Villager Peasant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/50_Village Farmer.png"
+			}
+		},
+		{
+			"name": "Angered Wolf",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/219_Angered Wolf.png"
+			}
+		},
+		{
+			"name": "Third Shriek",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/100_Third Shriek.png"
+			}
+		},
+		{
+			"name": "Clear Space",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/224_Clear Space.png"
+			}
+		},
+		{
+			"name": "Pink Sheep",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Sheep",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/252_Pink Sheep.png"
+			}
+		},
+		{
+			"name": "Acid Fireball",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/110_Acid Fireball.png"
+			}
+		},
+		{
+			"name": "Enderman",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/68_Enderman.png"
+			}
+		},
+		{
+			"name": "Potion of Swiftness",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/194_Potion of Swiftness.png"
+			}
+		},
+		{
+			"name": "Potion of Invisibility",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/87_Potion of Invisibility.png"
+			}
+		},
+		{
+			"name": "Ice Highway",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Construction",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/73_Ice Highway.png"
+			}
+		},
+		{
+			"name": "Shore Lighthouse",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Artifact — Construction",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/257_Shore Lighthouse.png"
+			}
+		},
+		{
+			"name": "Village Mason",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Villager Artificer",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/105_Village Mason.png"
+			}
+		},
+		{
+			"name": "Gather Experience",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/70_Gather Experience.png"
+			}
+		},
+		{
+			"name": "Village Librarian",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Villager Warlock",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/153_Village Librarian.png"
+			}
+		},
+		{
+			"name": "Oozing",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/248_Oozing.png"
+			}
+		},
+		{
+			"name": "Defend the Village",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/11_Defend the Village.png"
+			}
+		},
+		{
+			"name": "Compacting Resources",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/5_Compacting Resources.png"
+			}
+		},
+		{
+			"name": "Chest Breaking",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/114_Chest Breaking.png"
+			}
+		},
+		{
+			"name": "Hoglin",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Boar",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/182_Hoglin.png"
+			}
+		},
+		{
+			"name": "One-Way Trip",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/31_One-Way Trip.png"
+			}
+		},
+		{
+			"name": "Daylight Sensor",
+			"rarity": "cube",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/309_Daylight Sensor.png"
+			}
+		},
+		{
+			"name": "Bogged Skeleton",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Archer",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/113_Bogged Skeleton.png"
+			}
+		},
+		{
+			"name": "Dig Straight Down",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/118_Dig Straight Down.png"
+			}
+		},
+		{
+			"name": "Out of the Webs",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/249_Out of the Webs.png"
+			}
+		},
+		{
+			"name": "Don't Look",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/119_Don't Look.png"
+			}
+		},
+		{
+			"name": "TNT Cannon",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/207_TNT Cannon.png"
+			}
+		},
+		{
+			"name": "Spreading Vines",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/261_Spreading Vines.png"
+			}
+		},
+		{
+			"name": "Terraforming",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/263_Terraforming.png"
+			}
+		},
+		{
+			"name": "Magma Cube",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/186_Magma Cube.png"
+			}
+		},
+		{
+			"name": "Tend the Pens",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/43_Tend the Pens.png"
+			}
+		},
+		{
+			"name": "Flying Machine",
+			"rarity": "cube",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/314_Flying Machine.png"
+			}
+		},
+		{
+			"name": "Shrinking Worldborder",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/144_Shrinking Worldborder.png"
+			}
+		},
+		{
+			"name": "Village Armorer",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Villager Artificer",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/48_Village Armorer.png"
+			}
+		},
+		{
+			"name": "Wild Rabbit",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Rabbit",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/267_Wild Rabbit.png"
+			}
+		},
+		{
+			"name": "Trip the Wire",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/45_Trip the Wire.png"
+			}
+		},
+		{
+			"name": "Stone Age",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/148_Stone Age.png"
+			}
+		},
+		{
+			"name": "Equipping Station",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/121_Equipping Station.png"
+			}
+		},
+		{
+			"name": "Isn't it Iron Pick",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/25_Isn't it Iron Pick.png"
+			}
+		},
+		{
+			"name": "Permission Denied",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/84_Permission Denied.png"
+			}
+		},
+		{
+			"name": "Growing Pack",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/238_Growing Pack.png"
+			}
+		},
+		{
+			"name": "Fire Charge",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/175_Fire Charge.png"
+			}
+		},
+		{
+			"name": "Tadpole Knot",
+			"rarity": "cube",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Frog",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/98_Tadpole Knot.png"
+			}
+		},
+		{
+			"name": "Faithful Companion",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Creature — Dog",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/17_Faithful Companion.png"
+			}
+		},
+		{
+			"name": "Explore",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/231_Explore.png"
+			}
+		},
+		{
+			"name": "Wind Charge",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Artifact — Tool",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/107_Wind Charge.png"
+			}
+		},
+		{
+			"name": "Forest Fire",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/177_Forest Fire.png"
+			}
+		},
+		{
+			"name": "Ender Chest",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/67_Ender Chest.png"
+			}
+		},
+		{
+			"name": "Golden Sword",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/180_Golden Sword.png"
+			}
+		},
+		{
+			"name": "Glare",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Elemental",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/235_Glare.png"
+			}
+		},
+		{
+			"name": "Rascal",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Creature — Homunculus",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/142_Rascal.png"
+			}
+		},
+		{
+			"name": "Arson",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/163_Arson.png"
+			}
+		},
+		{
+			"name": "Wandering Trader",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Villager Nomad",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/296_Wandering Trader.png"
+			}
+		},
+		{
+			"name": "Zombie Giant",
+			"rarity": "cube",
+			"mana_cost": "{6}{B}",
+			"type": "Creature — Zombie Giant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/158_Zombie Giant.png"
+			}
+		},
+		{
+			"name": "Mooshroom Herd",
+			"rarity": "cube",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Fungus Ox",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/245_Mooshroom Herd.png"
+			}
+		},
+		{
+			"name": "Village Fletcher",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Villager Archer",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/213_Village Fletcher.png"
+			}
+		},
+		{
+			"name": "Tuff Golem",
+			"rarity": "cube",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/46_Tuff Golem.png"
+			}
+		},
+		{
+			"name": "Land Claim",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/242_Land Claim.png"
+			}
+		},
+		{
+			"name": "Bad Omen",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/112_Bad Omen.png"
+			}
+		},
+		{
+			"name": "Shipwreck",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/322_Shipwreck.png"
+			}
+		},
+		{
+			"name": "Pufferfish",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/88_Pufferfish.png"
+			}
+		},
+		{
+			"name": "Iron Shovel",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/24_Iron Shovel.png"
+			}
+		},
+		{
+			"name": "Observer",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/83_Observer.png"
+			}
+		},
+		{
+			"name": "Spider Jockey",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Skeleton Spider",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/260_Spider Jockey.png"
+			}
+		},
+		{
+			"name": "Territorial Anger",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/206_Territorial Anger.png"
+			}
+		},
+		{
+			"name": "Brown Mooshroom",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fungus Ox",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/2_Brown Mooshroom.png"
+			}
+		},
+		{
+			"name": "Ancient Etchings",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/218_Ancient Etchings.png"
+			}
+		},
+		{
+			"name": "For the Herd",
+			"rarity": "cube",
+			"mana_cost": "{X}{G}",
+			"type": "Instant",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/234_For the Herd.png"
+			}
+		},
+		{
+			"name": "Repeating Command Chain",
+			"rarity": "cube",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/89_Repeating Command Chain.png"
+			}
+		},
+		{
+			"name": "Teleport Out",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/99_Teleport Out.png"
+			}
+		},
+		{
+			"name": "Finish The Base",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/18_Finish The Base.png"
+			}
+		},
+		{
+			"name": "Sift the Loot",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/145_Sift the Loot.png"
+			}
+		},
+		{
+			"name": "Unpleasant Surprise",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/211_Unpleasant Surprise.png"
+			}
+		},
+		{
+			"name": "Elytras",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/312_Elytras.png"
+			}
+		},
+		{
+			"name": "First Shot",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/19_First Shot.png"
+			}
+		},
+		{
+			"name": "Illager Patrol",
+			"rarity": "cube",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Villager Archer",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/128_Illager Patrol.png"
+			}
+		},
+		{
+			"name": "Pyromania",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/197_Pyromania.png"
+			}
+		},
+		{
+			"name": "Pillager Horn",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/137_Pillager Horn.png"
+			}
+		},
+		{
+			"name": "Curse of Binding",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/9_Curse of Binding.png"
+			}
+		},
+		{
+			"name": "Depth Strider Boots",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/12_Depth Strider Boots.png"
+			}
+		},
+		{
+			"name": "Escalating Raid",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/15_Escalating Raid.png"
+			}
+		},
+		{
+			"name": "Protection Chestplate",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/33_Protection Chestplate.png"
+			}
+		},
+		{
+			"name": "Exponential Growth",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/232_Exponential Growth.png"
+			}
+		},
+		{
+			"name": "Soft Bed",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/38_Soft Bed.png"
+			}
+		},
+		{
+			"name": "Lightning Rod",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/79_Lightning Rod.png"
+			}
+		},
+		{
+			"name": "11 Music Disc",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/109_11 Music Disc.png"
+			}
+		},
+		{
+			"name": "Pigstep Music Disc",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/192_Pigstep Music Disc.png"
+			}
+		},
+		{
+			"name": "Far Music Disc",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/233_Far Music Disc.png"
+			}
+		},
+		{
+			"name": "Strad Music Disc",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/40_Strad Music Disc.png"
+			}
+		},
+		{
+			"name": "Mall Music Disc",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/81_Mall Music Disc.png"
+			}
+		},
+		{
+			"name": "Jukebox",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/131_Jukebox.png"
+			}
+		},
+		{
+			"name": "Suspicious Stew",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/204_Suspicious Stew.png"
+			}
+		},
+		{
+			"name": "Skeleton Bowman",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Skeleton Archer",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/146_Skeleton Bowman.png"
+			}
+		},
+		{
+			"name": "Act of Preservation",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/217_Act of Preservation.png"
+			}
+		},
+		{
+			"name": "The Wither",
+			"rarity": "cube",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/155_The Wither.png"
+			}
+		},
+		{
+			"name": "Debug World",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/10_Debug World.png"
+			}
+		},
+		{
+			"name": "Jeb Door",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/76_Jeb Door.png"
+			}
+		},
+		{
+			"name": "Evoker's Transmutation",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/171_Evoker's Transmutation.png"
+			}
+		},
+		{
+			"name": "Lava Lake",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/183_Lava Lake.png"
+			}
+		},
+		{
+			"name": "Ominous Banner",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/247_Ominous Banner.png"
+			}
+		},
+		{
+			"name": "Moody Weather",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/244_Moody Weather.png"
+			}
+		},
+		{
+			"name": "Planned for It",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/86_Planned for It.png"
+			}
+		},
+		{
+			"name": "Resource Organization",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/90_Resource Organization.png"
+			}
+		},
+		{
+			"name": "Zombie Horse",
+			"rarity": "cube",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie Horse",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/159_Zombie Horse.png"
+			}
+		},
+		{
+			"name": "Fang Defense",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/174_Fang Defense.png"
+			}
+		},
+		{
+			"name": "Pig Herd",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Creature — Boar",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/251_Pig Herd.png"
+			}
+		},
+		{
+			"name": "The Parrots and the Bats",
+			"rarity": "cube",
+			"mana_cost": "{X}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/250_The Parrots and the Bats.png"
+			}
+		},
+		{
+			"name": "Player Heads",
+			"rarity": "cube",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/320_Player Heads.png"
+			}
+		},
+		{
+			"name": "Trading Hall",
+			"rarity": "cube",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/327_Trading Hall.png"
+			}
+		},
+		{
+			"name": "Trader Llama",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Llama",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/101_Trader Llama.png"
+			}
+		},
+		{
+			"name": "The End Fountain",
+			"rarity": "cube",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/313_The End Fountain.png"
+			}
+		},
+		{
+			"name": "Copper Brush",
+			"rarity": "cube",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/307_Copper Brush.png"
+			}
+		},
+		{
+			"name": "Spyglass",
+			"rarity": "cube",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/324_Spyglass.png"
+			}
+		},
+		{
+			"name": "Collect",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/62_Collect.png"
+			}
+		},
+		{
+			"name": "Iron Farm",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/130_Iron Farm.png"
+			}
+		},
+		{
+			"name": "Village Leatherworker",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Creature — Villager Peasant",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/293_Village Leatherworker.png"
+			}
+		},
+		{
+			"name": "New Professions",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/30_New Professions.png"
+			}
+		},
+		{
+			"name": "Return To Sender",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/200_Return To Sender.png"
+			}
+		},
+		{
+			"name": "Cartography Table",
+			"rarity": "cube",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/305_Cartography Table.png"
+			}
+		},
+		{
+			"name": "Hired Help",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/23_Hired Help.png"
+			}
+		},
+		{
+			"name": "Clone Command",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/61_Clone Command.png"
+			}
+		},
+		{
+			"name": "Potion Throw",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/141_Potion Throw.png"
+			}
+		},
+		{
+			"name": "Pilfer the Bastion",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/193_Pilfer the Bastion.png"
+			}
+		},
+		{
+			"name": "Warden",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Golem Horror",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/154_Warden.png"
+			}
+		},
+		{
+			"name": "Sculk Sensor",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/91_Sculk Sensor.png"
+			}
+		},
+		{
+			"name": "Village Fountain",
+			"rarity": "cube",
+			"mana_cost": "{W}{W}",
+			"type": "Artifact",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/51_Village Fountain.png"
+			}
+		},
+		{
+			"name": "Enchanting Table",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Artifact",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/275_Enchanting Table.png"
+			}
+		},
+		{
+			"name": "Minecart Network",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Artifact",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/283_Minecart Network.png"
+			}
+		},
+		{
+			"name": "Strip Mining",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/288_Strip Mining.png"
+			}
+		},
+		{
+			"name": "Animal Husbandry",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/271_Animal Husbandry.png"
+			}
+		},
+		{
+			"name": "Spawn Egg",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/286_Spawn Egg.png"
+			}
+		},
+		{
+			"name": "World Eater",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Artifact",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/297_World Eater.png"
+			}
+		},
+		{
+			"name": "Iceologer",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Creature — Villager Wizard",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/280_Iceologer.png"
+			}
+		},
+		{
+			"name": "Trail Ruins",
+			"rarity": "cube",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Artifact",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/291_Trail Ruins.png"
+			}
+		},
+		{
+			"name": "Diamond Gear",
+			"rarity": "cube",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/310_Diamond Gear.png"
+			}
+		},
+		{
+			"name": "Equipped Spawn",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/170_Equipped Spawn.png"
+			}
+		},
+		{
+			"name": "Stone Sword",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/149_Stone Sword.png"
+			}
+		},
+		{
+			"name": "Wooden Shield",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/108_Wooden Shield.png"
+			}
+		},
+		{
+			"name": "Grindstone",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/125_Grindstone.png"
+			}
+		},
+		{
+			"name": "Prepared Incursion",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/196_Prepared Incursion.png"
+			}
+		},
+		{
+			"name": "Awaited Hatching",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/222_Awaited Hatching.png"
+			}
+		},
+		{
+			"name": "Bedrock Wall",
+			"rarity": "cube",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/303_Bedrock Wall.png"
+			}
+		},
+		{
+			"name": "Blast Furnace",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/304_Blast Furnace.png"
+			}
+		},
+		{
+			"name": "Griefing",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/181_Griefing.png"
+			}
+		},
+		{
+			"name": "Low Durability",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/26_Low Durability.png"
+			}
+		},
+		{
+			"name": "Fake Abandon",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/122_Fake Abandon.png"
+			}
+		},
+		{
+			"name": "Riding Stack",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/254_Riding Stack.png"
+			}
+		},
+		{
+			"name": "Recovery Compass",
+			"rarity": "cube",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/321_Recovery Compass.png"
+			}
+		},
+		{
+			"name": "A Complete Catalogue",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/225_A Complete Catalogue.png"
+			}
+		},
+		{
+			"name": "Mesa Wolf",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Wolf",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/28_Mesa Wolf.png"
+			}
+		},
+		{
+			"name": "Brewing Stand",
+			"rarity": "cube",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/57_Brewing Stand.png"
+			}
+		},
+		{
+			"name": "Pick Back Up",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/85_Pick Back Up.png"
+			}
+		},
+		{
+			"name": "Chicken Jockey",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Bird",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/115_Chicken Jockey.png"
+			}
+		},
+		{
+			"name": "Precarious Structure",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/195_Precarious Structure.png"
+			}
+		},
+		{
+			"name": "Haste Effect",
+			"rarity": "cube",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/239_Haste Effect.png"
+			}
+		},
+		{
+			"name": "Herd Spawning",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/21_Herd Spawning.png"
+			}
+		},
+		{
+			"name": "Hardcore Mode",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/126_Hardcore Mode.png"
+			}
+		},
+		{
+			"name": "Emperor Penguin",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/66_Emperor Penguin.png"
+			}
+		},
+		{
+			"name": "Lobsided Crab",
+			"rarity": "cube",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Crab",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/80_Lobsided Crab.png"
+			}
+		},
+		{
+			"name": "Shy Armadillo",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Armadillo",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/36_Shy Armadillo.png"
+			}
+		},
+		{
+			"name": "Trial Spawner",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/209_Trial Spawner.png"
+			}
+		},
+		{
+			"name": "Beacon Platform",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Artifact — Construction",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/1_Beacon Platform.png"
+			}
+		},
+		{
+			"name": "Faction Base",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Construction",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/16_Faction Base.png"
+			}
+		},
+		{
+			"name": "Town Square",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Artifact — Construction",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/44_Town Square.png"
+			}
+		},
+		{
+			"name": "Watchful Outpost",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Artifact — Construction",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/54_Watchful Outpost.png"
+			}
+		},
+		{
+			"name": "Clocktower",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Construction",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/60_Clocktower.png"
+			}
+		},
+		{
+			"name": "Spleef Arena",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Artifact — Construction",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/96_Spleef Arena.png"
+			}
+		},
+		{
+			"name": "Storage System",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Construction",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/97_Storage System.png"
+			}
+		},
+		{
+			"name": "Archery Range",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Construction",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/220_Archery Range.png"
+			}
+		},
+		{
+			"name": "Deep Mine",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Construction",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/227_Deep Mine.png"
+			}
+		},
+		{
+			"name": "Wood Camp",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Construction",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/268_Wood Camp.png"
+			}
+		},
+		{
+			"name": "Central Map",
+			"rarity": "cube",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Artifact — Construction",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/274_Central Map.png"
+			}
+		},
+		{
+			"name": "Blowing Breeze",
+			"rarity": "cube",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/56_Blowing Breeze.png"
+			}
+		},
+		{
+			"name": "TNT Block",
+			"rarity": "cube",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/326_TNT Block.png"
+			}
+		},
+		{
+			"name": "The Dragon Egg",
+			"rarity": "cube",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/311_The Dragon Egg.png"
+			}
+		},
+		{
+			"name": "Stasis Chamber",
+			"rarity": "cube",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/325_Stasis Chamber.png"
+			}
+		},
+		{
+			"name": "Ominous Vault",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/319_Ominous Vault.png"
+			}
+		},
+		{
+			"name": "Iron Stockpile",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/316_Iron Stockpile.png"
+			}
+		},
+		{
+			"name": "Wooded Mountains",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/359_Wooded Mountains.png"
+			}
+		},
+		{
+			"name": "Woodland Mansion",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/360_Woodland Mansion.png"
+			}
+		},
+		{
+			"name": "Redstone Contraption",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/352_Redstone Contraption.png"
+			}
+		},
+		{
+			"name": "Impressive Build",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/343_Impressive Build.png"
+			}
+		},
+		{
+			"name": "Shulker Box",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/323_Shulker Box.png"
+			}
+		},
+		{
+			"name": "Amethyst Geode",
+			"rarity": "cube",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/301_Amethyst Geode.png"
+			}
+		},
+		{
+			"name": "Netherite Excavation",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/188_Netherite Excavation.png"
+			}
+		},
+		{
+			"name": "Zoglin",
+			"rarity": "cube",
+			"mana_cost": "{1}{BR}",
+			"type": "Creature — Zombie Boar",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/300_Zoglin.png"
+			}
+		},
+		{
+			"name": "Endermite",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Creature — Mite",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/169_Endermite.png"
+			}
+		},
+		{
+			"name": "Copper Golem",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/6_Copper Golem.png"
+			}
+		},
+		{
+			"name": "Elder Guardian",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Artifact Creature — Elder Construct",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/14_Elder Guardian.png"
+			}
+		},
+		{
+			"name": "Moobloom",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Plant Ox",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/29_Moobloom.png"
+			}
+		},
+		{
+			"name": "Mangrove Frog",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Frog",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/82_Mangrove Frog.png"
+			}
+		},
+		{
+			"name": "Skulking Shulker",
+			"rarity": "cube",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/93_Skulking Shulker.png"
+			}
+		},
+		{
+			"name": "Wild Ocelot",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Creature — Cat",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/106_Wild Ocelot.png"
+			}
+		},
+		{
+			"name": "Piglin Warrior",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Boar Warrior",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/191_Piglin Warrior.png"
+			}
+		},
+		{
+			"name": "Desert Camel",
+			"rarity": "cube",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Camel",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/228_Desert Camel.png"
+			}
+		},
+		{
+			"name": "The Killer Bunny",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Rabbit",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/282_The Killer Bunny.png"
+			}
+		},
+		{
+			"name": "Village Toolsmith",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Villager Artificer",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://Egg Hub/sets/ATR-files/img/295_Village Toolsmith.png"
+			}
+		},
+	]
+
+[cube(15)]
+	5 Flaming Weapons
+	5 Fortune Pickaxe
+	5 Piercing Crossbow
+	5 Thorns Chestplate
+	5 Impaling Trident
+	5 Floating Allay
+	5 Village Shepherd
+	5 Steve, Quaint Builder
+	5 Grazing Grounds
+	5 Command Block
+	5 Armor Stand
+	5 Mob Spawner
+	5 Warm Campfire
+	5 Flower Forest
+	5 River Bed
+	5 Mushroom Island
+	5 Badlands Desert
+	5 Dark Forest
+	5 Thermal Vent
+	5 Jungle
+	5 Savanna
+	5 Eroded Badlands
+	5 Amplified Terrain
+	5 Far Lands
+	5 Unloaded Chunk
+	5 Igloo Basement
+	5 Ancient City
+	5 Ruined Portal
+	5 Peaceful Village
+	5 Jungle Temple
+	5 Witch Hut
+	5 Ocean Monument
+	5 Abandoned Mineshaft
+	5 Desert Well
+	5 Pillager Outpost
+	5 Combat Arena
+	5 Cherry Grove
+	5 The End, Dragon's Realm
+	5 The Nether
+	5 Axolotl
+	5 Illusioner
+	5 Zombified Piglin
+	5 Raid Captain
+	5 Iron Anvil
+	5 Multishot Crossbow
+	5 Efficiency Pickaxe
+	5 Soul Speed Boots
+	5 Totem Of Undying
+	5 Sculk Spread
+	5 Closed Server
+	5 Silverfish
+	5 Creative Mode
+	5 Replace with Air
+	5 Chorus Fruit
+	5 Unload
+	5 Dinnerbone
+	5 jeb
+	5 Kill for Drops
+	5 Respawn Anchor
+	5 Lightning Strike
+	5 Mob Farm
+	5 Smoking Blaze
+	5 Uneasy Alliance
+	5 Cliff Llamas
+	5 Glow Squid
+	5 Potion of Harming
+	5 Crossbow Piglin
+	5 Oak Sapling
+	5 Golden Apple
+	5 Village Cleric
+	5 Village Nitwit
+	5 Village Cartographer
+	5 Village Weaponsmith
+	5 Fang Attack
+	5 Baby Zombie
+	5 Crossbow Shot
+	5 Wither Skeleton
+	5 Jungle Parrot
+	5 Vindicator
+	5 Meadow Cow
+	5 Banished Witch
+	5 Sea Dolphin
+	5 Kick
+	5 Time Command
+	5 Critical Strike
+	5 Take Inventory
+	5 Ruthless Predation
+	5 Spectator Mode
+	5 Void Command
+	5 Gold Bartering
+	5 Wither Rose
+	5 Turtle
+	5 Ink Squid
+	5 Tame Panda
+	5 Pack Donkey
+	5 Frost Stray
+	5 Phantom
+	5 Arctic Fox
+	5 Crying Ghast
+	5 Sniffer
+	5 Ravager
+	5 Unite the Villagers
+	5 Missing Block
+	5 Nether Portal
+	5 Dragon's Breath
+	5 Change Data
+	5 Drowned
+	5 Swoop Down
+	5 Snow Golem
+	5 Temple Guardian
+	5 Angered Wolf
+	5 Clear Space
+	5 Pink Sheep
+	5 Acid Fireball
+	5 Enderman
+	5 Potion of Swiftness
+	5 Potion of Invisibility
+	5 Ice Highway
+	5 Shore Lighthouse
+	5 Village Mason
+	5 Gather Experience
+	5 Village Librarian
+	5 Compacting Resources
+	5 Chest Breaking
+	5 Hoglin
+	5 One-Way Trip
+	5 Daylight Sensor
+	5 Bogged Skeleton
+	5 Dig Straight Down
+	5 Don't Look
+	5 TNT Cannon
+	5 Spreading Vines
+	5 Terraforming
+	5 Flying Machine
+	5 Shrinking Worldborder
+	5 Village Armorer
+	5 Permission Denied
+	5 Fire Charge
+	5 Faithful Companion
+	5 Explore
+	5 Wind Charge
+	5 Forest Fire
+	5 Ender Chest
+	5 Golden Sword
+	5 Glare
+	5 Rascal
+	5 Arson
+	5 Wandering Trader
+	5 Village Fletcher
+	5 Tuff Golem
+	5 Land Claim
+	5 Shipwreck
+	5 Pufferfish
+	5 Iron Shovel
+	5 Observer
+	5 Territorial Anger
+	5 For the Herd
+	5 Repeating Command Chain
+	5 Teleport Out
+	5 Finish The Base
+	5 Sift the Loot
+	5 Elytras
+	5 First Shot
+	5 Pyromania
+	5 Curse of Binding
+	5 Depth Strider Boots
+	5 Protection Chestplate
+	5 Soft Bed
+	5 Lightning Rod
+	5 11 Music Disc
+	5 Pigstep Music Disc
+	5 Far Music Disc
+	5 Strad Music Disc
+	5 Mall Music Disc
+	5 Jukebox
+	5 Suspicious Stew
+	5 Skeleton Bowman
+	5 Act of Preservation
+	5 The Wither
+	5 Debug World
+	5 Jeb Door
+	5 Evoker's Transmutation
+	5 Lava Lake
+	5 Ominous Banner
+	5 Moody Weather
+	5 Planned for It
+	5 Resource Organization
+	5 Zombie Horse
+	5 Pig Herd
+	5 The Parrots and the Bats
+	5 Player Heads
+	5 Trader Llama
+	5 The End Fountain
+	5 Copper Brush
+	5 Spyglass
+	5 Collect
+	5 Village Leatherworker
+	5 New Professions
+	5 Return To Sender
+	5 Cartography Table
+	5 Hired Help
+	5 Clone Command
+	5 Potion Throw
+	5 Warden
+	5 Sculk Sensor
+	5 Minecart Network
+	5 Strip Mining
+	5 Spawn Egg
+	5 World Eater
+	5 Iceologer
+	5 Diamond Gear
+	5 Equipped Spawn
+	5 Wooden Shield
+	5 Grindstone
+	5 Bedrock Wall
+	5 Blast Furnace
+	5 Griefing
+	5 Low Durability
+	5 Fake Abandon
+	5 Riding Stack
+	5 Recovery Compass
+	5 Mesa Wolf
+	5 Brewing Stand
+	5 Pick Back Up
+	5 Precarious Structure
+	5 Haste Effect
+	5 Herd Spawning
+	5 Hardcore Mode
+	5 Emperor Penguin
+	5 Shy Armadillo
+	5 Beacon Platform
+	5 Faction Base
+	5 Clocktower
+	5 Spleef Arena
+	5 Storage System
+	5 Wood Camp
+	5 Central Map
+	5 Blowing Breeze
+	5 TNT Block
+	5 The Dragon Egg
+	5 Stasis Chamber
+	5 Ominous Vault
+	5 Iron Stockpile
+	5 Wooded Mountains
+	5 Woodland Mansion
+	5 Redstone Contraption
+	5 Impressive Build
+	5 Shulker Box
+	5 Amethyst Geode
+	5 Netherite Excavation
+	5 Zoglin
+	5 Endermite
+	5 Copper Golem
+	5 Elder Guardian
+	5 Moobloom
+	5 Mangrove Frog
+	5 Skulking Shulker
+	5 Wild Ocelot
+	5 Piglin Warrior
+	5 Desert Camel
+	5 The Killer Bunny
+	5 Village Toolsmith
