@@ -144,51 +144,6 @@
 	        }
 	    },
 	    {
-	        "name": "Plains",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Plains ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Plains.png"
-	        }
-	    },
-	    {
-	        "name": "Island",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Island ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Island.png"
-	        }
-	    },
-	    {
-	        "name": "Swamp",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Swamp ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Swamp.png"
-	        }
-	    },
-	    {
-	        "name": "Mountain",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Mountain ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Mountain.png"
-	        }
-	    },
-	    {
-	        "name": "Forest",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Forest ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Forest.png"
-	        }
-	    },
-	    {
 	        "name": "Village Bell",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{W}",
@@ -696,7 +651,7 @@
 	        "name": "Surprise Explosion",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Surprise Explosion.png"
 	        }
@@ -2999,7 +2954,7 @@
 	    {
 	        "name": "Spleef Arena",
 	        "rarity": "uncommon",
-	        "mana_cost": "{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Artifact — Construction ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Spleef Arena.png"
@@ -3356,7 +3311,6 @@
 		1 The Ender Dragon
 		1 Unite the Villagers
 		1 Enderman
-		1 Explorer
 		1 Repeating Command Chain
 		1 The Wither
 		1 The End Fountain
