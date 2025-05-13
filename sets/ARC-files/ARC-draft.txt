@@ -1,0 +1,523 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Heartpiercer Shade",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Shade Archer ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/37_Heartpiercer Shade.png"
+			}
+		},
+		{
+			"name": "Archons of Drenz",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Archon Archer ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/30_Archons of Drenz.png"
+			}
+		},
+		{
+			"name": "Angel of Ire",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Angel Archer ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/29_Angel of Ire.png"
+			}
+		},
+		{
+			"name": "Brumhilda Sureshot",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}{R}",
+			"type": "Legendary Creature — Giant Archer ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/33_Brumhilda Sureshot.png"
+			}
+		},
+		{
+			"name": "Herdi, Resourceful Huntress",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Elf Archer ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/38_Herdi, Resourceful Huntress.png"
+			}
+		},
+		{
+			"name": "Queen of Strings",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Insect Archer ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/41_Queen of Strings.png"
+			}
+		},
+		{
+			"name": "Vengeful Nymph",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Creature — Nymph Archer ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/43_Vengeful Nymph.png"
+			}
+		},
+		{
+			"name": "Boglands Guide",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Faerie Archer ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/32_Boglands Guide.png"
+			}
+		},
+		{
+			"name": "Patient Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/1_Patient Hunt.png"
+			}
+		},
+		{
+			"name": "Maiden of Mahjordan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Giant Archer ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/40_Maiden of Mahjordan.png"
+			}
+		},
+		{
+			"name": "Artetian Beastmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Archer ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/31_Artetian Beastmaster.png"
+			}
+		},
+		{
+			"name": "Longshot Master",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Archer ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/39_Longshot Master.png"
+			}
+		},
+		{
+			"name": "Seek the Wilderness",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/2_Seek the Wilderness.png"
+			}
+		},
+		{
+			"name": "Drenz Gloryseeker",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Elf Archer ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/34_Drenz Gloryseeker.png"
+			}
+		},
+		{
+			"name": "Foolish Challenge",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/36_Foolish Challenge.png"
+			}
+		},
+		{
+			"name": "Surprise Attack",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/42_Surprise Attack.png"
+			}
+		},
+		{
+			"name": "Dusk Cult Squad",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Elf Archer ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/35_Dusk Cult Squad.png"
+			}
+		},
+		{
+			"name": "Ace Tactician",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Archer ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/28_Ace Tactician.png"
+			}
+		},
+		{
+			"name": "Champion Archer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier Archer ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/4_Champion Archer.png"
+			}
+		},
+		{
+			"name": "Crossbow Artillery",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Archer ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/6_Crossbow Artillery.png"
+			}
+		},
+		{
+			"name": "Rangers of Gorgunder",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Dog Archer ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/7_Rangers of Gorgunder.png"
+			}
+		},
+		{
+			"name": "Angelic Archer",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Angel Archer ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/3_Angelic Archer.png"
+			}
+		},
+		{
+			"name": "Multi-Shot",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/14_Multi-Shot.png"
+			}
+		},
+		{
+			"name": "Direfrost Scavengers",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Archer ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/11_Direfrost Scavengers.png"
+			}
+		},
+		{
+			"name": "Acrobatic Archer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf Archer ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/8_Acrobatic Archer.png"
+			}
+		},
+		{
+			"name": "Avian Archer",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Bird Archer ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/9_Avian Archer.png"
+			}
+		},
+		{
+			"name": "Plague Archer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Shade Archer ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/15_Plague Archer.png"
+			}
+		},
+		{
+			"name": "Direfrost Leap",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/10_Direfrost Leap.png"
+			}
+		},
+		{
+			"name": "Vampiric Archer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Vampire Archer ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/17_Vampiric Archer.png"
+			}
+		},
+		{
+			"name": "Terror of Tchainmak",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Horror Archer ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/16_Terror of Tchainmak.png"
+			}
+		},
+		{
+			"name": "Frontline Bowmaster",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Archer ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/20_Frontline Bowmaster.png"
+			}
+		},
+		{
+			"name": "Druid of Mahjorda",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Archer Druid ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/24_Druid of Mahjorda.png"
+			}
+		},
+		{
+			"name": "Artetian Recruit",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Monk Archer ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/23_Artetian Recruit.png"
+			}
+		},
+		{
+			"name": "Mounted Archery",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/25_Mounted Archery.png"
+			}
+		},
+		{
+			"name": "Stonehide Archer",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Troll Archer ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/27_Stonehide Archer.png"
+			}
+		},
+		{
+			"name": "Mahjordan Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elf Archer Scout ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/21_Mahjordan Scout.png"
+			}
+		},
+		{
+			"name": "Really Big Crossbow",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/22_Really Big Crossbow.png"
+			}
+		},
+		{
+			"name": "Bjorken Raider",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Archer Barbarian ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/19_Bjorken Raider.png"
+			}
+		},
+		{
+			"name": "Create an Opening",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/5_Create an Opening.png"
+			}
+		},
+		{
+			"name": "Stampeding Archer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Centaur Archer ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/26_Stampeding Archer.png"
+			}
+		},
+		{
+			"name": "Aim for the Heart",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/18_Aim for the Heart.png"
+			}
+		},
+		{
+			"name": "Dire Position",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/13_Dire Position.png"
+			}
+		},
+		{
+			"name": "Temporal Strategem",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/12_Temporal Strategem.png"
+			}
+		},
+		{
+			"name": "Fletching",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/44_Fletching.png"
+			}
+		},
+		{
+			"name": "Trusty Bow",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/45_Trusty Bow.png"
+			}
+		},
+		{
+			"name": "Arrow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/1_Arrow.png"
+			}
+		},
+		{
+			"name": "Archery",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/0_Archery.png"
+			}
+		}
+	]
+[RareSlot(1)]
+2 Heartpiercer Shade
+2 Archons of Drenz
+2 Angel of Ire
+1 Brumhilda Sureshot
+1 Herdi, Resourceful Huntress
+1 Queen of Strings
+[UncommonSlot(3)]
+9 Vengeful Nymph
+9 Boglands Guide
+9 Patient Hunt
+9 Maiden of Mahjordan
+9 Artetian Beastmaster
+9 Longshot Master
+9 Seek the Wilderness
+9 Drenz Gloryseeker
+9 Foolish Challenge
+9 Surprise Attack
+9 Dusk Cult Squad
+9 Ace Tactician
+[CommonSlot(9)]
+30 Champion Archer
+30 Crossbow Artillery
+30 Rangers of Gorgunder
+30 Angelic Archer
+30 Multi-Shot
+30 Direfrost Scavengers
+30 Acrobatic Archer
+30 Avian Archer
+30 Plague Archer
+30 Direfrost Leap
+30 Vampiric Archer
+30 Terror of Tchainmak
+30 Frontline Bowmaster
+30 Druid of Mahjorda
+30 Artetian Recruit
+30 Mounted Archery
+30 Stonehide Archer
+30 Mahjordan Scout
+30 Really Big Crossbow
+30 Bjorken Raider
+30 Create an Opening
+30 Stampeding Archer
+30 Aim for the Heart
+30 Dire Position
+30 Temporal Strategem
+30 Fletching
+30 Trusty Bow
+30 Archery
+[LandSlot(1)]

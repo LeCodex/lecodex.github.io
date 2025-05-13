@@ -1,0 +1,512 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Engineering Undergrad",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/2_Engineering Undergrad.png"
+			}
+		},
+		{
+			"name": "Scholar of Thoughts",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect Advisor ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/13_Scholar of Thoughts.png"
+			}
+		},
+		{
+			"name": "Disease Denoter",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Zombie Turtle Advisor ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/15_Disease Denoter.png"
+			}
+		},
+		{
+			"name": "Injury Imp",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Imp Advisor ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/23_Injury Imp.png"
+			}
+		},
+		{
+			"name": "Badger Toxicologist",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Badger Druid Advisor ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/28_Badger Toxicologist.png"
+			}
+		},
+		{
+			"name": "Pagebeast Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Cleric Advisor ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/6_Pagebeast Hunter.png"
+			}
+		},
+		{
+			"name": "Nuclear Physicist",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/11_Nuclear Physicist.png"
+			}
+		},
+		{
+			"name": "Novice Economage",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/17_Novice Economage.png"
+			}
+		},
+		{
+			"name": "Geiger Guy",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/22_Geiger Guy.png"
+			}
+		},
+		{
+			"name": "Bloodvine",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/29_Bloodvine.png"
+			}
+		},
+		{
+			"name": "Hand-to-hand Psychologist",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/4_Hand-to-hand Psychologist.png"
+			}
+		},
+		{
+			"name": "Lost In Thought",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/9_Lost In Thought.png"
+			}
+		},
+		{
+			"name": "Undead Undertaker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Advisor ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/20_Undead Undertaker.png"
+			}
+		},
+		{
+			"name": "Ionize",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/24_Ionize.png"
+			}
+		},
+		{
+			"name": "Philosophy Undergrad",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Goat Advisor ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/31_Philosophy Undergrad.png"
+			}
+		},
+		{
+			"name": "Hand-to-Hand Knowledge",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/3_Hand-to-Hand Knowledge.png"
+			}
+		},
+		{
+			"name": "Engineer Draw Spell",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/8_Engineer Draw Spell.png"
+			}
+		},
+		{
+			"name": "Irradiating Syphon",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/16_Irradiating Syphon.png"
+			}
+		},
+		{
+			"name": "Compulsory Study",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/21_Compulsory Study.png"
+			}
+		},
+		{
+			"name": "Return to the Page",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/33_Return to the Page.png"
+			}
+		},
+		{
+			"name": "Crafted Craftsman",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Treasure Construct ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/43_Crafted Craftsman.png"
+			}
+		},
+		{
+			"name": "Crystal Powered Trolley",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/44_Crystal Powered Trolley.png"
+			}
+		},
+		{
+			"name": "Chartographer's Tome",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/42_Chartographer's Tome.png"
+			}
+		},
+		{
+			"name": "Sinister Insight",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/19_Sinister Insight.png"
+			}
+		},
+		{
+			"name": "Pinprickler",
+			"rarity": "common",
+			"mana_cost": "{1{B}/R}",
+			"type": "Creature — Vampire Insect ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/38_Pinprickler.png"
+			}
+		},
+		{
+			"name": "Alive Reading",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/27_Alive Reading.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/1_Plant.png"
+			}
+		},
+		{
+			"name": "Archangel of Blueprints",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Angel Advisor ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/1_Archangel of Blueprints.png"
+			}
+		},
+		{
+			"name": "Peer Review",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/12_Peer Review.png"
+			}
+		},
+		{
+			"name": "Antimatter Archivist",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Advisor ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/14_Antimatter Archivist.png"
+			}
+		},
+		{
+			"name": "Typewriter Monkey",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Monkey Advisor ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/26_Typewriter Monkey.png"
+			}
+		},
+		{
+			"name": "Professor of Physique",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — ??? Advisor ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/32_Professor of Physique.png"
+			}
+		},
+		{
+			"name": "Autobiography",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/41_Autobiography.png"
+			}
+		},
+		{
+			"name": "Lost Between the Shelves",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/5_Lost Between the Shelves.png"
+			}
+		},
+		{
+			"name": "Academic Tenure",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/7_Academic Tenure.png"
+			}
+		},
+		{
+			"name": "Scholar of Dread",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Horror Advisor ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/18_Scholar of Dread.png"
+			}
+		},
+		{
+			"name": "Irresponsible Alchemist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/25_Irresponsible Alchemist.png"
+			}
+		},
+		{
+			"name": "Microbiology Man",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Advisor ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/30_Microbiology Man.png"
+			}
+		},
+		{
+			"name": "Re-engineer and Research",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W/U}{U/B}{W/B}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/39_Re-engineer and Research.png"
+			}
+		},
+		{
+			"name": "Irradiating Insight",
+			"rarity": "uncommon",
+			"mana_cost": "{1{U}/B}{B/R}{U/R}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/36_Irradiating Insight.png"
+			}
+		},
+		{
+			"name": "Craig, Overeager Surgeon",
+			"rarity": "uncommon",
+			"mana_cost": "{B/R}{R/G}{B/G}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/35_Craig, Overeager Surgeon.png"
+			}
+		},
+		{
+			"name": "Territorial Book Bug",
+			"rarity": "uncommon",
+			"mana_cost": "{R/G}{G/W}{R/W}",
+			"type": "Creature — Insect ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/40_Territorial Book Bug.png"
+			}
+		},
+		{
+			"name": "Knowledge Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{G/W}{W/U}{G/U}",
+			"type": "Creature — Elemental ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/37_Knowledge Elemental.png"
+			}
+		},
+		{
+			"name": "Ensouled Enchiridion",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/45_Ensouled Enchiridion.png"
+			}
+		},
+		{
+			"name": "Alyssa, Student of Life",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G/W}{G/W}",
+			"type": "Legendary Creature — Elf Druid Advisor ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/34_Alyssa, Student of Life.png"
+			}
+		},
+		{
+			"name": "Nuclear Isotope",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact — Powerstone ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/10_Nuclear Isotope.png"
+			}
+		}
+	]
+[RareSlot(1)]
+2 Peer Review
+2 Antimatter Archivist
+2 Typewriter Monkey
+2 Professor of Physique
+1 Archangel of Blueprints
+1 Autobiography
+[UncommonSlot(3)]
+9 Chartographer's Tome
+9 Lost Between the Shelves
+9 Academic Tenure
+9 Scholar of Dread
+9 Irresponsible Alchemist
+9 Microbiology Man
+9 Re-engineer and Research
+9 Irradiating Insight
+9 Craig, Overeager Surgeon
+9 Territorial Book Bug
+9 Knowledge Elemental
+9 Ensouled Enchiridion
+9 Alyssa, Student of Life
+[CommonSlot(9)]
+30 Engineering Undergrad
+30 Scholar of Thoughts
+30 Disease Denoter
+30 Injury Imp
+30 Badger Toxicologist
+30 Pagebeast Hunter
+30 Nuclear Physicist
+30 Novice Economage
+30 Geiger Guy
+30 Bloodvine
+30 Hand-to-hand Psychologist
+30 Lost In Thought
+30 Undead Undertaker
+30 Ionize
+30 Philosophy Undergrad
+30 Hand-to-Hand Knowledge
+30 Engineer Draw Spell
+30 Irradiating Syphon
+30 Compulsory Study
+30 Return to the Page
+30 Crafted Craftsman
+30 Crystal Powered Trolley
+30 Sinister Insight
+30 Pinprickler
+30 Alive Reading
+30 Nuclear Isotope
+[LandSlot(1)]

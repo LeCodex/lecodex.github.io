@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/PHD-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>PHD visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/PHD-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ARC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/CFL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/CRF-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KTG-files/icon.png" />
+		<img class="preload-hidden" src="/sets/MSL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/PHD-files/icon.png" />
+		<img class="preload-hidden" src="/sets/REL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VGT-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VRL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/XRX-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="ARC"><img src="/sets/ARC-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="CFL"><img src="/sets/CFL-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="CRF"><img src="/sets/CRF-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="KTG"><img src="/sets/KTG-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="MSL"><img src="/sets/MSL-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="PHD"><img src="/sets/PHD-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="REL"><img src="/sets/REL-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="STW"><img src="/sets/STW-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="VGT"><img src="/sets/VGT-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="VRL"><img src="/sets/VRL-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="XRX"><img src="/sets/XRX-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/PHD-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\PHD-files\img\1_Archangel of Blueprints.png" id="1_Archangel of Blueprints" data-flag="@X" onclick="openSidebar('1_Archangel of Blueprints',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\12_Peer Review.png" id="12_Peer Review" data-flag="@X" onclick="openSidebar('12_Peer Review',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\14_Antimatter Archivist.png" id="14_Antimatter Archivist" data-flag="@X" onclick="openSidebar('14_Antimatter Archivist',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\26_Typewriter Monkey.png" id="26_Typewriter Monkey" data-flag="@X" onclick="openSidebar('26_Typewriter Monkey',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\32_Professor of Physique.png" id="32_Professor of Physique" data-flag="@X" onclick="openSidebar('32_Professor of Physique',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\5_Lost Between the Shelves.png" id="5_Lost Between the Shelves" data-flag="@X" onclick="openSidebar('5_Lost Between the Shelves',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\7_Academic Tenure.png" id="7_Academic Tenure" data-flag="@X" onclick="openSidebar('7_Academic Tenure',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\18_Scholar of Dread.png" id="18_Scholar of Dread" data-flag="@X" onclick="openSidebar('18_Scholar of Dread',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\25_Irresponsible Alchemist.png" id="25_Irresponsible Alchemist" data-flag="@X" onclick="openSidebar('25_Irresponsible Alchemist',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\30_Microbiology Man.png" id="30_Microbiology Man" data-flag="@X" onclick="openSidebar('30_Microbiology Man',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\2_Engineering Undergrad.png" id="2_Engineering Undergrad" data-flag="@X" onclick="openSidebar('2_Engineering Undergrad',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\8_Engineer Draw Spell.png" id="8_Engineer Draw Spell" data-flag="@X" onclick="openSidebar('8_Engineer Draw Spell',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\15_Disease Denoter.png" id="15_Disease Denoter" data-flag="@X" onclick="openSidebar('15_Disease Denoter',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\21_Compulsory Study.png" id="21_Compulsory Study" data-flag="@X" onclick="openSidebar('21_Compulsory Study',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\27_Alive Reading.png" id="27_Alive Reading" data-flag="@X" onclick="openSidebar('27_Alive Reading',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\3_Hand-to-Hand Knowledge.png" id="3_Hand-to-Hand Knowledge" data-flag="@X" onclick="openSidebar('3_Hand-to-Hand Knowledge',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\9_Lost In Thought.png" id="9_Lost In Thought" data-flag="@X" onclick="openSidebar('9_Lost In Thought',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\16_Irradiating Syphon.png" id="16_Irradiating Syphon" data-flag="@X" onclick="openSidebar('16_Irradiating Syphon',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\22_Geiger Guy.png" id="22_Geiger Guy" data-flag="@X" onclick="openSidebar('22_Geiger Guy',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\28_Badger Toxicologist.png" id="28_Badger Toxicologist" data-flag="@X" onclick="openSidebar('28_Badger Toxicologist',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\4_Hand-to-hand Psychologist.png" id="4_Hand-to-hand Psychologist" data-flag="@X" onclick="openSidebar('4_Hand-to-hand Psychologist',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\10_Nuclear Isotope.png" id="10_Nuclear Isotope" data-flag="@X" onclick="openSidebar('10_Nuclear Isotope',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\17_Novice Economage.png" id="17_Novice Economage" data-flag="@X" onclick="openSidebar('17_Novice Economage',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\23_Injury Imp.png" id="23_Injury Imp" data-flag="@X" onclick="openSidebar('23_Injury Imp',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\29_Bloodvine.png" id="29_Bloodvine" data-flag="@X" onclick="openSidebar('29_Bloodvine',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\6_Pagebeast Hunter.png" id="6_Pagebeast Hunter" data-flag="@X" onclick="openSidebar('6_Pagebeast Hunter',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\11_Nuclear Physicist.png" id="11_Nuclear Physicist" data-flag="@X" onclick="openSidebar('11_Nuclear Physicist',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\19_Sinister Insight.png" id="19_Sinister Insight" data-flag="@X" onclick="openSidebar('19_Sinister Insight',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\24_Ionize.png" id="24_Ionize" data-flag="@X" onclick="openSidebar('24_Ionize',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\31_Philosophy Undergrad.png" id="31_Philosophy Undergrad" data-flag="@X" onclick="openSidebar('31_Philosophy Undergrad',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\13_Scholar of Thoughts.png" id="13_Scholar of Thoughts" data-flag="@X" onclick="openSidebar('13_Scholar of Thoughts',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\20_Undead Undertaker.png" id="20_Undead Undertaker" data-flag="@X" onclick="openSidebar('20_Undead Undertaker',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\33_Return to the Page.png" id="33_Return to the Page" data-flag="@X" onclick="openSidebar('33_Return to the Page',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\38_Pinprickler.png" id="38_Pinprickler" data-flag="@X" onclick="openSidebar('38_Pinprickler',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\34_Alyssa, Student of Life.png" id="34_Alyssa, Student of Life" data-flag="@X" onclick="openSidebar('34_Alyssa, Student of Life',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\35_Craig, Overeager Surgeon.png" id="35_Craig, Overeager Surgeon" data-flag="@X" onclick="openSidebar('35_Craig, Overeager Surgeon',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\36_Irradiating Insight.png" id="36_Irradiating Insight" data-flag="@X" onclick="openSidebar('36_Irradiating Insight',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\37_Knowledge Elemental.png" id="37_Knowledge Elemental" data-flag="@X" onclick="openSidebar('37_Knowledge Elemental',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\39_Re-engineer and Research.png" id="39_Re-engineer and Research" data-flag="@X" onclick="openSidebar('39_Re-engineer and Research',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\40_Territorial Book Bug.png" id="40_Territorial Book Bug" data-flag="@X" onclick="openSidebar('40_Territorial Book Bug',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\41_Autobiography.png" id="41_Autobiography" data-flag="@X" onclick="openSidebar('41_Autobiography',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\42_Chartographer's Tome.png" id="42_Chartographers Tome" data-flag="@X" onclick="openSidebar('42_Chartographers Tome',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\45_Ensouled Enchiridion.png" id="45_Ensouled Enchiridion" data-flag="@X" onclick="openSidebar('45_Ensouled Enchiridion',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\43_Crafted Craftsman.png" id="43_Crafted Craftsman" data-flag="@X" onclick="openSidebar('43_Crafted Craftsman',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\44_Crystal Powered Trolley.png" id="44_Crystal Powered Trolley" data-flag="@X" onclick="openSidebar('44_Crystal Powered Trolley',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\PHD-files\img\1t_Plant.png" id="1t_Plant" data-flag="@X" onclick="openSidebar('1t_Plant',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

@@ -1,0 +1,614 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Saheeli's Pupil",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/4_Saheeli's Pupil.png"
+			}
+		},
+		{
+			"name": "Siren Surveyor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Siren Scout ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/5_Siren Surveyor.png"
+			}
+		},
+		{
+			"name": "Steel Coffin",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/6_Steel Coffin.png"
+			}
+		},
+		{
+			"name": "Merfolk Lookout",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Pirate ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/11_Merfolk Lookout.png"
+			}
+		},
+		{
+			"name": "Out of Air",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/12_Out of Air.png"
+			}
+		},
+		{
+			"name": "Hulldrifter",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/10_Hulldrifter.png"
+			}
+		},
+		{
+			"name": "Swindle",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/13_Swindle.png"
+			}
+		},
+		{
+			"name": "The Last of Barrett's Privateers",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/17_The Last of Barrett's Privateers.png"
+			}
+		},
+		{
+			"name": "Deadly Dispute",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/16_Deadly Dispute.png"
+			}
+		},
+		{
+			"name": "Accursed Tyrranax",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/14_Accursed Tyrranax.png"
+			}
+		},
+		{
+			"name": "Trawl the Depths",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/19_Trawl the Depths.png"
+			}
+		},
+		{
+			"name": "Deepwater Siren",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Siren ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/9_Deepwater Siren.png"
+			}
+		},
+		{
+			"name": "Bloodcrazed Stowaway",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Vampire Pirate Rogue ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/21_Bloodcrazed Stowaway.png"
+			}
+		},
+		{
+			"name": "Dinosaur Ambush",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/22_Dinosaur Ambush.png"
+			}
+		},
+		{
+			"name": "Hired Dreadnought",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/24_Hired Dreadnought.png"
+			}
+		},
+		{
+			"name": "Reckless Rider",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Dinosaur Warrior ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/32_Reckless Rider.png"
+			}
+		},
+		{
+			"name": "Hunt",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/30_Hunt.png"
+			}
+		},
+		{
+			"name": "Crumbling Dreadmaw",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/29_Crumbling Dreadmaw.png"
+			}
+		},
+		{
+			"name": "Thundersteel Colossus",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/44_Thundersteel Colossus.png"
+			}
+		},
+		{
+			"name": "Treasure Ship",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure Vehicle ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/45_Treasure Ship.png"
+			}
+		},
+		{
+			"name": "Cursed Dagger",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/42_Cursed Dagger.png"
+			}
+		},
+		{
+			"name": "Atzocan Landspeaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/27_Atzocan Landspeaker.png"
+			}
+		},
+		{
+			"name": "Fiery Cannonade",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/23_Fiery Cannonade.png"
+			}
+		},
+		{
+			"name": "Brazen Deckmage",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Pirate Wizard ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/7_Brazen Deckmage.png"
+			}
+		},
+		{
+			"name": "Swallowed Whole",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/18_Swallowed Whole.png"
+			}
+		},
+		{
+			"name": "Elena de Ludio, Dread Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Vampire Pirate ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/36_Elena de Ludio, Dread Captain.png"
+			}
+		},
+		{
+			"name": "Mechanosaur Prototype",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Dinosaur ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/43_Mechanosaur Prototype.png"
+			}
+		},
+		{
+			"name": "Makeshift Munitions",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/25_Makeshift Munitions.png"
+			}
+		},
+		{
+			"name": "Undaunted Navigator",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/20_Undaunted Navigator.png"
+			}
+		},
+		{
+			"name": "Mechanosaurus Rex",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Artifact Creature — Dinosaur ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/38_Mechanosaurus Rex.png"
+			}
+		},
+		{
+			"name": "Over the Edge",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/31_Over the Edge.png"
+			}
+		},
+		{
+			"name": "Eager Sea Dog",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Human Pirate ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/35_Eager Sea Dog.png"
+			}
+		},
+		{
+			"name": "Cursed Galleon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/33_Cursed Galleon.png"
+			}
+		},
+		{
+			"name": "Tyrranax Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/40_Tyrranax Scavenger.png"
+			}
+		},
+		{
+			"name": "Curse of the Eternal Lands",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "15",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/15_Curse of the Eternal Lands_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/15_Curse of the Eternal Lands_front.png"
+			}
+		},
+		{
+			"name": "Dinosaur Tamer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Dinosaur Warrior ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/34_Dinosaur Tamer.png"
+			}
+		},
+		{
+			"name": "Itzquinth, Growing Juvenile",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Legendary Creature — Dinosaur ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/37_Itzquinth, Growing Juvenile.png"
+			}
+		},
+		{
+			"name": "Assemble the Mechanosaurs",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/1_Assemble the Mechanosaurs.png"
+			}
+		},
+		{
+			"name": "Swinging Swindler",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Pirate Rogue ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/26_Swinging Swindler.png"
+			}
+		},
+		{
+			"name": "Race to the Eternal Lands",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/39_Race to the Eternal Lands.png"
+			}
+		},
+		{
+			"name": "Captain Barrett, First of the Dead",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Zombie Pirate ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/8_Captain Barrett, First of the Dead.png"
+			}
+		},
+		{
+			"name": "Beast Trapper",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Dinosaur Warrior ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/2_Beast Trapper.png"
+			}
+		},
+		{
+			"name": "Pack Raptors",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/3_Pack Raptors.png"
+			}
+		},
+		{
+			"name": "Corpse Cartographer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/28_Corpse Cartographer.png"
+			}
+		},
+		{
+			"name": "Mechanosaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Dinosaur ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/4_Mechanosaur.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/1_Copy.png"
+			}
+		},
+		{
+			"name": "Dinosaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dinosaur ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/2_Dinosaur.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/5_Treasure.png"
+			}
+		},
+		{
+			"name": "Map",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Map ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/3_Map.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/46_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/47_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/50_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/48_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/49_Plains.png"
+			}
+		},
+		{
+			"name": "Voracious Leviathan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Creature — Leviathan ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/41_Voracious Leviathan.png"
+			}
+		}
+	]
+[RareSlot(1)]
+2 Itzquinth, Growing Juvenile
+2 Assemble the Mechanosaurs
+2 Swinging Swindler
+2 Race to the Eternal Lands
+2 Captain Barrett, First of the Dead
+1 Curse of the Eternal Lands
+[UncommonSlot(3)]
+9 Swindle
+9 Trawl the Depths
+9 Bloodcrazed Stowaway
+9 Atzocan Landspeaker
+9 Elena de Ludio, Dread Captain
+9 Mechanosaur Prototype
+9 Mechanosaurus Rex
+9 Eager Sea Dog
+9 Cursed Galleon
+9 Tyrranax Scavenger
+9 Dinosaur Tamer
+9 Voracious Leviathan
+[CommonSlot(9)]
+30 Saheeli's Pupil
+30 Siren Surveyor
+30 Steel Coffin
+30 Merfolk Lookout
+30 Out of Air
+30 Hulldrifter
+30 The Last of Barrett's Privateers
+30 Deadly Dispute
+30 Accursed Tyrranax
+30 Deepwater Siren
+30 Dinosaur Ambush
+30 Hired Dreadnought
+30 Reckless Rider
+30 Hunt
+30 Crumbling Dreadmaw
+30 Thundersteel Colossus
+30 Treasure Ship
+30 Cursed Dagger
+30 Fiery Cannonade
+30 Brazen Deckmage
+30 Swallowed Whole
+30 Makeshift Munitions
+30 Undaunted Navigator
+30 Over the Edge
+30 Beast Trapper
+30 Pack Raptors
+30 Corpse Cartographer
+30 Forest
+30 Island
+30 Swamp
+30 Mountain
+30 Plains
+[LandSlot(1)]
