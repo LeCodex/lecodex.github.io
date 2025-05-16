@@ -1,7 +1,7 @@
 ﻿{
     "name": "Minecraft",
     "formats": "Cube Draft",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "cube",
     "cards": [
@@ -7187,6 +7187,5 @@
             "artist": "Mojang Studios",
             "notes": ""
         }
-    ],
-    "version": 1
+    ]
 }
