@@ -14,7 +14,7 @@
 			"name": "Three Octave Vocalist",
 			"rarity": "rare",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Bard",
+			"type": "Creature — Human",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/10_Three Octave Vocalist.png"
@@ -561,13 +561,13 @@
 			}
 		},
 		{
-			"name": "Tiz the Unjoiner",
+			"name": "Tiz the Unjoiner Emblem",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/6_Tiz the Unjoiner.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/6_Tiz the Unjoiner Emblem.png"
 			}
 		},
 	]
@@ -576,22 +576,30 @@
 	2 Gambit General
 	2 Three Octave Vocalist
 	2 Fanatical Copycat
+	1 Ship of the Spoils
+	1 Tiz the Unjoiner
+	1 Olgal's Chant
 [uncommon(4)]
 	4 Birdsong Listener
 	4 Zealous Amplifier
 	4 Songstoker
+	4 Purge the Record
 	4 Crowd Stampede
 	4 Polyphonist
 	4 Subito Slicer
 	4 Motif Igniter
 	4 Composed Mercenary
+	4 Siren Choir
 	4 Sennai, Songclade's Start
 	4 Downbeat
 [common(7)]
 	8 Dominarian Angel
 	8 Dominarian Terror
+	8 Innistradi Zombie
 	8 Dominarian Dragon
+	8 Tremolos Mumur Bearer
 	8 Ikorian Ceratops
+	8 Echoing Solist
 	8 Rondelli Siren
 	8 Countros Fanatic
 	8 Decreshh Tuner
@@ -599,26 +607,38 @@
 	8 Sterilization Unit
 	8 Sirensong Audience
 	8 Fanatic Siren
+	8 Hear the Siren's Song
 	8 Even Stars Fall
+	8 Amphiteater Listener
 	8 Backup Singer
+	8 Tuck within Harmony
 	8 Rondelli Recruiter
 	8 Echo of Silence
+	8 Mourning Soliliquist
 	8 Flaming Resolution
 	8 Cadence Contralto
+	8 Storykeeper
 	8 Modal Harmonization
 	8 Harmony Essence
 [wildcard(2)]
 	7 Gambit General
 	7 Three Octave Vocalist
 	7 Fanatical Copycat
+	4 Ship of the Spoils
+	4 Tiz the Unjoiner
+	4 Olgal's Chant
 	15 Birdsong Listener
 	15 Zealous Amplifier
 	15 Songstoker
+	15 Purge the Record
 	15 Crowd Stampede
 	6 Dominarian Angel
 	6 Dominarian Terror
+	6 Innistradi Zombie
 	6 Dominarian Dragon
+	6 Tremolos Mumur Bearer
 	6 Ikorian Ceratops
+	6 Echoing Solist
 	6 Rondelli Siren
 	6 Countros Fanatic
 	6 Decreshh Tuner
@@ -626,17 +646,23 @@
 	6 Sterilization Unit
 	6 Sirensong Audience
 	6 Fanatic Siren
+	6 Hear the Siren's Song
 	6 Even Stars Fall
+	6 Amphiteater Listener
 	6 Backup Singer
+	6 Tuck within Harmony
 	6 Rondelli Recruiter
 	6 Echo of Silence
+	6 Mourning Soliliquist
 	6 Flaming Resolution
 	6 Cadence Contralto
+	6 Storykeeper
 	6 Modal Harmonization
 	6 Harmony Essence
 	15 Polyphonist
 	15 Subito Slicer
 	15 Motif Igniter
 	15 Composed Mercenary
+	15 Siren Choir
 	15 Sennai, Songclade's Start
 	15 Downbeat

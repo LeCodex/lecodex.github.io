@@ -1,6 +1,6 @@
 ﻿{
     "name": "Voc-Gal Techniques",
-    "formats": "",
+    "formats": "Microset",
     "trimmed": "y",
     "image_type": "png",
     "draft_structure": "play booster",
@@ -27,7 +27,7 @@
             "card_name": "Three Octave Vocalist",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Bard",
+            "type": "Creature \u2014 Human",
             "number": 10,
             "color_identity": "W",
             "cost": "{W}",
@@ -71,7 +71,7 @@
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
-            "shape": "token",
+            "shape": "adventure",
             "set": "VGT",
             "loyalty": "",
             "artist": "Sebastian BELZ",
@@ -85,7 +85,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tokens Treasure"
+            "notes": ""
         },
         {
             "card_name": "Tiz the Unjoiner",
@@ -99,11 +99,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+2]: Exile target permanent you control, you may cast it from exile for as long as you control Tiz. When you do create a 1/1 white Faerie Dragon creature token with flying.\n[-2]: Purge target permanent [i](Remove all counters from it, and unattach all auras, equipment, and fortifications from it.)[/i]\n[-6]: You get an emblem with \u201cWhenever you cast a spell from exile, you may pay life equal to its mana value, if you do copy it.\u201d",
-            "shape": "token",
+            "shape": "planeswalker",
             "set": "VGT",
             "loyalty": "2",
             "artist": "Hey-Ghosty",
-            "notes": "!tokens Faerie Dragon\n!tokens Tiz the Unjoiner Emblem\n!tag Extraplanar"
+            "notes": "\n!tag Extraplanar"
         },
         {
             "card_name": "Olgal's Chant",
@@ -117,11 +117,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "VGT",
             "loyalty": "",
             "artist": "Shahla Ismail",
-            "notes": "!tokens Spirit"
+            "notes": ""
         },
         {
             "card_name": "Birdsong Listener",
@@ -189,11 +189,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Purge target nonland permanent. [i](Remove all counters from it, and unattach all auras, equipment, and fortifications from it.)[/i]\nII \u2014 Create a 1/1 white and black Spirit enchantment creature token with decayed.\nIII \u2014 Create a copy of target token you control.",
-            "shape": "token",
+            "shape": "saga",
             "set": "VGT",
             "loyalty": "",
             "artist": "NOVEMBER 32ND",
-            "notes": "!tokens Spirit"
+            "notes": ""
         },
         {
             "card_name": "Crowd Stampede",
@@ -206,7 +206,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy target artifact or enchantment.\nII \u2014 Creatures you control gain exalted until end of turn.\nIII \u2014 Creatures you control gain trample until end of turn.",
+            "special_text": "\nI \u2014 Destroy target artifact or enchantment.\nII \u2014 Creatures you control gain exalted until end of turn.\nIII \u2014 Creatures you control gain trample until end of turn.",
             "shape": "saga",
             "set": "VGT",
             "loyalty": "",
@@ -281,7 +281,7 @@
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "adventure",
             "set": "VGT",
             "loyalty": "",
             "artist": "Darren Benton",
@@ -295,7 +295,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Cycle\n!tag IconicCycle\n!tokens Zombie"
+            "notes": "!tag Cycle\n!tag IconicCycle\n"
         },
         {
             "card_name": "Dominarian Dragon",
@@ -337,11 +337,11 @@
             "flavor_text": "[i]Sirens are unusually resistant to the madness of the murmur.[/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "VGT",
             "loyalty": "",
             "artist": "Jeff Santos",
-            "notes": "!tokens Murmur"
+            "notes": ""
         },
         {
             "card_name": "Ikorian Ceratops",
@@ -383,11 +383,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "VGT",
             "loyalty": "",
             "artist": "NTY.studio",
-            "notes": "!tokens Spirit"
+            "notes": ""
         },
         {
             "card_name": "Rondelli Siren",
@@ -527,11 +527,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Draw two cards, lose 2 life.\nII \u2014 Mill two cards, create a 1/1 blue and red Siren creature token with \u201c{T}: Target creature can't block alone until end of turn. Activate only as a sorcery.\u201d\n\u200b",
-            "shape": "token",
+            "shape": "saga",
             "set": "VGT",
             "loyalty": "",
             "artist": "Luke Fitzsimons",
-            "notes": "!tokens Siren"
+            "notes": ""
         },
         {
             "card_name": "Even Stars Fall",
@@ -544,7 +544,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\nI \u2014 Destroy target enchantment, or creature with power 4 or greater.\nII \u2014 Surveil 1 [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\nIII \u2014 [i]One bad performance sent her career tumbling to the gutter.[/i]",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\nDestroy target enchantment, or creature with power 4 or greater.\nSurveil 1 [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\n[i]One bad performance sent her career tumbling to the gutter.[/i]",
             "shape": "saga",
             "set": "VGT",
             "loyalty": "",
@@ -563,11 +563,11 @@
             "flavor_text": "[i]It's polite to stay until the song is over. But the murmur never ends...[/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "VGT",
             "loyalty": "",
             "artist": "Igor Levchenko",
-            "notes": "!tokens Murmur"
+            "notes": ""
         },
         {
             "card_name": "Backup Singer",
@@ -599,11 +599,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "VGT",
             "loyalty": "",
             "artist": "ArtofLariz",
-            "notes": "!tokens Murmur"
+            "notes": ""
         },
         {
             "card_name": "Rondelli Recruiter",
@@ -653,11 +653,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "VGT",
             "loyalty": "",
             "artist": "Iren Horrors",
-            "notes": "!tokens Murmur"
+            "notes": ""
         },
         {
             "card_name": "Flaming Resolution",
@@ -707,11 +707,11 @@
             "flavor_text": "[i]Let me tell you about the world before the invasion...[/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "VGT",
             "loyalty": "",
             "artist": "Henrik Rosenborg",
-            "notes": "!tokens Murmur"
+            "notes": ""
         },
         {
             "card_name": "Modal Harmonization",
@@ -833,11 +833,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "VGT",
             "loyalty": "",
             "artist": "Shairys Bj",
-            "notes": "!tokens Siren"
+            "notes": ""
         },
         {
             "card_name": "Sennai, Songclade's Start",
@@ -891,7 +891,7 @@
             "set": "VGT",
             "loyalty": "",
             "artist": "ecovoron",
-            "notes": "!token\n!tokenrarity\nhttps://www.artstation.com/artwork/ZaRR11"
+            "notes": "!token\n!tokenrarity\n!related Amphiteater Listener; Mourning Soliliquist; Storykeeper; Tremolos Mumur Bearer; Tuck within Harmony;\nhttps://www.artstation.com/artwork/ZaRR11"
         },
         {
             "card_name": "Zombie",
@@ -909,7 +909,7 @@
             "set": "VGT",
             "loyalty": "",
             "artist": "Wesley Gardner",
-            "notes": "!token\n!tokenrarity"
+            "notes": "!token\n!tokenrarity\n!related Innistradi Zombie // Rite of Maalfeld;"
         },
         {
             "card_name": "Spirit",
@@ -927,7 +927,7 @@
             "set": "VGT",
             "loyalty": "",
             "artist": "Anna Przybylska",
-            "notes": "!token\n!tokenrarity"
+            "notes": "!token\n!tokenrarity\n!related Echoing Soloist; Purge the Record; Olgal's Chant;"
         },
         {
             "card_name": "Treasure",
@@ -945,7 +945,7 @@
             "set": "VGT",
             "loyalty": "",
             "artist": "Jocelyn Auriel",
-            "notes": "!token\n!tokenrarity"
+            "notes": "!token\n!tokenrarity\n!related Ship of the Spoils // Rite of Seven;"
         },
         {
             "card_name": "Siren",
@@ -963,7 +963,7 @@
             "set": "VGT",
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
-            "notes": "!token\n!tokenrarity"
+            "notes": "!token\n!tokenrarity\n!related Hear the Siren's Song; Siren Choir;"
         },
         {
             "card_name": "Faerie Dragon",
@@ -981,7 +981,7 @@
             "set": "VGT",
             "loyalty": "",
             "artist": "Ash Coulter",
-            "notes": "!token\n!tokenrarity"
+            "notes": "!token\n!tokenrarity\n!related Tiz the Unjoiner"
         },
         {
             "card_name": "Forest",
@@ -1074,7 +1074,7 @@
             "notes": "!landslot"
         },
         {
-            "card_name": "Tiz the Unjoiner",
+            "card_name": "Tiz the Unjoiner Emblem",
             "color": "",
             "rarity": "common",
             "type": "Emblem",
@@ -1089,7 +1089,7 @@
             "set": "VGT",
             "loyalty": "",
             "artist": "",
-            "notes": "!token\n!tokenrarity\n!name Tiz the Unjoiner Emblem"
+            "notes": "!token\n!tokenrarity\n!exportname Tiz the Unjoiner Emblem\n!related Tiz the Unjoiner"
         }
     ],
     "version": 1
