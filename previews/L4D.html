@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/L4D-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>L4D visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/L4D-files/logo.png" />
+	<img class="preload-hidden" src="/sets/ARC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/BMR-files/icon.png" />
+		<img class="preload-hidden" src="/sets/CFL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/CRF-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KEC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/KTG-files/icon.png" />
+		<img class="preload-hidden" src="/sets/L4D-files/icon.png" />
+		<img class="preload-hidden" src="/sets/MRC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/MSL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/PHD-files/icon.png" />
+		<img class="preload-hidden" src="/sets/REL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="/sets/TOON-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VGT-files/icon.png" />
+		<img class="preload-hidden" src="/sets/VRL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/XRX-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="ARC"><img src="/sets/ARC-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="BMR"><img src="/sets/BMR-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="CFL"><img src="/sets/CFL-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="CRF"><img src="/sets/CRF-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="KEC"><img src="/sets/KEC-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="KTG"><img src="/sets/KTG-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="L4D"><img src="/sets/L4D-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="MRC"><img src="/sets/MRC-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="MSL"><img src="/sets/MSL-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="PHD"><img src="/sets/PHD-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="REL"><img src="/sets/REL-files/icon.png"></img></a></div>
+		<div class="icon"><a href="STW"><img src="/sets/STW-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="TOON"><img src="/sets/TOON-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="VGT"><img src="/sets/VGT-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="VRL"><img src="/sets/VRL-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="XRX"><img src="/sets/XRX-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/L4D-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\L4D-files\img\6_The Apartments.png" id="6_The Apartments" data-flag="@X" onclick="openSidebar('6_The Apartments',true)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\12_The Sugar Mill.png" id="12_The Sugar Mill" data-flag="@X" onclick="openSidebar('12_The Sugar Mill',true)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\14_Bill, the Sacrifice.png" id="14_Bill, the Sacrifice" data-flag="@X" onclick="openSidebar('14_Bill, the Sacrifice',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\24_Startled Witch.png" id="24_Startled Witch" data-flag="@X" onclick="openSidebar('24_Startled Witch',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\29_Rock-Throwing Tank.png" id="29_Rock-Throwing Tank" data-flag="@X" onclick="openSidebar('29_Rock-Throwing Tank',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\1_Fallen CEDA Agent.png" id="1_Fallen CEDA Agent" data-flag="@X" onclick="openSidebar('1_Fallen CEDA Agent',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\7_Ceiling Hunter.png" id="7_Ceiling Hunter" data-flag="@X" onclick="openSidebar('7_Ceiling Hunter',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\13_Bilious Boomer.png" id="13_Bilious Boomer" data-flag="@X" onclick="openSidebar('13_Bilious Boomer',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\19_Eviscerating Hunter.png" id="19_Eviscerating Hunter" data-flag="@X" onclick="openSidebar('19_Eviscerating Hunter',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\25_Green Flu Mutation.png" id="25_Green Flu Mutation" data-flag="@X" onclick="openSidebar('25_Green Flu Mutation',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\2_Headshot.png" id="2_Headshot" data-flag="@X" onclick="openSidebar('2_Headshot',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\8_Ensnaring Smoker.png" id="8_Ensnaring Smoker" data-flag="@X" onclick="openSidebar('8_Ensnaring Smoker',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\15_Cacophonous Crows.png" id="15_Cacophonous Crows" data-flag="@X" onclick="openSidebar('15_Cacophonous Crows',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\20_Incendiary Explosion.png" id="20_Incendiary Explosion" data-flag="@X" onclick="openSidebar('20_Incendiary Explosion',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\26_Infected Riot Guards.png" id="26_Infected Riot Guards" data-flag="@X" onclick="openSidebar('26_Infected Riot Guards',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\3_Katana Wielder.png" id="3_Katana Wielder" data-flag="@X" onclick="openSidebar('3_Katana Wielder',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\9_Expert Tactician.png" id="9_Expert Tactician" data-flag="@X" onclick="openSidebar('9_Expert Tactician',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\16_Noxious Spitter.png" id="16_Noxious Spitter" data-flag="@X" onclick="openSidebar('16_Noxious Spitter',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\21_Infected Clown.png" id="21_Infected Clown" data-flag="@X" onclick="openSidebar('21_Infected Clown',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\27_Pummeling Charger.png" id="27_Pummeling Charger" data-flag="@X" onclick="openSidebar('27_Pummeling Charger',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\4_Rocket-Launched Survivor.png" id="4_Rocket-Launched Survivor" data-flag="@X" onclick="openSidebar('4_Rocket-Launched Survivor',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\10_Jockey Ride.png" id="10_Jockey Ride" data-flag="@X" onclick="openSidebar('10_Jockey Ride',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\17_Ravenous Horde.png" id="17_Ravenous Horde" data-flag="@X" onclick="openSidebar('17_Ravenous Horde',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\22_Molotov Throw.png" id="22_Molotov Throw" data-flag="@X" onclick="openSidebar('22_Molotov Throw',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\28_Resourceful Survivor.png" id="28_Resourceful Survivor" data-flag="@X" onclick="openSidebar('28_Resourceful Survivor',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\5_Team Healer.png" id="5_Team Healer" data-flag="@X" onclick="openSidebar('5_Team Healer',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\11_Spawn-Point Scouting.png" id="11_Spawn-Point Scouting" data-flag="@X" onclick="openSidebar('11_Spawn-Point Scouting',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\18_Swamp Fever.png" id="18_Swamp Fever" data-flag="@X" onclick="openSidebar('18_Swamp Fever',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\23_Reckless Speedster.png" id="23_Reckless Speedster" data-flag="@X" onclick="openSidebar('23_Reckless Speedster',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\30_Rooftop Smoker.png" id="30_Rooftop Smoker" data-flag="@X" onclick="openSidebar('30_Rooftop Smoker',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\35_Louis, the Optimist.png" id="35_Louis, the Optimist" data-flag="@X" onclick="openSidebar('35_Louis, the Optimist',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\34_Helicopter Pilot.png" id="34_Helicopter Pilot" data-flag="@X" onclick="openSidebar('34_Helicopter Pilot',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\39_The Coaster.png" id="39_The Coaster" data-flag="@X" onclick="openSidebar('39_The Coaster',true)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\38_Zoey, Hope Against Hope.png" id="38_Zoey, Hope Against Hope" data-flag="@X" onclick="openSidebar('38_Zoey, Hope Against Hope',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\32_Coach, Devoted Leader.png" id="32_Coach, Devoted Leader" data-flag="@X" onclick="openSidebar('32_Coach, Devoted Leader',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\37_Wedding Witch.png" id="37_Wedding Witch" data-flag="@X" onclick="openSidebar('37_Wedding Witch',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\31_Cargo Plane.png" id="31_Cargo Plane" data-flag="@X" onclick="openSidebar('31_Cargo Plane',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\36_Pestilent Zombies.png" id="36_Pestilent Zombies" data-flag="@X" onclick="openSidebar('36_Pestilent Zombies',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\33_Ellis, Killing Machine.png" id="33_Ellis, Killing Machine" data-flag="@X" onclick="openSidebar('33_Ellis, Killing Machine',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\40_The Waterfront.png" id="40_The Waterfront" data-flag="@X" onclick="openSidebar('40_The Waterfront',true)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\42_Auto Shotgun.png" id="42_Auto Shotgun" data-flag="@X" onclick="openSidebar('42_Auto Shotgun',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\41_Alarmed Car.png" id="41_Alarmed Car" data-flag="@X" onclick="openSidebar('41_Alarmed Car',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\45_Sniper Rifle.png" id="45_Sniper Rifle" data-flag="@X" onclick="openSidebar('45_Sniper Rifle',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\43_Electric Guitar.png" id="43_Electric Guitar" data-flag="@X" onclick="openSidebar('43_Electric Guitar',false)"></div>
+			<div class="container"><img alt="/sets\L4D-files\img\44_Pipe Bomb.png" id="44_Pipe Bomb" data-flag="@X" onclick="openSidebar('44_Pipe Bomb',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
