@@ -1,0 +1,512 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Eternal Beauty",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/31_Eternal Beauty.png"
+			}
+		},
+		{
+			"name": "Healing Assault",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant — Combination ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/2_Healing Assault.png"
+			}
+		},
+		{
+			"name": "Ancestral Barrage of Possibilities",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant — Combination ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/8_Ancestral Barrage of Possibilities.png"
+			}
+		},
+		{
+			"name": "Dark Assassin Swipe",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant — Combination ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/13_Dark Assassin Swipe.png"
+			}
+		},
+		{
+			"name": "Flawless Supreme Lightning",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant — Combination ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/21_Flawless Supreme Lightning.png"
+			}
+		},
+		{
+			"name": "Orinosuke, Extracting Shinobi",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Ninja ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/37_Orinosuke, Extracting Shinobi.png"
+			}
+		},
+		{
+			"name": "Xiang Zhou, Corrupted Noble",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/40_Xiang Zhou, Corrupted Noble.png"
+			}
+		},
+		{
+			"name": "Hou Guo, Brutal Warrior",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Warrior ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/32_Hou Guo, Brutal Warrior.png"
+			}
+		},
+		{
+			"name": "Xie Yawen, Humble Heroine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Hero ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/41_Xie Yawen, Humble Heroine.png"
+			}
+		},
+		{
+			"name": "Yan Bo, Biased Tax Collector",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Advisor ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/42_Yan Bo, Biased Tax Collector.png"
+			}
+		},
+		{
+			"name": "Liao Ru of Limitless Techniques",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Samurai ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/36_Liao Ru of Limitless Techniques.png"
+			}
+		},
+		{
+			"name": "Kioko, Genius of the Sky",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Monk ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/35_Kioko, Genius of the Sky.png"
+			}
+		},
+		{
+			"name": "Kazushi, Stealer of Honor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Samurai ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/34_Kazushi, Stealer of Honor.png"
+			}
+		},
+		{
+			"name": "Itsuko the Lightning",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Samurai Noble ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/33_Itsuko the Lightning.png"
+			}
+		},
+		{
+			"name": "Vo Chi Kien, Student of the Past",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/39_Vo Chi Kien, Student of the Past.png"
+			}
+		},
+		{
+			"name": "Kanabo of the Oni",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/43_Kanabo of the Oni.png"
+			}
+		},
+		{
+			"name": "Hero on the Wind",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Monk ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/3_Hero on the Wind.png"
+			}
+		},
+		{
+			"name": "Devoted Yojimbo",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Samurai ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/1_Devoted Yojimbo.png"
+			}
+		},
+		{
+			"name": "Unimposing Master",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Monk ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/6_Unimposing Master.png"
+			}
+		},
+		{
+			"name": "Slice of Bladed Feathers",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant — Combination ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/5_Slice of Bladed Feathers.png"
+			}
+		},
+		{
+			"name": "Spelljutsu Ninja",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Ninja ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/11_Spelljutsu Ninja.png"
+			}
+		},
+		{
+			"name": "Aerial Daggermaster",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Monk ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/7_Aerial Daggermaster.png"
+			}
+		},
+		{
+			"name": "Ki Manipulation",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/9_Ki Manipulation.png"
+			}
+		},
+		{
+			"name": "Typhoon Cut",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant — Combination ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/12_Typhoon Cut.png"
+			}
+		},
+		{
+			"name": "Hoarder of Wealth",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Noble ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/15_Hoarder of Wealth.png"
+			}
+		},
+		{
+			"name": "Ninja for Hire",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Ninja ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/16_Ninja for Hire.png"
+			}
+		},
+		{
+			"name": "Dishonored",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/14_Dishonored.png"
+			}
+		},
+		{
+			"name": "Strikes of Murderous Intent",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant — Combination ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/17_Strikes of Murderous Intent.png"
+			}
+		},
+		{
+			"name": "Hired Brute",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/22_Hired Brute.png"
+			}
+		},
+		{
+			"name": "Worthy Opponent",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Samurai ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/24_Worthy Opponent.png"
+			}
+		},
+		{
+			"name": "Bandit's Assault",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/19_Bandit's Assault.png"
+			}
+		},
+		{
+			"name": "Bloody Storm",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant — Combination ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/20_Bloody Storm.png"
+			}
+		},
+		{
+			"name": "Dutiful Guardian",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Monk ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/25_Dutiful Guardian.png"
+			}
+		},
+		{
+			"name": "Warrior of Dragon's Legacy",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/28_Warrior of Dragon's Legacy.png"
+			}
+		},
+		{
+			"name": "Spiritual Guide",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spirit ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/27_Spiritual Guide.png"
+			}
+		},
+		{
+			"name": "Whispering Fang Strikes",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant — Combination ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/30_Whispering Fang Strikes.png"
+			}
+		},
+		{
+			"name": "Sacred Katana",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/45_Sacred Katana.png"
+			}
+		},
+		{
+			"name": "Monk's Wraps",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/44_Monk's Wraps.png"
+			}
+		},
+		{
+			"name": "Majestic Leap",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/4_Majestic Leap.png"
+			}
+		},
+		{
+			"name": "Lighter than Air",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/10_Lighter than Air.png"
+			}
+		},
+		{
+			"name": "Warrior's Spirit",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/18_Warrior's Spirit.png"
+			}
+		},
+		{
+			"name": "Shocking Strike",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/23_Shocking Strike.png"
+			}
+		},
+		{
+			"name": "Warrior's Challenge",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/29_Warrior's Challenge.png"
+			}
+		},
+		{
+			"name": "Giant Intensifying Kick",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant — Combination ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/26_Giant Intensifying Kick.png"
+			}
+		},
+		{
+			"name": "Sacred Meditation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/38_Sacred Meditation.png"
+			}
+		},
+		{
+			"name": "Monk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Monk ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/HNG-files/img/1_Monk.png"
+			}
+		}
+	]
+[RareSlot(1)]
+2 Eternal Beauty
+2 Healing Assault
+2 Ancestral Barrage of Possibilities
+2 Dark Assassin Swipe
+2 Flawless Supreme Lightning
+2 Giant Intensifying Kick
+[UncommonSlot(3)]
+9 Orinosuke, Extracting Shinobi
+9 Xiang Zhou, Corrupted Noble
+9 Hou Guo, Brutal Warrior
+9 Xie Yawen, Humble Heroine
+9 Yan Bo, Biased Tax Collector
+9 Liao Ru of Limitless Techniques
+9 Kioko, Genius of the Sky
+9 Kazushi, Stealer of Honor
+9 Itsuko the Lightning
+9 Vo Chi Kien, Student of the Past
+9 Kanabo of the Oni
+9 Sacred Meditation
+[CommonSlot(9)]
+30 Hero on the Wind
+30 Devoted Yojimbo
+30 Unimposing Master
+30 Slice of Bladed Feathers
+30 Spelljutsu Ninja
+30 Aerial Daggermaster
+30 Ki Manipulation
+30 Typhoon Cut
+30 Hoarder of Wealth
+30 Ninja for Hire
+30 Dishonored
+30 Strikes of Murderous Intent
+30 Hired Brute
+30 Worthy Opponent
+30 Bandit's Assault
+30 Bloody Storm
+30 Dutiful Guardian
+30 Warrior of Dragon's Legacy
+30 Spiritual Guide
+30 Whispering Fang Strikes
+30 Sacred Katana
+30 Monk's Wraps
+30 Majestic Leap
+30 Lighter than Air
+30 Warrior's Spirit
+30 Shocking Strike
+30 Warrior's Challenge
+[LandSlot(1)]
