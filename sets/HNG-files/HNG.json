@@ -264,7 +264,7 @@
             "number": 39,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
-            "rules_text": "Return target permanent and target instant or sorcery from your graveyard to your hand.",
+            "rules_text": "When this creature enters, return up to one target permanent card not named Vo Chi Kien, Student of the Past and up to one target instant or sorcery card from your graveyard to your hand.",
             "flavor_text": "[i]He reads all day. I can't imagine what he sees in those old tales.[/i]",
             "pt": "2/2",
             "special_text": "",
