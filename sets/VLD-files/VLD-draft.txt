@@ -1,0 +1,548 @@
+[CustomCards]
+	[
+		{
+			"name": "Korvan Thresher",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/25_Korvan Thresher.png"
+			}
+		},
+		{
+			"name": "Production Overseer",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Bird Advisor",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/3_Production Overseer.png"
+			}
+		},
+		{
+			"name": "Planting Season",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/2_Planting Season.png"
+			}
+		},
+		{
+			"name": "Scarlet Matron",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/4_Scarlet Matron.png"
+			}
+		},
+		{
+			"name": "Expansion Overseers",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Creature — Bird Advisor",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/37_Expansion Overseers.png"
+			}
+		},
+		{
+			"name": "Wealdwitch Familiar",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/10_Wealdwitch Familiar.png"
+			}
+		},
+		{
+			"name": "Korvan Enforcers",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Elf Mercenary",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/8_Korvan Enforcers.png"
+			}
+		},
+		{
+			"name": "Wheat from Chaff",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/11_Wheat from Chaff.png"
+			}
+		},
+		{
+			"name": "Cruor Harvester",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Scarecrow Rebel",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/7_Cruor Harvester.png"
+			}
+		},
+		{
+			"name": "Stitcher of the Strictures",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}{U/B}",
+			"type": "Creature — Human Shaman Mercenary",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/40_Stitcher of the Strictures.png"
+			}
+		},
+		{
+			"name": "Profane Offerings",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Goat Horror",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/15_Profane Offerings.png"
+			}
+		},
+		{
+			"name": "Veldstire Bloodrancher",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Peasant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/16_Veldstire Bloodrancher.png"
+			}
+		},
+		{
+			"name": "Poach",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/14_Poach.png"
+			}
+		},
+		{
+			"name": "Lurking Fieldfiend",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/13_Lurking Fieldfiend.png"
+			}
+		},
+		{
+			"name": "The Hands That Feed",
+			"rarity": "common",
+			"mana_cost": "{2}{R/G}",
+			"type": "Creature — Spirit",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/38_The Hands That Feed.png"
+			}
+		},
+		{
+			"name": "Vengeful Thatchlings",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Scarecrow Rebel",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/20_Vengeful Thatchlings.png"
+			}
+		},
+		{
+			"name": "Voracious Roggenwulf",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Wolf",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/21_Voracious Roggenwulf.png"
+			}
+		},
+		{
+			"name": "Red Harvest",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/18_Red Harvest.png"
+			}
+		},
+		{
+			"name": "Feldgast's Counsel",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/17_Feldgast's Counsel.png"
+			}
+		},
+		{
+			"name": "Living Almanac",
+			"rarity": "common",
+			"mana_cost": "{3}{U/R}{U/R}",
+			"type": "Creature — Sphinx",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/39_Living Almanac.png"
+			}
+		},
+		{
+			"name": "Fangweed",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/22_Fangweed.png"
+			}
+		},
+		{
+			"name": "Threadbreaker Magus",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard Mercenary",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/6_Threadbreaker Magus.png"
+			}
+		},
+		{
+			"name": "Flockfeaster",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/24_Flockfeaster.png"
+			}
+		},
+		{
+			"name": "Uprooter's Blessing",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/26_Uprooter's Blessing.png"
+			}
+		},
+		{
+			"name": "Weald's Edge Herald",
+			"rarity": "common",
+			"mana_cost": "{2}{G/W}{G/W}",
+			"type": "Creature — Gnome Warrior",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/41_Weald's Edge Herald.png"
+			}
+		},
+		{
+			"name": "Iron Ox",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Creature — Vehicle",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/1_Iron Ox.png"
+			}
+		},
+		{
+			"name": "Servile Thatchling",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/44_Servile Thatchling.png"
+			}
+		},
+		{
+			"name": "Shadowmaidens",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/34_Shadowmaidens.png"
+			}
+		},
+		{
+			"name": "Offalings",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Faerie",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/33_Offalings.png"
+			}
+		},
+		{
+			"name": "Crone of Thorns",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Hag Warlock",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/27_Crone of Thorns.png"
+			}
+		},
+		{
+			"name": "Fieldpyre",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Artifact Creature — Scarecrow Rebel",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/30_Fieldpyre.png"
+			}
+		},
+		{
+			"name": "The Day's Labors",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/28_The Day's Labors.png"
+			}
+		},
+		{
+			"name": "Sic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/5_Sic.png"
+			}
+		},
+		{
+			"name": "Unravel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/9_Unravel.png"
+			}
+		},
+		{
+			"name": "Famineflight Feldgast",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/12_Famineflight Feldgast.png"
+			}
+		},
+		{
+			"name": "Unassuming Servant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Scarecrow Rebel",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/19_Unassuming Servant.png"
+			}
+		},
+		{
+			"name": "Favor of the Weald",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/23_Favor of the Weald.png"
+			}
+		},
+		{
+			"name": "Mobile Home",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/43_Mobile Home.png"
+			}
+		},
+		{
+			"name": "Indentured Fieldguard",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/42_Indentured Fieldguard.png"
+			}
+		},
+		{
+			"name": "Harbinger of the Harvest",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Creature — Specter",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/32_Harbinger of the Harvest.png"
+			}
+		},
+		{
+			"name": "Shadowstitch",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/35_Shadowstitch.png"
+			}
+		},
+		{
+			"name": "Springsturmer",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/36_Springsturmer.png"
+			}
+		},
+		{
+			"name": "Dragon's Revelation",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}{R}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/29_Dragon's Revelation.png"
+			}
+		},
+		{
+			"name": "Green Thumbling",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Plant Faerie",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/31_Green Thumbling.png"
+			}
+		},
+		{
+			"name": "Whik, First of the Thatched",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Elder Scarecrow",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/45_Whik, First of the Thatched.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Harbinger of the Harvest
+	2 Shadowstitch
+	2 Springsturmer
+	2 Dragon's Revelation
+	2 Green Thumbling
+	2 Whik, First of the Thatched
+[uncommon(4)]
+	4 Shadowmaidens
+	4 Offalings
+	4 Crone of Thorns
+	4 Fieldpyre
+	4 The Day's Labors
+	4 Sic
+	4 Unravel
+	4 Famineflight Feldgast
+	4 Unassuming Servant
+	4 Favor of the Weald
+	4 Mobile Home
+	4 Indentured Fieldguard
+[common(7)]
+	8 Korvan Thresher
+	8 Production Overseer
+	8 Planting Season
+	8 Scarlet Matron
+	8 Expansion Overseers
+	8 Wealdwitch Familiar
+	8 Korvan Enforcers
+	8 Wheat from Chaff
+	8 Cruor Harvester
+	8 Stitcher of the Strictures
+	8 Profane Offerings
+	8 Veldstire Bloodrancher
+	8 Poach
+	8 Lurking Fieldfiend
+	8 The Hands That Feed
+	8 Vengeful Thatchlings
+	8 Voracious Roggenwulf
+	8 Red Harvest
+	8 Feldgast's Counsel
+	8 Living Almanac
+	8 Fangweed
+	8 Threadbreaker Magus
+	8 Flockfeaster
+	8 Uprooter's Blessing
+	8 Weald's Edge Herald
+	8 Iron Ox
+	8 Servile Thatchling
+[wildcard(2)]
+	6 Korvan Thresher
+	6 Production Overseer
+	6 Planting Season
+	6 Scarlet Matron
+	6 Expansion Overseers
+	6 Wealdwitch Familiar
+	6 Korvan Enforcers
+	6 Wheat from Chaff
+	6 Cruor Harvester
+	6 Stitcher of the Strictures
+	6 Profane Offerings
+	6 Veldstire Bloodrancher
+	6 Poach
+	6 Lurking Fieldfiend
+	6 The Hands That Feed
+	6 Vengeful Thatchlings
+	6 Voracious Roggenwulf
+	6 Red Harvest
+	6 Feldgast's Counsel
+	6 Living Almanac
+	6 Fangweed
+	6 Threadbreaker Magus
+	6 Flockfeaster
+	6 Uprooter's Blessing
+	6 Weald's Edge Herald
+	6 Iron Ox
+	6 Servile Thatchling
+	15 Shadowmaidens
+	15 Offalings
+	15 Crone of Thorns
+	15 Fieldpyre
+	15 The Day's Labors
+	15 Sic
+	15 Unravel
+	15 Famineflight Feldgast
+	15 Unassuming Servant
+	15 Favor of the Weald
+	15 Mobile Home
+	15 Indentured Fieldguard
+	7 Harbinger of the Harvest
+	7 Shadowstitch
+	7 Springsturmer
+	7 Dragon's Revelation
+	7 Green Thumbling
+	7 Whik, First of the Thatched

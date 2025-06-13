@@ -53,7 +53,7 @@
 		{
 			"name": "Olgal's Chant",
 			"rarity": "mythic",
-			"mana_cost": "{CW}{CU}{CB}{CR}{CG}",
+			"mana_cost": "{C/W}{C/U}{C/B}{C/R}{C/G}",
 			"type": "Legendary Enchantment",
 			"collector_number": "39",
 			"image_uris": {
@@ -73,7 +73,7 @@
 		{
 			"name": "Zealous Amplifier",
 			"rarity": "uncommon",
-			"mana_cost": "{BG}{BG}",
+			"mana_cost": "{B/G}{B/G}",
 			"type": "Creature — Human Warlock",
 			"collector_number": "49",
 			"image_uris": {
@@ -153,7 +153,7 @@
 		{
 			"name": "Tremolos Mumur Bearer",
 			"rarity": "common",
-			"mana_cost": "{GU}{GU}",
+			"mana_cost": "{G/U}{G/U}",
 			"type": "Creature — Siren Bard",
 			"collector_number": "48",
 			"image_uris": {
@@ -173,7 +173,7 @@
 		{
 			"name": "Echoing Solist",
 			"rarity": "common",
-			"mana_cost": "{1}{WB}{WB}",
+			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "45",
 			"image_uris": {
@@ -183,7 +183,7 @@
 		{
 			"name": "Rondelli Siren",
 			"rarity": "common",
-			"mana_cost": "{UR}{UR}",
+			"mana_cost": "{U/R}{U/R}",
 			"type": "Creature — Siren Bard",
 			"collector_number": "46",
 			"image_uris": {
@@ -193,7 +193,7 @@
 		{
 			"name": "Countros Fanatic",
 			"rarity": "common",
-			"mana_cost": "{RW}{RW}",
+			"mana_cost": "{R/W}{R/W}",
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "44",
 			"image_uris": {
@@ -203,7 +203,7 @@
 		{
 			"name": "Decreshh Tuner",
 			"rarity": "common",
-			"mana_cost": "{1}{2C}",
+			"mana_cost": "{1}{2/C}",
 			"type": "Creature — Azra Noble",
 			"collector_number": "1",
 			"image_uris": {
@@ -213,7 +213,7 @@
 		{
 			"name": "Harmonic Hydra",
 			"rarity": "common",
-			"mana_cost": "{2C}{2C}{2C}",
+			"mana_cost": "{2/C}{2/C}{2/C}",
 			"type": "Enchantment Creature — Hydra Bard",
 			"collector_number": "2",
 			"image_uris": {
@@ -423,7 +423,7 @@
 		{
 			"name": "Siren Choir",
 			"rarity": "uncommon",
-			"mana_cost": "{X}{U}{UR}{R}",
+			"mana_cost": "{X}{U}{U/R}{R}",
 			"type": "Enchantment",
 			"collector_number": "47",
 			"image_uris": {
