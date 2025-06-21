@@ -34,7 +34,8 @@ def generateFile(code):
 	[
 	'''
 
-	for card in set_data['cards']:
+	for x in range(len(set_data['cards'])):
+		card = set_data['cards'][x]
 		# clean hybrids
 		h_pattern = r'\{([A-Z0-9])([A-Z])\}'
 		h_replace = r'{\1/\2}'
@@ -75,14 +76,16 @@ def generateFile(code):
 			draft_string += '''		"image_uris": {
 				"en": "https://''' + github_path + '''/sets/''' + code + '''-files/img/''' + str(card['number']) + '''_''' + card['card_name'] + '''.''' + set_data['image_type'] + '''"
 			}
-		},
+		}''' + (''',''' if x != len(set_data['cards']) - 1 else '''''') + '''
 	'''
 
 	draft_string += ''']
 
 '''
 	
+	p1p1 = []
 	for slot in structure:
+		slot_list = []
 		draft_string += '''[''' + slot['name'] + '''(''' + str(slot['count']) + ''')]
 '''
 		for c in booster[slot['name']]:
@@ -108,6 +111,17 @@ def generateFile(code):
 						count = 15
 					case 'common':
 						count = 6
+			elif slot['balanced'] == 'f': # foil distribution
+				# ditto, except 0.57 c / 0.35 u / 0.07 r / 0.01 m
+				match c['rarity']:
+					case 'mythic':
+						count = 1
+					case 'rare':
+						count = 2
+					case 'uncommon':
+						count = 6
+					case 'common':
+						count = 12
 			elif slot['balanced'] == 'c': # cube distribution
 				count = 1
 			else:
@@ -116,6 +130,9 @@ def generateFile(code):
 			if count > 0:
 				draft_string += '''	''' + str(count) + ''' ''' + c['card_name'] + '''
 '''
+		for x in range(slot['count']):
+			p1p1.append(slot_list)
 
-	with open(os.path.join('sets', code + '-files', code + '-draft.txt'), 'w') as f:
+	with open(os.path.join('sets', code + '-files', code + '-draft.txt'), 'w', encoding='utf-8-sig') as f:
 		f.write(draft_string)
+
