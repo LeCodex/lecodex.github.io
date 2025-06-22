@@ -675,15 +675,6 @@
 	        }
 	    },
 	    {
-	        "name": "Fall Damage",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Fall Damage.png"
-	        }
-	    },
-	    {
 	        "name": "Creative Mode",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
@@ -699,15 +690,6 @@
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Replace with Air.png"
-	        }
-	    },
-	    {
-	        "name": "Chorus Fruit",
-	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Chorus Fruit.png"
 	        }
 	    },
 	    {
@@ -744,15 +726,6 @@
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Surprise Explosion.png"
-	        }
-	    },
-	    {
-	        "name": "Kill for Drops",
-	        "rarity": "common",
-	        "mana_cost": "{X}{B}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Kill for Drops.png"
 	        }
 	    },
 	    {
@@ -1467,12 +1440,12 @@
 	        }
 	    },
 	    {
-	        "name": "Unite the Villagers",
+	        "name": "How Did We Get Here",
 	        "rarity": "mythic",
-	        "mana_cost": "{U/R}{U/B}{B/G}{G/W}{R/W}",
+	        "mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Unite the Villagers.png"
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/How Did We Get Here.png"
 	        }
 	    },
 	    {
@@ -1656,12 +1629,12 @@
 	        }
 	    },
 	    {
-	        "name": "Clear Space",
+	        "name": "Clearcutting",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Clear Space.png"
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Clearcutting.png"
 	        }
 	    },
 	    {
@@ -1698,15 +1671,6 @@
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Potion of Swiftness.png"
-	        }
-	    },
-	    {
-	        "name": "Potion of Invisibility",
-	        "rarity": "common",
-	        "mana_cost": "{U}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Potion of Invisibility.png"
 	        }
 	    },
 	    {
@@ -1752,15 +1716,6 @@
 	        "type": "Creature — Villager Warlock ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Village Librarian.png"
-	        }
-	    },
-	    {
-	        "name": "Oozing",
-	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
-	        "type": "Enchantment — Aura ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Oozing.png"
 	        }
 	    },
 	    {
@@ -1827,15 +1782,6 @@
 	        }
 	    },
 	    {
-	        "name": "Daylight Sensor",
-	        "rarity": "common",
-	        "mana_cost": "{3}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Daylight Sensor.png"
-	        }
-	    },
-	    {
 	        "name": "Bogged Skeleton",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
@@ -1863,30 +1809,12 @@
 	        }
 	    },
 	    {
-	        "name": "Don't Look",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}",
-	        "type": "Enchantment",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Don't Look.png"
-	        }
-	    },
-	    {
 	        "name": "TNT Cannon",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/TNT Cannon.png"
-	        }
-	    },
-	    {
-	        "name": "Spreading Vines",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{G}",
-	        "type": "Enchantment — Aura ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Spreading Vines.png"
 	        }
 	    },
 	    {
@@ -1962,15 +1890,6 @@
 	        }
 	    },
 	    {
-	        "name": "Trip the Wire",
-	        "rarity": "common",
-	        "mana_cost": "{1}{W}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Trip the Wire.png"
-	        }
-	    },
-	    {
 	        "name": "Stone Age",
 	        "rarity": "common",
 	        "mana_cost": "{1}{B}",
@@ -1995,15 +1914,6 @@
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Isn't it Iron Pick.png"
-	        }
-	    },
-	    {
-	        "name": "Permission Denied",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Permission Denied.png"
 	        }
 	    },
 	    {
@@ -2169,12 +2079,12 @@
 	        }
 	    },
 	    {
-	        "name": "Land Claim",
+	        "name": "Claim Land",
 	        "rarity": "common",
 	        "mana_cost": "{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Land Claim.png"
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Claim Land.png"
 	        }
 	    },
 	    {
@@ -2229,15 +2139,6 @@
 	        "type": "Creature — Skeleton Spider ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Spider Jockey.png"
-	        }
-	    },
-	    {
-	        "name": "Explorer",
-	        "rarity": "mythic",
-	        "mana_cost": "",
-	        "type": "Token Emblem — Explorer ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Explorer.png"
 	        }
 	    },
 	    {
@@ -2331,15 +2232,6 @@
 	        }
 	    },
 	    {
-	        "name": "First Shot",
-	        "rarity": "common",
-	        "mana_cost": "{1}{W}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/First Shot.png"
-	        }
-	    },
-	    {
 	        "name": "Illager Patrol",
 	        "rarity": "common",
 	        "mana_cost": "{4}{B}",
@@ -2349,12 +2241,12 @@
 	        }
 	    },
 	    {
-	        "name": "Pyromania",
+	        "name": "Torching",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Pyromania.png"
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Torching.png"
 	        }
 	    },
 	    {
@@ -2409,15 +2301,6 @@
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Exponential Growth.png"
-	        }
-	    },
-	    {
-	        "name": "Soft Bed",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{W}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Soft Bed.png"
 	        }
 	    },
 	    {
@@ -2484,15 +2367,6 @@
 	        }
 	    },
 	    {
-	        "name": "Suspicious Stew",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{R}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Suspicious Stew.png"
-	        }
-	    },
-	    {
 	        "name": "Skeleton Bowman",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
@@ -2526,15 +2400,6 @@
 	        "type": "Artifact",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Jeb Door.png"
-	        }
-	    },
-	    {
-	        "name": "Evoker's Transmutation",
-	        "rarity": "rare",
-	        "mana_cost": "{3}{R}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Evoker's Transmutation.png"
 	        }
 	    },
 	    {
@@ -2655,24 +2520,6 @@
 	        }
 	    },
 	    {
-	        "name": "Copper Brush",
-	        "rarity": "common",
-	        "mana_cost": "{1}",
-	        "type": "Artifact — Equipment ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Copper Brush.png"
-	        }
-	    },
-	    {
-	        "name": "Spyglass",
-	        "rarity": "common",
-	        "mana_cost": "{1}",
-	        "type": "Artifact — Equipment ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Spyglass.png"
-	        }
-	    },
-	    {
 	        "name": "Collect",
 	        "rarity": "common",
 	        "mana_cost": "{U}",
@@ -2765,7 +2612,7 @@
 	    {
 	        "name": "Warden",
 	        "rarity": "uncommon",
-	        "mana_cost": "{3}{B}",
+	        "mana_cost": "{2}{B}",
 	        "type": "Artifact Creature — Golem Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Warden.png"
@@ -2961,15 +2808,6 @@
 	        }
 	    },
 	    {
-	        "name": "Bedrock Wall",
-	        "rarity": "uncommon",
-	        "mana_cost": "{3}",
-	        "type": "Artifact Creature — Wall ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Bedrock Wall.png"
-	        }
-	    },
-	    {
 	        "name": "Blast Furnace",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}",
@@ -3003,24 +2841,6 @@
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Fake Abandon.png"
-	        }
-	    },
-	    {
-	        "name": "Riding Stack",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{G}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Riding Stack.png"
-	        }
-	    },
-	    {
-	        "name": "Recovery Compass",
-	        "rarity": "common",
-	        "mana_cost": "{1}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Recovery Compass.png"
 	        }
 	    },
 	    {
@@ -3102,15 +2922,6 @@
 	        "type": "Enchantment",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Herd Spawning.png"
-	        }
-	    },
-	    {
-	        "name": "Hardcore Mode",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{B}",
-	        "type": "Enchantment",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Hardcore Mode.png"
 	        }
 	    },
 	    {
@@ -3348,15 +3159,6 @@
 	        }
 	    },
 	    {
-	        "name": "Zombie Villager",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Zombie Villager ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Zombie Villager.png"
-	        }
-	    },
-	    {
 	        "name": "MIN DRAFT ARCHETYPES",
 	        "rarity": "common",
 	        "mana_cost": "",
@@ -3546,15 +3348,6 @@
 	        }
 	    },
 	    {
-	        "name": "Turtle",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Turtle ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Turtle.png"
-	        }
-	    },
-	    {
 	        "name": "Small Chicken",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{W}",
@@ -3589,6 +3382,186 @@
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Skeleton.png"
 	        }
+	    },
+	    {
+	        "name": "Windswept Hills",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Windswept Hills.png"
+	        }
+	    },
+	    {
+	        "name": "Classic Superflat",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Classic Superflat.png"
+	        }
+	    },
+	    {
+	        "name": "Shattered Forest",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Shattered Forest.png"
+	        }
+	    },
+	    {
+	        "name": "Old Growth Taiga",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Old Growth Taiga.png"
+	        }
+	    },
+	    {
+	        "name": "Mangrove Swamp",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Mangrove Swamp.png"
+	        }
+	    },
+	    {
+	        "name": "Jagged Peaks",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Jagged Peaks.png"
+	        }
+	    },
+	    {
+	        "name": "Dripstone Caves",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Dripstone Caves.png"
+	        }
+	    },
+	    {
+	        "name": "Sandy Beach",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Sandy Beach.png"
+	        }
+	    },
+	    {
+	        "name": "Gravelly Hills",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Gravelly Hills.png"
+	        }
+	    },
+	    {
+	        "name": "Bamboo Jungle",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Bamboo Jungle.png"
+	        }
+	    },
+	    {
+	        "name": "Sunflower Plains",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Sunflower Plains.png"
+	        }
+	    },
+	    {
+	        "name": "Pale Garden",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Pale Garden.png"
+	        }
+	    },
+	    {
+	        "name": "Deep Dark",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Deep Dark.png"
+	        }
+	    },
+	    {
+	        "name": "Tunneler's Dream",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Tunneler's Dream.png"
+	        }
+	    },
+	    {
+	        "name": "Infinite Ocean",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Infinite Ocean.png"
+	        }
+	    },
+	    {
+	        "name": "Hillless Desert",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Hillless Desert.png"
+	        }
+	    },
+	    {
+	        "name": "Flat Overworld",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Flat Overworld.png"
+	        }
+	    },
+	    {
+	        "name": "End City",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/End City.png"
+	        }
+	    },
+	    {
+	        "name": "Skyblock",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/Skyblock.png"
+	        }
+	    },
+	    {
+	        "name": "The Void",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/LeCodex/Minecraft-Cube/main/MIN-files/The Void.png"
+	        }
 	    }
 	]
 	[CubeSlot(15)]
@@ -3620,7 +3593,6 @@
 		1 One-Way Trip
 		1 Dig Straight Down
 		1 TNT Cannon
-		1 Spreading Vines
 		1 Terraforming
 		1 Shrinking Worldborder
 		1 Golden Sword
@@ -3629,9 +3601,7 @@
 		1 Finish The Base
 		1 Sift the Loot
 		1 Exponential Growth
-		1 Soft Bed
 		1 Lightning Rod
-		1 Evoker's Transmutation
 		1 Ominous Banner
 		1 The Parrots and the Bats
 		1 Village Leatherworker
@@ -3643,7 +3613,6 @@
 		1 Prepared Incursion
 		1 Brewing Stand
 		1 Herd Spawning
-		1 Hardcore Mode
 		1 Town Square
 		1 Clocktower
 		1 Central Map
@@ -3653,6 +3622,11 @@
 		1 Impressive Build
 		1 Elder Guardian
 		1 The Killer Bunny
+		1 Classic Superflat
+		1 Tunneler's Dream
+		1 Infinite Ocean
+		1 Hillless Desert
+		1 Flat Overworld
 		1 Alex, Ready for Battle
 		1 Steve, Quaint Builder
 		1 The End, Dragon's Realm
@@ -3660,7 +3634,7 @@
 		1 Neverending Spawn
 		1 Victory Celebration
 		1 The Ender Dragon
-		1 Unite the Villagers
+		1 How Did We Get Here
 		1 Enderman
 		1 Repeating Command Chain
 		1 The Wither
@@ -3702,7 +3676,6 @@
 		1 Totem Of Undying
 		1 Composter
 		1 Silverfish
-		1 Fall Damage
 		1 Respawn Anchor
 		1 Exposing Demolition
 		1 Mob Farm
@@ -3735,17 +3708,15 @@
 		1 Snow Golem
 		1 Temple Guardian
 		1 Third Shriek
-		1 Clear Space
+		1 Clearcutting
 		1 Pink Sheep
 		1 Acid Fireball
 		1 Ice Highway
 		1 Hoglin
 		1 Bogged Skeleton
-		1 Don't Look
 		1 Village Armorer
 		1 Wild Rabbit
 		1 Equipping Station
-		1 Permission Denied
 		1 Growing Pack
 		1 Ender Chest
 		1 Glare
@@ -3767,7 +3738,6 @@
 		1 Strad Music Disc
 		1 Mall Music Disc
 		1 Jukebox
-		1 Suspicious Stew
 		1 Act of Preservation
 		1 Jeb Door
 		1 Moody Weather
@@ -3794,9 +3764,7 @@
 		1 Wooden Shield
 		1 Grindstone
 		1 Awaited Hatching
-		1 Bedrock Wall
 		1 Blast Furnace
-		1 Riding Stack
 		1 Haste Effect
 		1 Lobsided Crab
 		1 Shy Armadillo
@@ -3819,6 +3787,21 @@
 		1 Copper Golem
 		1 Village Toolsmith
 		1 Small Chicken
+		1 Windswept Hills
+		1 Shattered Forest
+		1 Old Growth Taiga
+		1 Mangrove Swamp
+		1 Jagged Peaks
+		1 Dripstone Caves
+		1 Sandy Beach
+		1 Gravelly Hills
+		1 Bamboo Jungle
+		1 Sunflower Plains
+		1 Pale Garden
+		1 Deep Dark
+		1 End City
+		1 Skyblock
+		1 The Void
 		1 Unlit Cave
 		1 Crafting Bench
 		1 Full Set
@@ -3835,12 +3818,10 @@
 		1 Tamed Cat
 		1 Creative Mode
 		1 Replace with Air
-		1 Chorus Fruit
 		1 Unload
 		1 Dinnerbone
 		1 jeb
 		1 Surprise Explosion
-		1 Kill for Drops
 		1 Lightning Strike
 		1 Chrysopoeia
 		1 Smoking Blaze
@@ -3887,19 +3868,15 @@
 		1 Young Hoglin
 		1 Angered Wolf
 		1 Potion of Swiftness
-		1 Potion of Invisibility
 		1 Village Mason
 		1 Gather Experience
 		1 Village Librarian
-		1 Oozing
 		1 Defend the Village
 		1 Chest Breaking
-		1 Daylight Sensor
 		1 Out of the Webs
 		1 Magma Cube
 		1 Tend the Pens
 		1 Flying Machine
-		1 Trip the Wire
 		1 Stone Age
 		1 Isn't it Iron Pick
 		1 Fire Charge
@@ -3910,7 +3887,7 @@
 		1 Forest Fire
 		1 Rascal
 		1 Zombie Giant
-		1 Land Claim
+		1 Claim Land
 		1 Bad Omen
 		1 Shipwreck
 		1 Pufferfish
@@ -3918,24 +3895,20 @@
 		1 Brown Mooshroom
 		1 For the Herd
 		1 Elytras
-		1 First Shot
 		1 Illager Patrol
-		1 Pyromania
+		1 Torching
 		1 Curse of Binding
 		1 Protection Chestplate
 		1 Skeleton Bowman
 		1 Lava Lake
 		1 Planned for It
 		1 Pig Herd
-		1 Copper Brush
-		1 Spyglass
 		1 Collect
 		1 Return To Sender
 		1 Stone Sword
 		1 Griefing
 		1 Low Durability
 		1 Fake Abandon
-		1 Recovery Compass
 		1 A Complete Catalogue
 		1 Mesa Wolf
 		1 Pick Back Up
