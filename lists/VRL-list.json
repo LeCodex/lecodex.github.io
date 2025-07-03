@@ -1,1 +1,425 @@
-﻿[{"card_name": "Sandtwister Barrier", "number": 5, "shape": "normal"}, {"card_name": "Frostweft Thief", "number": 10, "shape": "normal"}, {"card_name": "Haunting of Old Anoria", "number": 16, "shape": "normal"}, {"card_name": "Between the Old and New", "number": 20, "shape": "normal"}, {"card_name": "Titan of the Wild Ways", "number": 29, "shape": "normal"}, {"card_name": "Priestess of the First Book", "number": 3, "shape": "normal"}, {"card_name": "Depths Prowler", "number": 8, "shape": "normal"}, {"card_name": "Purge Soul", "number": 17, "shape": "normal"}, {"card_name": "Hulking Firesmith", "number": 23, "shape": "normal"}, {"card_name": "Plated Gorehoof", "number": 28, "shape": "normal"}, {"card_name": "Ancestral Guardianship", "number": 1, "shape": "normal"}, {"card_name": "Emra's Torrent", "number": 9, "shape": "normal"}, {"card_name": "Bishop of High Anoria", "number": 14, "shape": "normal"}, {"card_name": "Coin-Turner Mercenary", "number": 21, "shape": "normal"}, {"card_name": "Anorian Blade-Guard", "number": 26, "shape": "normal"}, {"card_name": "Old Anoria Outrider", "number": 2, "shape": "normal"}, {"card_name": "Glass Prison", "number": 11, "shape": "normal"}, {"card_name": "Deadly Alliance", "number": 15, "shape": "normal"}, {"card_name": "Hellstone Outfitter", "number": 22, "shape": "normal"}, {"card_name": "Defeat the Dragon", "number": 27, "shape": "normal"}, {"card_name": "Radiant Templar", "number": 4, "shape": "normal"}, {"card_name": "Scroll Peddler", "number": 12, "shape": "normal"}, {"card_name": "Ravenous Direbat", "number": 18, "shape": "normal"}, {"card_name": "United Defense", "number": 24, "shape": "normal"}, {"card_name": "Tower Wurm", "number": 30, "shape": "normal"}, {"card_name": "Vaelan Bladesworn", "number": 6, "shape": "normal"}, {"card_name": "Shockbreath Juvenile", "number": 13, "shape": "normal"}, {"card_name": "Skulking Assassin", "number": 19, "shape": "normal"}, {"card_name": "Vaelan Firemage", "number": 25, "shape": "normal"}, {"card_name": "Wanderer of Old Anoria", "number": 31, "shape": "normal"}, {"card_name": "Veteran Shieldmage", "number": 7, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->gold", {"card_name": "Enriching Study", "number": 34, "shape": "normal"}, {"card_name": "Wizened Vizier", "number": 39, "shape": "normal"}, {"card_name": "Burn with Hellstone", "number": 32, "shape": "normal"}, {"card_name": "e"}, {"card_name": "Gather the Party", "number": 37, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Nightwalker Warpriest", "number": 40, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Erestes, Skelemancer", "number": 35, "shape": "normal"}, {"card_name": "Shocking Research", "number": 38, "shape": "normal"}, {"card_name": "e"}, {"card_name": "Chains of Holy Fire", "number": 33, "shape": "normal"}, {"card_name": "Frostgaze Griff", "number": 36, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->colorless", {"card_name": "Golden Champion", "number": 42, "shape": "normal"}, {"card_name": "Deviant Sentinel", "number": 41, "shape": "normal"}, {"card_name": "Mask of Hidden Identity", "number": 43, "shape": "normal"}, {"card_name": "Resonance Field", "number": 44, "shape": "normal"}, {"card_name": "Voltite Automaton", "number": 45, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->token", {"card_name": "Shapeshifter", "number": 1, "shape": "token"}, {"card_name": "Skill Tree", "number": 2, "shape": "token"}, {"card_name": "Sword", "number": 7, "shape": "token"}, {"card_name": "Treasure", "number": 8, "shape": "token"}, {"card_name": "Bird", "number": 3, "shape": "token"}, {"card_name": "Skeleton", "number": 4, "shape": "token"}, {"card_name": "Zombie", "number": 5, "shape": "token"}, {"card_name": "Elemental", "number": 6, "shape": "token"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}]
+﻿[
+    {
+        "card_name": "Sandtwister Barrier",
+        "number": 5,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Frostweft Thief",
+        "number": 10,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Haunting of Old Anoria",
+        "number": 16,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Between the Old and New",
+        "number": 20,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Titan of the Wild Ways",
+        "number": 29,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Priestess of the First Book",
+        "number": 3,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Depths Prowler",
+        "number": 8,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Purge Soul",
+        "number": 17,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Hulking Firesmith",
+        "number": 23,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Plated Gorehoof",
+        "number": 28,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Ancestral Guardianship",
+        "number": 1,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Emra's Torrent",
+        "number": 9,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Bishop of High Anoria",
+        "number": 14,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Coin-Turner Mercenary",
+        "number": 21,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Anorian Blade-Guard",
+        "number": 26,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Old Anoria Outrider",
+        "number": 2,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Glass Prison",
+        "number": 11,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Deadly Alliance",
+        "number": 15,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Hellstone Outfitter",
+        "number": 22,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Defeat the Dragon",
+        "number": 27,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Radiant Templar",
+        "number": 4,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Scroll Peddler",
+        "number": 12,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Ravenous Direbat",
+        "number": 18,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "United Defense",
+        "number": 24,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Tower Wurm",
+        "number": 30,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Vaelan Bladesworn",
+        "number": 6,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Shockbreath Juvenile",
+        "number": 13,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Skulking Assassin",
+        "number": 19,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Vaelan Firemage",
+        "number": 25,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Wanderer of Old Anoria",
+        "number": 31,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Veteran Shieldmage",
+        "number": 7,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Enriching Study",
+        "number": 34,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Wizened Vizier",
+        "number": 39,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Burn with Hellstone",
+        "number": 32,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gather the Party",
+        "number": 37,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Nightwalker Warpriest",
+        "number": 40,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Erestes, Skelemancer",
+        "number": 35,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Shocking Research",
+        "number": 38,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Chains of Holy Fire",
+        "number": 33,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Frostgaze Griff",
+        "number": 36,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Golden Champion",
+        "number": 42,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Deviant Sentinel",
+        "number": 41,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Mask of Hidden Identity",
+        "number": 43,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Resonance Field",
+        "number": 44,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Voltite Automaton",
+        "number": 45,
+        "shape": "normal",
+        "set": "VRL"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Shapeshifter",
+        "number": 1,
+        "shape": "token",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Skill Tree",
+        "number": 2,
+        "shape": "token",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Sword",
+        "number": 7,
+        "shape": "token",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 8,
+        "shape": "token",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Bird",
+        "number": 3,
+        "shape": "token",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Skeleton",
+        "number": 4,
+        "shape": "token",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Zombie",
+        "number": 5,
+        "shape": "token",
+        "set": "VRL"
+    },
+    {
+        "card_name": "Elemental",
+        "number": 6,
+        "shape": "token",
+        "set": "VRL"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

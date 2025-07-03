@@ -779,7 +779,7 @@
 
 			token = token.replaceAll("~", card_name).replaceAll("cardname", card_name).replaceAll('"','').replaceAll('“','').replaceAll('”','');
 
-			const modifierRegex = /[!:<>=]+/g;
+			const modifierRegex = /[!:<>=][=]*/g;
 			const match = token.match(modifierRegex);
 
 			if (match)
@@ -787,15 +787,6 @@
 				const modifier = match[0];
 				const term = token.substring(0, token.indexOf(modifier));
 				let check = token.substring(token.indexOf(modifier) + modifier.length);
-
-				if (check.charAt(0) == '/')
-				{
-					check = check.substring(1);
-				}
-				if (check.charAt(check.length - 1) == '/')
-				{
-					check = check.substring(0,check.length - 1);
-				}
 
 				if (color_map.has(check))
 				{
@@ -964,10 +955,6 @@
 						{
 							return (card_ci.split("").sort().join("") == check.split("").sort().join(""));
 						}
-						else if (modifier == ":")
-						{
-							return hasAllChars(card_ci, check);
-						}
 						else if (modifier == "<")
 						{
 							return card_ci == "c" || (check.length > card_ci.length && hasAllChars(check, card_ci));
@@ -976,7 +963,7 @@
 						{
 							return card_ci.length > check.length && hasAllChars(card_ci, check);
 						}
-						else if (modifier == "<=")
+						else if (modifier == ":" || modifier == "<=")
 						{
 							return card_ci == "c" || hasAllChars(check, card_ci);
 						}
@@ -1011,8 +998,17 @@
 				{
 					if (modifier == ":")
 					{
-						regex = new RegExp(check.replaceAll("+","\\+"));
-						return regex.test(card_oracle_text);
+						if (check.startsWith("/") && check.endsWith("/"))
+						{
+							check = check.substring(1, check.length - 1);
+
+							regex = new RegExp(check.replaceAll("+","\\+"));
+							return regex.test(card_oracle_text);
+						}
+						else
+						{
+							return card_oracle_text.includes(check);
+						}
 					}
 					/* unsupported flows
 					if (modifier == "!" || modifier == "=")
@@ -1461,40 +1457,50 @@
 			return imgContainer;
 		}
 
-		function imgFlip(id, rotate_card = false) {
-			img = document.getElementById(id);
-			rotated_img = document.getElementById("h-img");
+		function imgFlip(id, rotate_card = false) { // comments in here by aanginer
+            const img = document.getElementById(id);
+            const seconds = 0.2; // adjust this as needed, this is half of the animation time
 
-			cardName = img.src;
-			
-			if (cardName.includes("_front"))
-			{
-				img.src = cardName.replace("_front", "_back");
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(90deg)"; // rotate 90 degrees
 
-				if (rotate_card)
-				{
-					rotated_img.style.display = "none";
-					img.style.filter = "";
-				}
-			}
-			else
-			{
-				img.src = cardName.replace("_back", "_front");
+            setTimeout(function() { // wait for the rotation, then set the image's src correctly
+                const rotated_img = document.getElementById("h-img");
 
-				if (rotate_card)
-				{
-					rotated_img.style.display = "block";
-					img.style.filter = "blur(2px) brightness(0.7)";
-				}
-			}
-		}
+                const cardName = img.src;
+                
+                if (cardName.includes("_front"))
+                {
+                    img.src = cardName.replace("_front", "_back");
+
+                    if (rotate_card)
+                    {
+                        rotated_img.style.display = "none";
+                        img.style.filter = "";
+                    }
+                }
+                else
+                {
+                    img.src = cardName.replace("_back", "_front");
+
+                    if (rotate_card)
+                    {
+                        rotated_img.style.display = "block";
+                        img.style.filter = "blur(2px) brightness(0.7)";
+                    }
+                }
+
+                img.style.transition = (seconds * 2).toString() + "s"; // idk why we have to double the time but it works
+                img.style.transform = "rotateY(0deg)";
+            }, seconds * 1000);
+        }
 
 		function prettifyEffects(card_effects) {
 			let HTML = "";
 
 			for (let i = 0; i < card_effects.length; i++)
 			{
-				let styled_effect = card_effects[i].replace(/\[i\]([^\]]+)\[\/i\]/g, function(matched, _1) {
+				let styled_effect = card_effects[i].replace(/\[i\]([^\]]+)\[\/i\]/gs, function(matched, _1) {
 					return '<i>' + _1 + '</i>'
 				}).replace(/\[b\]([^\]]+)\[\/b\]/g, function(matched, _1) {
 					return '<b>' + _1 + '</b>'

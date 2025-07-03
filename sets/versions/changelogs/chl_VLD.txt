@@ -1,4 +1,100 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Korvan Thresher
+
+Production Overseer
+
+Planting Season
+
+Scarlet Matron
+
+Expansion Overseers
+
+Wealdwitch Familiar
+
+Korvan Enforcers
+
+Wheat from Chaff
+
+Cruor Harvester
+
+Stitcher of the Strictures
+
+Profane Offerings
+
+Veldstire Bloodrancher
+
+Poach
+
+Lurking Fieldfiend
+
+The Hands That Feed
+
+Vengeful Thatchlings
+
+Voracious Roggenwulf
+
+Red Harvest
+
+Feldgast's Counsel
+
+Living Almanac
+
+Fangweed
+
+Threadbreaker Magus
+
+Flockfeaster
+
+Uprooter's Blessing
+
+Weald's Edge Herald
+
+Iron Ox
+type: Creature — Vehicle => Artifact — Vehicle
+
+Shadowmaidens
+
+Offalings
+
+Crone of Thorns
+
+Fieldpyre
+
+The Day's Labors
+
+Sic
+
+Unravel
+
+Famineflight Feldgast
+rules_text: Reap {4}{B} [i](You may cast this spell for {4}{B} by also sacrificing two tokens or a nontoken creature.)[/i]
+Flying
+This creature enters with a +1/+1 counter on for each permanent you sacrificed to cast it. => Reap {4}{B} [i](You may cast this spell for {4}{B} by also sacrificing two tokens or a nontoken creature.)[/i]
+Flying
+This creature enters with a +1/+1 counter on it for each permanent you sacrificed to cast it.
+
+Unassuming Servant
+
+Favor of the Weald
+
+Indentured Fieldguard
+
+Harbinger of the Harvest
+
+Shadowstitch
+
+Springsturmer
+
+Dragon's Revelation
+
+Green Thumbling
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

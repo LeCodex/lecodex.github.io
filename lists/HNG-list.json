@@ -1,1 +1,404 @@
-﻿[{"card_name": "Healing Assault", "number": 2, "shape": "normal"}, {"card_name": "Ancestral Barrage of Possibilities", "number": 8, "shape": "normal"}, {"card_name": "Dark Assassin Swipe", "number": 13, "shape": "normal"}, {"card_name": "Flawless Supreme Lightning", "number": 21, "shape": "normal"}, {"card_name": "Giant Intensifying Kick", "number": 26, "shape": "normal"}, {"card_name": "Devoted Yojimbo", "number": 1, "shape": "normal"}, {"card_name": "Aerial Daggermaster", "number": 7, "shape": "normal"}, {"card_name": "Dishonored", "number": 14, "shape": "normal"}, {"card_name": "Bandit's Assault", "number": 19, "shape": "normal"}, {"card_name": "Dutiful Guardian", "number": 25, "shape": "normal"}, {"card_name": "Hero on the Wind", "number": 3, "shape": "normal"}, {"card_name": "Ki Manipulation", "number": 9, "shape": "normal"}, {"card_name": "Hoarder of Wealth", "number": 15, "shape": "normal"}, {"card_name": "Bloody Storm", "number": 20, "shape": "normal"}, {"card_name": "Spiritual Guide", "number": 27, "shape": "normal"}, {"card_name": "Majestic Leap", "number": 4, "shape": "normal"}, {"card_name": "Lighter than Air", "number": 10, "shape": "normal"}, {"card_name": "Ninja for Hire", "number": 16, "shape": "normal"}, {"card_name": "Hired Brute", "number": 22, "shape": "normal"}, {"card_name": "Warrior of Dragon's Legacy", "number": 28, "shape": "normal"}, {"card_name": "Slice of Bladed Feathers", "number": 5, "shape": "normal"}, {"card_name": "Spelljutsu Ninja", "number": 11, "shape": "normal"}, {"card_name": "Strikes of Murderous Intent", "number": 17, "shape": "normal"}, {"card_name": "Shocking Strike", "number": 23, "shape": "normal"}, {"card_name": "Warrior's Challenge", "number": 29, "shape": "normal"}, {"card_name": "Unimposing Master", "number": 6, "shape": "normal"}, {"card_name": "Typhoon Cut", "number": 12, "shape": "normal"}, {"card_name": "Warrior's Spirit", "number": 18, "shape": "normal"}, {"card_name": "Worthy Opponent", "number": 24, "shape": "normal"}, {"card_name": "Whispering Fang Strikes", "number": 30, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->gold", {"card_name": "Kioko, Genius of the Sky", "number": 35, "shape": "normal"}, {"card_name": "Orinosuke, Extracting Shinobi", "number": 37, "shape": "normal"}, {"card_name": "Xiang Zhou, Corrupted Noble", "number": 40, "shape": "normal"}, {"card_name": "Hou Guo, Brutal Warrior", "number": 32, "shape": "normal"}, {"card_name": "Xie Yawen, Humble Heroine", "number": 41, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Yan Bo, Biased Tax Collector", "number": 42, "shape": "normal"}, {"card_name": "Liao Ru of Limitless Techniques", "number": 36, "shape": "normal"}, {"card_name": "Eternal Beauty", "number": 31, "shape": "normal"}, {"card_name": "Itsuko the Lightning", "number": 33, "shape": "normal"}, {"card_name": "Vo Chi Kien, Student of the Past", "number": 39, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Kazushi, Stealer of Honor", "number": 34, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Sacred Meditation", "number": 38, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->colorless", {"card_name": "Kanabo of the Oni", "number": 43, "shape": "normal"}, {"card_name": "Monk's Wraps", "number": 44, "shape": "normal"}, {"card_name": "Sacred Katana", "number": 45, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->token", {"card_name": "Monk", "number": 1, "shape": "token"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}]
+﻿[
+    {
+        "card_name": "Healing Assault",
+        "number": 2,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Ancestral Barrage of Possibilities",
+        "number": 8,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Dark Assassin Swipe",
+        "number": 13,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Flawless Supreme Lightning",
+        "number": 21,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Giant Intensifying Kick",
+        "number": 26,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Devoted Yojimbo",
+        "number": 1,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Aerial Daggermaster",
+        "number": 7,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Dishonored",
+        "number": 14,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Bandit's Assault",
+        "number": 19,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Dutiful Guardian",
+        "number": 25,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Hero on the Wind",
+        "number": 3,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Ki Manipulation",
+        "number": 9,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Hoarder of Wealth",
+        "number": 15,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Bloody Storm",
+        "number": 20,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Spiritual Guide",
+        "number": 27,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Majestic Leap",
+        "number": 4,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Lighter than Air",
+        "number": 10,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Ninja for Hire",
+        "number": 16,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Hired Brute",
+        "number": 22,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Warrior of Dragon's Legacy",
+        "number": 28,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Slice of Bladed Feathers",
+        "number": 5,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Spelljutsu Ninja",
+        "number": 11,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Strikes of Murderous Intent",
+        "number": 17,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Shocking Strike",
+        "number": 23,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Warrior's Challenge",
+        "number": 29,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Unimposing Master",
+        "number": 6,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Typhoon Cut",
+        "number": 12,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Warrior's Spirit",
+        "number": 18,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Worthy Opponent",
+        "number": 24,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Whispering Fang Strikes",
+        "number": 30,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Kioko, Genius of the Sky",
+        "number": 35,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Orinosuke, Extracting Shinobi",
+        "number": 37,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Xiang Zhou, Corrupted Noble",
+        "number": 40,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Hou Guo, Brutal Warrior",
+        "number": 32,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Xie Yawen, Humble Heroine",
+        "number": 41,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Yan Bo, Biased Tax Collector",
+        "number": 42,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Liao Ru of Limitless Techniques",
+        "number": 36,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Eternal Beauty",
+        "number": 31,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Itsuko the Lightning",
+        "number": 33,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Vo Chi Kien, Student of the Past",
+        "number": 39,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kazushi, Stealer of Honor",
+        "number": 34,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Sacred Meditation",
+        "number": 38,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Kanabo of the Oni",
+        "number": 43,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Monk's Wraps",
+        "number": 44,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "Sacred Katana",
+        "number": 45,
+        "shape": "normal",
+        "set": "HNG"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Monk",
+        "number": 1,
+        "shape": "token",
+        "set": "HNG"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
