@@ -1,0 +1,685 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Subterrene Herbalist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/41_Subterrene Herbalist.png"
+			}
+		},
+		{
+			"name": "Screeching Coyote",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Jackal Warrior",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/40_Screeching Coyote.png"
+			}
+		},
+		{
+			"name": "Halo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Halo",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/3_Halo.png"
+			}
+		},
+		{
+			"name": "Halo Researcher",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/37_Halo Researcher.png"
+			}
+		},
+		{
+			"name": "Marketplace Bookie",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/39_Marketplace Bookie.png"
+			}
+		},
+		{
+			"name": "Awesome Play",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/23_Awesome Play.png"
+			}
+		},
+		{
+			"name": "Fan Favourite",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/17_Fan Favourite.png"
+			}
+		},
+		{
+			"name": "Rile up the Crowd",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/28_Rile up the Crowd.png"
+			}
+		},
+		{
+			"name": "Part-Time Coward",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Citizen Coward",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/35_Part-Time Coward.png"
+			}
+		},
+		{
+			"name": "The Crowd's Favour",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "— The Crowd's Favour",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/1_The Crowd's Favour.png"
+			}
+		},
+		{
+			"name": "Confident Chalk",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/25_Confident Chalk.png"
+			}
+		},
+		{
+			"name": "Adrenaline",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/22_Adrenaline.png"
+			}
+		},
+		{
+			"name": "Betting Station",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/8_Betting Station.png"
+			}
+		},
+		{
+			"name": "Deductive Procedure",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/10_Deductive Procedure.png"
+			}
+		},
+		{
+			"name": "Genius Cardcounter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/12_Genius Cardcounter.png"
+			}
+		},
+		{
+			"name": "Inconspicuous Supplier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Demon Citizen",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/31_Inconspicuous Supplier.png"
+			}
+		},
+		{
+			"name": "Nighttime Entertainment",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/34_Nighttime Entertainment.png"
+			}
+		},
+		{
+			"name": "Blunt Suspect",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/15_Blunt Suspect.png"
+			}
+		},
+		{
+			"name": "Clawing Dueler",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Azra Warrior",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/16_Clawing Dueler.png"
+			}
+		},
+		{
+			"name": "Merciless Execution",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/20_Merciless Execution.png"
+			}
+		},
+		{
+			"name": "Fans Beloved",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/4_Fans Beloved.png"
+			}
+		},
+		{
+			"name": "Narcissistic Fighter",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/7_Narcissistic Fighter.png"
+			}
+		},
+		{
+			"name": "Inviting Challenger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/6_Inviting Challenger.png"
+			}
+		},
+		{
+			"name": "Odds maker",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Employee",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/13_Odds maker.png"
+			}
+		},
+		{
+			"name": "Enochlophobia",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/11_Enochlophobia.png"
+			}
+		},
+		{
+			"name": "Capennan Importer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/9_Capennan Importer.png"
+			}
+		},
+		{
+			"name": "Victory Chimes",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/46_Victory Chimes.png"
+			}
+		},
+		{
+			"name": "Tournament Invitation",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/45_Tournament Invitation.png"
+			}
+		},
+		{
+			"name": "Necrosis Tanker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/21_Necrosis Tanker.png"
+			}
+		},
+		{
+			"name": "Contestants Nightmare",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Vampire Warrior",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/26_Contestants Nightmare.png"
+			}
+		},
+		{
+			"name": "Lucky Arrow",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/38_Lucky Arrow.png"
+			}
+		},
+		{
+			"name": "Crowd Side Bookie",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/27_Crowd Side Bookie.png"
+			}
+		},
+		{
+			"name": "Winning Punch",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/29_Winning Punch.png"
+			}
+		},
+		{
+			"name": "Gear Affix",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/30_Gear Affix.png"
+			}
+		},
+		{
+			"name": "Market Upcomers",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/33_Market Upcomers.png"
+			}
+		},
+		{
+			"name": "Crowd Surfer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Goblin",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/2_Crowd Surfer.png"
+			}
+		},
+		{
+			"name": "Crusader of Celebration",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/3_Crusader of Celebration.png"
+			}
+		},
+		{
+			"name": "Contenders Teapot",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Halo",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/43_Contenders Teapot.png"
+			}
+		},
+		{
+			"name": "Sponsors Lounge",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/44_Sponsors Lounge.png"
+			}
+		},
+		{
+			"name": "Tusked Contestor",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Human Elk Warrior",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/36_Tusked Contestor.png"
+			}
+		},
+		{
+			"name": "Arena Vendor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/42_Arena Vendor.png"
+			}
+		},
+		{
+			"name": "Finish Him",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/18_Finish Him.png"
+			}
+		},
+		{
+			"name": "Spectator",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spectator",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/2_Spectator.png"
+			}
+		},
+		{
+			"name": "Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/1_Warrior.png"
+			}
+		},
+		{
+			"name": "Krav, Love Crazed",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Demon Warrior",
+			"collector_number": "19",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/19_Krav, Love Crazed_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/19_Krav, Love Crazed_front.png"
+			}
+		},
+		{
+			"name": "Will, Slick Competitor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "14",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/14_Will, Slick Competitor_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/14_Will, Slick Competitor_front.png"
+			}
+		},
+		{
+			"name": "Calimh, Najeelas Aid",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "24",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/24_Calimh, Najeelas Aid_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/24_Calimh, Najeelas Aid_front.png"
+			}
+		},
+		{
+			"name": "Lunras, Rugged Contestant",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Seal Warrior",
+			"collector_number": "32",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/32_Lunras, Rugged Contestant_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/32_Lunras, Rugged Contestant_front.png"
+			}
+		},
+		{
+			"name": "The Gladiatorial Wanderer",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Samurai",
+			"collector_number": "5",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/5_The Gladiatorial Wanderer_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/5_The Gladiatorial Wanderer_front.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/4_Treasure.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/51_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/48_Island.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/50_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/47_Plains.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/49_Swamp.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Tournament Invitation
+	2 Krav, Love Crazed
+	2 Will, Slick Competitor
+	2 Calimh, Najeelas Aid
+	2 Lunras, Rugged Contestant
+	2 The Gladiatorial Wanderer
+[uncommon(4)]
+	4 Subterrene Herbalist
+	4 Screeching Coyote
+	4 Halo Researcher
+	4 Marketplace Bookie
+	4 Rile up the Crowd
+	4 Inconspicuous Supplier
+	4 Inviting Challenger
+	4 Odds maker
+	4 Necrosis Tanker
+	4 Contestants Nightmare
+	4 Lucky Arrow
+	4 Arena Vendor
+[common(7)]
+	8 Awesome Play
+	8 Fan Favourite
+	8 Part-Time Coward
+	8 The Crowd's Favour
+	8 Confident Chalk
+	8 Adrenaline
+	8 Betting Station
+	8 Deductive Procedure
+	8 Genius Cardcounter
+	8 Nighttime Entertainment
+	8 Blunt Suspect
+	8 Clawing Dueler
+	8 Merciless Execution
+	8 Fans Beloved
+	8 Narcissistic Fighter
+	8 Enochlophobia
+	8 Capennan Importer
+	8 Victory Chimes
+	8 Crowd Side Bookie
+	8 Winning Punch
+	8 Gear Affix
+	8 Market Upcomers
+	8 Crowd Surfer
+	8 Crusader of Celebration
+	8 Contenders Teapot
+	8 Sponsors Lounge
+	8 Tusked Contestor
+	8 Finish Him
+[wildcard(2)]
+	15 Subterrene Herbalist
+	15 Screeching Coyote
+	15 Halo Researcher
+	15 Marketplace Bookie
+	6 Awesome Play
+	6 Fan Favourite
+	15 Rile up the Crowd
+	6 Part-Time Coward
+	6 The Crowd's Favour
+	6 Confident Chalk
+	6 Adrenaline
+	6 Betting Station
+	6 Deductive Procedure
+	6 Genius Cardcounter
+	15 Inconspicuous Supplier
+	6 Nighttime Entertainment
+	6 Blunt Suspect
+	6 Clawing Dueler
+	6 Merciless Execution
+	6 Fans Beloved
+	6 Narcissistic Fighter
+	15 Inviting Challenger
+	15 Odds maker
+	6 Enochlophobia
+	6 Capennan Importer
+	6 Victory Chimes
+	7 Tournament Invitation
+	15 Necrosis Tanker
+	15 Contestants Nightmare
+	15 Lucky Arrow
+	6 Crowd Side Bookie
+	6 Winning Punch
+	6 Gear Affix
+	6 Market Upcomers
+	6 Crowd Surfer
+	6 Crusader of Celebration
+	6 Contenders Teapot
+	6 Sponsors Lounge
+	6 Tusked Contestor
+	15 Arena Vendor
+	6 Finish Him
+	7 Krav, Love Crazed
+	7 Will, Slick Competitor
+	7 Calimh, Najeelas Aid
+	7 Lunras, Rugged Contestant
+	7 The Gladiatorial Wanderer
