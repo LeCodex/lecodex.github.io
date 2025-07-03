@@ -1,0 +1,284 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Cinder Barrens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/1_Cinder Barrens.png"
+			}
+		},
+		{
+			"name": "Contaminated Aquifer",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/2_Contaminated Aquifer.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/3_Evolving Wilds.png"
+			}
+		},
+		{
+			"name": "Forsaken Sanctuary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/4_Forsaken Sanctuary.png"
+			}
+		},
+		{
+			"name": "Foul Orchard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/5_Foul Orchard.png"
+			}
+		},
+		{
+			"name": "Geothermal Bog",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/6_Geothermal Bog.png"
+			}
+		},
+		{
+			"name": "Haunted Mire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/7_Haunted Mire.png"
+			}
+		},
+		{
+			"name": "Highland Lake",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/8_Highland Lake.png"
+			}
+		},
+		{
+			"name": "Idyllic Beachfront",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/9_Idyllic Beachfront.png"
+			}
+		},
+		{
+			"name": "Meandering River",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/10_Meandering River.png"
+			}
+		},
+		{
+			"name": "Molten Tributary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/11_Molten Tributary.png"
+			}
+		},
+		{
+			"name": "Radiant Grove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/12_Radiant Grove.png"
+			}
+		},
+		{
+			"name": "Rupture Spire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/13_Rupture Spire.png"
+			}
+		},
+		{
+			"name": "Sacred Peaks",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/14_Sacred Peaks.png"
+			}
+		},
+		{
+			"name": "Stone Quarry",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/15_Stone Quarry.png"
+			}
+		},
+		{
+			"name": "Submerged Boneyard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/16_Submerged Boneyard.png"
+			}
+		},
+		{
+			"name": "Sunlit Marsh",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/17_Sunlit Marsh.png"
+			}
+		},
+		{
+			"name": "Tangled Islet",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/18_Tangled Islet.png"
+			}
+		},
+		{
+			"name": "Terramorphic Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/19_Terramorphic Expanse.png"
+			}
+		},
+		{
+			"name": "Timber Gorge",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/20_Timber Gorge.png"
+			}
+		},
+		{
+			"name": "Tranquil Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/21_Tranquil Expanse.png"
+			}
+		},
+		{
+			"name": "Wooded Ridgeline",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/22_Wooded Ridgeline.png"
+			}
+		},
+		{
+			"name": "Woodland Stream",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/23_Woodland Stream.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(4)]
+[common(7)]
+	8 Cinder Barrens
+	8 Contaminated Aquifer
+	8 Evolving Wilds
+	8 Forsaken Sanctuary
+	8 Foul Orchard
+	8 Geothermal Bog
+	8 Haunted Mire
+	8 Highland Lake
+	8 Idyllic Beachfront
+	8 Meandering River
+	8 Molten Tributary
+	8 Radiant Grove
+	8 Rupture Spire
+	8 Sacred Peaks
+	8 Stone Quarry
+	8 Submerged Boneyard
+	8 Sunlit Marsh
+	8 Tangled Islet
+	8 Terramorphic Expanse
+	8 Timber Gorge
+	8 Tranquil Expanse
+	8 Wooded Ridgeline
+	8 Woodland Stream
+[wildcard(2)]
+	6 Cinder Barrens
+	6 Contaminated Aquifer
+	6 Evolving Wilds
+	6 Forsaken Sanctuary
+	6 Foul Orchard
+	6 Geothermal Bog
+	6 Haunted Mire
+	6 Highland Lake
+	6 Idyllic Beachfront
+	6 Meandering River
+	6 Molten Tributary
+	6 Radiant Grove
+	6 Rupture Spire
+	6 Sacred Peaks
+	6 Stone Quarry
+	6 Submerged Boneyard
+	6 Sunlit Marsh
+	6 Tangled Islet
+	6 Terramorphic Expanse
+	6 Timber Gorge
+	6 Tranquil Expanse
+	6 Wooded Ridgeline
+	6 Woodland Stream

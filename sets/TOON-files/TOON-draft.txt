@@ -1,0 +1,574 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/44_Plains.png"
+			}
+		},
+		{
+			"name": "Falling Anvil",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/2_Falling Anvil.png"
+			}
+		},
+		{
+			"name": "Mind Control Hat",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact — Equipment Gadget",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/8_Mind Control Hat.png"
+			}
+		},
+		{
+			"name": "Wil.E Coyote, Gourmet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Coyote Toon",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/37_Wil.E Coyote, Gourmet.png"
+			}
+		},
+		{
+			"name": "Close Down",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/33_Close Down.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/46_Swamp.png"
+			}
+		},
+		{
+			"name": "Cog Gang",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Robot Toon",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/15_Cog Gang.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/47_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/48_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/45_Island.png"
+			}
+		},
+		{
+			"name": "Trickster Wolf",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wolf Toon",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/31_Trickster Wolf.png"
+			}
+		},
+		{
+			"name": "Duck Season, Rabbit Season",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/34_Duck Season, Rabbit Season.png"
+			}
+		},
+		{
+			"name": "The Big Bad Wolf",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Creature — Wolf Toon",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/13_The Big Bad Wolf.png"
+			}
+		},
+		{
+			"name": "Laidback Cat",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Toon",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/4_Laidback Cat.png"
+			}
+		},
+		{
+			"name": "Shady Mafioso",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Wolf Toon Rogue",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/17_Shady Mafioso.png"
+			}
+		},
+		{
+			"name": "Mysterious Doors",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/28_Mysterious Doors.png"
+			}
+		},
+		{
+			"name": "Human Seeking Gun",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Gadget",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/20_Human Seeking Gun.png"
+			}
+		},
+		{
+			"name": "Ride the Rocket",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/24_Ride the Rocket.png"
+			}
+		},
+		{
+			"name": "Temporary Jetpacks",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Gadget",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/11_Temporary Jetpacks.png"
+			}
+		},
+		{
+			"name": "Unlucky Accident",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/26_Unlucky Accident.png"
+			}
+		},
+		{
+			"name": "Quickshot Duo",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Horse Toon Ranger",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/23_Quickshot Duo.png"
+			}
+		},
+		{
+			"name": "Wrong Turn at Albuquerque",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/12_Wrong Turn at Albuquerque.png"
+			}
+		},
+		{
+			"name": "Rise to the Fight",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/35_Rise to the Fight.png"
+			}
+		},
+		{
+			"name": "Zoinks!",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/18_Zoinks!.png"
+			}
+		},
+		{
+			"name": "Shaggy, All Alone",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Toon Coward",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/25_Shaggy, All Alone.png"
+			}
+		},
+		{
+			"name": "The Powerpuff Girls",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Legendary Creature — Toon Hero",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/6_The Powerpuff Girls.png"
+			}
+		},
+		{
+			"name": "Mean Giant",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/27_Mean Giant.png"
+			}
+		},
+		{
+			"name": "The Mystery Machine",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/40_The Mystery Machine.png"
+			}
+		},
+		{
+			"name": "Terrible Wolfman",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/30_Terrible Wolfman.png"
+			}
+		},
+		{
+			"name": "Spinach Can",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Food Gadget",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/43_Spinach Can.png"
+			}
+		},
+		{
+			"name": "The Script",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Gadget",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/42_The Script.png"
+			}
+		},
+		{
+			"name": "Yosemite Sam, Angry Cowboy",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/39_Yosemite Sam, Angry Cowboy.png"
+			}
+		},
+		{
+			"name": "Spongebob Squarepants",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Sponge Toon",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/36_Spongebob Squarepants.png"
+			}
+		},
+		{
+			"name": "Fairly Odd Wand",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Gadget",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/1_Fairly Odd Wand.png"
+			}
+		},
+		{
+			"name": "Big Brawl",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/32_Big Brawl.png"
+			}
+		},
+		{
+			"name": "Yogi Bear, Friendly Ursine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Bear Citizen",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/38_Yogi Bear, Friendly Ursine.png"
+			}
+		},
+		{
+			"name": "Robot Maid",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/41_Robot Maid.png"
+			}
+		},
+		{
+			"name": "Moomin Trolls",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Troll",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/5_Moomin Trolls.png"
+			}
+		},
+		{
+			"name": "Protective Shark",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Shark",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/9_Protective Shark.png"
+			}
+		},
+		{
+			"name": "Cockroach Gang",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/14_Cockroach Gang.png"
+			}
+		},
+		{
+			"name": "Smurf Villager",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Smurf",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/10_Smurf Villager.png"
+			}
+		},
+		{
+			"name": "Explosive Result",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/19_Explosive Result.png"
+			}
+		},
+		{
+			"name": "Pink Panther",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/22_Pink Panther.png"
+			}
+		},
+		{
+			"name": "Henchcat",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/16_Henchcat.png"
+			}
+		},
+		{
+			"name": "Gravity is a Harsh Mistress",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/3_Gravity is a Harsh Mistress.png"
+			}
+		},
+		{
+			"name": "Obsessive Chase",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/29_Obsessive Chase.png"
+			}
+		},
+		{
+			"name": "Anchor Down",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/7_Anchor Down.png"
+			}
+		},
+		{
+			"name": "Mean Hook",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/21_Mean Hook.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Mind Control Hat
+	2 Duck Season, Rabbit Season
+	1 The Big Bad Wolf
+	2 Rise to the Fight
+	2 The Powerpuff Girls
+	2 The Mystery Machine
+[uncommon(4)]
+	4 Wil.E Coyote, Gourmet
+	4 Close Down
+	4 Cog Gang
+	4 Shaggy, All Alone
+	4 Mean Giant
+	4 The Script
+	4 Yosemite Sam, Angry Cowboy
+	4 Spongebob Squarepants
+	4 Fairly Odd Wand
+	4 Big Brawl
+	4 Yogi Bear, Friendly Ursine
+	4 Anchor Down
+[common(7)]
+	8 Falling Anvil
+	8 Trickster Wolf
+	8 Laidback Cat
+	8 Shady Mafioso
+	8 Mysterious Doors
+	8 Human Seeking Gun
+	8 Ride the Rocket
+	8 Temporary Jetpacks
+	8 Unlucky Accident
+	8 Quickshot Duo
+	8 Wrong Turn at Albuquerque
+	8 Zoinks!
+	8 Terrible Wolfman
+	8 Spinach Can
+	8 Robot Maid
+	8 Moomin Trolls
+	8 Protective Shark
+	8 Cockroach Gang
+	8 Smurf Villager
+	8 Explosive Result
+	8 Pink Panther
+	8 Henchcat
+	8 Gravity is a Harsh Mistress
+	8 Obsessive Chase
+	8 Mean Hook
+[wildcard(2)]
+	6 Falling Anvil
+	7 Mind Control Hat
+	15 Wil.E Coyote, Gourmet
+	15 Close Down
+	15 Cog Gang
+	6 Trickster Wolf
+	7 Duck Season, Rabbit Season
+	4 The Big Bad Wolf
+	6 Laidback Cat
+	6 Shady Mafioso
+	6 Mysterious Doors
+	6 Human Seeking Gun
+	6 Ride the Rocket
+	6 Temporary Jetpacks
+	6 Unlucky Accident
+	6 Quickshot Duo
+	6 Wrong Turn at Albuquerque
+	7 Rise to the Fight
+	6 Zoinks!
+	15 Shaggy, All Alone
+	7 The Powerpuff Girls
+	15 Mean Giant
+	7 The Mystery Machine
+	6 Terrible Wolfman
+	6 Spinach Can
+	15 The Script
+	15 Yosemite Sam, Angry Cowboy
+	15 Spongebob Squarepants
+	15 Fairly Odd Wand
+	15 Big Brawl
+	15 Yogi Bear, Friendly Ursine
+	6 Robot Maid
+	6 Moomin Trolls
+	6 Protective Shark
+	6 Cockroach Gang
+	6 Smurf Villager
+	6 Explosive Result
+	6 Pink Panther
+	6 Henchcat
+	6 Gravity is a Harsh Mistress
+	6 Obsessive Chase
+	15 Anchor Down
+	6 Mean Hook

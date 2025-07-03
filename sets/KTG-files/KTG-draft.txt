@@ -1,0 +1,608 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Jinema, Hauty Priestess",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/2_Jinema, Hauty Priestess.png"
+			}
+		},
+		{
+			"name": "Quetzalcoatl, Temple Terror",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Legendary Creature — Serpent Spirit",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/8_Quetzalcoatl, Temple Terror.png"
+			}
+		},
+		{
+			"name": "Harbingers of Ruination",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie Warrior",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/17_Harbingers of Ruination.png"
+			}
+		},
+		{
+			"name": "Hematic Consecration",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/20_Hematic Consecration.png"
+			}
+		},
+		{
+			"name": "The Fisherman",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/27_The Fisherman.png"
+			}
+		},
+		{
+			"name": "Xircez the Indomitable",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Planeswalker — Xircez",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/37_Xircez the Indomitable.png"
+			}
+		},
+		{
+			"name": "Ritual of Cleansing",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Ritual",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/4_Ritual of Cleansing.png"
+			}
+		},
+		{
+			"name": "Bluster Ascension",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/7_Bluster Ascension.png"
+			}
+		},
+		{
+			"name": "Carrion Doomsayer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/13_Carrion Doomsayer.png"
+			}
+		},
+		{
+			"name": "Relic Crusher Alpha",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Ape Warrior",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/24_Relic Crusher Alpha.png"
+			}
+		},
+		{
+			"name": "Ritual of Eclipse",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Ritual",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/29_Ritual of Eclipse.png"
+			}
+		},
+		{
+			"name": "Cursed Prophet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Horror Cleric",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/34_Cursed Prophet.png"
+			}
+		},
+		{
+			"name": "Goldleaf Phoenix",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/35_Goldleaf Phoenix.png"
+			}
+		},
+		{
+			"name": "Adept Vigilante",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/32_Adept Vigilante.png"
+			}
+		},
+		{
+			"name": "Jade Sphinx",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/36_Jade Sphinx.png"
+			}
+		},
+		{
+			"name": "Adorned Sepulcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Gorgon Warrior",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/33_Adorned Sepulcher.png"
+			}
+		},
+		{
+			"name": "Alchemist's Sanguilabe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Blood Gold",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/43_Alchemist's Sanguilabe.png"
+			}
+		},
+		{
+			"name": "Abyssal Mindrender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Creature — Dragon Horror",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/31_Abyssal Mindrender.png"
+			}
+		},
+		{
+			"name": "Stalwart Avian",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Warrior",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/5_Stalwart Avian.png"
+			}
+		},
+		{
+			"name": "K'Eeli Skirmirshers",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/3_K'Eeli Skirmirshers.png"
+			}
+		},
+		{
+			"name": "Cleanse Corruption",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/1_Cleanse Corruption.png"
+			}
+		},
+		{
+			"name": "Stoneform Technique",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/6_Stoneform Technique.png"
+			}
+		},
+		{
+			"name": "Tenacious Waveskipper",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Spellshaper",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/12_Tenacious Waveskipper.png"
+			}
+		},
+		{
+			"name": "Slickback Cutthroat",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/10_Slickback Cutthroat.png"
+			}
+		},
+		{
+			"name": "Shrine Awakening",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/9_Shrine Awakening.png"
+			}
+		},
+		{
+			"name": "Spiritual Consultation",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/11_Spiritual Consultation.png"
+			}
+		},
+		{
+			"name": "Gilded Omen Raven",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird Warlock",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/16_Gilded Omen Raven.png"
+			}
+		},
+		{
+			"name": "Covetous Faerie",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/15_Covetous Faerie.png"
+			}
+		},
+		{
+			"name": "Ceremonial Sacrifice",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/14_Ceremonial Sacrifice.png"
+			}
+		},
+		{
+			"name": "Swift Beheading",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/18_Swift Beheading.png"
+			}
+		},
+		{
+			"name": "Pyre Steward",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/23_Pyre Steward.png"
+			}
+		},
+		{
+			"name": "K'Eeli Raider",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/21_K'Eeli Raider.png"
+			}
+		},
+		{
+			"name": "Mind-Piercing Bolt",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/22_Mind-Piercing Bolt.png"
+			}
+		},
+		{
+			"name": "Essence Anointing",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/19_Essence Anointing.png"
+			}
+		},
+		{
+			"name": "Skull Drum Howler",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Monkey",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/30_Skull Drum Howler.png"
+			}
+		},
+		{
+			"name": "Displaced Kavu",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Kavu",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/26_Displaced Kavu.png"
+			}
+		},
+		{
+			"name": "Resolute Tracker",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/28_Resolute Tracker.png"
+			}
+		},
+		{
+			"name": "Band Together",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/25_Band Together.png"
+			}
+		},
+		{
+			"name": "Temple Ruins",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/45_Temple Ruins.png"
+			}
+		},
+		{
+			"name": "Carved Serpent",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Kindred Artifact — Serpent",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/44_Carved Serpent.png"
+			}
+		},
+		{
+			"name": "Rot Vanguard",
+			"rarity": "common",
+			"mana_cost": "{3}{B/G}",
+			"type": "Creature — Fungus Warrior",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/42_Rot Vanguard.png"
+			}
+		},
+		{
+			"name": "Cultic Devotion",
+			"rarity": "common",
+			"mana_cost": "{2}{W/B}{W/B}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/39_Cultic Devotion.png"
+			}
+		},
+		{
+			"name": "Rhyel's Invocation",
+			"rarity": "common",
+			"mana_cost": "{2}{U/R}{U/R}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/41_Rhyel's Invocation.png"
+			}
+		},
+		{
+			"name": "K'Eeli Giant",
+			"rarity": "common",
+			"mana_cost": "{4}{R/W}",
+			"type": "Creature — Giant Warrior",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/40_K'Eeli Giant.png"
+			}
+		},
+		{
+			"name": "Croaking Sentinel",
+			"rarity": "common",
+			"mana_cost": "{2}{G/U}",
+			"type": "Creature — Frog Warrior",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/38_Croaking Sentinel.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/6_Blood.png"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/4_Beast.png"
+			}
+		},
+		{
+			"name": "Cultist",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cultist",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/2_Cultist.png"
+			}
+		},
+		{
+			"name": "Rat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rat",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/3_Rat.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/1_Bird.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/5_Elemental.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Jinema, Hauty Priestess
+	2 Quetzalcoatl, Temple Terror
+	2 Harbingers of Ruination
+	2 Hematic Consecration
+	2 The Fisherman
+	1 Xircez the Indomitable
+[uncommon(4)]
+	4 Ritual of Cleansing
+	4 Bluster Ascension
+	4 Carrion Doomsayer
+	4 Relic Crusher Alpha
+	4 Ritual of Eclipse
+	4 Cursed Prophet
+	4 Goldleaf Phoenix
+	4 Adept Vigilante
+	4 Jade Sphinx
+	4 Adorned Sepulcher
+	4 Alchemist's Sanguilabe
+	4 Abyssal Mindrender
+[common(7)]
+	8 Stalwart Avian
+	8 K'Eeli Skirmirshers
+	8 Cleanse Corruption
+	8 Stoneform Technique
+	8 Tenacious Waveskipper
+	8 Slickback Cutthroat
+	8 Shrine Awakening
+	8 Spiritual Consultation
+	8 Gilded Omen Raven
+	8 Covetous Faerie
+	8 Ceremonial Sacrifice
+	8 Swift Beheading
+	8 Pyre Steward
+	8 K'Eeli Raider
+	8 Mind-Piercing Bolt
+	8 Essence Anointing
+	8 Skull Drum Howler
+	8 Displaced Kavu
+	8 Resolute Tracker
+	8 Band Together
+	8 Temple Ruins
+	8 Carved Serpent
+	8 Rot Vanguard
+	8 Cultic Devotion
+	8 Rhyel's Invocation
+	8 K'Eeli Giant
+	8 Croaking Sentinel
+[wildcard(2)]
+	7 Jinema, Hauty Priestess
+	7 Quetzalcoatl, Temple Terror
+	7 Harbingers of Ruination
+	7 Hematic Consecration
+	7 The Fisherman
+	4 Xircez the Indomitable
+	15 Ritual of Cleansing
+	15 Bluster Ascension
+	15 Carrion Doomsayer
+	15 Relic Crusher Alpha
+	15 Ritual of Eclipse
+	15 Cursed Prophet
+	15 Goldleaf Phoenix
+	15 Adept Vigilante
+	15 Jade Sphinx
+	15 Adorned Sepulcher
+	15 Alchemist's Sanguilabe
+	15 Abyssal Mindrender
+	6 Stalwart Avian
+	6 K'Eeli Skirmirshers
+	6 Cleanse Corruption
+	6 Stoneform Technique
+	6 Tenacious Waveskipper
+	6 Slickback Cutthroat
+	6 Shrine Awakening
+	6 Spiritual Consultation
+	6 Gilded Omen Raven
+	6 Covetous Faerie
+	6 Ceremonial Sacrifice
+	6 Swift Beheading
+	6 Pyre Steward
+	6 K'Eeli Raider
+	6 Mind-Piercing Bolt
+	6 Essence Anointing
+	6 Skull Drum Howler
+	6 Displaced Kavu
+	6 Resolute Tracker
+	6 Band Together
+	6 Temple Ruins
+	6 Carved Serpent
+	6 Rot Vanguard
+	6 Cultic Devotion
+	6 Rhyel's Invocation
+	6 K'Eeli Giant
+	6 Croaking Sentinel

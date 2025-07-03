@@ -1,0 +1,548 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Drive a Hard Bargain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/9_Drive a Hard Bargain.png"
+			}
+		},
+		{
+			"name": "Outer-Sea Tyrant",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Kraken",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/10_Outer-Sea Tyrant.png"
+			}
+		},
+		{
+			"name": "Rushwood Scavenger",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Crocodile",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/12_Rushwood Scavenger.png"
+			}
+		},
+		{
+			"name": "Cateran Negotiation",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/16_Cateran Negotiation.png"
+			}
+		},
+		{
+			"name": "Flight from Privilege",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/22_Flight from Privilege.png"
+			}
+		},
+		{
+			"name": "Hellkite Whelp",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/23_Hellkite Whelp.png"
+			}
+		},
+		{
+			"name": "Saprazzan Scion",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Spellshaper",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/25_Saprazzan Scion.png"
+			}
+		},
+		{
+			"name": "Cho-Arrim Connection",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/27_Cho-Arrim Connection.png"
+			}
+		},
+		{
+			"name": "Cold-Blooded Cartographer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Viashino Citizen",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/29_Cold-Blooded Cartographer.png"
+			}
+		},
+		{
+			"name": "Kyren Courier",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/43_Kyren Courier.png"
+			}
+		},
+		{
+			"name": "Rishadan Abacus",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/45_Rishadan Abacus.png"
+			}
+		},
+		{
+			"name": "Lamprey Hydra",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{U}",
+			"type": "Creature — Fish Hydra",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/41_Lamprey Hydra.png"
+			}
+		},
+		{
+			"name": "Hand of the Market",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Incarnation",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/3_Hand of the Market.png"
+			}
+		},
+		{
+			"name": "Singular Sculptor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/5_Singular Sculptor.png"
+			}
+		},
+		{
+			"name": "Wanted Hustler",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/6_Wanted Hustler.png"
+			}
+		},
+		{
+			"name": "Clock Tower",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/8_Clock Tower.png"
+			}
+		},
+		{
+			"name": "Barter with Fate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/7_Barter with Fate.png"
+			}
+		},
+		{
+			"name": "Overwhelmed Adjudicator",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/11_Overwhelmed Adjudicator.png"
+			}
+		},
+		{
+			"name": "Stern Redistributor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rebel Rogue",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/26_Stern Redistributor.png"
+			}
+		},
+		{
+			"name": "Ramosian Banner",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/24_Ramosian Banner.png"
+			}
+		},
+		{
+			"name": "Prizefight",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/32_Prizefight.png"
+			}
+		},
+		{
+			"name": "Deepwood Gnarlbark",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/30_Deepwood Gnarlbark.png"
+			}
+		},
+		{
+			"name": "Blade of Ramos",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rebel Assassin",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/15_Blade of Ramos.png"
+			}
+		},
+		{
+			"name": "Work to the Bone",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/20_Work to the Bone.png"
+			}
+		},
+		{
+			"name": "Alchemical Shyster",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Minotaur Spellshaper",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/14_Alchemical Shyster.png"
+			}
+		},
+		{
+			"name": "Arabeka's Handmaid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Spellshaper",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/35_Arabeka's Handmaid.png"
+			}
+		},
+		{
+			"name": "Extortion Patrol",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/36_Extortion Patrol.png"
+			}
+		},
+		{
+			"name": "Deepwood Shade",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Shade",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/38_Deepwood Shade.png"
+			}
+		},
+		{
+			"name": "Soul of the Henge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Spirit Spellshaper",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/39_Soul of the Henge.png"
+			}
+		},
+		{
+			"name": "Aven Appraiser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Bird Citizen",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/40_Aven Appraiser.png"
+			}
+		},
+		{
+			"name": "Henge Supplicant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/31_Henge Supplicant.png"
+			}
+		},
+		{
+			"name": "Lost in the Bustle",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/4_Lost in the Bustle.png"
+			}
+		},
+		{
+			"name": "Imp Wrangler",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Spellshaper",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/42_Imp Wrangler.png"
+			}
+		},
+		{
+			"name": "Sage of Iachem-oath",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/19_Sage of Iachem-oath.png"
+			}
+		},
+		{
+			"name": "Saprazzan Sylph",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/13_Saprazzan Sylph.png"
+			}
+		},
+		{
+			"name": "Deregulation",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/21_Deregulation.png"
+			}
+		},
+		{
+			"name": "Cho-Arrim Entrancer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/28_Cho-Arrim Entrancer.png"
+			}
+		},
+		{
+			"name": "Laissez Faire",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/18_Laissez Faire.png"
+			}
+		},
+		{
+			"name": "Cateran Guilt",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/1_Cateran Guilt.png"
+			}
+		},
+		{
+			"name": "Blacksmith's Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact Creature — Citizen",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/33_Blacksmith's Guardian.png"
+			}
+		},
+		{
+			"name": "Hydraulic Haulier",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Artifact Creature — Goblin",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/37_Hydraulic Haulier.png"
+			}
+		},
+		{
+			"name": "Pilfering Harpy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Harpy",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/34_Pilfering Harpy.png"
+			}
+		},
+		{
+			"name": "Mox Nacre",
+			"rarity": "mythic",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/44_Mox Nacre.png"
+			}
+		},
+		{
+			"name": "Foreseen Storm",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/2_Foreseen Storm.png"
+			}
+		},
+		{
+			"name": "Entrepreneurial Intent",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/17_Entrepreneurial Intent.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Outer-Sea Tyrant
+	2 Lamprey Hydra
+	2 Deepwood Shade
+	1 Mox Nacre
+	2 Foreseen Storm
+	2 Entrepreneurial Intent
+[uncommon(4)]
+	4 Drive a Hard Bargain
+	4 Hellkite Whelp
+	4 Arabeka's Handmaid
+	4 Extortion Patrol
+	4 Soul of the Henge
+	4 Aven Appraiser
+	4 Henge Supplicant
+	4 Laissez Faire
+	4 Cateran Guilt
+	4 Blacksmith's Guardian
+	4 Hydraulic Haulier
+	4 Pilfering Harpy
+[common(7)]
+	8 Rushwood Scavenger
+	8 Cateran Negotiation
+	8 Flight from Privilege
+	8 Saprazzan Scion
+	8 Cho-Arrim Connection
+	8 Cold-Blooded Cartographer
+	8 Kyren Courier
+	8 Rishadan Abacus
+	8 Hand of the Market
+	8 Singular Sculptor
+	8 Wanted Hustler
+	8 Clock Tower
+	8 Barter with Fate
+	8 Overwhelmed Adjudicator
+	8 Stern Redistributor
+	8 Ramosian Banner
+	8 Prizefight
+	8 Deepwood Gnarlbark
+	8 Blade of Ramos
+	8 Work to the Bone
+	8 Alchemical Shyster
+	8 Lost in the Bustle
+	8 Imp Wrangler
+	8 Sage of Iachem-oath
+	8 Saprazzan Sylph
+	8 Deregulation
+	8 Cho-Arrim Entrancer
+[wildcard(2)]
+	15 Drive a Hard Bargain
+	4 Outer-Sea Tyrant
+	6 Rushwood Scavenger
+	6 Cateran Negotiation
+	6 Flight from Privilege
+	15 Hellkite Whelp
+	6 Saprazzan Scion
+	6 Cho-Arrim Connection
+	6 Cold-Blooded Cartographer
+	6 Kyren Courier
+	6 Rishadan Abacus
+	7 Lamprey Hydra
+	6 Hand of the Market
+	6 Singular Sculptor
+	6 Wanted Hustler
+	6 Clock Tower
+	6 Barter with Fate
+	6 Overwhelmed Adjudicator
+	6 Stern Redistributor
+	6 Ramosian Banner
+	6 Prizefight
+	6 Deepwood Gnarlbark
+	6 Blade of Ramos
+	6 Work to the Bone
+	6 Alchemical Shyster
+	15 Arabeka's Handmaid
+	15 Extortion Patrol
+	7 Deepwood Shade
+	15 Soul of the Henge
+	15 Aven Appraiser
+	15 Henge Supplicant
+	6 Lost in the Bustle
+	6 Imp Wrangler
+	6 Sage of Iachem-oath
+	6 Saprazzan Sylph
+	6 Deregulation
+	6 Cho-Arrim Entrancer
+	15 Laissez Faire
+	15 Cateran Guilt
+	15 Blacksmith's Guardian
+	15 Hydraulic Haulier
+	15 Pilfering Harpy
+	4 Mox Nacre
+	7 Foreseen Storm
+	7 Entrepreneurial Intent

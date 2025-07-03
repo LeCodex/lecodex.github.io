@@ -1,0 +1,569 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Ryoto, Wilds Walker",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/11_Ryoto, Wilds Walker.png"
+			}
+		},
+		{
+			"name": "Yearning Mimic",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/42_Yearning Mimic.png"
+			}
+		},
+		{
+			"name": "Remnant of Rocket",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/39_Remnant of Rocket.png"
+			}
+		},
+		{
+			"name": "Ravenous Flytrap",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/38_Ravenous Flytrap.png"
+			}
+		},
+		{
+			"name": "Valiant Truthseeker",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact Creature — Construct Knight",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/41_Valiant Truthseeker.png"
+			}
+		},
+		{
+			"name": "Maven of Disaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Elk",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/36_Maven of Disaster.png"
+			}
+		},
+		{
+			"name": "Nasty Plot",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/15_Nasty Plot.png"
+			}
+		},
+		{
+			"name": "Cliffside Crusher",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/24_Cliffside Crusher.png"
+			}
+		},
+		{
+			"name": "Dregs of Industry",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/44_Dregs of Industry.png"
+			}
+		},
+		{
+			"name": "Excavation Mole",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Mole",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/27_Excavation Mole.png"
+			}
+		},
+		{
+			"name": "The Earth Endures",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/26_The Earth Endures.png"
+			}
+		},
+		{
+			"name": "Doomed Trainer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Ranger",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/25_Doomed Trainer.png"
+			}
+		},
+		{
+			"name": "Treetop Trapper",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/28_Treetop Trapper.png"
+			}
+		},
+		{
+			"name": "Prepare for Trouble!",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/20_Prepare for Trouble!.png"
+			}
+		},
+		{
+			"name": "Scalewrought Protector",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/21_Scalewrought Protector.png"
+			}
+		},
+		{
+			"name": "Bellowing Behemoth",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Rhino Elemental",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/18_Bellowing Behemoth.png"
+			}
+		},
+		{
+			"name": "Gluttonous Ghost",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/13_Gluttonous Ghost.png"
+			}
+		},
+		{
+			"name": "Sanaito's Nightmare",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/17_Sanaito's Nightmare.png"
+			}
+		},
+		{
+			"name": "Partner in Crime",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Weasel",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/16_Partner in Crime.png"
+			}
+		},
+		{
+			"name": "Mournful Amnesiac",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/14_Mournful Amnesiac.png"
+			}
+		},
+		{
+			"name": "Beauty of the Wastes",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Serpent",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/7_Beauty of the Wastes.png"
+			}
+		},
+		{
+			"name": "To the Sea, Returned",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/12_To the Sea, Returned.png"
+			}
+		},
+		{
+			"name": "Icy Glare",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/10_Icy Glare.png"
+			}
+		},
+		{
+			"name": "Emissary of the Sun",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Insect",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/2_Emissary of the Sun.png"
+			}
+		},
+		{
+			"name": "Pacifying Predator",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Fox",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/4_Pacifying Predator.png"
+			}
+		},
+		{
+			"name": "Warden's Mission",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/6_Warden's Mission.png"
+			}
+		},
+		{
+			"name": "Lonely Youngling",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/3_Lonely Youngling.png"
+			}
+		},
+		{
+			"name": "Wandering Vagabonds",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Beast Ranger",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/5_Wandering Vagabonds.png"
+			}
+		},
+		{
+			"name": "Preserved Specimens",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/45_Preserved Specimens.png"
+			}
+		},
+		{
+			"name": "Future's Present",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Bird Construct",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/9_Future's Present.png"
+			}
+		},
+		{
+			"name": "Shrieking Pest",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/22_Shrieking Pest.png"
+			}
+		},
+		{
+			"name": "Sunset Chaser",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Lizard",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/1_Sunset Chaser.png"
+			}
+		},
+		{
+			"name": "Unrelenting Titan",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Golem",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/23_Unrelenting Titan.png"
+			}
+		},
+		{
+			"name": "Chikyu's Champion",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/30_Chikyu's Champion.png"
+			}
+		},
+		{
+			"name": "Conduit of Change",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{W}",
+			"type": "Creature — Elemental Sheep",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/32_Conduit of Change.png"
+			}
+		},
+		{
+			"name": "Rage of the Reef",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Elemental Spirit",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/37_Rage of the Reef.png"
+			}
+		},
+		{
+			"name": "Dark-Dwelling Mycellium",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Fungus",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/33_Dark-Dwelling Mycellium.png"
+			}
+		},
+		{
+			"name": "Berry Basket",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/43_Berry Basket.png"
+			}
+		},
+		{
+			"name": "Brick by Brick",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/29_Brick by Brick.png"
+			}
+		},
+		{
+			"name": "Community's Garden",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Plant Dinosaur",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/31_Community's Garden.png"
+			}
+		},
+		{
+			"name": "Karina, Out of Time",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Planeswalker — Karina",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/35_Karina, Out of Time.png"
+			}
+		},
+		{
+			"name": "Sanaito, Root of Ruin",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}{B}",
+			"type": "Legendary Planeswalker — Sanaito",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/40_Sanaito, Root of Ruin.png"
+			}
+		},
+		{
+			"name": "The City Made Wild",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Battle — Encounter",
+			"collector_number": "19",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/19_The City Made Wild_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/19_The City Made Wild_front.png"
+			}
+		},
+		{
+			"name": "Bump in the Road",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Battle — Encounter",
+			"collector_number": "8",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/8_Bump in the Road_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/8_Bump in the Road_front.png"
+			}
+		},
+		{
+			"name": "First Contact",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Battle — Encounter",
+			"collector_number": "34",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/34_First Contact_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/34_First Contact_front.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Ryoto, Wilds Walker
+	2 Unrelenting Titan
+	2 Chikyu's Champion
+	1 Karina, Out of Time
+	1 Sanaito, Root of Ruin
+	2 First Contact
+[uncommon(4)]
+	4 Yearning Mimic
+	4 Remnant of Rocket
+	4 Ravenous Flytrap
+	4 Valiant Truthseeker
+	4 Maven of Disaster
+	4 Dregs of Industry
+	4 Conduit of Change
+	4 Rage of the Reef
+	4 Dark-Dwelling Mycellium
+	4 Brick by Brick
+	4 Community's Garden
+	4 Bump in the Road
+[common(7)]
+	8 Nasty Plot
+	8 Cliffside Crusher
+	8 Excavation Mole
+	8 The Earth Endures
+	8 Doomed Trainer
+	8 Treetop Trapper
+	8 Prepare for Trouble!
+	8 Scalewrought Protector
+	8 Bellowing Behemoth
+	8 Gluttonous Ghost
+	8 Sanaito's Nightmare
+	8 Partner in Crime
+	8 Mournful Amnesiac
+	8 Beauty of the Wastes
+	8 To the Sea, Returned
+	8 Icy Glare
+	8 Emissary of the Sun
+	8 Pacifying Predator
+	8 Warden's Mission
+	8 Lonely Youngling
+	8 Wandering Vagabonds
+	8 Preserved Specimens
+	8 Future's Present
+	8 Shrieking Pest
+	8 Sunset Chaser
+	8 Berry Basket
+	8 The City Made Wild
+[wildcard(2)]
+	7 Ryoto, Wilds Walker
+	15 Yearning Mimic
+	15 Remnant of Rocket
+	15 Ravenous Flytrap
+	15 Valiant Truthseeker
+	15 Maven of Disaster
+	6 Nasty Plot
+	6 Cliffside Crusher
+	15 Dregs of Industry
+	6 Excavation Mole
+	6 The Earth Endures
+	6 Doomed Trainer
+	6 Treetop Trapper
+	6 Prepare for Trouble!
+	6 Scalewrought Protector
+	6 Bellowing Behemoth
+	6 Gluttonous Ghost
+	6 Sanaito's Nightmare
+	6 Partner in Crime
+	6 Mournful Amnesiac
+	6 Beauty of the Wastes
+	6 To the Sea, Returned
+	6 Icy Glare
+	6 Emissary of the Sun
+	6 Pacifying Predator
+	6 Warden's Mission
+	6 Lonely Youngling
+	6 Wandering Vagabonds
+	6 Preserved Specimens
+	6 Future's Present
+	6 Shrieking Pest
+	6 Sunset Chaser
+	7 Unrelenting Titan
+	7 Chikyu's Champion
+	15 Conduit of Change
+	15 Rage of the Reef
+	15 Dark-Dwelling Mycellium
+	6 Berry Basket
+	15 Brick by Brick
+	15 Community's Garden
+	4 Karina, Out of Time
+	4 Sanaito, Root of Ruin
+	6 The City Made Wild
+	15 Bump in the Road
+	7 First Contact

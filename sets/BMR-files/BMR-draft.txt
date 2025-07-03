@@ -1,0 +1,635 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Raeden, Behemoth's Heart",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Raeden",
+			"collector_number": "32",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/32_Raeden, Behemoth's Heart_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/32_Raeden, Behemoth's Heart_front.png"
+			}
+		},
+		{
+			"name": "Jorrin, Stormheart's Blade",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/30_Jorrin, Stormheart's Blade.png"
+			}
+		},
+		{
+			"name": "Evara, Ashheart's Flame",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/28_Evara, Ashheart's Flame.png"
+			}
+		},
+		{
+			"name": "Aeron, Zephyrheart's Vale",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Angel Soldier",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/26_Aeron, Zephyrheart's Vale.png"
+			}
+		},
+		{
+			"name": "Syris, Thornheart's Guard",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/34_Syris, Thornheart's Guard.png"
+			}
+		},
+		{
+			"name": "Vessk, Forgeheart's Maw",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}{U}",
+			"type": "Legendary Creature — Elf Artificer",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/35_Vessk, Forgeheart's Maw.png"
+			}
+		},
+		{
+			"name": "Aeron's Vale",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/27_Aeron's Vale.png"
+			}
+		},
+		{
+			"name": "Stormlash Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/24_Stormlash Warden.png"
+			}
+		},
+		{
+			"name": "Resolute Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/3_Resolute Guard.png"
+			}
+		},
+		{
+			"name": "Giant Owl",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/6_Giant Owl.png"
+			}
+		},
+		{
+			"name": "Forgeheart Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/13_Forgeheart Sentinel.png"
+			}
+		},
+		{
+			"name": "Smoldering Zealot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/18_Smoldering Zealot.png"
+			}
+		},
+		{
+			"name": "Shard of the Behemoth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/40_Shard of the Behemoth.png"
+			}
+		},
+		{
+			"name": "Behemoth-Claw Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/38_Behemoth-Claw Blade.png"
+			}
+		},
+		{
+			"name": "Vessk's Maw",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/36_Vessk's Maw.png"
+			}
+		},
+		{
+			"name": "Jorrin's Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/31_Jorrin's Blade.png"
+			}
+		},
+		{
+			"name": "Syris' Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Saproling",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/33_Syris' Guard.png"
+			}
+		},
+		{
+			"name": "Evara's Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/29_Evara's Flame.png"
+			}
+		},
+		{
+			"name": "Wrath of the Thornheart",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/5_Wrath of the Thornheart.png"
+			}
+		},
+		{
+			"name": "Suncrest Rider",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/4_Suncrest Rider.png"
+			}
+		},
+		{
+			"name": "Flock Hawk",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/2_Flock Hawk.png"
+			}
+		},
+		{
+			"name": "Ashheart Herald",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/1_Ashheart Herald.png"
+			}
+		},
+		{
+			"name": "Zephyrheart Blessing",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/10_Zephyrheart Blessing.png"
+			}
+		},
+		{
+			"name": "Reforged Strix",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/7_Reforged Strix.png"
+			}
+		},
+		{
+			"name": "Vault",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/9_Vault.png"
+			}
+		},
+		{
+			"name": "Stormline Severence",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/8_Stormline Severence.png"
+			}
+		},
+		{
+			"name": "Sever the Heartline",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/15_Sever the Heartline.png"
+			}
+		},
+		{
+			"name": "Forgeheart Researcher",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Scientist",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/12_Forgeheart Researcher.png"
+			}
+		},
+		{
+			"name": "Ashmaw Direhound",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Dog",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/11_Ashmaw Direhound.png"
+			}
+		},
+		{
+			"name": "Saproling Incubator",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Fungus",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/14_Saproling Incubator.png"
+			}
+		},
+		{
+			"name": "Windshear",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/19_Windshear.png"
+			}
+		},
+		{
+			"name": "Gather the Weapons",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/17_Gather the Weapons.png"
+			}
+		},
+		{
+			"name": "Ashheart Spawn",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Devil",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/16_Ashheart Spawn.png"
+			}
+		},
+		{
+			"name": "Zephyrheart Fledgling",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/20_Zephyrheart Fledgling.png"
+			}
+		},
+		{
+			"name": "Discover the Heartland",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/21_Discover the Heartland.png"
+			}
+		},
+		{
+			"name": "Growth Elemental",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/22_Growth Elemental.png"
+			}
+		},
+		{
+			"name": "Thornheart Sapling",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/25_Thornheart Sapling.png"
+			}
+		},
+		{
+			"name": "Stormheart Captain",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/23_Stormheart Captain.png"
+			}
+		},
+		{
+			"name": "Ashheart Shard",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/37_Ashheart Shard.png"
+			}
+		},
+		{
+			"name": "Thornheart Shard",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/43_Thornheart Shard.png"
+			}
+		},
+		{
+			"name": "Zephyrheart Shard",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/45_Zephyrheart Shard.png"
+			}
+		},
+		{
+			"name": "Zephyr Wings",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/44_Zephyr Wings.png"
+			}
+		},
+		{
+			"name": "Stormheart Scout",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/41_Stormheart Scout.png"
+			}
+		},
+		{
+			"name": "Forgeheart Shard",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/39_Forgeheart Shard.png"
+			}
+		},
+		{
+			"name": "Stormheart Shard",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/42_Stormheart Shard.png"
+			}
+		},
+		{
+			"name": "Thopter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Thopter",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/8_Thopter.png"
+			}
+		},
+		{
+			"name": "Saproling",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Saproling",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/5_Saproling.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/1_Bird.png"
+			}
+		},
+		{
+			"name": "Sword",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/7_Sword.png"
+			}
+		},
+		{
+			"name": "Phoenix",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phoenix",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/3_Phoenix.png"
+			}
+		},
+		{
+			"name": "Human Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/2_Human Soldier.png"
+			}
+		},
+		{
+			"name": "Scrap",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/6_Scrap.png"
+			}
+		},
+		{
+			"name": "Phoenix",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phoenix",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/4_Phoenix.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Raeden, Behemoth's Heart
+	2 Jorrin, Stormheart's Blade
+	2 Evara, Ashheart's Flame
+	2 Aeron, Zephyrheart's Vale
+	2 Syris, Thornheart's Guard
+	2 Vessk, Forgeheart's Maw
+[uncommon(4)]
+	4 Aeron's Vale
+	4 Stormlash Warden
+	4 Resolute Guard
+	4 Giant Owl
+	4 Forgeheart Sentinel
+	4 Smoldering Zealot
+	4 Shard of the Behemoth
+	4 Behemoth-Claw Blade
+	4 Vessk's Maw
+	4 Jorrin's Blade
+	4 Syris' Guard
+	4 Evara's Flame
+[common(7)]
+	8 Wrath of the Thornheart
+	8 Suncrest Rider
+	8 Flock Hawk
+	8 Ashheart Herald
+	8 Zephyrheart Blessing
+	8 Reforged Strix
+	8 Vault
+	8 Stormline Severence
+	8 Sever the Heartline
+	8 Forgeheart Researcher
+	8 Ashmaw Direhound
+	8 Saproling Incubator
+	8 Windshear
+	8 Gather the Weapons
+	8 Ashheart Spawn
+	8 Zephyrheart Fledgling
+	8 Discover the Heartland
+	8 Growth Elemental
+	8 Thornheart Sapling
+	8 Stormheart Captain
+	8 Ashheart Shard
+	8 Thornheart Shard
+	8 Zephyrheart Shard
+	8 Zephyr Wings
+	8 Stormheart Scout
+	8 Forgeheart Shard
+	8 Stormheart Shard
+[wildcard(2)]
+	4 Raeden, Behemoth's Heart
+	7 Jorrin, Stormheart's Blade
+	7 Evara, Ashheart's Flame
+	7 Aeron, Zephyrheart's Vale
+	7 Syris, Thornheart's Guard
+	7 Vessk, Forgeheart's Maw
+	15 Aeron's Vale
+	15 Stormlash Warden
+	15 Resolute Guard
+	15 Giant Owl
+	15 Forgeheart Sentinel
+	15 Smoldering Zealot
+	15 Shard of the Behemoth
+	15 Behemoth-Claw Blade
+	15 Vessk's Maw
+	15 Jorrin's Blade
+	15 Syris' Guard
+	15 Evara's Flame
+	6 Wrath of the Thornheart
+	6 Suncrest Rider
+	6 Flock Hawk
+	6 Ashheart Herald
+	6 Zephyrheart Blessing
+	6 Reforged Strix
+	6 Vault
+	6 Stormline Severence
+	6 Sever the Heartline
+	6 Forgeheart Researcher
+	6 Ashmaw Direhound
+	6 Saproling Incubator
+	6 Windshear
+	6 Gather the Weapons
+	6 Ashheart Spawn
+	6 Zephyrheart Fledgling
+	6 Discover the Heartland
+	6 Growth Elemental
+	6 Thornheart Sapling
+	6 Stormheart Captain
+	6 Ashheart Shard
+	6 Thornheart Shard
+	6 Zephyrheart Shard
+	6 Zephyr Wings
+	6 Stormheart Scout
+	6 Forgeheart Shard
+	6 Stormheart Shard

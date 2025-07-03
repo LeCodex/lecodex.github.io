@@ -1,8 +1,10 @@
 ﻿{
     "name": "Microset Landbase",
-    "formats": "Microsets",
+    "formats": "",
     "trimmed": "y",
     "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "Cinder Barrens",

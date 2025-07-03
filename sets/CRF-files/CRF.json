@@ -1,8 +1,10 @@
 ﻿{
     "name": "Chikyu: Ruined Future",
-    "formats": "Microsets",
+    "formats": "",
     "trimmed": "y",
     "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "Ryoto, Wilds Walker",

@@ -1,0 +1,548 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Rock-Throwing Tank",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/29_Rock-Throwing Tank.png"
+			}
+		},
+		{
+			"name": "The Apartments",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Room",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/6_The Apartments.png"
+			}
+		},
+		{
+			"name": "Bill, the Sacrifice",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/14_Bill, the Sacrifice.png"
+			}
+		},
+		{
+			"name": "The Sugar Mill",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Room",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/12_The Sugar Mill.png"
+			}
+		},
+		{
+			"name": "Auto Shotgun",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/42_Auto Shotgun.png"
+			}
+		},
+		{
+			"name": "Startled Witch",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Zombie",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/24_Startled Witch.png"
+			}
+		},
+		{
+			"name": "Helicopter Pilot",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/34_Helicopter Pilot.png"
+			}
+		},
+		{
+			"name": "The Coaster",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment — Room",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/39_The Coaster.png"
+			}
+		},
+		{
+			"name": "Zoey, Hope Against Hope",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/38_Zoey, Hope Against Hope.png"
+			}
+		},
+		{
+			"name": "Coach, Devoted Leader",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/32_Coach, Devoted Leader.png"
+			}
+		},
+		{
+			"name": "Louis, the Optimist",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/35_Louis, the Optimist.png"
+			}
+		},
+		{
+			"name": "Wedding Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/37_Wedding Witch.png"
+			}
+		},
+		{
+			"name": "Cargo Plane",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/31_Cargo Plane.png"
+			}
+		},
+		{
+			"name": "The Waterfront",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Enchantment — Room",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/40_The Waterfront.png"
+			}
+		},
+		{
+			"name": "Ellis, Killing Machine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Survivor",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/33_Ellis, Killing Machine.png"
+			}
+		},
+		{
+			"name": "Pestilent Zombies",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/36_Pestilent Zombies.png"
+			}
+		},
+		{
+			"name": "Alarmed Car",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/41_Alarmed Car.png"
+			}
+		},
+		{
+			"name": "Sniper Rifle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/45_Sniper Rifle.png"
+			}
+		},
+		{
+			"name": "Jockey Ride",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/10_Jockey Ride.png"
+			}
+		},
+		{
+			"name": "Pummeling Charger",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/27_Pummeling Charger.png"
+			}
+		},
+		{
+			"name": "Ravenous Horde",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/17_Ravenous Horde.png"
+			}
+		},
+		{
+			"name": "Headshot",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/2_Headshot.png"
+			}
+		},
+		{
+			"name": "Team Healer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/5_Team Healer.png"
+			}
+		},
+		{
+			"name": "Rooftop Smoker",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/30_Rooftop Smoker.png"
+			}
+		},
+		{
+			"name": "Bilious Boomer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/13_Bilious Boomer.png"
+			}
+		},
+		{
+			"name": "Molotov Throw",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/22_Molotov Throw.png"
+			}
+		},
+		{
+			"name": "Fallen CEDA Agent",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Zombie Doctor",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/1_Fallen CEDA Agent.png"
+			}
+		},
+		{
+			"name": "Ensnaring Smoker",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Zombie",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/8_Ensnaring Smoker.png"
+			}
+		},
+		{
+			"name": "Rocket-Launched Survivor",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/4_Rocket-Launched Survivor.png"
+			}
+		},
+		{
+			"name": "Spawn-Point Scouting",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/11_Spawn-Point Scouting.png"
+			}
+		},
+		{
+			"name": "Katana Wielder",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/3_Katana Wielder.png"
+			}
+		},
+		{
+			"name": "Expert Tactician",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/9_Expert Tactician.png"
+			}
+		},
+		{
+			"name": "Ceiling Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Zombie",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/7_Ceiling Hunter.png"
+			}
+		},
+		{
+			"name": "Swamp Fever",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/18_Swamp Fever.png"
+			}
+		},
+		{
+			"name": "Reckless Speedster",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/23_Reckless Speedster.png"
+			}
+		},
+		{
+			"name": "Cacophonous Crows",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/15_Cacophonous Crows.png"
+			}
+		},
+		{
+			"name": "Noxious Spitter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/16_Noxious Spitter.png"
+			}
+		},
+		{
+			"name": "Eviscerating Hunter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Zombie",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/19_Eviscerating Hunter.png"
+			}
+		},
+		{
+			"name": "Infected Clown",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Zombie Clown",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/21_Infected Clown.png"
+			}
+		},
+		{
+			"name": "Resourceful Survivor",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/28_Resourceful Survivor.png"
+			}
+		},
+		{
+			"name": "Infected Riot Guards",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Zombie Soldier",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/26_Infected Riot Guards.png"
+			}
+		},
+		{
+			"name": "Incendiary Explosion",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/20_Incendiary Explosion.png"
+			}
+		},
+		{
+			"name": "Pipe Bomb",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/44_Pipe Bomb.png"
+			}
+		},
+		{
+			"name": "Electric Guitar",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/43_Electric Guitar.png"
+			}
+		},
+		{
+			"name": "Green Flu Mutation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/L4D-files/img/25_Green Flu Mutation.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Rock-Throwing Tank
+	2 The Apartments
+	2 Bill, the Sacrifice
+	2 The Sugar Mill
+	2 Auto Shotgun
+	2 Startled Witch
+[uncommon(4)]
+	4 Helicopter Pilot
+	4 The Coaster
+	4 Zoey, Hope Against Hope
+	4 Coach, Devoted Leader
+	4 Louis, the Optimist
+	4 Wedding Witch
+	4 Cargo Plane
+	4 The Waterfront
+	4 Ellis, Killing Machine
+	4 Pestilent Zombies
+	4 Alarmed Car
+	4 Sniper Rifle
+[common(7)]
+	8 Jockey Ride
+	8 Pummeling Charger
+	8 Ravenous Horde
+	8 Headshot
+	8 Team Healer
+	8 Rooftop Smoker
+	8 Bilious Boomer
+	8 Molotov Throw
+	8 Fallen CEDA Agent
+	8 Ensnaring Smoker
+	8 Rocket-Launched Survivor
+	8 Spawn-Point Scouting
+	8 Katana Wielder
+	8 Expert Tactician
+	8 Ceiling Hunter
+	8 Swamp Fever
+	8 Reckless Speedster
+	8 Cacophonous Crows
+	8 Noxious Spitter
+	8 Eviscerating Hunter
+	8 Infected Clown
+	8 Resourceful Survivor
+	8 Infected Riot Guards
+	8 Incendiary Explosion
+	8 Pipe Bomb
+	8 Electric Guitar
+	8 Green Flu Mutation
+[wildcard(2)]
+	4 Rock-Throwing Tank
+	7 The Apartments
+	7 Bill, the Sacrifice
+	7 The Sugar Mill
+	7 Auto Shotgun
+	7 Startled Witch
+	15 Helicopter Pilot
+	15 The Coaster
+	15 Zoey, Hope Against Hope
+	15 Coach, Devoted Leader
+	15 Louis, the Optimist
+	15 Wedding Witch
+	15 Cargo Plane
+	15 The Waterfront
+	15 Ellis, Killing Machine
+	15 Pestilent Zombies
+	15 Alarmed Car
+	15 Sniper Rifle
+	6 Jockey Ride
+	6 Pummeling Charger
+	6 Ravenous Horde
+	6 Headshot
+	6 Team Healer
+	6 Rooftop Smoker
+	6 Bilious Boomer
+	6 Molotov Throw
+	6 Fallen CEDA Agent
+	6 Ensnaring Smoker
+	6 Rocket-Launched Survivor
+	6 Spawn-Point Scouting
+	6 Katana Wielder
+	6 Expert Tactician
+	6 Ceiling Hunter
+	6 Swamp Fever
+	6 Reckless Speedster
+	6 Cacophonous Crows
+	6 Noxious Spitter
+	6 Eviscerating Hunter
+	6 Infected Clown
+	6 Resourceful Survivor
+	6 Infected Riot Guards
+	6 Incendiary Explosion
+	6 Pipe Bomb
+	6 Electric Guitar
+	6 Green Flu Mutation
