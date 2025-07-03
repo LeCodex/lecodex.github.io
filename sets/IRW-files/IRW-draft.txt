@@ -1,0 +1,548 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Arhat of Unbidden Lessons",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Avatar Advisor",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/1_Arhat of Unbidden Lessons.png"
+			}
+		},
+		{
+			"name": "Sentry Post",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/6_Sentry Post.png"
+			}
+		},
+		{
+			"name": "Lesser-Chariot Vassal",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Vampire Noble Knight",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/5_Lesser-Chariot Vassal.png"
+			}
+		},
+		{
+			"name": "Ascendant Art - Form of Forms",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/2_Ascendant Art - Form of Forms.png"
+			}
+		},
+		{
+			"name": "Hard Bargain",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/4_Hard Bargain.png"
+			}
+		},
+		{
+			"name": "Griefspear Ascendant",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elf Rogue Hero",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/12_Griefspear Ascendant.png"
+			}
+		},
+		{
+			"name": "Hesitation",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Incarnation",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/13_Hesitation.png"
+			}
+		},
+		{
+			"name": "Concordance Appraisal",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/10_Concordance Appraisal.png"
+			}
+		},
+		{
+			"name": "Countervail",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/11_Countervail.png"
+			}
+		},
+		{
+			"name": "Ascendant Art - Everstasis",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/8_Ascendant Art - Everstasis.png"
+			}
+		},
+		{
+			"name": "Terrorcrown Ascendant",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Warlock Hero",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/21_Terrorcrown Ascendant.png"
+			}
+		},
+		{
+			"name": "Charnel-Alley Confessor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Orc Assassin",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/18_Charnel-Alley Confessor.png"
+			}
+		},
+		{
+			"name": "Glass-Needle Facsimile",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Drone Soldier",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/19_Glass-Needle Facsimile.png"
+			}
+		},
+		{
+			"name": "Arhat's Mercy",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/16_Arhat's Mercy.png"
+			}
+		},
+		{
+			"name": "Ceaseless Obstacles",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/17_Ceaseless Obstacles.png"
+			}
+		},
+		{
+			"name": "Wrathstar Ascendant",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Moonfolk Wizard Hero",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/28_Wrathstar Ascendant.png"
+			}
+		},
+		{
+			"name": "Arhat of Fraying Patience",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Avatar Advisor",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/22_Arhat of Fraying Patience.png"
+			}
+		},
+		{
+			"name": "Mantar-Am Freeglider",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Rebel Pilot",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/25_Mantar-Am Freeglider.png"
+			}
+		},
+		{
+			"name": "Ascendant Art - Soul As Ash",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/23_Ascendant Art - Soul As Ash.png"
+			}
+		},
+		{
+			"name": "Training Montage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/27_Training Montage.png"
+			}
+		},
+		{
+			"name": "Arhat of Ephemeral Gifts",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Avatar Advisor",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/29_Arhat of Ephemeral Gifts.png"
+			}
+		},
+		{
+			"name": "Waymark Eviscerator",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Drone Knight",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/34_Waymark Eviscerator.png"
+			}
+		},
+		{
+			"name": "Enter Malichai",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/32_Enter Malichai.png"
+			}
+		},
+		{
+			"name": "Charnel Pickpocket",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Rebel Citizen",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/31_Charnel Pickpocket.png"
+			}
+		},
+		{
+			"name": "Ascendant Art - Horizon's Eye",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/30_Ascendant Art - Horizon's Eye.png"
+			}
+		},
+		{
+			"name": "Wayside Atlas",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/44_Wayside Atlas.png"
+			}
+		},
+		{
+			"name": "Altar of Harmonious Spheres",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/41_Altar of Harmonious Spheres.png"
+			}
+		},
+		{
+			"name": "Windscythe Ascendant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Ranger Hero",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/7_Windscythe Ascendant.png"
+			}
+		},
+		{
+			"name": "Shadows in the Way",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/14_Shadows in the Way.png"
+			}
+		},
+		{
+			"name": "Aeon-Tested Polearm",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/15_Aeon-Tested Polearm.png"
+			}
+		},
+		{
+			"name": "Ironspark Ascendant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer Hero",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/24_Ironspark Ascendant.png"
+			}
+		},
+		{
+			"name": "Time to Reflect",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/33_Time to Reflect.png"
+			}
+		},
+		{
+			"name": "Demiurge's Graces",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/36_Demiurge's Graces.png"
+			}
+		},
+		{
+			"name": "Swornspine Ascendant",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Viashino Knight Hero",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/39_Swornspine Ascendant.png"
+			}
+		},
+		{
+			"name": "Utter Conquest",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}{B}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/40_Utter Conquest.png"
+			}
+		},
+		{
+			"name": "Inadequacy",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Incarnation",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/37_Inadequacy.png"
+			}
+		},
+		{
+			"name": "Pulse of the Ashen Capital",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/38_Pulse of the Ashen Capital.png"
+			}
+		},
+		{
+			"name": "Thorn-Petal Halo",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/43_Thorn-Petal Halo.png"
+			}
+		},
+		{
+			"name": "Immaculate Ledger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/42_Immaculate Ledger.png"
+			}
+		},
+		{
+			"name": "Cylothyne, Never-Named",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Gorgon Cleric Hero",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/3_Cylothyne, Never-Named.png"
+			}
+		},
+		{
+			"name": "Cleaver of the Last Path",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Drone Knight",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/9_Cleaver of the Last Path.png"
+			}
+		},
+		{
+			"name": "Road's End",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/20_Road's End.png"
+			}
+		},
+		{
+			"name": "Royal Foundry's Roar",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/26_Royal Foundry's Roar.png"
+			}
+		},
+		{
+			"name": "Arhat of the Final Word",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Artifact Creature — Avatar Advisor",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/35_Arhat of the Final Word.png"
+			}
+		},
+		{
+			"name": "Willwrought Ascendant",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Wizard Hero",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/IRW-files/img/45_Willwrought Ascendant.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Aeon-Tested Polearm
+	2 Cylothyne, Never-Named
+	2 Cleaver of the Last Path
+	2 Royal Foundry's Roar
+	2 Arhat of the Final Word
+	2 Willwrought Ascendant
+[uncommon(4)]
+	4 Windscythe Ascendant
+	4 Shadows in the Way
+	4 Ironspark Ascendant
+	4 Time to Reflect
+	4 Demiurge's Graces
+	4 Swornspine Ascendant
+	4 Utter Conquest
+	4 Inadequacy
+	4 Pulse of the Ashen Capital
+	4 Thorn-Petal Halo
+	4 Immaculate Ledger
+	4 Road's End
+[common(7)]
+	8 Arhat of Unbidden Lessons
+	8 Sentry Post
+	8 Lesser-Chariot Vassal
+	8 Ascendant Art - Form of Forms
+	8 Hard Bargain
+	8 Griefspear Ascendant
+	8 Hesitation
+	8 Concordance Appraisal
+	8 Countervail
+	8 Ascendant Art - Everstasis
+	8 Terrorcrown Ascendant
+	8 Charnel-Alley Confessor
+	8 Glass-Needle Facsimile
+	8 Arhat's Mercy
+	8 Ceaseless Obstacles
+	8 Wrathstar Ascendant
+	8 Arhat of Fraying Patience
+	8 Mantar-Am Freeglider
+	8 Ascendant Art - Soul As Ash
+	8 Training Montage
+	8 Arhat of Ephemeral Gifts
+	8 Waymark Eviscerator
+	8 Enter Malichai
+	8 Charnel Pickpocket
+	8 Ascendant Art - Horizon's Eye
+	8 Wayside Atlas
+	8 Altar of Harmonious Spheres
+[wildcard(2)]
+	6 Arhat of Unbidden Lessons
+	6 Sentry Post
+	6 Lesser-Chariot Vassal
+	6 Ascendant Art - Form of Forms
+	6 Hard Bargain
+	6 Griefspear Ascendant
+	6 Hesitation
+	6 Concordance Appraisal
+	6 Countervail
+	6 Ascendant Art - Everstasis
+	6 Terrorcrown Ascendant
+	6 Charnel-Alley Confessor
+	6 Glass-Needle Facsimile
+	6 Arhat's Mercy
+	6 Ceaseless Obstacles
+	6 Wrathstar Ascendant
+	6 Arhat of Fraying Patience
+	6 Mantar-Am Freeglider
+	6 Ascendant Art - Soul As Ash
+	6 Training Montage
+	6 Arhat of Ephemeral Gifts
+	6 Waymark Eviscerator
+	6 Enter Malichai
+	6 Charnel Pickpocket
+	6 Ascendant Art - Horizon's Eye
+	6 Wayside Atlas
+	6 Altar of Harmonious Spheres
+	15 Windscythe Ascendant
+	15 Shadows in the Way
+	7 Aeon-Tested Polearm
+	15 Ironspark Ascendant
+	15 Time to Reflect
+	15 Demiurge's Graces
+	15 Swornspine Ascendant
+	15 Utter Conquest
+	15 Inadequacy
+	15 Pulse of the Ashen Capital
+	15 Thorn-Petal Halo
+	15 Immaculate Ledger
+	7 Cylothyne, Never-Named
+	7 Cleaver of the Last Path
+	15 Road's End
+	7 Royal Foundry's Roar
+	7 Arhat of the Final Word
+	7 Willwrought Ascendant
