@@ -1,4 +1,104 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Hand-to-Hand Psychologist added.
+Radiation added.
+Monkey added.
+Academic Discussion added.
+Food added.
+
+Hand-to-hand Psychologist removed.
+Academic Tenure removed.
+
+Pagebeast Hunter
+
+Geiger Guy
+
+Irradiating Syphon
+
+Compulsory Study
+
+Return to the Page
+
+Crafted Craftsman
+
+Pinprickler
+cost: {1{B}R} => {1}{BR}
+
+Plant
+
+Antimatter Archivist
+
+Monkey Proofreader
+pt: 2/3 => 2/2
+
+Irresponsible Alchemist
+rules_text: Radioactive [i](This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)[/i]
+Whenever you put one or more -1/-1 counters on a creature, that creature deals 1 damage to each opponent. => Radioactive [i](This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)[/i]
+Whenever you put one or more counters on a creature, that creature deals 1 damage to each opponent.
+
+Irradiating Insight
+cost: {1{U}B}{BR}{UR} => {1}{UB}{BR}{UR}
+
+Territorial Book Bug
+
+Nuclear Isotope
+
+Scholar of Thoughts
+cost: {2}{U} => {U}
+pt: 3/1 => 1/1
+
+Engineering Undergrad
+rules_text: This creature gets +1/+1 as long as there are multiple artifact types among artifacts you control. => This creature gets +1/+0 for each artifact type among artifacts you control.
+
+Nuclear Physicist
+cost: {3}{U} => {4}{U}
+pt: 1/4 => 3/5
+
+Novice Economage
+pt: 3/1 => 3/2
+
+Undead Undertaker
+rules_text: When this creature dies, you may remove up to three -1/-1 counters from among creatures you control. => When this creature dies. You gain 3 life, then you may remove up to three -1/-1 counters from among creatures you control.
+
+Injury Imp
+rules_text: [i]Feral[/i] — When this creature enters, for each creature that was dealt damage under your control this turn, exile the top card of your library. You may play a card exiled this way until the end of your next turn. => [i]Feral[/i] — {T}: This creature deals 1 damage to each opponent for each creature that was dealt damage under your control this turn. Activate only as a sorcery.
+pt: 2/2 => 2/3
+
+Professor of Physique
+rules_text: Whenever another creature you control enters, if that creature's power is greater than this creature's power, you get an experience counter.
+This creature gets +2/+2 for each experience counter you have. => Whenever another creature you control enters or dies, if that creature's power is greater than this creature's, you get an experience counter.
+This creature gets +2/+2 for each experience counter you have.
+
+Crystal Powered Trolley
+rules_text: When this artifact enters, draw a card.
+Radioactive [i](This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)[/i]
+Crew 2 => When this artifact enters, draw two cards, then discard a card.
+Radioactive [i](This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)[/i]
+Crew 2
+
+Hand-to-Hand Knowledge
+rules_text: Untap target creature. You get an experience counter, then that creature gets +1/+1 until end of turn for each experience counter you have. => Untap target creature. You get an experience counter, then that creature gets +X/+X until end of turn, where X is 1 plus the number of experience counters you have.
+
+Peer Review
+rules_text: Whenever this enchantment enters or an opponent gets one or more counters for the first time each turn, you get an experience counter.
+At the beginning of your upkeep, scry X, where X is the number of experience counters you have. => Whenever this enchantment enters or an opponent gets one or more counters for the first time each turn, you get an experience counter.
+At the beginning of your upkeep, surveil X, where X is the number of experience counters you have.
+
+Sinister Insight
+rules_text: Put two -1/-1 counters on target creature you control.
+Draw two cards. => Put a -1/-1 counter on target creature you control.
+Draw two cards.
+
+Alyssa, Student of Life
+cost: {4}{GW}{GW} => {3}{GW}{GW}
+
+Microbiology Man
+cost: {3}{G} => {2}{G}
+pt: 3/5 => 4/2
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -36,7 +36,7 @@
         "set": "PHD"
     },
     {
-        "card_name": "Academic Tenure",
+        "card_name": "Academic Discussion",
         "number": 7,
         "shape": "normal",
         "set": "PHD"
@@ -120,7 +120,7 @@
         "set": "PHD"
     },
     {
-        "card_name": "Hand-to-hand Psychologist",
+        "card_name": "Hand-to-Hand Psychologist",
         "number": 4,
         "shape": "normal",
         "set": "PHD"
@@ -339,19 +339,28 @@
     },
     "a->token",
     {
-        "card_name": "Plant",
+        "card_name": "Radiation",
         "number": 1,
         "shape": "token",
         "set": "PHD"
     },
     {
-        "card_name": "e"
+        "card_name": "Food",
+        "number": 3,
+        "shape": "token",
+        "set": "PHD"
     },
     {
-        "card_name": "e"
+        "card_name": "Monkey",
+        "number": 1,
+        "shape": "token",
+        "set": "PHD"
     },
     {
-        "card_name": "e"
+        "card_name": "Plant",
+        "number": 2,
+        "shape": "token",
+        "set": "PHD"
     },
     {
         "card_name": "e"
