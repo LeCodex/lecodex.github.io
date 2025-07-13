@@ -4043,17 +4043,27 @@
 	]
 
 [cube(15)]
+	1 Unlit Cave
 	1 Crafting Bench
 	1 Flaming Weapons
+	1 Full Set
 	1 Fortune Pickaxe
+	1 Respawn and Collect
 	1 Piercing Crossbow
 	1 Thorny Dissuasion
 	1 Impaling Trident
+	1 Wooly Sheep
+	1 Sunken Stronghold
 	1 Floating Allay
+	1 Alex, Ready for Battle
 	1 Village Shepherd
 	1 Steve, Quaint Builder
 	1 Grazing Grounds
+	1 Village Bell
+	1 Pillager's Capture
+	1 Sticky Piston
 	1 Armor Stand
+	1 Mob Spawner
 	1 Warm Campfire
 	1 Flower Forest
 	1 River Bed
@@ -4080,6 +4090,7 @@
 	1 Combat Arena
 	1 Cherry Grove
 	1 The End, Dragon's Realm
+	1 The Nether
 	1 Axolotl
 	1 Illusioner
 	1 Zombified Piglin
@@ -4089,82 +4100,144 @@
 	1 Efficiency Pickaxe
 	1 Soul Speed
 	1 Totem Of Undying
+	1 Herobrine, Never Removed
 	1 Sculk Spread
+	1 Cave Spider
+	1 Composter
+	1 Scurrying Bats
 	1 Closed Server
 	1 Silverfish
+	1 Tamed Cat
+	1 Creative Mode
 	1 Replace with Air
 	1 Unload
 	1 Dinnerbone
 	1 jeb
+	1 Surprise Explosion
 	1 Respawn Anchor
 	1 Lightning Strike
+	1 Exposing Demolition
+	1 Mob Farm
+	1 Chrysopoeia
 	1 Smoking Blaze
+	1 Piglin Brute
 	1 Uneasy Alliance
 	1 Cliff Llamas
 	1 Glow Squid
+	1 Neverending Spawn
 	1 Crossbow Piglin
+	1 Coral Reef
+	1 Smithing Table
 	1 Oak Sapling
 	1 Golden Apple
+	1 Ramming Goat
+	1 Evoker
+	1 Village Cleric
 	1 Village Nitwit
+	1 Village Fisherman
+	1 Zombie Villager
 	1 Village Cartographer
 	1 Village Weaponsmith
+	1 Getting an Upgrade
 	1 Fang Attack
 	1 Baby Zombie
 	1 Crossbow Shot
+	1 Polar Bear
+	1 Pillager Raid
+	1 Turn to Data
+	1 Iron Hopper
+	1 Husk
 	1 Wither Skeleton
+	1 Enter the Cave
+	1 Village Butcher
 	1 Jungle Parrot
 	1 Vindicator
 	1 Meadow Cow
 	1 Banished Witch
+	1 Trial Raid
 	1 Sea Dolphin
+	1 Victory Celebration
+	1 Hero of the Village
 	1 Kick
 	1 Time Command
 	1 Critical Strike
 	1 Take Inventory
 	1 Ruthless Predation
+	1 Large Slime
 	1 Spectator Mode
 	1 Void Command
 	1 Gold Bartering
 	1 Wither Rose
+	1 Turtle
 	1 Ink Squid
 	1 Tame Panda
 	1 Pack Donkey
+	1 Clear Command
+	1 Wild Fox
 	1 Frost Stray
+	1 Fish Bucket
+	1 Outpost Defense
 	1 Phantom
 	1 Arctic Fox
+	1 Happy Ghast
+	1 Bee Hive
 	1 Crying Ghast
+	1 Armored Horse
 	1 Sniffer
+	1 The Ender Dragon
 	1 Ravager
+	1 Lava Strider
 	1 How Did We Get Here
 	1 Command Block
 	1 Nether Portal
+	1 Zombie Reinforcements
 	1 Dragon's Breath
+	1 Creaking
+	1 Skeleton Horse
 	1 Change Data
 	1 Drowned Zombie
+	1 Zombie's Bite
+	1 Insect Infestation
 	1 Swoop Down
+	1 Charging Strike
 	1 Snow Golem
 	1 Temple Guardian
+	1 Young Hoglin
+	1 Village Farmer
 	1 Angered Wolf
+	1 Third Shriek
 	1 Clearcutting
 	1 Pink Sheep
 	1 Acid Fireball
 	1 Enderman
 	1 Potion of Swiftness
+	1 Ice Highway
+	1 Shore Lighthouse
 	1 Village Mason
 	1 Gather Experience
 	1 Village Librarian
+	1 Defend the Village
 	1 Compacting Resources
 	1 Chest Breaking
 	1 Hoglin
 	1 One-Way Trip
 	1 Bogged Skeleton
 	1 Dig Straight Down
+	1 Out of the Webs
 	1 TNT Cannon
 	1 Terraforming
+	1 Magma Cube
+	1 Tend the Pens
 	1 Flying Machine
 	1 Shrinking Worldborder
 	1 Village Armorer
+	1 Wild Rabbit
+	1 Stone Age
+	1 Equipping Station
+	1 Isn't it Iron Pick
+	1 Growing Pack
 	1 Fire Charge
+	1 Tadpole Knot
 	1 Faithful Companion
 	1 Explore
 	1 Wind Charge
@@ -4175,22 +4248,35 @@
 	1 Rascal
 	1 Arson
 	1 Wandering Trader
+	1 Zombie Giant
+	1 Mooshroom Herd
 	1 Village Fletcher
 	1 Tuff Golem
 	1 Claim Land
+	1 Bad Omen
 	1 Shipwreck
 	1 Pufferfish
 	1 Iron Shovel
 	1 Observer
+	1 Spider Jockey
 	1 Territorial Anger
+	1 Brown Mooshroom
+	1 Ancient Etchings
 	1 For the Herd
 	1 Repeating Command Chain
 	1 Teleport Out
+	1 Finish The Base
 	1 Sift the Loot
+	1 Unpleasant Surprise
 	1 Elytras
+	1 Illager Patrol
 	1 Torching
+	1 Pillager Horn
 	1 Curse of Binding
+	1 Dungeon Chest
+	1 Escalating Raid
 	1 Protection Chestplate
+	1 Exponential Growth
 	1 Lightning Rod
 	1 11 Music Disc
 	1 Pigstep Music Disc
@@ -4204,13 +4290,18 @@
 	1 Jeb Door
 	1 Lava Lake
 	1 Ominous Banner
+	1 Moody Weather
 	1 Planned for It
 	1 Resource Organization
+	1 Zombie Horse
+	1 Fang Defense
 	1 Pig Herd
 	1 The Parrots and the Bats
+	1 Trading Hall
 	1 Trader Llama
 	1 The End Fountain
 	1 Collect
+	1 Iron Farm
 	1 Village Leatherworker
 	1 New Professions
 	1 Return To Sender
@@ -4218,30 +4309,52 @@
 	1 Hired Help
 	1 Clone Command
 	1 Potion Throw
+	1 Pilfer the Bastion
 	1 Warden
 	1 Sculk Sensor
+	1 Village Fountain
 	1 Enchanting Table
 	1 Minecart Network
 	1 Strip Mining
+	1 Animal Husbandry
 	1 Spawn Egg
 	1 World Eater
 	1 Iceologer
+	1 Trail Ruins
 	1 Diamond Gear
 	1 Equipped Spawn
+	1 Stone Sword
 	1 Wooden Shield
 	1 Grindstone
+	1 Prepared Incursion
+	1 Awaited Hatching
 	1 Blast Furnace
 	1 Griefing
 	1 Low Durability
 	1 Fake Abandon
+	1 A Complete Catalogue
 	1 Mesa Wolf
 	1 Brewing Stand
 	1 Pick Back Up
+	1 Chicken Jockey
 	1 Precarious Structure
 	1 Haste Effect
 	1 Herd Spawning
 	1 Emperor Penguin
+	1 Lobsided Crab
 	1 Shy Armadillo
+	1 Trial Spawner
+	1 Beacon Platform
+	1 Faction Base
+	1 Town Square
+	1 Watchful Outpost
+	1 Clocktower
+	1 Spleef Arena
+	1 Storage System
+	1 Archery Range
+	1 Deep Mine
+	1 Wood Camp
+	1 Central Map
 	1 Blowing Breeze
 	1 TNT Block
 	1 The Dragon Egg
@@ -4252,6 +4365,7 @@
 	1 Woodland Mansion
 	1 Redstone Contraption
 	1 Impressive Build
+	1 Shulker Box
 	1 Amethyst Geode
 	1 Netherite Excavation
 	1 Zoglin
@@ -4265,6 +4379,8 @@
 	1 Piglin Warrior
 	1 Desert Camel
 	1 The Killer Bunny
+	1 Village Toolsmith
+	1 Small Chicken
 	1 Windswept Hills
 	1 Classic Superflat
 	1 Shattered Forest
