@@ -253,6 +253,7 @@ def generateHTML(code):
 		border: 2px solid #171717;
 		border-radius: 20px;
 		display: none;
+		flex-direction: column;
 		align-items: center;
 		justify-content: center;
 	}
@@ -598,6 +599,7 @@ def generateHTML(code):
 						card_images.push({
 							name: card.name,
 							colors: getCardColors(card),
+							type: card.type,
 							rarity: card.rarity,
 							url: card.image_uris.en
 						});
@@ -672,7 +674,12 @@ def generateHTML(code):
 			const cb = b.colors.length === 0;
 
 			// Always put colorless cards last
-			if (ca && cb) return 0;
+			if (ca && cb) {
+				// Always put lands last
+				const la = a.type.includes("Land");
+				const lb = b.type.includes("Land");
+				return la && !lb ? 1 : lb && !la ? -1 : 0;
+			}
 			if (ca && !cb) return 1;
 			if (cb && !ca) return -1;
 
