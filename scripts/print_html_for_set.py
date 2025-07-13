@@ -567,7 +567,7 @@ def generateHTML(code):
 
 			const colors = [];
 			for (const color of manaColors) {
-				if (card.mana_cost.includes(color) {
+				if (card.mana_cost.includes(color)) {
 					colors.push(color)
 				}
 			}
@@ -710,13 +710,13 @@ def generateHTML(code):
 				used_cards.push(card);
 			}
 
-			used_cards = used_cards.sort((a, b) =>
-				const raritySort = sortRarity(a, b)
+			used_cards = used_cards.sort((a, b) => {
+				const raritySort = sortRarity(a, b);
 				if (raritySort) return raritySort;
 				const colorSort = sortColor(a, b)
 				if (colorSort) return colorSort;
 				return a.name.localeCompare(b.name);
-			);
+			});
 
 			for (const card of used_cards) {
 				const img_url = card.url;
