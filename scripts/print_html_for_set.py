@@ -253,6 +253,8 @@ def generateHTML(code):
 		border: 2px solid #171717;
 		border-radius: 20px;
 		display: none;
+		align-items: center;
+		justify-content: center;
 	}
 	.overlay-title {
 		font-family: 'Beleren';
@@ -556,6 +558,22 @@ def generateHTML(code):
 			}
 		}
 
+		const manaColors = "WUBRG";
+		/** Get the color of a card from its color data, or mana cost if it's absent */
+		function getCardColors(card) {
+			if (card.colors) {
+				return card.colors;
+			}
+
+			const colors = [];
+			for (const color of manaColors) {
+				if (card.mana_cost.includes(color) {
+					colors.push(color)
+				}
+			}
+			return colors;
+		}
+
 		function draftmancerToP1P1(draft_file) { // comments in here by aanginer
 			let draft_slots = {};
 			let p1p1_object = [];
@@ -579,6 +597,8 @@ def generateHTML(code):
 					{
 						card_images.push({
 							name: card.name,
+							colors: getCardColors(card),
+							rarity: card.rarity,
 							url: card.image_uris.en
 						});
 					}
@@ -634,6 +654,45 @@ def generateHTML(code):
 			p1p1_cards = p1p1_object;
 		}
 
+		const rarities = ["mythic", "rare", "uncommon", "common"];
+		/** Sort two cards based on their rarity, from most to least */
+		function sortRarity(a, b) {
+			let ia = rarities.indexOf(a);
+			let ib = rarities.indexOf(b);
+			if (ia === -1) ia = rarities.length;
+			if (ib === -1) ib = rarities.length;
+			return ib > ia ? -1 : ib < ia ? 1 : 0;
+		}
+
+		/** Sort two cards based on their colors, following WUBRG, then multicolor, then colorless order */
+		function sortColor(a, b) {
+			const ma = a.colors.length > 1;
+			const mb = b.colors.length > 1;
+			const ca = a.colors.length === 0;
+			const cb = b.colors.length === 0;
+
+			// Always put colorless cards last
+			if (ca && cb) return 0;
+			if (ca && !cb) return 1;
+			if (cb && !ca) return -1;
+
+			// Always put multicolor cards after monocolored cards
+			if (ma && !mb) return 1;
+			if (mb && !ma) return -1;
+
+			if (ma && mb) {
+				// If both cards are multicolor, sort them based on their name
+				return 0;
+			}
+
+			// We're certain that the cards have exactly one color
+			let ia = manaColors.indexOf(a.colors[0]);
+			let ib = manaColors.indexOf(b.colors[0]);
+			// That shouldn't happen, but you never know
+			if (ia === -1) ia = manaColors.length;
+			if (ib === -1) ib = manaColors.length;
+			return ib > ia ? -1 : ib < ia ? 1 : 0;
+		}
 
 		function packOnePickOne() {
 			img_list = [];
@@ -648,13 +707,24 @@ def generateHTML(code):
 					card = slot[rand_i];
 				} while (used_cards.includes(card));
 
+				used_cards.push(card);
+			}
+
+			used_cards = used_cards.sort((a, b) =>
+				const raritySort = sortRarity(a, b)
+				if (raritySort) return raritySort;
+				const colorSort = sortColor(a, b)
+				if (colorSort) return colorSort;
+				return a.name.localeCompare(b.name);
+			);
+
+			for (const card of used_cards) {
 				const img_url = card.url;
 
 				const image = new Image();
 				image.src = img_url;
 
 				img_list.push(image);
-				used_cards.push(card);
 			}
 
 			const canvas = document.getElementById("canvas");
@@ -672,7 +742,7 @@ def generateHTML(code):
 				};
 			}
 
-			document.getElementById("p1p1").style.display = "block";
+			document.getElementById("p1p1").style.display = "flex";
 		}
 
 		async function copyP1P1() {
