@@ -24,6 +24,7 @@ def generateHTML(code):
   <link rel="icon" type="image/x-icon" href="/sets/''' + code + '''-files/icon.png">
   <link rel="stylesheet" href="/resources/mana.css">
   <link rel="stylesheet" href="/resources/header.css">
+  <link rel="stylesheet" href="/resources/card-text.css">
 </head>
 <style>
 	@font-face {
@@ -185,30 +186,6 @@ def generateHTML(code):
 		min-height: 75%;
 		margin-top: 3%;
 	}
-	.card-text div {
-		white-space: normal;
-		font-size: 15px;
-		padding-bottom: 10px;
-		padding-left: 12px;
-		padding-right: 12px;
-		line-height: 155%;
-	}
-	.card-text .name-cost {
-		font-weight: bold;
-		font-size: 20px;
-		white-space: pre-wrap;
-	}
-	.card-text .type {
-		font-size: 16px;
-	}
-	.card-text .pt {
-		font-weight: bold;
-	}
-	.card-text br {
-		content: "";
-		display: block;
-		margin-bottom: 5px;
-	}
 	.img-container {
 		position: relative;
 		width: 100%;
@@ -322,6 +299,13 @@ def generateHTML(code):
 	a {
 		cursor: pointer;
 	}
+	p {
+		width: 100%;
+	}
+	p img {
+		display: block;
+		margin: auto;
+	}
 </style>
 <body>
 	'''
@@ -342,8 +326,9 @@ def generateHTML(code):
 	if os.path.exists(os.path.join('sets', code + '-files', code + '-draft.txt')):
 		html_content += '''<div class="dot"> • </div><a href="/sets/''' + code + '''-files/''' + code + '''-draft.txt" download>Draft</a>
 		<div class="dot"> • </div><a onclick="packOnePickOne()">P1P1</a>
-		</div>
-		'''
+'''
+	html_content += '''		</div>
+'''
 
 	html_content += '''
 			<div class="select-text">Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="set-code">Set Number</option><option value="name">Name</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>
@@ -420,7 +405,7 @@ def generateHTML(code):
 			await fetch('/sets/''' + code + '''-files/''' + code + '''-draft.txt')
 				.then(response => response.text())
 				.then(text => {
-					draft_file = text;
+					draft_file = text.replace(/},\\n\\t]/g, '}\\n\\t]');
 			}).catch(error => console.error('Error:', error));
 
 			draftmancerToP1P1(draft_file);
