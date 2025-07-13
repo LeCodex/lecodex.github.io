@@ -1,1 +1,9 @@
-﻿{"sets": [{"set_code": "MIN", "set_name": "Minecraft", "formats": "Cube Draft"}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "MIN",
+            "set_name": "Minecraft",
+            "formats": "Cube Draft"
+        }
+    ]
+}

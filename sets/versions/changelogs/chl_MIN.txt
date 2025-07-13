@@ -1,4 +1,1186 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Sticky Piston added.
+Outpost Defense added.
+Drowned Zombie added.
+Copper Brush added.
+
+Midnight Siege removed.
+Missing Block removed.
+Drowned removed.
+Player Heads removed.
+
+Unlit Cave
+
+Crafting Bench
+rules_text: {T}, Sacrifice a nontoken artifact: Create a tapped Tool token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast nonartifact spells.”)[/i] => {1}, {T}: Add one mana of any color.
+Tools you control have “{T}: Add one mana of any color.”
+
+Flaming Weapons
+
+Full Set
+
+Fortune Pickaxe
+
+Respawn and Collect
+
+Piercing Crossbow
+
+Thorny Dissuasion
+
+Impaling Trident
+
+Fish
+
+Wooly Sheep
+
+Sunken Stronghold
+
+Floating Allay
+
+Alex, Ready for Battle
+rules_text:  => [+1]: Up to one target creature gains trample, menace, and haste until end of turn. Create a Treasure token.
+[-2]: Until end of turn, Alex becomes a 5/5 Human Warrior creature with indestructible. Attach any number of Equipment you control to her. [i](She doesn't lose loyalty while she isn't a planeswalker.)[/i]
+
+Village Shepherd
+
+Steve, Quaint Builder
+rules_text:  => [0]: Proliferate.
+[-1]: The next artifact spell you cast this turn costs {2} less to cast.
+[-7]: Choose a permanent type. For each permanent of that type you control, create a token that's a copy of it. For each kind of counter on that permanent, put that many counters of that kind on the token.
+
+Villager
+
+Grazing Grounds
+
+Village Bell
+
+Golem
+
+Pillager's Capture
+
+Spirit
+
+Armor Stand
+
+Mob Spawner
+
+Warm Campfire
+
+Flower Forest
+
+River Bed
+
+Mushroom Island
+
+Badlands Desert
+
+Dark Forest
+
+Thermal Vent
+
+Jungle
+
+Savanna
+
+Eroded Badlands
+
+Amplified Terrain
+
+Far Lands
+
+Unloaded Chunk
+
+Igloo Basement
+
+Ancient City
+
+Ruined Portal
+
+Peaceful Village
+
+Jungle Temple
+
+Witch Hut
+
+Ocean Monument
+
+Abandoned Mineshaft
+
+Desert Well
+
+Pillager Outpost
+
+Combat Arena
+
+Cherry Grove
+
+The End, Dragon's Realm
+rules_text: {T}: Add {C}{C}. The End deals 2 damage to you. => If The End would enter, if you control less than five other lands, instead put it into its owner's graveyard, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{T}: Add {C}{C}.
+
+The Nether
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Nether deals 1 damage to you and gains “{T}: Add {C}.”
+II — At the beginning of the next end step, if a creature died this turn, create a Treasure token.
+III — If The Nether is untapped, search your library for a land card with a basic land type, put it onto the battlefield, then shuffle.
+
+Axolotl
+
+Illusioner
+
+Zombified Piglin
+
+Raid Captain
+
+Iron Anvil
+
+Multishot Crossbow
+
+Efficiency Pickaxe
+
+Soul Speed
+
+Totem Of Undying
+
+Herobrine, Never Removed
+rules_text:  => You may cast Herobrine, Never Removed from your graveyard by sacrificing two artifacts and/or creatures in addition to its other costs.
+[0]: Spawn first strike 2. [i](Create a 2/2 black Horde creature token with first strike and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i]
+[-2]: Destroy target nonland permanent.
+
+Sculk Spread
+
+Cave Spider
+
+Composter
+
+Scurrying Bats
+
+Bat
+
+Closed Server
+
+Silverfish
+
+Tamed Cat
+
+Creative Mode
+rules_text: Choose one or two. This spells costs {1} more to cast if you choose two —
+• Target creature gains flying, hexproof, and indestructible until end of turn.
+• You get 🧱🧱 [i](two brick counters)[/i]. => Choose one or both. This spells costs {1} more to cast if you choose both —
+• Target creature gains flying, hexproof, and indestructible until end of turn.
+• You get 🧱🧱 [i](two brick counters)[/i].
+
+Replace with Air
+
+Unload
+
+Dinnerbone
+
+jeb
+rules_text: Enchant creature or land
+When jeb enters, mill four cards, then draw a card.
+Enchanted permanent is all colors and has all mana abilities of lands you control and land cards in your graveyard. => Enchant creature or land
+When jeb_ enters, mill four cards, then draw a card.
+Enchanted permanent is all colors and has all mana abilities of lands you control and land cards in your graveyard.
+
+Surprise Explosion
+
+Respawn Anchor
+
+Lightning Strike
+
+Exposing Demolition
+
+Mob Farm
+
+Chrysopoeia
+
+Smoking Blaze
+
+Piglin Brute
+
+Uneasy Alliance
+
+Cliff Llamas
+
+Glow Squid
+
+Neverending Spawn
+
+Crossbow Piglin
+
+Coral Reef
+
+Smithing Table
+
+Oak Sapling
+
+Golden Apple
+
+Ramming Goat
+
+Evoker
+
+Village Cleric
+
+Village Nitwit
+
+Village Fisherman
+
+Zombie Villager
+
+Village Cartographer
+
+Village Weaponsmith
+
+Getting an Upgrade
+
+Fang Attack
+
+Baby Zombie
+
+Crossbow Shot
+
+Polar Bear
+
+Bear
+
+Pillager Raid
+
+Villager Army
+
+Turn to Data
+
+Iron Hopper
+
+Husk
+
+Wither Skeleton
+
+Enter the Cave
+
+Village Butcher
+
+Jungle Parrot
+cost: {4}{U} => {2}{U}
+pt: 4/4 => 2/2
+
+Tool
+
+Vindicator
+
+Meadow Cow
+
+Banished Witch
+
+Trial Raid
+
+Sea Dolphin
+
+Victory Celebration
+
+Hero of the Village
+cost: {3}{W} => {2}{W}
+rules_text: When Hero of the Village enters and at the beginning of your end step, create a 1/1 white Villager creature token. If you gained or lost life this turn, create two of those tokens instead. => Whenever you gain or lose life during your turn, put a quest counter on Hero of the Village.
+Sacrifice Hero of the Village: Create a 1/1 white Villager creature token for each quest counter on it. Activate only as a sorcery.
+
+Kick
+
+Time Command
+
+Critical Strike
+
+Take Inventory
+
+Ruthless Predation
+
+Large Slime
+
+Spectator Mode
+
+Void Command
+
+Gold Bartering
+
+Wither Rose
+
+Turtle
+
+Ink Squid
+
+Tame Panda
+
+Pack Donkey
+
+Clear Command
+
+Wild Fox
+
+Frost Stray
+
+Fish Bucket
+
+Phantom
+rules_text: Flying
+Whenever a creature you control deals combat damage to a player, each opponent loses 1 life and you gain 1 life. => Flying
+Unblocked attacking black creatures you control have lifelink.
+
+Arctic Fox
+
+Happy Ghast
+cost: {2}{U} => {4}{U}
+pt: 2/2 => 4/4
+
+Bee Hive
+
+Crying Ghast
+
+Armored Horse
+
+Sniffer
+
+Insect
+
+The Ender Dragon
+
+End Crystal
+
+Ravager
+
+Lava Strider
+
+How Did We Get Here
+rules_text: Hexproof
+When How Did We Get Here enters, search your library for a card, put it into your hand, then shuffle.
+At the beginning of your upkeep, if you have activated your Function this game, are an explorer, and control an Equipment, a Horde, and a Construction, you win the game. => Hexproof
+When How Did We Get Here? enters, search your library for a card, put it into your hand, then shuffle.
+At the beginning of your upkeep, if you have activated your Function this game, are an explorer, and control an Equipment, a Horde, and a Construction, you win the game.
+
+Command Block
+cost: {2} => {1}
+rules_text: When Command Block enters, create a tapped Tool token. [i](It's an artifact with “{T}: Add {C}. This mana can't be spent to cast nonartifact spells.”)[/i]
+{1}, {T}: Add {W}, {U}, or {B}. => {2}, {T}, Sacrifice Command Block: Search your library for an artifact or basic land card, reveal it, put it into your hand, then shuffle.
+
+Nether Portal
+
+Zombie Reinforcements
+
+Dragon's Breath
+
+Creaking
+
+Skeleton Horse
+
+Skeleton Archer
+
+Change Data
+
+Zombie's Bite
+
+Zombie
+
+Insect Infestation
+
+Swoop Down
+
+Charging Strike
+
+Snow Golem
+
+Temple Guardian
+
+Young Hoglin
+
+Village Farmer
+
+Angered Wolf
+
+Third Shriek
+
+Clearcutting
+
+Pink Sheep
+
+Acid Fireball
+
+Enderman
+
+Potion of Swiftness
+
+Ice Highway
+rules_text: [i]({X}: Put X brick counters on this. Activate each ability in any order, only once, as a sorcery.)[/i] => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Change Dimension
+Return target nonland permanent to its owner's hand.
+🧱🧱: Place Ice Blocks
+Artifact spells you cast this turn cost {3} less to cast.
+🧱🧱🧱: Boat Across
+Creatures you control get +1/+1 and gain menace and vigilance until end of turn.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Change Dimension
+Return target nonland permanent to its owner's hand.
+🧱🧱: Place Ice Blocks
+Artifact spells you cast this turn cost {3} less to cast.
+🧱🧱🧱: Boat Across
+Creatures you control get +1/+1 and gain menace and vigilance until end of turn. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Change Dimension
+Return target nonland permanent to its owner's hand.
+🧱🧱: Place Ice Blocks
+Artifact spells you cast this turn cost {3} less to cast.
+🧱🧱🧱: Boat Across
+Creatures you control get +1/+1 and gain menace and vigilance until end of turn.
+
+Shore Lighthouse
+rules_text:  => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Search for a Spot
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+🧱🧱: Build the Floors
+Put a reach and two +1/+1 counters on target creature.
+🧱🧱🧱: Light it Up
+This artifact gains “Whenever a land you control enters, proliferate.” [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Search for a Spot
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+🧱🧱: Build the Floors
+Put a reach and two +1/+1 counters on target creature.
+🧱🧱🧱: Light it Up
+This artifact gains “Whenever a land you control enters, proliferate.” [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Search for a Spot
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+🧱🧱: Build the Floors
+Put a reach and two +1/+1 counters on target creature.
+🧱🧱🧱: Light it Up
+This artifact gains “Whenever a land you control enters, proliferate.” [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Village Mason
+
+Gather Experience
+
+Village Librarian
+
+Medium Slime
+
+Small Slime
+
+Defend the Village
+
+Compacting Resources
+
+Chest Breaking
+
+Hoglin
+
+One-Way Trip
+
+Bogged Skeleton
+
+Dig Straight Down
+
+Out of the Webs
+
+TNT Cannon
+
+Terraforming
+
+Magma Cube
+
+Tend the Pens
+
+Flying Machine
+rules_text: {3}: Flying Machine becomes a 0/0 Construct artifact creature with flying and haste. Put three +1/+1 counters on it. Activate only once during each of your turns. => {3}: Put three +1/+1 counters on Flying Machine. It becomes a 0/0 Construct artifact creature with flying and haste. Activate only once during each of your turns.
+
+Shrinking Worldborder
+
+Village Armorer
+
+Wild Rabbit
+
+Rabbit
+
+Stone Age
+
+Equipping Station
+
+Isn't it Iron Pick
+
+Growing Pack
+
+Wolf
+
+Fire Charge
+
+Tadpole Knot
+
+Faithful Companion
+
+Explore
+
+Wind Charge
+
+Forest Fire
+
+Ender Chest
+
+Golden Sword
+
+Glare
+
+Rascal
+
+Arson
+
+Wandering Trader
+
+Zombie Giant
+
+Mooshroom Herd
+
+Village Fletcher
+
+Tuff Golem
+
+Claim Land
+
+Bad Omen
+
+Shipwreck
+
+Pufferfish
+
+Iron Shovel
+
+Observer
+
+Spider Jockey
+
+Explorer
+
+Territorial Anger
+
+Brown Mooshroom
+
+Ancient Etchings
+
+For the Herd
+
+Repeating Command Chain
+
+Teleport Out
+
+Finish The Base
+
+Sift the Loot
+
+Unpleasant Surprise
+
+Elytras
+
+Illager Patrol
+
+Torching
+
+Pillager Horn
+
+Curse of Binding
+
+Dungeon Chest
+
+Escalating Raid
+
+Protection Chestplate
+
+Exponential Growth
+
+Lightning Rod
+
+11 Music Disc
+rules_text: Whenever a modified creature you control dies, each opponent loses 1 life and you gain 1 life. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+{2}, Sacrifice 11 Music Disc: Draw a card. => Whenever a modified creature you control attacks, each opponent loses 1 life and you gain 1 life. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+{2}, Sacrifice 11 Music Disc: Draw a card.
+
+Pigstep Music Disc
+
+Far Music Disc
+
+Strad Music Disc
+
+Mall Music Disc
+
+Jukebox
+
+Skeleton Bowman
+
+Act of Preservation
+
+The Wither
+
+Jeb Door
+
+Lava Lake
+
+Ominous Banner
+
+Moody Weather
+
+Planned for It
+
+Resource Organization
+
+Zombie Horse
+rules_text: This spell costs {1} less to cast if you gained or lost life this turn.
+Lifelink => Menace
+Whenever another creature you control dies, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i]
+
+Fang Defense
+
+Pig Herd
+
+The Parrots and the Bats
+
+Trading Hall
+
+Trader Llama
+
+The End Fountain
+
+Collect
+
+Iron Farm
+
+Village Leatherworker
+
+New Professions
+
+Return To Sender
+
+Cartography Table
+
+Hired Help
+
+Clone Command
+
+Potion Throw
+
+Pilfer the Bastion
+
+Warden
+
+Sculk Sensor
+
+Village Fountain
+
+Enchanting Table
+
+Minecart Network
+
+Strip Mining
+
+Animal Husbandry
+
+Spawn Egg
+
+World Eater
+
+Iceologer
+
+Trail Ruins
+
+Ox
+
+Bird
+
+Diamond Gear
+
+Equipped Spawn
+
+Stone Sword
+
+Skeleton Warrior
+
+Wooden Shield
+
+Grindstone
+
+Prepared Incursion
+
+Awaited Hatching
+
+Beast
+
+Blast Furnace
+
+Griefing
+
+Low Durability
+
+Fake Abandon
+
+A Complete Catalogue
+
+Cat
+
+Mesa Wolf
+
+Brewing Stand
+
+Pick Back Up
+
+Chicken Jockey
+
+Precarious Structure
+
+Haste Effect
+
+Herd Spawning
+
+Human
+
+Emperor Penguin
+
+Lobsided Crab
+
+Shy Armadillo
+
+Trial Spawner
+
+Treasure
+
+Food
+
+Beacon Platform
+rules_text: When Beacon Platform enters, build. [i](Put a 🧱 counter on a Construction you own outside the game or control.)[/i]
+🧱🧱 or {T}: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i][/i]
+🧱: Get a Nether Star
+Destroy target creature with power 4 or greater.
+🧱🧱: Build the Base
+Untap each other artifact or each other creature you control.
+🧱🧱🧱: Light the Beam
+This artifact gains “Creatures you control get +2/+2.”
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Get a Nether Star
+Destroy target creature with power 4 or greater.
+🧱🧱: Build the Base
+Untap each other artifact or creature you control.
+🧱🧱🧱: Light the Beam
+This artifact gains “Creatures you control get +2/+2.” => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i][/i]
+🧱: Get a Nether Star
+Destroy target creature with power 4 or greater.
+🧱🧱: Build the Base
+Untap each other artifact or each other creature you control.
+🧱🧱🧱: Light the Beam
+This artifact gains “Creatures you control get +2/+2.”
+
+Faction Base
+rules_text: When Faction Base enters, build. [i](Put a 🧱 counter on a Construction you own outside the game or control.)[/i]
+{T}: Gain X life, where X is the number of Construction abilities you've unlocked. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Stock Up
+You gain 5 life and draw a card.
+🧱🧱: Hide Inside
+Exile any number of target creatures you control, then return them to the battlefield.
+🧱🧱🧱: Close the Doors
+This artifact gains “Whenever a creature attacks, you gain 1 life.”
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Stock Up
+You gain 5 life and draw a card.
+🧱🧱: Hide Inside
+Exile any number of target creatures you control, then return them to the battlefield.
+🧱🧱🧱: Close the Doors
+This artifact gains “Whenever a creature attacks, you gain 1 life.” => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Stock Up
+You gain 5 life and draw a card.
+🧱🧱: Hide Inside
+Exile any number of target creatures you control, then return them to the battlefield.
+🧱🧱🧱: Close the Doors
+This artifact gains “Whenever a creature attacks, you gain 1 life.”
+
+Town Square
+rules_text:  => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Do Some Trades
+Create a 1/1 white Villager creature token and a Food token.
+🧱🧱: Summon a Golem
+Create a 3/3 colorless Golem artifact creature with vigilance.
+🧱🧱🧱: Expand Out
+For each of up to three target tokens you control, create a token that's a copy of it.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Do Some Trades
+Create a 1/1 white Villager creature token and a Food token.
+🧱🧱: Summon a Golem
+Create a 3/3 colorless Golem artifact creature with vigilance.
+🧱🧱🧱: Expand Out
+For each of up to three target tokens you control, create a token that's a copy of it. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Do Some Trades
+Create a 1/1 white Villager creature token and a Food token.
+🧱🧱: Summon a Golem
+Create a 3/3 colorless Golem artifact creature with vigilance.
+🧱🧱🧱: Expand Out
+For each of up to three target tokens you control, create a token that's a copy of it.
+
+Watchful Outpost
+rules_text: When Watchful Outpost enters, build. [i](Put a 🧱 counter on a Construction you own outside the game or control.)[/i]
+Whenever you attack with two or more creatures, build. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Find the Ruins
+Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+🧱🧱: Repossess it
+Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+🧱🧱🧱: Watch Over
+Create a 1/1 Villager creature token for each Plains you control.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Find the Ruins
+Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+🧱🧱: Repossess it
+Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+🧱🧱🧱: Watch Over
+Create a 1/1 Villager creature token for each Plains you control. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Find the Ruins
+Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+🧱🧱: Repossess it
+Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+🧱🧱🧱: Watch Over
+Create a 1/1 Villager creature token for each Plains you control.
+
+Clocktower
+rules_text: When Clocktower enters, build. [i](Put a 🧱 counter on a Construction you own outside the game or control.)[/i]
+{U}, {T}, Exile Clocktower: Take an extra turn after this one. Activate only if you've unlocked six or more Construction abilities. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Design the System
+Search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+🧱🧱: Trap in the Tower
+The owner of target permanent puts it on the top or bottom of their library.
+🧱🧱🧱: Activate it
+Each player may shuffle their hand and graveyard into their library. Each player who does so draws seven cards.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Design the System
+Search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+🧱🧱: Trap in the Tower
+The owner of target permanent puts it on the top or bottom of their library.
+🧱🧱🧱: Activate it
+Each player may shuffle their hand and graveyard into their library. Each player who does so draws seven cards. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Design the System
+Search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+🧱🧱: Trap in the Tower
+The owner of target permanent puts it on the top or bottom of their library.
+🧱🧱🧱: Activate it
+Each player may shuffle their hand and graveyard into their library. Each player who does so draws seven cards.
+
+Spleef Arena
+rules_text: When Spleef Arena enters, build. [i](Put a 🧱 counter on a Construction you own outside the game or control.)[/i]
+Whenever you build, tap target creature. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Gather Snow
+Target creature gets -3/-0 for as long as you control Spleef Arena.
+🧱🧱: Shovel the Floor
+Tap up to three target creatures you don't control. Put a stun counter on each of them.
+🧱🧱🧱: Win the Round
+Draw a card for each tapped creature target opponent controls.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Gather Snow
+Target creature gets -3/-0 for as long as you control Spleef Arena.
+🧱🧱: Shovel the Floor
+Tap up to three creatures you don't control. Put a stun counter on each of them.
+🧱🧱🧱: Win the Round
+Draw a card for each tapped creature target opponent controls. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Gather Snow
+Target creature gets -3/-0 for as long as you control Spleef Arena.
+🧱🧱: Shovel the Floor
+Tap up to three target creatures you don't control. Put a stun counter on each of them.
+🧱🧱🧱: Win the Round
+Draw a card for each tapped creature target opponent controls.
+
+Storage System
+rules_text: When Storage System enters, build. [i](Put a 🧱 counter on a Construction you own outside the game or control.)[/i]
+At the beginning of your upkeep, scry 1. Then if you've unlocked four or more Construction abilities, draw a card. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Place the Chests
+Draw two cards, then discard a card.
+🧱🧱: Retrieve an Item
+Return up to one target instant or sorcery card from your graveyard to your hand.
+🧱🧱🧱: Add Sorting
+This artifact gains “Whenever you draw a card, put a +1/+1 counter on target creature you control.”
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Place the Chests
+Draw two cards, then discard a card.
+🧱🧱: Retrieve an Item
+Return up to one target instant or sorcery card from your graveyard to your hand.
+🧱🧱🧱: Add Sorting
+This artifact gains “Whenever you draw a card, put a +1/+1 counter on target creature you control.” => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Place the Chests
+Draw two cards, then discard a card.
+🧱🧱: Retrieve an Item
+Return up to one target instant or sorcery card from your graveyard to your hand.
+🧱🧱🧱: Add Sorting
+This artifact gains “Whenever you draw a card, put a +1/+1 counter on target creature you control.”
+
+Archery Range
+rules_text:  => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Acquire Targets
+Create a 3/3 green Ox creature token.
+🧱🧱: Practice Aim
+Target creature you control gets +2/+0 until end of turn, then deals damage equal to its power to another target creature.
+🧱🧱🧱: Restock Arrows
+This artifact gains “Whenever you attack or block with one or more creatures, put a +1/+1 counter on each of them.”
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Acquire Targets
+Create a 3/3 green Ox creature token.
+🧱🧱: Practice Aim
+Target creature you control gets +2/+0 until end of turn, then deals damage equal to its power to another target creature.
+🧱🧱🧱: Restock Arrows
+This artifact gains “Whenever you attack or block with one or more creatures, put a +1/+1 counter on each of them.” => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Acquire Targets
+Create a 3/3 green Ox creature token.
+🧱🧱: Practice Aim
+Target creature you control gets +2/+0 until end of turn, then deals damage equal to its power to another target creature.
+🧱🧱🧱: Restock Arrows
+This artifact gains “Whenever you attack or block with one or more creatures, put a +1/+1 counter on each of them.”
+
+Deep Mine
+rules_text:  => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Dig Down
+Mill four cards. You may put a permanent card from among the cards milled this way into your hand.
+🧱🧱: Open a Cave
+Create two 2/2 black Zombie creature tokens.
+🧱🧱🧱: Smelt the Ores
+Create three Treasure tokens.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Dig Down
+Mill four cards. You may put a permanent card from among the cards milled this way into your hand.
+🧱🧱: Open a Cave
+Create two 2/2 black Zombie creature tokens.
+🧱🧱🧱: Smelt the Ores
+Create three Treasure tokens. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Dig Down
+Mill four cards. You may put a permanent card from among the cards milled this way into your hand.
+🧱🧱: Open a Cave
+Create two 2/2 black Zombie creature tokens.
+🧱🧱🧱: Smelt the Ores
+Create three Treasure tokens.
+
+Wood Camp
+rules_text: When Wood Camp enters, build. [i](Put a 🧱 counter on a Construction you own outside the game or control.)[/i]
+As long as you have unlocked three or more Construction abilities, creatures you control enter with an additional +1/+1 counter on them. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Light a Campfire
+Destroy target artifact or enchantment. Draw a card.
+🧱🧱: Place Some Tents
+Return up to two target permanent cards from your graveyard to your hand.
+🧱🧱🧱: Rest for a Night
+Untap each creature you control. They gain indestructible and hexproof until the beginning of your next turn.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Light a Campfire
+Destroy target artifact or enchantment. Draw a card.
+🧱🧱: Place Some Tents
+Return up to two target permanent cards from your graveyard to your hand.
+🧱🧱🧱: Rest for a Night
+Untap each creature you control. They gain indestructible and hexproof until the beginning of your next turn. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Light a Campfire
+Destroy target artifact or enchantment. Draw a card.
+🧱🧱: Place Some Tents
+Return up to two target permanent cards from your graveyard to your hand.
+🧱🧱🧱: Rest for a Night
+Untap each creature you control. They gain indestructible and hexproof until the beginning of your next turn.
+
+Central Map
+rules_text: When Central Map enters, build. [i](Put a 🧱 counter on a Construction you own outside the game or control.)[/i]
+Whenever you build, unlock an additional available Construction ability. This ability triggers only once each turn. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Collect Resources
+You get 🧱 [i](a brick counter)[/i] for each Construction you control.
+🧱🧱: Begin Projects
+Reveal the top four cards of your library. Put any number of creature, land, and artifact cards from among them into your hand, then put the rest into your graveyard.
+🧱🧱🧱: Embellish Them
+Exile any number of other target Constructions you control, then return them to the battlefield under your control.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters. Once per turn, as a sorcery, you may activate a floor ability you haven't activated yet.)[/i]
+🧱: Collect Resources
+You get 🧱 [i](a brick counter)[/i] for each Construction you control.
+🧱🧱: Begin Projects
+Reveal the top four cards of your library. Put any number of creature, land, and artifact cards from among them into your hand, then put the rest into your graveyard.
+🧱🧱🧱: Embellish Them
+Exile any number of other target Constructions you control, then return them to the battlefield under your control. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Collect Resources
+You get 🧱 [i](a brick counter)[/i] for each Construction you control.
+🧱🧱: Begin Projects
+Reveal the top four cards of your library. Put any number of creature, land, and artifact cards from among them into your hand, then put the rest into your graveyard.
+🧱🧱🧱: Embellish Them
+Exile any number of other target Constructions you control, then return them to the battlefield under your control.
+
+Blowing Breeze
+
+Elemental
+
+TNT Block
+
+The Dragon Egg
+
+Stasis Chamber
+
+Ominous Vault
+
+Iron Stockpile
+
+Boar
+
+Zombie Villager
+
+MIN DRAFT ARCHETYPES
+
+Golem Horror
+
+Wooded Mountains
+
+Woodland Mansion
+
+Redstone Contraption
+
+Impressive Build
+
+Shulker Box
+
+Amethyst Geode
+
+Netherite Excavation
+
+Zoglin
+
+Endermite
+
+Copper Golem
+
+Elder Guardian
+
+Moobloom
+
+Mangrove Frog
+
+Skulking Shulker
+
+Wild Ocelot
+
+Piglin Warrior
+
+Desert Camel
+
+The Killer Bunny
+
+Village Toolsmith
+
+Turtle
+
+Small Chicken
+
+Horde
+
+Brick Reserve
+
+Skeleton
+
+Windswept Hills
+
+Classic Superflat
+
+Shattered Forest
+
+Old Growth Taiga
+
+Mangrove Swamp
+
+Jagged Peaks
+
+Dripstone Caves
+
+Sandy Beach
+
+Gravelly Hills
+
+Bamboo Jungle
+
+Sunflower Plains
+
+Pale Garden
+
+Deep Dark
+rules_text: {T}: Add {C}.
+{3}: Deep Dark becomes a 3/3 Golem Horror artifact creature with ward {2} until end of turn. It's still a land. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i] => Ward {2} [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+{T}: Add {C}.
+{3}: Deep Dark becomes a 3/3 Golem Horror artifact creature until end of turn. It's still a land.
+
+Tunneler's Dream
+
+Infinite Ocean
+
+Hillless Desert
+
+Flat Overworld
+
+End City
+
+Skyblock
+
+The Void
+
+Potion of Harming
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
