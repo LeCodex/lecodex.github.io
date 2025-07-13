@@ -1,4 +1,242 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Unlit Cave
+
+Full Set
+
+Respawn and Collect
+
+Wooly Sheep
+
+Sunken Stronghold
+
+Alex, Ready for Battle
+
+Village Bell
+
+Pillager's Capture
+
+Sticky Piston
+
+Mob Spawner
+
+The Nether
+
+Herobrine, Never Removed
+
+Cave Spider
+
+Composter
+
+Scurrying Bats
+
+Tamed Cat
+
+Creative Mode
+
+Surprise Explosion
+
+Exposing Demolition
+
+Mob Farm
+
+Chrysopoeia
+
+Piglin Brute
+
+Neverending Spawn
+
+Coral Reef
+
+Smithing Table
+
+Ramming Goat
+
+Evoker
+
+Village Cleric
+
+Village Fisherman
+
+Zombie Villager
+
+Getting an Upgrade
+
+Polar Bear
+
+Pillager Raid
+
+Turn to Data
+
+Iron Hopper
+
+Husk
+
+Enter the Cave
+
+Village Butcher
+
+Trial Raid
+
+Victory Celebration
+
+Hero of the Village
+
+Large Slime
+
+Turtle
+
+Clear Command
+
+Wild Fox
+
+Fish Bucket
+
+Outpost Defense
+
+Happy Ghast
+
+Bee Hive
+
+Armored Horse
+
+The Ender Dragon
+
+Lava Strider
+
+Zombie Reinforcements
+
+Creaking
+
+Skeleton Horse
+
+Zombie's Bite
+
+Insect Infestation
+
+Charging Strike
+
+Young Hoglin
+
+Village Farmer
+
+Third Shriek
+
+Ice Highway
+
+Shore Lighthouse
+
+Defend the Village
+
+Out of the Webs
+
+Magma Cube
+
+Tend the Pens
+
+Wild Rabbit
+
+Stone Age
+
+Equipping Station
+
+Isn't it Iron Pick
+
+Growing Pack
+
+Tadpole Knot
+
+Zombie Giant
+
+Mooshroom Herd
+
+Bad Omen
+
+Spider Jockey
+
+Brown Mooshroom
+
+Ancient Etchings
+
+Finish The Base
+
+Unpleasant Surprise
+
+Illager Patrol
+
+Pillager Horn
+
+Dungeon Chest
+
+Escalating Raid
+
+Exponential Growth
+
+Moody Weather
+
+Zombie Horse
+
+Fang Defense
+
+Trading Hall
+
+Iron Farm
+
+Pilfer the Bastion
+
+Village Fountain
+
+Animal Husbandry
+
+Trail Ruins
+
+Stone Sword
+
+Prepared Incursion
+
+Awaited Hatching
+
+A Complete Catalogue
+
+Chicken Jockey
+
+Lobsided Crab
+
+Trial Spawner
+
+Beacon Platform
+
+Faction Base
+
+Town Square
+
+Watchful Outpost
+
+Clocktower
+
+Spleef Arena
+
+Storage System
+
+Archery Range
+
+Deep Mine
+
+Wood Camp
+
+Central Map
+
+Shulker Box
+
+Village Toolsmith
+
+Small Chicken
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Sticky Piston added.
