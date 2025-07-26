@@ -459,7 +459,7 @@
 	2 Dragon's Revelation
 	2 Green Thumbling
 	2 Whik, First of the Thatched
-[uncommon(4)]
+[uncommon(3)]
 	4 Shadowmaidens
 	4 Offalings
 	4 Crone of Thorns
@@ -500,7 +500,53 @@
 	8 Weald's Edge Herald
 	8 Iron Ox
 	8 Servile Thatchling
-[wildcard(2)]
+[foil(1)]
+	12 Korvan Thresher
+	12 Production Overseer
+	12 Planting Season
+	12 Scarlet Matron
+	12 Expansion Overseers
+	12 Wealdwitch Familiar
+	12 Korvan Enforcers
+	12 Wheat from Chaff
+	12 Cruor Harvester
+	12 Stitcher of the Strictures
+	12 Profane Offerings
+	12 Veldstire Bloodrancher
+	12 Poach
+	12 Lurking Fieldfiend
+	12 The Hands That Feed
+	12 Vengeful Thatchlings
+	12 Voracious Roggenwulf
+	12 Red Harvest
+	12 Feldgast's Counsel
+	12 Living Almanac
+	12 Fangweed
+	12 Threadbreaker Magus
+	12 Flockfeaster
+	12 Uprooter's Blessing
+	12 Weald's Edge Herald
+	12 Iron Ox
+	12 Servile Thatchling
+	6 Shadowmaidens
+	6 Offalings
+	6 Crone of Thorns
+	6 Fieldpyre
+	6 The Day's Labors
+	6 Sic
+	6 Unravel
+	6 Famineflight Feldgast
+	6 Unassuming Servant
+	6 Favor of the Weald
+	6 Mobile Home
+	6 Indentured Fieldguard
+	2 Harbinger of the Harvest
+	2 Shadowstitch
+	2 Springsturmer
+	2 Dragon's Revelation
+	2 Green Thumbling
+	2 Whik, First of the Thatched
+[wildcard(1)]
 	6 Korvan Thresher
 	6 Production Overseer
 	6 Planting Season

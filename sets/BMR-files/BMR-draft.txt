@@ -546,7 +546,7 @@
 	2 Aeron, Zephyrheart's Vale
 	2 Syris, Thornheart's Guard
 	2 Vessk, Forgeheart's Maw
-[uncommon(4)]
+[uncommon(3)]
 	4 Aeron's Vale
 	4 Stormlash Warden
 	4 Resolute Guard
@@ -587,7 +587,53 @@
 	8 Stormheart Scout
 	8 Forgeheart Shard
 	8 Stormheart Shard
-[wildcard(2)]
+[foil(1)]
+	1 Raeden, Behemoth's Heart
+	2 Jorrin, Stormheart's Blade
+	2 Evara, Ashheart's Flame
+	2 Aeron, Zephyrheart's Vale
+	2 Syris, Thornheart's Guard
+	2 Vessk, Forgeheart's Maw
+	6 Aeron's Vale
+	6 Stormlash Warden
+	6 Resolute Guard
+	6 Giant Owl
+	6 Forgeheart Sentinel
+	6 Smoldering Zealot
+	6 Shard of the Behemoth
+	6 Behemoth-Claw Blade
+	6 Vessk's Maw
+	6 Jorrin's Blade
+	6 Syris' Guard
+	6 Evara's Flame
+	12 Wrath of the Thornheart
+	12 Suncrest Rider
+	12 Flock Hawk
+	12 Ashheart Herald
+	12 Zephyrheart Blessing
+	12 Reforged Strix
+	12 Vault
+	12 Stormline Severence
+	12 Sever the Heartline
+	12 Forgeheart Researcher
+	12 Ashmaw Direhound
+	12 Saproling Incubator
+	12 Windshear
+	12 Gather the Weapons
+	12 Ashheart Spawn
+	12 Zephyrheart Fledgling
+	12 Discover the Heartland
+	12 Growth Elemental
+	12 Thornheart Sapling
+	12 Stormheart Captain
+	12 Ashheart Shard
+	12 Thornheart Shard
+	12 Zephyrheart Shard
+	12 Zephyr Wings
+	12 Stormheart Scout
+	12 Forgeheart Shard
+	12 Stormheart Shard
+[wildcard(1)]
 	4 Raeden, Behemoth's Heart
 	7 Jorrin, Stormheart's Blade
 	7 Evara, Ashheart's Flame

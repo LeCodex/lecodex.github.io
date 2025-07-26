@@ -594,7 +594,7 @@
 	2 Calimh, Najeelas Aid
 	2 Lunras, Rugged Contestant
 	2 The Gladiatorial Wanderer
-[uncommon(4)]
+[uncommon(3)]
 	4 Subterrene Herbalist
 	4 Screeching Coyote
 	4 Halo Researcher
@@ -636,7 +636,54 @@
 	8 Sponsors Lounge
 	8 Tusked Contestor
 	8 Finish Him
-[wildcard(2)]
+[foil(1)]
+	6 Subterrene Herbalist
+	6 Screeching Coyote
+	6 Halo Researcher
+	6 Marketplace Bookie
+	12 Awesome Play
+	12 Fan Favourite
+	6 Rile up the Crowd
+	12 Part-Time Coward
+	12 The Crowd's Favour
+	12 Confident Chalk
+	12 Adrenaline
+	12 Betting Station
+	12 Deductive Procedure
+	12 Genius Cardcounter
+	6 Inconspicuous Supplier
+	12 Nighttime Entertainment
+	12 Blunt Suspect
+	12 Clawing Dueler
+	12 Merciless Execution
+	12 Fans Beloved
+	12 Narcissistic Fighter
+	6 Inviting Challenger
+	6 Odds maker
+	12 Enochlophobia
+	12 Capennan Importer
+	12 Victory Chimes
+	2 Tournament Invitation
+	6 Necrosis Tanker
+	6 Contestants Nightmare
+	6 Lucky Arrow
+	12 Crowd Side Bookie
+	12 Winning Punch
+	12 Gear Affix
+	12 Market Upcomers
+	12 Crowd Surfer
+	12 Crusader of Celebration
+	12 Contenders Teapot
+	12 Sponsors Lounge
+	12 Tusked Contestor
+	6 Arena Vendor
+	12 Finish Him
+	2 Krav, Love Crazed
+	2 Will, Slick Competitor
+	2 Calimh, Najeelas Aid
+	2 Lunras, Rugged Contestant
+	2 The Gladiatorial Wanderer
+[wildcard(1)]
 	15 Subterrene Herbalist
 	15 Screeching Coyote
 	15 Halo Researcher

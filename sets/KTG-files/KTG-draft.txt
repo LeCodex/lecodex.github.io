@@ -519,7 +519,7 @@
 	2 Hematic Consecration
 	2 The Fisherman
 	1 Xircez the Indomitable
-[uncommon(4)]
+[uncommon(3)]
 	4 Ritual of Cleansing
 	4 Bluster Ascension
 	4 Carrion Doomsayer
@@ -560,7 +560,53 @@
 	8 Rhyel's Invocation
 	8 K'Eeli Giant
 	8 Croaking Sentinel
-[wildcard(2)]
+[foil(1)]
+	2 Jinema, Hauty Priestess
+	2 Quetzalcoatl, Temple Terror
+	2 Harbingers of Ruination
+	2 Hematic Consecration
+	2 The Fisherman
+	1 Xircez the Indomitable
+	6 Ritual of Cleansing
+	6 Bluster Ascension
+	6 Carrion Doomsayer
+	6 Relic Crusher Alpha
+	6 Ritual of Eclipse
+	6 Cursed Prophet
+	6 Goldleaf Phoenix
+	6 Adept Vigilante
+	6 Jade Sphinx
+	6 Adorned Sepulcher
+	6 Alchemist's Sanguilabe
+	6 Abyssal Mindrender
+	12 Stalwart Avian
+	12 K'Eeli Skirmirshers
+	12 Cleanse Corruption
+	12 Stoneform Technique
+	12 Tenacious Waveskipper
+	12 Slickback Cutthroat
+	12 Shrine Awakening
+	12 Spiritual Consultation
+	12 Gilded Omen Raven
+	12 Covetous Faerie
+	12 Ceremonial Sacrifice
+	12 Swift Beheading
+	12 Pyre Steward
+	12 K'Eeli Raider
+	12 Mind-Piercing Bolt
+	12 Essence Anointing
+	12 Skull Drum Howler
+	12 Displaced Kavu
+	12 Resolute Tracker
+	12 Band Together
+	12 Temple Ruins
+	12 Carved Serpent
+	12 Rot Vanguard
+	12 Cultic Devotion
+	12 Rhyel's Invocation
+	12 K'Eeli Giant
+	12 Croaking Sentinel
+[wildcard(1)]
 	7 Jinema, Hauty Priestess
 	7 Quetzalcoatl, Temple Terror
 	7 Harbingers of Ruination

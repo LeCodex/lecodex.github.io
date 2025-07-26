@@ -3,11 +3,11 @@
 		{
 			"name": "Logical Fallacy",
 			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
-			"collector_number": "15",
+			"mana_cost": "{0}",
+			"type": "Instant",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/15_Logical Fallacy.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/16_Logical Fallacy.png"
 			}
 		},
 		{
@@ -24,30 +24,30 @@
 			"name": "Strange Eye",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Eye  ",
-			"collector_number": "13",
+			"type": "Creature — Eye",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/13_Strange Eye.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/14_Strange Eye.png"
 			}
 		},
 		{
 			"name": "Charismatic Wanderer",
 			"rarity": "common",
-			"mana_cost": "{1{W}/B}{W/B}",
-			"type": "Creature — Human Cleric ",
-			"collector_number": "37",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/37_Charismatic Wanderer.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/38_Charismatic Wanderer.png"
 			}
 		},
 		{
 			"name": "Panicked Dreamer",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human ",
-			"collector_number": "28",
+			"type": "Creature — Human",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/28_Panicked Dreamer.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/29_Panicked Dreamer.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/27_Impossible Planescape.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/28_Impossible Planescape.png"
 			}
 		},
 		{
@@ -65,16 +65,16 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/25_Unfamilliar Feeling.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/26_Unfamilliar Feeling.png"
 			}
 		},
 		{
 			"name": "Inhereted Cause",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura ",
+			"type": "Enchantment — Aura",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/3_Inhereted Cause.png"
@@ -85,19 +85,19 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/19_Weigh Down.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/20_Weigh Down.png"
 			}
 		},
 		{
 			"name": "Unpredictable Conjurer",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Human Wizard ",
-			"collector_number": "29",
+			"type": "Creature — Human Wizard",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/29_Unpredictable Conjurer.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/30_Unpredictable Conjurer.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/44_Maybe Box.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/45_Maybe Box.png"
 			}
 		},
 		{
@@ -115,19 +115,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/G}{B/G}",
 			"type": "Creature",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/39_Malevolant Thoughtform.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/40_Malevolant Thoughtform.png"
 			}
 		},
 		{
 			"name": "New Perspective",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{W/B}",
-			"type": "Enchantment — Aura ",
-			"collector_number": "40",
+			"type": "Enchantment — Aura",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/40_New Perspective.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/41_New Perspective.png"
 			}
 		},
 		{
@@ -135,15 +135,15 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/8_Doorway Effect.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/9_Doorway Effect.png"
 			}
 		},
 		{
 			"name": "Tumble Down the Stairs",
 			"rarity": "rare",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "7",
 			"image_uris": {
@@ -155,9 +155,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/26_Fight with Reality.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/27_Fight with Reality.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/22_Intrusive Thought.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/23_Intrusive Thought.png"
 			}
 		},
 		{
@@ -175,19 +175,19 @@
 			"rarity": "common",
 			"mana_cost": "{R/W}{R/W}",
 			"type": "Creature",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/38_Hopeful Nameless.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/39_Hopeful Nameless.png"
 			}
 		},
 		{
 			"name": "Perception Distortion",
 			"rarity": "common",
-			"mana_cost": "{1{U}/R}{U/R}",
+			"mana_cost": "{1}{U/R}{U/R}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/41_Perception Distortion.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/42_Perception Distortion.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/45_Thoughtless Amalgum.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/46_Thoughtless Amalgum.png"
 			}
 		},
 		{
@@ -205,19 +205,19 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/43_Light in the Fog.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/44_Light in the Fog.png"
 			}
 		},
 		{
 			"name": "Incalculus Mage",
 			"rarity": "common",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Human Wizard ",
-			"collector_number": "9",
+			"type": "Creature — Human Wizard",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/9_Incalculus Mage.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/10_Incalculus Mage.png"
 			}
 		},
 		{
@@ -225,26 +225,26 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/18_Shrouded Watcher.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/19_Shrouded Watcher.png"
 			}
 		},
 		{
 			"name": "Information Angel",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Angel ",
-			"collector_number": "10",
+			"type": "Creature — Angel",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/10_Information Angel.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/11_Information Angel.png"
 			}
 		},
 		{
 			"name": "Tesselating Wing",
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
-			"type": "Creature — Angel ",
+			"type": "Creature — Angel",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/6_Tesselating Wing.png"
@@ -254,20 +254,20 @@
 			"name": "Paladin of Change",
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Angel Knight ",
-			"collector_number": "23",
+			"type": "Creature — Angel Knight",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/23_Paladin of Change.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/24_Paladin of Change.png"
 			}
 		},
 		{
 			"name": "Wizardling Lookalike",
 			"rarity": "common",
-			"mana_cost": "{1{G}/U}{G/U}",
+			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Creature",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/42_Wizardling Lookalike.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/43_Wizardling Lookalike.png"
 			}
 		},
 		{
@@ -275,19 +275,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/17_Nameless Things.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/18_Nameless Things.png"
 			}
 		},
 		{
 			"name": "Color Dancer",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human  ",
-			"collector_number": "21",
+			"type": "Creature — Human",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/21_Color Dancer.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/22_Color Dancer.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/11_Manipulate Fate.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/12_Manipulate Fate.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/16_Mass Malaise.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/17_Mass Malaise.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/12_Observe.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/13_Observe.png"
 			}
 		},
 		{
@@ -335,26 +335,26 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/24_Spontaneous Spark.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/25_Spontaneous Spark.png"
 			}
 		},
 		{
 			"name": "Unreality Tamer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Human Wizard ",
-			"collector_number": "30",
+			"type": "Creature — Human Wizard",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/30_Unreality Tamer.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/31_Unreality Tamer.png"
 			}
 		},
 		{
 			"name": "Sanity Protector",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Dog ",
+			"type": "Creature — Dog",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/5_Sanity Protector.png"
@@ -364,20 +364,20 @@
 			"name": "Mad Seraph",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{W}",
-			"type": "Creature — Angel  ",
-			"collector_number": "34",
+			"type": "Creature — Angel",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/34_Mad Seraph.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/35_Mad Seraph.png"
 			}
 		},
 		{
 			"name": "Warrior of Ascent",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Warrior ",
-			"collector_number": "31",
+			"type": "Creature — Human Warrior",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/31_Warrior of Ascent.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/32_Warrior of Ascent.png"
 			}
 		},
 		{
@@ -385,19 +385,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Artifact",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/33_Illogical Fabrication.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/34_Illogical Fabrication.png"
 			}
 		},
 		{
 			"name": "Chaos Mage",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Wizard ",
-			"collector_number": "20",
+			"type": "Creature — Human Wizard",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/20_Chaos Mage.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/21_Chaos Mage.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/35_The Space Breathes.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/36_The Space Breathes.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/14_Fear the Other.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/15_Fear the Other.png"
 			}
 		},
 		{
@@ -425,16 +425,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/32_Distant Thought.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/33_Distant Thought.png"
 			}
 		},
 		{
 			"name": "Memory Embalmer",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Cleric ",
+			"type": "Creature — Human Cleric",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/4_Memory Embalmer.png"
@@ -445,9 +445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/36_Void Gardener.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/37_Void Gardener.png"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Ethereal Sorcery",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/52_Idea.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/53_Idea.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{1}",
 			"type": "Ethereal Sorcery",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/53_Multitudes.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/54_Multitudes.png"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Ethereal Sorcery",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/55_Vanished.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/56_Vanished.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Ethereal Creature",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/54_Presence.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/55_Presence.png"
 			}
 		},
 		{
@@ -495,59 +495,59 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Ethereal Sorcery",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/51_Forget.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/52_Forget.png"
 			}
 		},
 		{
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain ",
-			"collector_number": "49",
+			"type": "Basic Land — Mountain",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/49_Mountain.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/50_Mountain.png"
 			}
 		},
 		{
 			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island ",
-			"collector_number": "47",
+			"type": "Basic Land — Island",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/47_Island.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/48_Island.png"
 			}
 		},
 		{
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp ",
-			"collector_number": "48",
+			"type": "Basic Land — Swamp",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/48_Swamp.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/49_Swamp.png"
 			}
 		},
 		{
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains ",
-			"collector_number": "46",
+			"type": "Basic Land — Plains",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/46_Plains.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/47_Plains.png"
 			}
 		},
 		{
 			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest ",
-			"collector_number": "50",
+			"type": "Basic Land — Forest",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/50_Forest.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/51_Forest.png"
 			}
 		},
 		{
@@ -564,7 +564,7 @@
 			"name": "Spirit",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Spirit ",
+			"type": "Token Creature — Spirit",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/2_Spirit.png"
@@ -574,59 +574,146 @@
 			"name": "Cat",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Cat ",
+			"type": "Token Creature — Cat",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/3_Cat.png"
 			}
+		},
+		{
+			"name": "Tumble Down the Stairs SBHJ",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/8_Tumble Down the Stairs SBHJ.png"
+			}
 		}
 	]
-[RareSlot(1)]
-2 Logical Fallacy
-2 Doorway Effect
-2 Tumble Down the Stairs
-2 Fight with Reality
-2 Intrusive Thought
-1 Empty Hallway
-[UncommonSlot(3)]
-9 Maybe Box
-9 New Perspective
-9 Information Angel
-9 Unreality Tamer
-9 Mad Seraph
-9 Illogical Fabrication
-9 Chaos Mage
-9 The Space Breathes
-9 Fear the Other
-9 Distant Thought
-9 Memory Embalmer
-9 Void Gardener
-[CommonSlot(9)]
-30 Strange Eye
-30 Charismatic Wanderer
-30 Panicked Dreamer
-30 Impossible Planescape
-30 Unfamilliar Feeling
-30 Inhereted Cause
-30 Weigh Down
-30 Unpredictable Conjurer
-30 Malevolant Thoughtform
-30 Hopeful Nameless
-30 Perception Distortion
-30 Thoughtless Amalgum
-30 Light in the Fog
-30 Incalculus Mage
-30 Shrouded Watcher
-30 Tesselating Wing
-30 Paladin of Change
-30 Wizardling Lookalike
-30 Nameless Things
-30 Color Dancer
-30 Manipulate Fate
-30 Funeral Pyre
-30 Mass Malaise
-30 Observe
-30 Spontaneous Spark
-30 Sanity Protector
-30 Warrior of Ascent
-[LandSlot(1)]
+
+[rare(1)]
+	2 Logical Fallacy
+	1 Empty Hallway
+	2 Doorway Effect
+	2 Tumble Down the Stairs
+	2 Fight with Reality
+	2 Intrusive Thought
+	2 Tumble Down the Stairs SBHJ
+[uncommon(3)]
+	4 New Perspective
+	4 Information Angel
+	4 Mad Seraph
+	4 Illogical Fabrication
+	4 Chaos Mage
+	4 Distant Thought
+	4 Memory Embalmer
+	4 Void Gardener
+[common(7)]
+	8 Strange Eye
+	8 Panicked Dreamer
+	8 Impossible Planescape
+	8 Unfamilliar Feeling
+	8 Inhereted Cause
+	8 Weigh Down
+	8 Unpredictable Conjurer
+	8 Malevolant Thoughtform
+	8 Hopeful Nameless
+	8 Perception Distortion
+	8 Thoughtless Amalgum
+	8 Light in the Fog
+	8 Incalculus Mage
+	8 Shrouded Watcher
+	8 Tesselating Wing
+	8 Paladin of Change
+	8 Wizardling Lookalike
+	8 Nameless Things
+	8 Color Dancer
+	8 Manipulate Fate
+	8 Mass Malaise
+	8 Observe
+	8 Spontaneous Spark
+	8 Sanity Protector
+	8 Warrior of Ascent
+[foil(1)]
+	2 Logical Fallacy
+	1 Empty Hallway
+	12 Strange Eye
+	12 Panicked Dreamer
+	12 Impossible Planescape
+	12 Unfamilliar Feeling
+	12 Inhereted Cause
+	12 Weigh Down
+	12 Unpredictable Conjurer
+	12 Malevolant Thoughtform
+	6 New Perspective
+	2 Doorway Effect
+	2 Tumble Down the Stairs
+	2 Fight with Reality
+	2 Intrusive Thought
+	12 Hopeful Nameless
+	12 Perception Distortion
+	12 Thoughtless Amalgum
+	12 Light in the Fog
+	12 Incalculus Mage
+	12 Shrouded Watcher
+	6 Information Angel
+	12 Tesselating Wing
+	12 Paladin of Change
+	12 Wizardling Lookalike
+	12 Nameless Things
+	12 Color Dancer
+	12 Manipulate Fate
+	12 Mass Malaise
+	12 Observe
+	12 Spontaneous Spark
+	12 Sanity Protector
+	6 Mad Seraph
+	12 Warrior of Ascent
+	6 Illogical Fabrication
+	6 Chaos Mage
+	6 Distant Thought
+	6 Memory Embalmer
+	6 Void Gardener
+	2 Tumble Down the Stairs SBHJ
+[wildcard(1)]
+	7 Logical Fallacy
+	4 Empty Hallway
+	6 Strange Eye
+	6 Panicked Dreamer
+	6 Impossible Planescape
+	6 Unfamilliar Feeling
+	6 Inhereted Cause
+	6 Weigh Down
+	6 Unpredictable Conjurer
+	6 Malevolant Thoughtform
+	15 New Perspective
+	7 Doorway Effect
+	7 Tumble Down the Stairs
+	7 Fight with Reality
+	7 Intrusive Thought
+	6 Hopeful Nameless
+	6 Perception Distortion
+	6 Thoughtless Amalgum
+	6 Light in the Fog
+	6 Incalculus Mage
+	6 Shrouded Watcher
+	15 Information Angel
+	6 Tesselating Wing
+	6 Paladin of Change
+	6 Wizardling Lookalike
+	6 Nameless Things
+	6 Color Dancer
+	6 Manipulate Fate
+	6 Mass Malaise
+	6 Observe
+	6 Spontaneous Spark
+	6 Sanity Protector
+	15 Mad Seraph
+	6 Warrior of Ascent
+	15 Illogical Fabrication
+	15 Chaos Mage
+	15 Distant Thought
+	15 Memory Embalmer
+	15 Void Gardener
+	7 Tumble Down the Stairs SBHJ

@@ -459,7 +459,7 @@
 	2 Ava, Thorny Diva
 	2 Crossbone Cove Cutter
 	2 Superb Salvage
-[uncommon(4)]
+[uncommon(3)]
 	4 Mistcutter Attendant
 	4 Jahan's Pets
 	4 Cephalid Strategist
@@ -500,7 +500,53 @@
 	8 Stormbelt Serpent
 	8 Explosive Rage
 	8 Propagated Bioship
-[wildcard(2)]
+[foil(1)]
+	2 Crackling Eel
+	1 Grandir, the Storm-Bodied
+	1 Ka'bi, the Bloomhoof
+	2 Ava, Thorny Diva
+	2 Crossbone Cove Cutter
+	2 Superb Salvage
+	6 Mistcutter Attendant
+	6 Jahan's Pets
+	6 Cephalid Strategist
+	6 Abyssal Sea-Witch
+	6 Reckless Innovator
+	6 Lava Flow Hellbender
+	6 Riding Turtle
+	6 Surly Maintainer
+	6 Chordatan Bloodseeker
+	6 Hungering Greatleech
+	6 Relentless Reconstructionist
+	6 Tyrant Territory
+	12 Sunvine Nurturer
+	12 Steelfin Dolphin
+	12 Skyskimmer Glaucus
+	12 Goldseeker Cruiser
+	12 Mercurial Skyrod
+	12 Sea Witch's Wards
+	12 Titanic Haruspicy
+	12 Observant Osprey
+	12 Abyssal Tempter
+	12 Deadman's Tales
+	12 Inktrench Stinger
+	12 Noxious Venting
+	12 Overloaded Cannonship
+	12 Powderkeg Explosion
+	12 Expedition Funding
+	12 Bursting Vein Serpent
+	12 Elemental's Flourish
+	12 Mosstusk Guardian
+	12 Quaking Tunneler
+	12 Give In to Instinct
+	12 Cogwork Ichthyoid
+	12 Research Vessel
+	12 Uncovered Pitfall
+	12 Deckhand's Blade
+	12 Stormbelt Serpent
+	12 Explosive Rage
+	12 Propagated Bioship
+[wildcard(1)]
 	7 Crackling Eel
 	4 Grandir, the Storm-Bodied
 	4 Ka'bi, the Bloomhoof

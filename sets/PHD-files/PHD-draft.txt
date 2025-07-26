@@ -499,7 +499,7 @@
 	1 Autobiography
 	2 Professor of Physique
 	2 Peer Review
-[uncommon(4)]
+[uncommon(3)]
 	4 Chartographer's Tome
 	4 Lost Between the Shelves
 	4 Scholar of Dread
@@ -540,7 +540,53 @@
 	8 Crystal Powered Trolley
 	8 Hand-to-Hand Knowledge
 	8 Sinister Insight
-[wildcard(2)]
+[foil(1)]
+	12 Disease Denoter
+	12 Badger Toxicologist
+	12 Pagebeast Hunter
+	12 Geiger Guy
+	12 Bloodvine
+	12 Hand-to-Hand Psychologist
+	12 Lost In Thought
+	12 Ionize
+	12 Philosophy Undergrad
+	12 Peruse the Schematics
+	12 Irradiating Syphon
+	12 Compulsory Study
+	12 Return to the Page
+	12 Crafted Craftsman
+	6 Chartographer's Tome
+	12 Pinprickler
+	12 Alive Reading
+	1 Archangel of Blueprints
+	2 Antimatter Archivist
+	2 Monkey Proofreader
+	1 Autobiography
+	6 Lost Between the Shelves
+	6 Scholar of Dread
+	6 Irresponsible Alchemist
+	6 Re-engineer and Research
+	6 Irradiating Insight
+	6 Craig, Overeager Surgeon
+	6 Territorial Book Bug
+	6 Knowledge Elemental
+	6 Ensouled Enchiridion
+	12 Nuclear Isotope
+	12 Scholar of Thoughts
+	12 Engineering Undergrad
+	12 Nuclear Physicist
+	12 Novice Economage
+	12 Undead Undertaker
+	12 Injury Imp
+	2 Professor of Physique
+	12 Crystal Powered Trolley
+	12 Hand-to-Hand Knowledge
+	2 Peer Review
+	12 Sinister Insight
+	6 Academic Discussion
+	6 Alyssa, Student of Life
+	6 Microbiology Man
+[wildcard(1)]
 	6 Disease Denoter
 	6 Badger Toxicologist
 	6 Pagebeast Hunter

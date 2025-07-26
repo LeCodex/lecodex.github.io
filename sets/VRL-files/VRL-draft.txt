@@ -539,7 +539,7 @@
 	2 Gather the Party
 	1 Haunting of Old Anoria
 	2 Frostgaze Griff
-[uncommon(4)]
+[uncommon(3)]
 	4 Erestes, Skelemancer
 	4 Wizened Vizier
 	4 Priestess of the First Book
@@ -580,7 +580,53 @@
 	8 Deviant Sentinel
 	8 Nightwalker Warpriest
 	8 Emra's Torrent
-[wildcard(2)]
+[foil(1)]
+	12 Ancestral Guardianship
+	12 Old Anoria Outrider
+	12 Radiant Templar
+	12 Vaelan Bladesworn
+	12 Glass Prison
+	12 Scroll Peddler
+	12 Depths Prowler
+	12 Shockbreath Juvenile
+	12 Ravenous Direbat
+	12 Skulking Assassin
+	12 Bishop of High Anoria
+	12 Deadly Alliance
+	12 United Defense
+	12 Veteran Shieldmage
+	12 Coin-Turner Mercenary
+	12 Vaelan Firemage
+	12 Hellstone Outfitter
+	12 Wanderer of Old Anoria
+	12 Anorian Blade-Guard
+	12 Tower Wurm
+	12 Defeat the Dragon
+	12 Mask of Hidden Identity
+	12 Voltite Automaton
+	12 Resonance Field
+	12 Deviant Sentinel
+	12 Nightwalker Warpriest
+	12 Emra's Torrent
+	2 Sandtwister Barrier
+	1 Titan of the Wild Ways
+	2 Between the Old and New
+	2 Gather the Party
+	6 Erestes, Skelemancer
+	1 Haunting of Old Anoria
+	6 Wizened Vizier
+	6 Priestess of the First Book
+	6 Purge Soul
+	6 Hulking Firesmith
+	6 Frostweft Thief
+	6 Plated Gorehoof
+	6 Burn with Hellstone
+	2 Frostgaze Griff
+	6 Chains of Holy Fire
+	6 Enriching Study
+	6 Golden Champion
+	6 Shocking Research
+[wildcard(1)]
 	6 Ancestral Guardianship
 	6 Old Anoria Outrider
 	6 Radiant Templar

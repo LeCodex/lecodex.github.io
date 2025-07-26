@@ -1,0 +1,604 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Deconstitute",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/2_Deconstitute.png"
+			}
+		},
+		{
+			"name": "Mana-Thrust Skater",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/5_Mana-Thrust Skater.png"
+			}
+		},
+		{
+			"name": "Deep-Focus Automaton",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/3_Deep-Focus Automaton.png"
+			}
+		},
+		{
+			"name": "Leadership",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Incarnation",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/4_Leadership.png"
+			}
+		},
+		{
+			"name": "Rooftop Runners",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/10_Rooftop Runners.png"
+			}
+		},
+		{
+			"name": "Tune In",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/12_Tune In.png"
+			}
+		},
+		{
+			"name": "Soaring Gearheads",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/11_Soaring Gearheads.png"
+			}
+		},
+		{
+			"name": "Flight of Fancy",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/9_Flight of Fancy.png"
+			}
+		},
+		{
+			"name": "Rearm",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/17_Rearm.png"
+			}
+		},
+		{
+			"name": "Junkyard Emergent",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/15_Junkyard Emergent.png"
+			}
+		},
+		{
+			"name": "Ambient Shellcrafter",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/29_Ambient Shellcrafter.png"
+			}
+		},
+		{
+			"name": "Model Weapon",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/16_Model Weapon.png"
+			}
+		},
+		{
+			"name": "Combat Apprentice",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/19_Combat Apprentice.png"
+			}
+		},
+		{
+			"name": "Weapon Surge",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/22_Weapon Surge.png"
+			}
+		},
+		{
+			"name": "Patchwork Collector",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/20_Patchwork Collector.png"
+			}
+		},
+		{
+			"name": "Roving Skaters",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/21_Roving Skaters.png"
+			}
+		},
+		{
+			"name": "New Sights to See",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/25_New Sights to See.png"
+			}
+		},
+		{
+			"name": "Traveling Aspirants",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/27_Traveling Aspirants.png"
+			}
+		},
+		{
+			"name": "Internal Weaponcraft",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/24_Internal Weaponcraft.png"
+			}
+		},
+		{
+			"name": "Greatsword Student",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/23_Greatsword Student.png"
+			}
+		},
+		{
+			"name": "Personal Headphones",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/45_Personal Headphones.png"
+			}
+		},
+		{
+			"name": "Infused Heirloom",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/44_Infused Heirloom.png"
+			}
+		},
+		{
+			"name": "Potential",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Creature — Incarnation",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/1_Potential.png"
+			}
+		},
+		{
+			"name": "Self-Experimentalist",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/7_Self-Experimentalist.png"
+			}
+		},
+		{
+			"name": "Genius Attuner",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/35_Genius Attuner.png"
+			}
+		},
+		{
+			"name": "Soaring Masterwork",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/39_Soaring Masterwork.png"
+			}
+		},
+		{
+			"name": "Local Hero",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/37_Local Hero.png"
+			}
+		},
+		{
+			"name": "Free-Wheeling Musician",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Bard",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/34_Free-Wheeling Musician.png"
+			}
+		},
+		{
+			"name": "Celebration",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Incarnation",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/18_Celebration.png"
+			}
+		},
+		{
+			"name": "Town Trasher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/41_Town Trasher.png"
+			}
+		},
+		{
+			"name": "Vivid Pyrokinetic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/42_Vivid Pyrokinetic.png"
+			}
+		},
+		{
+			"name": "Crafty Combatant",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/32_Crafty Combatant.png"
+			}
+		},
+		{
+			"name": "Verdant Repose",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Incarnation",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/28_Verdant Repose.png"
+			}
+		},
+		{
+			"name": "Ambient Summoner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/30_Ambient Summoner.png"
+			}
+		},
+		{
+			"name": "Spellwork Enthusiast",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/40_Spellwork Enthusiast.png"
+			}
+		},
+		{
+			"name": "Calm",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Incarnation",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/8_Calm.png"
+			}
+		},
+		{
+			"name": "Fateful Encounter",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/14_Fateful Encounter.png"
+			}
+		},
+		{
+			"name": "Quick Slash",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/6_Quick Slash.png"
+			}
+		},
+		{
+			"name": "Outpace",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/26_Outpace.png"
+			}
+		},
+		{
+			"name": "A Dark Whisper",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Incarnation",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/13_A Dark Whisper.png"
+			}
+		},
+		{
+			"name": "Ambition",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/31_Ambition.png"
+			}
+		},
+		{
+			"name": "Creation",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{U}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/33_Creation.png"
+			}
+		},
+		{
+			"name": "Introspection",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{B}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/36_Introspection.png"
+			}
+		},
+		{
+			"name": "Love",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/38_Love.png"
+			}
+		},
+		{
+			"name": "Wanderlust",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{W}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/43_Wanderlust.png"
+			}
+		},
+		{
+			"name": "Love",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Incarnation",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/ASC-files/img/0_Love.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Celebration
+	1 Ambition
+	1 Creation
+	1 Introspection
+	1 Love
+	1 Wanderlust
+[uncommon(3)]
+	4 Ambient Shellcrafter
+	4 Self-Experimentalist
+	4 Genius Attuner
+	4 Soaring Masterwork
+	4 Local Hero
+	4 Free-Wheeling Musician
+	4 Town Trasher
+	4 Vivid Pyrokinetic
+	4 Crafty Combatant
+	4 Verdant Repose
+	4 Ambient Summoner
+	4 Spellwork Enthusiast
+[common(7)]
+	8 Deconstitute
+	8 Mana-Thrust Skater
+	8 Deep-Focus Automaton
+	8 Leadership
+	8 Rooftop Runners
+	8 Tune In
+	8 Soaring Gearheads
+	8 Flight of Fancy
+	8 Rearm
+	8 Junkyard Emergent
+	8 Model Weapon
+	8 Combat Apprentice
+	8 Weapon Surge
+	8 Patchwork Collector
+	8 Roving Skaters
+	8 New Sights to See
+	8 Traveling Aspirants
+	8 Internal Weaponcraft
+	8 Greatsword Student
+	8 Personal Headphones
+	8 Infused Heirloom
+	8 Potential
+	8 Calm
+	8 Fateful Encounter
+	8 Quick Slash
+	8 Outpace
+	8 A Dark Whisper
+[foil(1)]
+	12 Deconstitute
+	12 Mana-Thrust Skater
+	12 Deep-Focus Automaton
+	12 Leadership
+	12 Rooftop Runners
+	12 Tune In
+	12 Soaring Gearheads
+	12 Flight of Fancy
+	12 Rearm
+	12 Junkyard Emergent
+	6 Ambient Shellcrafter
+	12 Model Weapon
+	12 Combat Apprentice
+	12 Weapon Surge
+	12 Patchwork Collector
+	12 Roving Skaters
+	12 New Sights to See
+	12 Traveling Aspirants
+	12 Internal Weaponcraft
+	12 Greatsword Student
+	12 Personal Headphones
+	12 Infused Heirloom
+	12 Potential
+	6 Self-Experimentalist
+	6 Genius Attuner
+	6 Soaring Masterwork
+	6 Local Hero
+	6 Free-Wheeling Musician
+	2 Celebration
+	6 Town Trasher
+	6 Vivid Pyrokinetic
+	6 Crafty Combatant
+	6 Verdant Repose
+	6 Ambient Summoner
+	6 Spellwork Enthusiast
+	12 Calm
+	12 Fateful Encounter
+	12 Quick Slash
+	12 Outpace
+	12 A Dark Whisper
+	1 Ambition
+	1 Creation
+	1 Introspection
+	1 Love
+	1 Wanderlust
+[wildcard(1)]
+	6 Deconstitute
+	6 Mana-Thrust Skater
+	6 Deep-Focus Automaton
+	6 Leadership
+	6 Rooftop Runners
+	6 Tune In
+	6 Soaring Gearheads
+	6 Flight of Fancy
+	6 Rearm
+	6 Junkyard Emergent
+	15 Ambient Shellcrafter
+	6 Model Weapon
+	6 Combat Apprentice
+	6 Weapon Surge
+	6 Patchwork Collector
+	6 Roving Skaters
+	6 New Sights to See
+	6 Traveling Aspirants
+	6 Internal Weaponcraft
+	6 Greatsword Student
+	6 Personal Headphones
+	6 Infused Heirloom
+	6 Potential
+	15 Self-Experimentalist
+	15 Genius Attuner
+	15 Soaring Masterwork
+	15 Local Hero
+	15 Free-Wheeling Musician
+	7 Celebration
+	15 Town Trasher
+	15 Vivid Pyrokinetic
+	15 Crafty Combatant
+	15 Verdant Repose
+	15 Ambient Summoner
+	15 Spellwork Enthusiast
+	6 Calm
+	6 Fateful Encounter
+	6 Quick Slash
+	6 Outpace
+	6 A Dark Whisper
+	4 Ambition
+	4 Creation
+	4 Introspection
+	4 Love
+	4 Wanderlust

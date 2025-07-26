@@ -5,6 +5,10 @@
 	<link rel="stylesheet" href="/resources/header.css">
 	<title>XRX visual preview</title>
 	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -82,7 +86,7 @@
 		.banner {
 			width: 100%;
 			height: auto;
-			padding-top: 20px;
+			padding-top: 80px;
 			padding-bottom: 50px;
 		}
 		.logo {
@@ -118,33 +122,40 @@
 			background-size: contain;
 			background-position: center;
 		}
-		.icon-bar {
-			display: grid;
-			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
-			gap: 1px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-top: 2%;
-			padding-bottom: 1%;
-			justify-items: center;
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
 			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
 		}
-		.icon-bar .icon img {
-			width: 90%;
-			max-width: 80px;
-			height: auto;
-			display: block;
-			padding: 5%;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
 		}
-		.icon-bar .dot img {
-			width: 50%;
-			max-width: 65px;
-			height: auto;
-			display: block;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
 		}
 		.preload-hidden {
 			display: none;
@@ -165,6 +176,7 @@
 	<img class="preload-hidden" src="/img/dot.png" />
 	<img class="preload-hidden" src="/sets/XRX-files/logo.png" />
 	<img class="preload-hidden" src="/sets/ARC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/ASC-files/icon.png" />
 		<img class="preload-hidden" src="/sets/BMR-files/icon.png" />
 		<img class="preload-hidden" src="/sets/CFL-files/icon.png" />
 		<img class="preload-hidden" src="/sets/CRF-files/icon.png" />
@@ -195,46 +207,50 @@
 		</div>
 	</div>
 
-	<div class="icon-bar">
-			<div class="icon"><a href="ARC"><img src="/sets/ARC-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="BMR"><img src="/sets/BMR-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="CFL"><img src="/sets/CFL-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="CRF"><img src="/sets/CRF-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="HNG"><img src="/sets/HNG-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="IRW"><img src="/sets/IRW-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="KEC"><img src="/sets/KEC-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="KTG"><img src="/sets/KTG-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="L4D"><img src="/sets/L4D-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="MRC"><img src="/sets/MRC-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="MSL"><img src="/sets/MSL-files/icon.png"></img></a></div>
-		<div class="icon"><a href="PHD"><img src="/sets/PHD-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="REL"><img src="/sets/REL-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="STW"><img src="/sets/STW-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="TOON"><img src="/sets/TOON-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="TVN"><img src="/sets/TVN-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="VGT"><img src="/sets/VGT-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="VLD"><img src="/sets/VLD-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="VRL"><img src="/sets/VRL-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="XRX"><img src="/sets/XRX-files/icon.png"></img></a></div>
-
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="XRX"><img src="/sets/XRX-files/icon.png">XereX</a>
+	
+		<a class="set-bar inactive" href="ARC"><img src="/sets/ARC-files/icon.png">Techniques — Archery</a>
+	
+		<a class="set-bar inactive" href="ASC"><img src="/sets/ASC-files/icon.png">Act So Cinematic</a>
+	
+		<a class="set-bar inactive" href="BMR"><img src="/sets/BMR-files/icon.png">Behemoth’s Rise Microset</a>
+	
+		<a class="set-bar inactive" href="CFL"><img src="/sets/CFL-files/icon.png">Curtain’s Fall</a>
+	
+		<a class="set-bar inactive" href="CRF"><img src="/sets/CRF-files/icon.png">Chikyu: Ruined Future</a>
+	
+		<a class="set-bar inactive" href="HNG"><img src="/sets/HNG-files/icon.png">Honor and Greed</a>
+	
+		<a class="set-bar inactive" href="IRW"><img src="/sets/IRW-files/icon.png">By Iron Will</a>
+	
+		<a class="set-bar inactive" href="KEC"><img src="/sets/KEC-files/icon.png">Kylem’s Encore</a>
+	
+		<a class="set-bar inactive" href="KTG"><img src="/sets/KTG-files/icon.png">Kalthrasha: Genesis</a>
+	
+		<a class="set-bar inactive" href="L4D"><img src="/sets/L4D-files/icon.png">LEFT4DEAD</a>
+	
+		<a class="set-bar inactive" href="MRC"><img src="/sets/MRC-files/icon.png">Mercadia: Blood and Gold</a>
+	
+		<a class="set-bar inactive" href="MSL"><img src="/sets/MSL-files/icon.png">Microset Landbase</a>
+	
+		<a class="set-bar inactive" href="PHD"><img src="/sets/PHD-files/icon.png">Panarchademia: Hardcover Labyrinth</a>
+	
+		<a class="set-bar inactive" href="REL"><img src="/sets/REL-files/icon.png">Race to the Eternal Lands</a>
+	
+		<a class="set-bar inactive" href="STW"><img src="/sets/STW-files/icon.png">Star Wars Miniset</a>
+	
+		<a class="set-bar inactive" href="TOON"><img src="/sets/TOON-files/icon.png">Toon Set</a>
+	
+		<a class="set-bar inactive" href="TVN"><img src="/sets/TVN-files/icon.png">Titans of Viludin Microset</a>
+	
+		<a class="set-bar inactive" href="VGT"><img src="/sets/VGT-files/icon.png">Voc-Gal Techniques</a>
+	
+		<a class="set-bar inactive" href="VLD"><img src="/sets/VLD-files/icon.png">Veldstire</a>
+	
+		<a class="set-bar inactive" href="VRL"><img src="/sets/VRL-files/icon.png">Veyrathal</a>
+	
 		</div>
 		<div class="banner">
 		<img class="logo" src="/sets/XRX-files/logo.png">
@@ -242,56 +258,56 @@
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
 					<div class="container"><img alt="/sets\XRX-files\img\7_Tumble Down the Stairs.png" id="7_Tumble Down the Stairs" data-flag="@X" onclick="openSidebar('7_Tumble Down the Stairs',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\8_Doorway Effect.png" id="8_Doorway Effect" data-flag="@X" onclick="openSidebar('8_Doorway Effect',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\15_Logical Fallacy.png" id="15_Logical Fallacy" data-flag="@X" onclick="openSidebar('15_Logical Fallacy',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\22_Intrusive Thought.png" id="22_Intrusive Thought" data-flag="@X" onclick="openSidebar('22_Intrusive Thought',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\26_Fight with Reality.png" id="26_Fight with Reality" data-flag="@X" onclick="openSidebar('26_Fight with Reality',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\9_Doorway Effect.png" id="9_Doorway Effect" data-flag="@X" onclick="openSidebar('9_Doorway Effect',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\16_Logical Fallacy.png" id="16_Logical Fallacy" data-flag="@X" onclick="openSidebar('16_Logical Fallacy',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\23_Intrusive Thought.png" id="23_Intrusive Thought" data-flag="@X" onclick="openSidebar('23_Intrusive Thought',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\27_Fight with Reality.png" id="27_Fight with Reality" data-flag="@X" onclick="openSidebar('27_Fight with Reality',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\8_Tumble Down the Stairs SBHJ.png" id="8_Tumble Down the Stairs SBHJ" data-flag="@X" onclick="openSidebar('8_Tumble Down the Stairs SBHJ',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\11_Information Angel.png" id="11_Information Angel" data-flag="@X" onclick="openSidebar('11_Information Angel',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\17_Mass Malaise.png" id="17_Mass Malaise" data-flag="@X" onclick="openSidebar('17_Mass Malaise',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\21_Chaos Mage.png" id="21_Chaos Mage" data-flag="@X" onclick="openSidebar('21_Chaos Mage',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\28_Impossible Planescape.png" id="28_Impossible Planescape" data-flag="@X" onclick="openSidebar('28_Impossible Planescape',false)"></div>
 				<div class="container"><img alt="/sets\XRX-files\img\4_Memory Embalmer.png" id="4_Memory Embalmer" data-flag="@X" onclick="openSidebar('4_Memory Embalmer',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\10_Information Angel.png" id="10_Information Angel" data-flag="@X" onclick="openSidebar('10_Information Angel',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\14_Fear the Other.png" id="14_Fear the Other" data-flag="@X" onclick="openSidebar('14_Fear the Other',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\20_Chaos Mage.png" id="20_Chaos Mage" data-flag="@X" onclick="openSidebar('20_Chaos Mage',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\30_Unreality Tamer.png" id="30_Unreality Tamer" data-flag="@X" onclick="openSidebar('30_Unreality Tamer',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\2_Funeral Pyre.png" id="2_Funeral Pyre" data-flag="@X" onclick="openSidebar('2_Funeral Pyre',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\9_Incalculus Mage.png" id="9_Incalculus Mage" data-flag="@X" onclick="openSidebar('9_Incalculus Mage',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\16_Mass Malaise.png" id="16_Mass Malaise" data-flag="@X" onclick="openSidebar('16_Mass Malaise',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\21_Color Dancer.png" id="21_Color Dancer" data-flag="@X" onclick="openSidebar('21_Color Dancer',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\27_Impossible Planescape.png" id="27_Impossible Planescape" data-flag="@X" onclick="openSidebar('27_Impossible Planescape',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\10_Incalculus Mage.png" id="10_Incalculus Mage" data-flag="@X" onclick="openSidebar('10_Incalculus Mage',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\18_Nameless Things.png" id="18_Nameless Things" data-flag="@X" onclick="openSidebar('18_Nameless Things',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\22_Color Dancer.png" id="22_Color Dancer" data-flag="@X" onclick="openSidebar('22_Color Dancer',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\29_Panicked Dreamer.png" id="29_Panicked Dreamer" data-flag="@X" onclick="openSidebar('29_Panicked Dreamer',false)"></div>
 				<div class="container"><img alt="/sets\XRX-files\img\3_Inhereted Cause.png" id="3_Inhereted Cause" data-flag="@X" onclick="openSidebar('3_Inhereted Cause',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\11_Manipulate Fate.png" id="11_Manipulate Fate" data-flag="@X" onclick="openSidebar('11_Manipulate Fate',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\17_Nameless Things.png" id="17_Nameless Things" data-flag="@X" onclick="openSidebar('17_Nameless Things',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\23_Paladin of Change.png" id="23_Paladin of Change" data-flag="@X" onclick="openSidebar('23_Paladin of Change',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\28_Panicked Dreamer.png" id="28_Panicked Dreamer" data-flag="@X" onclick="openSidebar('28_Panicked Dreamer',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\12_Manipulate Fate.png" id="12_Manipulate Fate" data-flag="@X" onclick="openSidebar('12_Manipulate Fate',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\19_Shrouded Watcher.png" id="19_Shrouded Watcher" data-flag="@X" onclick="openSidebar('19_Shrouded Watcher',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\24_Paladin of Change.png" id="24_Paladin of Change" data-flag="@X" onclick="openSidebar('24_Paladin of Change',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\30_Unpredictable Conjurer.png" id="30_Unpredictable Conjurer" data-flag="@X" onclick="openSidebar('30_Unpredictable Conjurer',false)"></div>
 				<div class="container"><img alt="/sets\XRX-files\img\5_Sanity Protector.png" id="5_Sanity Protector" data-flag="@X" onclick="openSidebar('5_Sanity Protector',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\12_Observe.png" id="12_Observe" data-flag="@X" onclick="openSidebar('12_Observe',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\18_Shrouded Watcher.png" id="18_Shrouded Watcher" data-flag="@X" onclick="openSidebar('18_Shrouded Watcher',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\24_Spontaneous Spark.png" id="24_Spontaneous Spark" data-flag="@X" onclick="openSidebar('24_Spontaneous Spark',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\29_Unpredictable Conjurer.png" id="29_Unpredictable Conjurer" data-flag="@X" onclick="openSidebar('29_Unpredictable Conjurer',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\13_Observe.png" id="13_Observe" data-flag="@X" onclick="openSidebar('13_Observe',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\20_Weigh Down.png" id="20_Weigh Down" data-flag="@X" onclick="openSidebar('20_Weigh Down',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\25_Spontaneous Spark.png" id="25_Spontaneous Spark" data-flag="@X" onclick="openSidebar('25_Spontaneous Spark',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\32_Warrior of Ascent.png" id="32_Warrior of Ascent" data-flag="@X" onclick="openSidebar('32_Warrior of Ascent',false)"></div>
 				<div class="container"><img alt="/sets\XRX-files\img\6_Tesselating Wing.png" id="6_Tesselating Wing" data-flag="@X" onclick="openSidebar('6_Tesselating Wing',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\13_Strange Eye.png" id="13_Strange Eye" data-flag="@X" onclick="openSidebar('13_Strange Eye',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\19_Weigh Down.png" id="19_Weigh Down" data-flag="@X" onclick="openSidebar('19_Weigh Down',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\25_Unfamilliar Feeling.png" id="25_Unfamilliar Feeling" data-flag="@X" onclick="openSidebar('25_Unfamilliar Feeling',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\31_Warrior of Ascent.png" id="31_Warrior of Ascent" data-flag="@X" onclick="openSidebar('31_Warrior of Ascent',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\14_Strange Eye.png" id="14_Strange Eye" data-flag="@X" onclick="openSidebar('14_Strange Eye',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\26_Unfamilliar Feeling.png" id="26_Unfamilliar Feeling" data-flag="@X" onclick="openSidebar('26_Unfamilliar Feeling',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\35_The Space Breathes.png" id="35_The Space Breathes" data-flag="@X" onclick="openSidebar('35_The Space Breathes',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\32_Distant Thought.png" id="32_Distant Thought" data-flag="@X" onclick="openSidebar('32_Distant Thought',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\36_Void Gardener.png" id="36_Void Gardener" data-flag="@X" onclick="openSidebar('36_Void Gardener',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\34_Mad Seraph.png" id="34_Mad Seraph" data-flag="@X" onclick="openSidebar('34_Mad Seraph',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\33_Illogical Fabrication.png" id="33_Illogical Fabrication" data-flag="@X" onclick="openSidebar('33_Illogical Fabrication',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\37_Charismatic Wanderer.png" id="37_Charismatic Wanderer" data-flag="@X" onclick="openSidebar('37_Charismatic Wanderer',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\41_Perception Distortion.png" id="41_Perception Distortion" data-flag="@X" onclick="openSidebar('41_Perception Distortion',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\39_Malevolant Thoughtform.png" id="39_Malevolant Thoughtform" data-flag="@X" onclick="openSidebar('39_Malevolant Thoughtform',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\38_Hopeful Nameless.png" id="38_Hopeful Nameless" data-flag="@X" onclick="openSidebar('38_Hopeful Nameless',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\42_Wizardling Lookalike.png" id="42_Wizardling Lookalike" data-flag="@X" onclick="openSidebar('42_Wizardling Lookalike',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\33_Distant Thought.png" id="33_Distant Thought" data-flag="@X" onclick="openSidebar('33_Distant Thought',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\37_Void Gardener.png" id="37_Void Gardener" data-flag="@X" onclick="openSidebar('37_Void Gardener',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\35_Mad Seraph.png" id="35_Mad Seraph" data-flag="@X" onclick="openSidebar('35_Mad Seraph',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\34_Illogical Fabrication.png" id="34_Illogical Fabrication" data-flag="@X" onclick="openSidebar('34_Illogical Fabrication',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\42_Perception Distortion.png" id="42_Perception Distortion" data-flag="@X" onclick="openSidebar('42_Perception Distortion',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\40_Malevolant Thoughtform.png" id="40_Malevolant Thoughtform" data-flag="@X" onclick="openSidebar('40_Malevolant Thoughtform',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\39_Hopeful Nameless.png" id="39_Hopeful Nameless" data-flag="@X" onclick="openSidebar('39_Hopeful Nameless',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\43_Wizardling Lookalike.png" id="43_Wizardling Lookalike" data-flag="@X" onclick="openSidebar('43_Wizardling Lookalike',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\40_New Perspective.png" id="40_New Perspective" data-flag="@X" onclick="openSidebar('40_New Perspective',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\41_New Perspective.png" id="41_New Perspective" data-flag="@X" onclick="openSidebar('41_New Perspective',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
@@ -302,35 +318,40 @@
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
 				<div class="container"><img alt="/sets\XRX-files\img\1_Empty Hallway.png" id="1_Empty Hallway" data-flag="@X" onclick="openSidebar('1_Empty Hallway',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\44_Maybe Box.png" id="44_Maybe Box" data-flag="@X" onclick="openSidebar('44_Maybe Box',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\43_Light in the Fog.png" id="43_Light in the Fog" data-flag="@X" onclick="openSidebar('43_Light in the Fog',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\45_Thoughtless Amalgum.png" id="45_Thoughtless Amalgum" data-flag="@X" onclick="openSidebar('45_Thoughtless Amalgum',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\51_Forget.png" id="51_Forget" data-flag="@X" onclick="openSidebar('51_Forget',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\52_Idea.png" id="52_Idea" data-flag="@X" onclick="openSidebar('52_Idea',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\53_Multitudes.png" id="53_Multitudes" data-flag="@X" onclick="openSidebar('53_Multitudes',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\54_Presence.png" id="54_Presence" data-flag="@X" onclick="openSidebar('54_Presence',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\55_Vanished.png" id="55_Vanished" data-flag="@X" onclick="openSidebar('55_Vanished',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\44_Light in the Fog.png" id="44_Light in the Fog" data-flag="@X" onclick="openSidebar('44_Light in the Fog',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\46_Thoughtless Amalgum.png" id="46_Thoughtless Amalgum" data-flag="@X" onclick="openSidebar('46_Thoughtless Amalgum',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\52_Forget.png" id="52_Forget" data-flag="@X" onclick="openSidebar('52_Forget',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\53_Idea.png" id="53_Idea" data-flag="@X" onclick="openSidebar('53_Idea',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\55_Presence.png" id="55_Presence" data-flag="@X" onclick="openSidebar('55_Presence',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\56_Vanished.png" id="56_Vanished" data-flag="@X" onclick="openSidebar('56_Vanished',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\49_Mountain.png" id="49_Mountain" data-flag="@X" onclick="openSidebar('49_Mountain',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\47_Island.png" id="47_Island" data-flag="@X" onclick="openSidebar('47_Island',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\48_Swamp.png" id="48_Swamp" data-flag="@X" onclick="openSidebar('48_Swamp',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\46_Plains.png" id="46_Plains" data-flag="@X" onclick="openSidebar('46_Plains',false)"></div>
-				<div class="container"><img alt="/sets\XRX-files\img\50_Forest.png" id="50_Forest" data-flag="@X" onclick="openSidebar('50_Forest',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\50_Mountain.png" id="50_Mountain" data-flag="@X" onclick="openSidebar('50_Mountain',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\48_Island.png" id="48_Island" data-flag="@X" onclick="openSidebar('48_Island',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\49_Swamp.png" id="49_Swamp" data-flag="@X" onclick="openSidebar('49_Swamp',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\47_Plains.png" id="47_Plains" data-flag="@X" onclick="openSidebar('47_Plains',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\51_Forest.png" id="51_Forest" data-flag="@X" onclick="openSidebar('51_Forest',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="token" class="anchor"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\45t_Maybe Box.png" id="45t_Maybe Box" data-flag="@X" onclick="openSidebar('45t_Maybe Box',false)"></div>
 				<div class="container"><img alt="/sets\XRX-files\img\1t_Token Creature.png" id="1t_Token Creature" data-flag="@X" onclick="openSidebar('1t_Token Creature',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\54t_Multitudes.png" id="54t_Multitudes" data-flag="@X" onclick="openSidebar('54t_Multitudes',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\15t_Fear the Other.png" id="15t_Fear the Other" data-flag="@X" onclick="openSidebar('15t_Fear the Other',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\31t_Unreality Tamer.png" id="31t_Unreality Tamer" data-flag="@X" onclick="openSidebar('31t_Unreality Tamer',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\2t_Funeral Pyre.png" id="2t_Funeral Pyre" data-flag="@X" onclick="openSidebar('2t_Funeral Pyre',false)"></div>
 				<div class="container"><img alt="/sets\XRX-files\img\2t_Spirit.png" id="2t_Spirit" data-flag="@X" onclick="openSidebar('2t_Spirit',false)"></div>
 				<div class="container"><img alt="/sets\XRX-files\img\3t_Cat.png" id="3t_Cat" data-flag="@X" onclick="openSidebar('3t_Cat',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\36t_The Space Breathes.png" id="36t_The Space Breathes" data-flag="@X" onclick="openSidebar('36t_The Space Breathes',false)"></div>
+				<div class="container"><img alt="/sets\XRX-files\img\38t_Charismatic Wanderer.png" id="38t_Charismatic Wanderer" data-flag="@X" onclick="openSidebar('38t_Charismatic Wanderer',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -504,6 +525,24 @@
 
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
 	}
 
 	document.getElementById("search").addEventListener("keypress", function(event) {

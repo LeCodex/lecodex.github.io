@@ -1,10 +1,10 @@
-[CustomCards]
+ï»¿[CustomCards]
 	[
 		{
 			"name": "Gambit General",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Skeleton Soldier",
+			"type": "Creature â€” Skeleton Soldier",
 			"collector_number": "18",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/18_Gambit General.png"
@@ -14,7 +14,7 @@
 			"name": "Three Octave Vocalist",
 			"rarity": "rare",
 			"mana_cost": "{W}",
-			"type": "Creature — Human",
+			"type": "Creature â€” Human",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/10_Three Octave Vocalist.png"
@@ -24,7 +24,7 @@
 			"name": "Fanatical Copycat",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Shapeshifter",
+			"type": "Creature â€” Shapeshifter",
 			"collector_number": "38",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/38_Fanatical Copycat.png"
@@ -34,7 +34,7 @@
 			"name": "Ship of the Spoils",
 			"rarity": "mythic",
 			"mana_cost": "{3}",
-			"type": "Artifact — Vehicle",
+			"type": "Artifact â€” Vehicle",
 			"collector_number": "50",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/50_Ship of the Spoils.png"
@@ -44,7 +44,7 @@
 			"name": "Tiz the Unjoiner",
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}",
-			"type": "Legendary Planeswalker — Tiz",
+			"type": "Legendary Planeswalker â€” Tiz",
 			"collector_number": "43",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/43_Tiz the Unjoiner.png"
@@ -64,7 +64,7 @@
 			"name": "Birdsong Listener",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/11_Birdsong Listener.png"
@@ -74,7 +74,7 @@
 			"name": "Zealous Amplifier",
 			"rarity": "uncommon",
 			"mana_cost": "{B/G}{B/G}",
-			"type": "Creature — Human Warlock",
+			"type": "Creature â€” Human Warlock",
 			"collector_number": "49",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/49_Zealous Amplifier.png"
@@ -84,7 +84,7 @@
 			"name": "Songstoker",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
-			"type": "Creature — Human Bard",
+			"type": "Creature â€” Human Bard",
 			"collector_number": "42",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/42_Songstoker.png"
@@ -94,7 +94,7 @@
 			"name": "Purge the Record",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
-			"type": "Enchantment — Saga",
+			"type": "Enchantment â€” Saga",
 			"collector_number": "40",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/40_Purge the Record.png"
@@ -104,7 +104,7 @@
 			"name": "Crowd Stampede",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Enchantment — Saga",
+			"type": "Enchantment â€” Saga",
 			"collector_number": "36",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/36_Crowd Stampede.png"
@@ -114,7 +114,7 @@
 			"name": "Dominarian Angel",
 			"rarity": "common",
 			"mana_cost": "{6}{W}",
-			"type": "Creature — Angel",
+			"type": "Creature â€” Angel",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/6_Dominarian Angel.png"
@@ -124,7 +124,7 @@
 			"name": "Dominarian Terror",
 			"rarity": "common",
 			"mana_cost": "{6}{U}",
-			"type": "Creature — Serpent",
+			"type": "Creature â€” Serpent",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/12_Dominarian Terror.png"
@@ -134,7 +134,7 @@
 			"name": "Innistradi Zombie",
 			"rarity": "common",
 			"mana_cost": "{6}{B}",
-			"type": "Creature — Zombie",
+			"type": "Creature â€” Zombie",
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/20_Innistradi Zombie.png"
@@ -144,7 +144,7 @@
 			"name": "Dominarian Dragon",
 			"rarity": "common",
 			"mana_cost": "{6}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "25",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/25_Dominarian Dragon.png"
@@ -154,7 +154,7 @@
 			"name": "Tremolos Mumur Bearer",
 			"rarity": "common",
 			"mana_cost": "{G/U}{G/U}",
-			"type": "Creature — Siren Bard",
+			"type": "Creature â€” Siren Bard",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/48_Tremolos Mumur Bearer.png"
@@ -164,7 +164,7 @@
 			"name": "Ikorian Ceratops",
 			"rarity": "common",
 			"mana_cost": "{6}{G}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/33_Ikorian Ceratops.png"
@@ -174,7 +174,7 @@
 			"name": "Echoing Solist",
 			"rarity": "common",
 			"mana_cost": "{1}{W/B}{W/B}",
-			"type": "Enchantment Creature — Spirit",
+			"type": "Enchantment Creature â€” Spirit",
 			"collector_number": "45",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/45_Echoing Solist.png"
@@ -184,7 +184,7 @@
 			"name": "Rondelli Siren",
 			"rarity": "common",
 			"mana_cost": "{U/R}{U/R}",
-			"type": "Creature — Siren Bard",
+			"type": "Creature â€” Siren Bard",
 			"collector_number": "46",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/46_Rondelli Siren.png"
@@ -194,7 +194,7 @@
 			"name": "Countros Fanatic",
 			"rarity": "common",
 			"mana_cost": "{R/W}{R/W}",
-			"type": "Enchantment Creature — Spirit",
+			"type": "Enchantment Creature â€” Spirit",
 			"collector_number": "44",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/44_Countros Fanatic.png"
@@ -204,7 +204,7 @@
 			"name": "Decreshh Tuner",
 			"rarity": "common",
 			"mana_cost": "{1}{2/C}",
-			"type": "Creature — Azra Noble",
+			"type": "Creature â€” Azra Noble",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/1_Decreshh Tuner.png"
@@ -214,7 +214,7 @@
 			"name": "Harmonic Hydra",
 			"rarity": "common",
 			"mana_cost": "{2/C}{2/C}{2/C}",
-			"type": "Enchantment Creature — Hydra Bard",
+			"type": "Enchantment Creature â€” Hydra Bard",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/2_Harmonic Hydra.png"
@@ -224,7 +224,7 @@
 			"name": "Sterilization Unit",
 			"rarity": "common",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Robot",
+			"type": "Artifact Creature â€” Robot",
 			"collector_number": "51",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/51_Sterilization Unit.png"
@@ -234,7 +234,7 @@
 			"name": "Sirensong Audience",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Creature — Human Bard",
+			"type": "Creature â€” Human Bard",
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/15_Sirensong Audience.png"
@@ -244,7 +244,7 @@
 			"name": "Fanatic Siren",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Siren",
+			"type": "Creature â€” Siren",
 			"collector_number": "26",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/26_Fanatic Siren.png"
@@ -254,7 +254,7 @@
 			"name": "Hear the Siren's Song",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Enchantment — Saga",
+			"type": "Enchantment â€” Saga",
 			"collector_number": "19",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/19_Hear the Siren's Song.png"
@@ -264,7 +264,7 @@
 			"name": "Even Stars Fall",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Saga",
+			"type": "Enchantment â€” Saga",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/7_Even Stars Fall.png"
@@ -274,7 +274,7 @@
 			"name": "Amphiteater Listener",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Vampire Noble",
+			"type": "Creature â€” Vampire Noble",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/4_Amphiteater Listener.png"
@@ -284,7 +284,7 @@
 			"name": "Backup Singer",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Enchantment Creature — Spirit",
+			"type": "Enchantment Creature â€” Spirit",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/5_Backup Singer.png"
@@ -304,7 +304,7 @@
 			"name": "Rondelli Recruiter",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Siren Scout",
+			"type": "Creature â€” Siren Scout",
 			"collector_number": "14",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/14_Rondelli Recruiter.png"
@@ -314,7 +314,7 @@
 			"name": "Echo of Silence",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Enchantment Creature — Spirit",
+			"type": "Enchantment Creature â€” Spirit",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/17_Echo of Silence.png"
@@ -324,7 +324,7 @@
 			"name": "Mourning Soliliquist",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Siren Bard",
+			"type": "Creature â€” Siren Bard",
 			"collector_number": "21",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/21_Mourning Soliliquist.png"
@@ -344,7 +344,7 @@
 			"name": "Cadence Contralto",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Dwarf Bard",
+			"type": "Creature â€” Dwarf Bard",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/24_Cadence Contralto.png"
@@ -354,7 +354,7 @@
 			"name": "Storykeeper",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Dwarf Bard",
+			"type": "Creature â€” Dwarf Bard",
 			"collector_number": "35",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/35_Storykeeper.png"
@@ -374,7 +374,7 @@
 			"name": "Harmony Essence",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment Creature — Spirit",
+			"type": "Enchantment Creature â€” Spirit",
 			"collector_number": "32",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/32_Harmony Essence.png"
@@ -384,7 +384,7 @@
 			"name": "Polyphonist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Warlock",
+			"type": "Creature â€” Human Warlock",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/9_Polyphonist.png"
@@ -394,7 +394,7 @@
 			"name": "Subito Slicer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "22",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/22_Subito Slicer.png"
@@ -404,7 +404,7 @@
 			"name": "Motif Igniter",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Elf Bard",
+			"type": "Creature â€” Elf Bard",
 			"collector_number": "28",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/28_Motif Igniter.png"
@@ -414,7 +414,7 @@
 			"name": "Composed Mercenary",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "30",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/30_Composed Mercenary.png"
@@ -434,7 +434,7 @@
 			"name": "Sennai, Songclade's Start",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
-			"type": "Legendary Creature — Snake Elf Bard",
+			"type": "Legendary Creature â€” Snake Elf Bard",
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/41_Sennai, Songclade's Start.png"
@@ -454,7 +454,7 @@
 			"name": "Murmur",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Enchantment — Saga Murmur",
+			"type": "Token Enchantment â€” Saga Murmur",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/3_Murmur.png"
@@ -464,7 +464,7 @@
 			"name": "Zombie",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Zombie",
+			"type": "Token Creature â€” Zombie",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/4_Zombie.png"
@@ -474,7 +474,7 @@
 			"name": "Spirit",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Enchantment Creature — Spirit",
+			"type": "Token Enchantment Creature â€” Spirit",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/3_Spirit.png"
@@ -484,7 +484,7 @@
 			"name": "Treasure",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
+			"type": "Token Artifact â€” Treasure",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/5_Treasure.png"
@@ -494,7 +494,7 @@
 			"name": "Siren",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Siren",
+			"type": "Token Creature â€” Siren",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/2_Siren.png"
@@ -504,7 +504,7 @@
 			"name": "Faerie Dragon",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Faerie Dragon",
+			"type": "Token Creature â€” Faerie Dragon",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/1_Faerie Dragon.png"
@@ -514,7 +514,7 @@
 			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
+			"type": "Basic Land â€” Forest",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/31_Forest.png"
@@ -524,7 +524,7 @@
 			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island",
+			"type": "Basic Land â€” Island",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/13_Island.png"
@@ -534,7 +534,7 @@
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain",
+			"type": "Basic Land â€” Mountain",
 			"collector_number": "29",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/29_Mountain.png"
@@ -544,7 +544,7 @@
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains",
+			"type": "Basic Land â€” Plains",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/8_Plains.png"
@@ -554,7 +554,7 @@
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
+			"type": "Basic Land â€” Swamp",
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/23_Swamp.png"
@@ -569,7 +569,7 @@
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGT-files/img/6_Tiz the Unjoiner Emblem.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]
@@ -579,7 +579,7 @@
 	1 Ship of the Spoils
 	1 Tiz the Unjoiner
 	1 Olgal's Chant
-[uncommon(4)]
+[uncommon(3)]
 	4 Birdsong Listener
 	4 Zealous Amplifier
 	4 Songstoker
@@ -620,7 +620,53 @@
 	8 Storykeeper
 	8 Modal Harmonization
 	8 Harmony Essence
-[wildcard(2)]
+[foil(1)]
+	2 Gambit General
+	2 Three Octave Vocalist
+	2 Fanatical Copycat
+	1 Ship of the Spoils
+	1 Tiz the Unjoiner
+	1 Olgal's Chant
+	6 Birdsong Listener
+	6 Zealous Amplifier
+	6 Songstoker
+	6 Purge the Record
+	6 Crowd Stampede
+	12 Dominarian Angel
+	12 Dominarian Terror
+	12 Innistradi Zombie
+	12 Dominarian Dragon
+	12 Tremolos Mumur Bearer
+	12 Ikorian Ceratops
+	12 Echoing Solist
+	12 Rondelli Siren
+	12 Countros Fanatic
+	12 Decreshh Tuner
+	12 Harmonic Hydra
+	12 Sterilization Unit
+	12 Sirensong Audience
+	12 Fanatic Siren
+	12 Hear the Siren's Song
+	12 Even Stars Fall
+	12 Amphiteater Listener
+	12 Backup Singer
+	12 Tuck within Harmony
+	12 Rondelli Recruiter
+	12 Echo of Silence
+	12 Mourning Soliliquist
+	12 Flaming Resolution
+	12 Cadence Contralto
+	12 Storykeeper
+	12 Modal Harmonization
+	12 Harmony Essence
+	6 Polyphonist
+	6 Subito Slicer
+	6 Motif Igniter
+	6 Composed Mercenary
+	6 Siren Choir
+	6 Sennai, Songclade's Start
+	6 Downbeat
+[wildcard(1)]
 	7 Gambit General
 	7 Three Octave Vocalist
 	7 Fanatical Copycat

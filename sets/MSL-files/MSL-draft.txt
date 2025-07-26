@@ -233,7 +233,7 @@
 	]
 
 [rare(1)]
-[uncommon(4)]
+[uncommon(3)]
 [common(7)]
 	8 Cinder Barrens
 	8 Contaminated Aquifer
@@ -258,7 +258,31 @@
 	8 Tranquil Expanse
 	8 Wooded Ridgeline
 	8 Woodland Stream
-[wildcard(2)]
+[foil(1)]
+	12 Cinder Barrens
+	12 Contaminated Aquifer
+	12 Evolving Wilds
+	12 Forsaken Sanctuary
+	12 Foul Orchard
+	12 Geothermal Bog
+	12 Haunted Mire
+	12 Highland Lake
+	12 Idyllic Beachfront
+	12 Meandering River
+	12 Molten Tributary
+	12 Radiant Grove
+	12 Rupture Spire
+	12 Sacred Peaks
+	12 Stone Quarry
+	12 Submerged Boneyard
+	12 Sunlit Marsh
+	12 Tangled Islet
+	12 Terramorphic Expanse
+	12 Timber Gorge
+	12 Tranquil Expanse
+	12 Wooded Ridgeline
+	12 Woodland Stream
+[wildcard(1)]
 	6 Cinder Barrens
 	6 Contaminated Aquifer
 	6 Evolving Wilds

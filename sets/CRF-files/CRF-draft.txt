@@ -480,7 +480,7 @@
 	1 Karina, Out of Time
 	1 Sanaito, Root of Ruin
 	2 First Contact
-[uncommon(4)]
+[uncommon(3)]
 	4 Yearning Mimic
 	4 Remnant of Rocket
 	4 Ravenous Flytrap
@@ -521,7 +521,53 @@
 	8 Sunset Chaser
 	8 Berry Basket
 	8 The City Made Wild
-[wildcard(2)]
+[foil(1)]
+	2 Ryoto, Wilds Walker
+	6 Yearning Mimic
+	6 Remnant of Rocket
+	6 Ravenous Flytrap
+	6 Valiant Truthseeker
+	6 Maven of Disaster
+	12 Nasty Plot
+	12 Cliffside Crusher
+	6 Dregs of Industry
+	12 Excavation Mole
+	12 The Earth Endures
+	12 Doomed Trainer
+	12 Treetop Trapper
+	12 Prepare for Trouble!
+	12 Scalewrought Protector
+	12 Bellowing Behemoth
+	12 Gluttonous Ghost
+	12 Sanaito's Nightmare
+	12 Partner in Crime
+	12 Mournful Amnesiac
+	12 Beauty of the Wastes
+	12 To the Sea, Returned
+	12 Icy Glare
+	12 Emissary of the Sun
+	12 Pacifying Predator
+	12 Warden's Mission
+	12 Lonely Youngling
+	12 Wandering Vagabonds
+	12 Preserved Specimens
+	12 Future's Present
+	12 Shrieking Pest
+	12 Sunset Chaser
+	2 Unrelenting Titan
+	2 Chikyu's Champion
+	6 Conduit of Change
+	6 Rage of the Reef
+	6 Dark-Dwelling Mycellium
+	12 Berry Basket
+	6 Brick by Brick
+	6 Community's Garden
+	1 Karina, Out of Time
+	1 Sanaito, Root of Ruin
+	12 The City Made Wild
+	6 Bump in the Road
+	2 First Contact
+[wildcard(1)]
 	7 Ryoto, Wilds Walker
 	15 Yearning Mimic
 	15 Remnant of Rocket

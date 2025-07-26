@@ -459,7 +459,7 @@
 	1 Mox Nacre
 	2 Foreseen Storm
 	2 Entrepreneurial Intent
-[uncommon(4)]
+[uncommon(3)]
 	4 Drive a Hard Bargain
 	4 Hellkite Whelp
 	4 Arabeka's Handmaid
@@ -500,7 +500,53 @@
 	8 Saprazzan Sylph
 	8 Deregulation
 	8 Cho-Arrim Entrancer
-[wildcard(2)]
+[foil(1)]
+	6 Drive a Hard Bargain
+	1 Outer-Sea Tyrant
+	12 Rushwood Scavenger
+	12 Cateran Negotiation
+	12 Flight from Privilege
+	6 Hellkite Whelp
+	12 Saprazzan Scion
+	12 Cho-Arrim Connection
+	12 Cold-Blooded Cartographer
+	12 Kyren Courier
+	12 Rishadan Abacus
+	2 Lamprey Hydra
+	12 Hand of the Market
+	12 Singular Sculptor
+	12 Wanted Hustler
+	12 Clock Tower
+	12 Barter with Fate
+	12 Overwhelmed Adjudicator
+	12 Stern Redistributor
+	12 Ramosian Banner
+	12 Prizefight
+	12 Deepwood Gnarlbark
+	12 Blade of Ramos
+	12 Work to the Bone
+	12 Alchemical Shyster
+	6 Arabeka's Handmaid
+	6 Extortion Patrol
+	2 Deepwood Shade
+	6 Soul of the Henge
+	6 Aven Appraiser
+	6 Henge Supplicant
+	12 Lost in the Bustle
+	12 Imp Wrangler
+	12 Sage of Iachem-oath
+	12 Saprazzan Sylph
+	12 Deregulation
+	12 Cho-Arrim Entrancer
+	6 Laissez Faire
+	6 Cateran Guilt
+	6 Blacksmith's Guardian
+	6 Hydraulic Haulier
+	6 Pilfering Harpy
+	1 Mox Nacre
+	2 Foreseen Storm
+	2 Entrepreneurial Intent
+[wildcard(1)]
 	15 Drive a Hard Bargain
 	4 Outer-Sea Tyrant
 	6 Rushwood Scavenger

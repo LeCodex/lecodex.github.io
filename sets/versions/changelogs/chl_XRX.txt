@@ -1,4 +1,144 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Tumble Down the Stairs SBHJ added.
+
+
+Logical Fallacy
+type: Sorcery => Instant
+cost: {B} => {0}
+rules_text: Exile your hand.
+Voidborne {0} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)[/i] => Exile your hand.
+Voidborne {0}. [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)[/i]
+
+Empty Hallway
+
+Strange Eye
+
+Charismatic Wanderer
+cost: {1{W}B}{WB} => {1}{WB}{WB}
+
+Panicked Dreamer
+
+Impossible Planescape
+
+Unfamilliar Feeling
+
+Inhereted Cause
+
+Weigh Down
+
+Unpredictable Conjurer
+
+Maybe Box
+
+Malevolant Thoughtform
+
+New Perspective
+
+Doorway Effect
+rules_text: Exile target spell. Its owner may cast it for as long as it remains exiled.
+Voidborne {0} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)[/i] => Exile target spell. Its owner may cast it for as long as it remains exiled.
+Voidborne— Exile a card from your hand. [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it by exiling a card from your hand.)[/i]
+
+Tumble Down the Stairs
+cost: {W} => {1}{W}
+rules_text: Destroy target creature. Its controller draws a card.
+Voidborne {0} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)[/i] => Destroy target creature, artifact, or planeswalker. Its controller draws a card.
+Voidborne {1} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1}.)[/i]
+
+Fight with Reality
+
+Intrusive Thought
+
+Hopeful Nameless
+rules_text: When this card is put into exile from anywhere, you gain 1 life.
+This creature enters with a +1/+1 counter on it if it wasn't cast from your hand.
+Voidborne {1{R}W}{RW} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1{R}W}{RW}.)[/i] => When this card is put into exile from anywhere, you gain 1 life.
+This creature enters with a +1/+1 counter on it if it wasn't cast from your hand.
+Voidborne {1}{RW}{RW} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1}{RW}{RW}.)[/i]
+
+Perception Distortion
+cost: {1{U}R}{UR} => {1}{UR}{UR}
+
+Thoughtless Amalgum
+
+Light in the Fog
+
+Incalculus Mage
+rules_text: Flash
+When this creature enters, counter target spell. Its controller may scour 2. [i](To scour 2, look at the top two cards of your library, exile any number of them, then put the rest on top in any order.)[/i] => Flash
+When this creature enters, counter up to one target spell. Its controller may scour 2. [i](To scour 2, look at the top two cards of your library, exile any number of them, then put the rest on top in any order.)[/i]
+pt: 2/3 => 2/2
+
+Shrouded Watcher
+
+Information Angel
+
+Tesselating Wing
+
+Paladin of Change
+
+Wizardling Lookalike
+cost: {1{G}U}{GU} => {1}{GU}{GU}
+rules_text: Whenever this creature attacks, scour 1. [i](Look at the top card of your library. You may exile it.)[/i]
+Voidborne {1{G}U}{GU} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1{G}U}{GU}.)[/i] => Whenever this creature attacks, scour 1. [i](Look at the top card of your library. You may exile it.)[/i]
+Voidborne {1}{GU}{GU} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1}{GU}{GU}.)[/i]
+
+Nameless Things
+
+Color Dancer
+
+Manipulate Fate
+
+Funeral Pyre
+
+Mass Malaise
+
+Observe
+
+Spontaneous Spark
+
+Unreality Tamer
+
+Sanity Protector
+
+Mad Seraph
+
+Warrior of Ascent
+
+Illogical Fabrication
+
+Chaos Mage
+
+The Space Breathes
+
+Fear the Other
+
+Distant Thought
+
+Memory Embalmer
+
+Void Gardener
+
+Idea
+
+Multitudes
+
+Vanished
+
+Presence
+
+Forget
+
+Token Creature
+
+Spirit
+
+Cat
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

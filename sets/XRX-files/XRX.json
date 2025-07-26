@@ -3,16 +3,18 @@
     "formats": "",
     "trimmed": "y",
     "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "Logical Fallacy",
             "color": "B",
             "rarity": "rare",
-            "type": "Sorcery",
-            "number": 15,
+            "type": "Instant",
+            "number": 16,
             "color_identity": "B",
-            "cost": "{B}",
-            "rules_text": "Exile your hand.\nVoidborne {0} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)[/i]",
+            "cost": "{0}",
+            "rules_text": "Exile your hand.\nVoidborne {0}. [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)[/i]",
             "flavor_text": "[i]It's unusual, it stands out, it's interesting. It must be important. It must have use.[/i]",
             "pt": "",
             "special_text": "",
@@ -20,6 +22,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "John Swartwout",
+            "alias": "",
             "notes": ""
         },
         {
@@ -38,6 +41,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "NMS",
+            "alias": "",
             "notes": ""
         },
         {
@@ -45,7 +49,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Eye",
-            "number": 13,
+            "number": 14,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Menace\nWhenever you look at one or more cards in your library or search your library, put a +1/+1 counter on this creature.",
@@ -56,6 +60,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "BittyHoneyBreez",
+            "alias": "",
             "notes": ""
         },
         {
@@ -63,17 +68,18 @@
             "color": "WB",
             "rarity": "common",
             "type": "Creature \u2014 Human Cleric",
-            "number": 37,
+            "number": 38,
             "color_identity": "WB",
-            "cost": "{1{W}B}{WB}",
+            "cost": "{1}{WB}{WB}",
             "rules_text": "When this creature enters, create a 1/1 colorless creature token.\nCreature spells you cast from anywhere other than your hand cost {1} less to cast.",
             "flavor_text": "[i]Some people just pull the lost towards themselves like a magnet, or maybe a beacon.[/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "XRX",
             "loyalty": "",
             "artist": "Andrea",
+            "alias": "",
             "notes": "!tokens Token Creature"
         },
         {
@@ -81,7 +87,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human",
-            "number": 28,
+            "number": 29,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Whenever you conjure a card, put a +1/+1 counter on this creature and untap it. It gains vigilance until end of turn.",
@@ -92,6 +98,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "krsbypeace",
+            "alias": "",
             "notes": ""
         },
         {
@@ -99,7 +106,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 27,
+            "number": 28,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Conjure a nonbasic land card of your choice into your hand.\n{3}{G}{G}, Shuffle this card into your library from exile: Conjure an Ethereal card of your choice into your hand.",
@@ -110,6 +117,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Shel Kahn",
+            "alias": "",
             "notes": ""
         },
         {
@@ -117,7 +125,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 25,
+            "number": 26,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "As an additional cost to cast this spell, exile a card from your hand.\nDraw two cards.",
@@ -128,6 +136,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Boris Pelcer",
+            "alias": "",
             "notes": ""
         },
         {
@@ -146,6 +155,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Gabriele Cuscino",
+            "alias": "",
             "notes": ""
         },
         {
@@ -153,7 +163,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 19,
+            "number": 20,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "As an additional cost to cast this spell, exile a creature card from your graveyard.\nTarget creature gets -3/-3 until end of turn.",
@@ -164,6 +174,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
+            "alias": "",
             "notes": ""
         },
         {
@@ -171,7 +182,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Wizard",
-            "number": 29,
+            "number": 30,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "Reach\nWhen this creature enters, choose five names from among cards that are Ethereal or Basic. Target opponent chooses two of those names. Conjure cards with those names into your hand.",
@@ -182,6 +193,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Ashenwave",
+            "alias": "",
             "notes": ""
         },
         {
@@ -189,17 +201,18 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 44,
+            "number": 45,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "{2}, {T}: Draw a card, then exile a card from your hand unless you sacrifice this artifact.\n{3}, Exile this card from your graveyard: Create a 2/2 black Cat creature token. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "XRX",
             "loyalty": "",
             "artist": "Edmund Mathews",
+            "alias": "",
             "notes": "!tokens Cat"
         },
         {
@@ -207,7 +220,7 @@
             "color": "BG",
             "rarity": "common",
             "type": "Creature",
-            "number": 39,
+            "number": 40,
             "color_identity": "BG",
             "cost": "{2}{BG}{BG}",
             "rules_text": "Reach, deathtouch, menace\nVoidborne {2}{BG}{BG} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {2}{BG}{BG}.)[/i]",
@@ -218,6 +231,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Rizky Rais",
+            "alias": "",
             "notes": ""
         },
         {
@@ -225,7 +239,7 @@
             "color": "WUB",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
-            "number": 40,
+            "number": 41,
             "color_identity": "WUB",
             "cost": "{2}{U}{WB}",
             "rules_text": "Enchant creature.\nYou control enchanted creature. \nIf enchanted creature doesn't belong, it gets +1/+1. Otherwise, it gets -1/-1. [i](A creature doesn't belong if it has no creature types.)[/i]",
@@ -236,6 +250,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Prabhav Bisht",
+            "alias": "",
             "notes": ""
         },
         {
@@ -243,10 +258,10 @@
             "color": "U",
             "rarity": "rare",
             "type": "Instant",
-            "number": 8,
+            "number": 9,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Exile target spell. Its owner may cast it for as long as it remains exiled.\nVoidborne {0} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)[/i]",
+            "rules_text": "Exile target spell. Its owner may cast it for as long as it remains exiled.\nVoidborne\u2014 Exile a card from your hand. [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it by exiling a card from your hand.)[/i]",
             "flavor_text": "[i]Wait, what was I doing?[/i]",
             "pt": "",
             "special_text": "",
@@ -254,6 +269,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Esther Grimes",
+            "alias": "",
             "notes": ""
         },
         {
@@ -263,8 +279,8 @@
             "type": "Instant",
             "number": 7,
             "color_identity": "W",
-            "cost": "{W}",
-            "rules_text": "Destroy target creature. Its controller draws a card.\nVoidborne {0} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)[/i]",
+            "cost": "{1}{W}",
+            "rules_text": "Destroy target creature, artifact, or planeswalker. Its controller draws a card.\nVoidborne {1} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1}.)[/i]",
             "flavor_text": "[i]A long way down and a longer way back up.[/i]",
             "pt": "",
             "special_text": "",
@@ -272,6 +288,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Robolotion",
+            "alias": "",
             "notes": ""
         },
         {
@@ -279,7 +296,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 26,
+            "number": 27,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Target creature you control fights target creature an opponent controls.\nVoidborne {0} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)[/i]",
@@ -290,6 +307,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Vassilios BayiokosPro",
+            "alias": "",
             "notes": ""
         },
         {
@@ -297,7 +315,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 22,
+            "number": 23,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Gain control of target creature with mana value 3 or less until end of turn. Untap it. It gains haste until end of turn.\nVoidborne {0} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)[/i]",
@@ -308,6 +326,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Sarah MW Miller",
+            "alias": "",
             "notes": ""
         },
         {
@@ -315,10 +334,10 @@
             "color": "WR",
             "rarity": "common",
             "type": "Creature",
-            "number": 38,
+            "number": 39,
             "color_identity": "WR",
             "cost": "{RW}{RW}",
-            "rules_text": "When this card is put into exile from anywhere, you gain 1 life.\nThis creature enters with a +1/+1 counter on it if it wasn't cast from your hand.\nVoidborne {1{R}W}{RW} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1{R}W}{RW}.)[/i]",
+            "rules_text": "When this card is put into exile from anywhere, you gain 1 life.\nThis creature enters with a +1/+1 counter on it if it wasn't cast from your hand.\nVoidborne {1}{RW}{RW} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1}{RW}{RW}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -326,6 +345,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Jonathan Wesslund",
+            "alias": "",
             "notes": ""
         },
         {
@@ -333,9 +353,9 @@
             "color": "UR",
             "rarity": "common",
             "type": "Instant",
-            "number": 41,
+            "number": 42,
             "color_identity": "UR",
-            "cost": "{1{U}R}{UR}",
+            "cost": "{1}{UR}{UR}",
             "rules_text": "This spell deals 5 damage to target creature or planeswalker. If that permanent would be put into a graveyard this turn, its owner puts it into their library third from the top instead.",
             "flavor_text": "[i]It feels like fire, but never kills.[/i]",
             "pt": "",
@@ -344,6 +364,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Tiamael Golding",
+            "alias": "",
             "notes": ""
         },
         {
@@ -351,7 +372,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature",
-            "number": 45,
+            "number": 46,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "",
@@ -362,6 +383,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Midjourney/Michael Cloud",
+            "alias": "",
             "notes": ""
         },
         {
@@ -369,7 +391,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 43,
+            "number": 44,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "{T}: Add one mana of any color.\n{T}: Add two mana of any one color. Spend this mana only to pay alternate costs or to cast Ethereal spells.\n{2}, {T}: Scour 1. [i](Look at the top card of your library. You may exile it.)[/i]",
@@ -380,6 +402,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Reapz",
+            "alias": "",
             "notes": ""
         },
         {
@@ -387,17 +410,18 @@
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Human Wizard",
-            "number": 9,
+            "number": 10,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "Flash\nWhen this creature enters, counter target spell. Its controller may scour 2. [i](To scour 2, look at the top two cards of your library, exile any number of them, then put the rest on top in any order.)[/i]",
+            "rules_text": "Flash\nWhen this creature enters, counter up to one target spell. Its controller may scour 2. [i](To scour 2, look at the top two cards of your library, exile any number of them, then put the rest on top in any order.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "XRX",
             "loyalty": "",
             "artist": "Dimart _Graphics",
+            "alias": "",
             "notes": ""
         },
         {
@@ -405,7 +429,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature",
-            "number": 18,
+            "number": 19,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "Menace\nAs an additional cost to cast this spell, exile a card form your hand.\nVoidborne {3}{B} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {3}{B}.)[/i]",
@@ -416,6 +440,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Dawid Planeta",
+            "alias": "",
             "notes": ""
         },
         {
@@ -423,7 +448,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Angel",
-            "number": 10,
+            "number": 11,
             "color_identity": "U",
             "cost": "{4}{U}",
             "rules_text": "Flying\nWhen this creature enters, draw a card.\nIf you would look at one or more cards in your library or search your library while this card is in exile, you may put this card on top of your library first.",
@@ -434,6 +459,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "nevidimochka",
+            "alias": "",
             "notes": ""
         },
         {
@@ -452,6 +478,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "FractalsByX",
+            "alias": "",
             "notes": ""
         },
         {
@@ -459,7 +486,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Angel Knight",
-            "number": 23,
+            "number": 24,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "Haste, flying\nThis creature enters with two +1/+1 counters on it if it wasn't cast from your hand.\nYou may cast this spell from exile by discarding two cards in addition to its other costs.",
@@ -470,6 +497,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "JEDART",
+            "alias": "",
             "notes": ""
         },
         {
@@ -477,10 +505,10 @@
             "color": "UG",
             "rarity": "common",
             "type": "Creature",
-            "number": 42,
+            "number": 43,
             "color_identity": "UG",
-            "cost": "{1{G}U}{GU}",
-            "rules_text": "Whenever this creature attacks, scour 1. [i](Look at the top card of your library. You may exile it.)[/i]\nVoidborne {1{G}U}{GU} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1{G}U}{GU}.)[/i]",
+            "cost": "{1}{GU}{GU}",
+            "rules_text": "Whenever this creature attacks, scour 1. [i](Look at the top card of your library. You may exile it.)[/i]\nVoidborne {1}{GU}{GU} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1}{GU}{GU}.)[/i]",
             "flavor_text": "[i]It tries to be something it knows has power.[/i]",
             "pt": "3/1",
             "special_text": "",
@@ -488,6 +516,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Sa Fonklor",
+            "alias": "",
             "notes": ""
         },
         {
@@ -495,7 +524,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature",
-            "number": 17,
+            "number": 18,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Voidborne {B} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {B}.)[/i]",
@@ -506,6 +535,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Sa Fonklor",
+            "alias": "",
             "notes": ""
         },
         {
@@ -513,7 +543,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Human",
-            "number": 21,
+            "number": 22,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Whenever this creature attacks, add {R}. Until end of turn, you don't lose this mana as steps and phases end. You can't spend this mana to cast spells from your hand.",
@@ -524,6 +554,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Archana",
+            "alias": "",
             "notes": ""
         },
         {
@@ -531,7 +562,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 11,
+            "number": 12,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Search your library for three cards, exile them, then shuffle.\nDraw a card.",
@@ -542,6 +573,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Warbb",
+            "alias": "",
             "notes": ""
         },
         {
@@ -556,10 +588,11 @@
             "flavor_text": "[i]Ashes choking the gullets of the yellow of mind as they feast on their sour spoils. No one blinks. So it goes.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "XRX",
             "loyalty": "",
             "artist": "Mahalah Moore",
+            "alias": "",
             "notes": "!tokens Spirit"
         },
         {
@@ -567,7 +600,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 16,
+            "number": 17,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
             "rules_text": "All creatures with creature types get -2/-2 until end of turn.",
@@ -578,6 +611,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Jeney Gbao",
+            "alias": "",
             "notes": ""
         },
         {
@@ -585,7 +619,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 12,
+            "number": 13,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Scour 1. [i](Look at the top card of your library. You may exile it.)[/i]\nDraw a card.",
@@ -596,6 +630,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Xebelion",
+            "alias": "",
             "notes": ""
         },
         {
@@ -603,7 +638,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 24,
+            "number": 25,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "This spell deals 2 damage to any target. If it wasn't cast from your hand, it deals 3 damage to any target instead.\nVoidborne {R} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {R}.)[/i]",
@@ -614,6 +649,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Vincent Arrouays",
+            "alias": "",
             "notes": ""
         },
         {
@@ -621,17 +657,18 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Wizard",
-            "number": 30,
+            "number": 31,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "When this creature enters, if you own three or more cards that did not begin the game in your deck, you gain 4 life. If you own six or more cards that did not begin the game in your deck, create two 1/1 colorless creature tokens.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "XRX",
             "loyalty": "",
             "artist": "Anthony Catillaz",
+            "alias": "",
             "notes": "!tokens Token Creature"
         },
         {
@@ -650,6 +687,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Nick M.",
+            "alias": "",
             "notes": ""
         },
         {
@@ -657,7 +695,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Creature \u2014 Angel",
-            "number": 34,
+            "number": 35,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
             "rules_text": "Flying, vigilance\nWhenever this creature enters or you cast another spell, if it wasn't cast from your hand, this creature gets +2/+2 and gains haste until end of turn.",
@@ -668,6 +706,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Myumii Fox",
+            "alias": "",
             "notes": ""
         },
         {
@@ -675,7 +714,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Warrior",
-            "number": 31,
+            "number": 32,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Trample\nWhenever this creature deals combat damage to a player, you may exile a card from your hand. If you do, conjure an Ethereal card of your choice into your hand.",
@@ -686,6 +725,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Kristian Tsvetanov",
+            "alias": "",
             "notes": ""
         },
         {
@@ -693,7 +733,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 33,
+            "number": 34,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "When this artifact enters, conjure an Ethereal or Basic card of your choice into your hand.\n{2}, {T}: Copy target Ethereal spell you control. You may choose new targets for the copy.",
@@ -704,6 +744,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "James Bryson",
+            "alias": "",
             "notes": ""
         },
         {
@@ -711,7 +752,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Wizard",
-            "number": 20,
+            "number": 21,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Haste\nWhenever this creature enters or you cast another spell, if it wasn't cast from your hand, this creature deals 2 damage to target player or planeswalker.",
@@ -722,6 +763,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Francisco Iglesias Peria\u00f1ez",
+            "alias": "",
             "notes": ""
         },
         {
@@ -729,17 +771,18 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 35,
+            "number": 36,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
             "rules_text": "Create three 1/1 colorless creature tokens.\nVoidborne {1}{W}{B} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1}{W}{B}.)[/i]",
             "flavor_text": "[i]The silence feels different when I'm not alone.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "XRX",
             "loyalty": "",
             "artist": "Dead Fellow",
+            "alias": "",
             "notes": "!tokens Token Creature"
         },
         {
@@ -747,17 +790,18 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 14,
+            "number": 15,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "When this enchantment enters, create a 1/1 colorless creature token.\nCreatures you control that don't belong get +1/+0 and have menace. [i](A creature doesn't belong if it has no creature types.)[/i]",
             "flavor_text": "[i]Disdain turns fear into a self-fulfilling prophecy.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "XRX",
             "loyalty": "",
             "artist": "Neriak",
+            "alias": "",
             "notes": "!tokens Token Creature"
         },
         {
@@ -765,7 +809,7 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 32,
+            "number": 33,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "Scour 3, then choose a card you own that was put into exile this turn. You may cast it. If you don't, put it into your hand. [i](To scour 3, look at the top three cards of your library, exile any number of them, then put the rest on top in any order.)[/i]",
@@ -776,6 +820,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Artur Sadlos",
+            "alias": "",
             "notes": ""
         },
         {
@@ -794,6 +839,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Misha Oplev",
+            "alias": "",
             "notes": ""
         },
         {
@@ -801,7 +847,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Creature",
-            "number": 36,
+            "number": 37,
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "Deathtouch\nYou may cast this card from exile as long as you control a creature that doesn't belong. [i](A creature doesn't belong if it has no creature types.)[/i]\n{2}{G}, Exile this card from your hand: Conjure a basic land card of your choice onto the battlefield tapped.",
@@ -812,6 +858,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Nathalie Se\u00efdou",
+            "alias": "",
             "notes": ""
         },
         {
@@ -819,7 +866,7 @@
             "color": "",
             "rarity": "special",
             "type": "Ethereal Sorcery",
-            "number": 52,
+            "number": 53,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "[i](This card can't be put into your deck during deckbuilding.)[/i]\nScour 3. [i](Look at the top three cards of your library, exile any number of them, then put the rest on top in any order.)[/i]",
@@ -830,6 +877,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "sandara",
+            "alias": "",
             "notes": ""
         },
         {
@@ -837,17 +885,18 @@
             "color": "",
             "rarity": "special",
             "type": "Ethereal Sorcery",
-            "number": 53,
+            "number": 54,
             "color_identity": "C",
             "cost": "{X}{1}",
             "rules_text": "[i](This card can't be put into your deck during deckbuilding.)[/i]\nCreate X 1/1 colorless creature tokens.",
             "flavor_text": "[i]As many friends as you want.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "XRX",
             "loyalty": "",
             "artist": "Sa Fonklor",
+            "alias": "",
             "notes": "!tokens Token Creature"
         },
         {
@@ -855,7 +904,7 @@
             "color": "",
             "rarity": "special",
             "type": "Ethereal Sorcery",
-            "number": 55,
+            "number": 56,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "[i](This card can't be put into your deck during deckbuilding.)[/i]\nExile target nonland, noncreature permanent.",
@@ -866,6 +915,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Peydrawz _",
+            "alias": "",
             "notes": ""
         },
         {
@@ -873,7 +923,7 @@
             "color": "",
             "rarity": "special",
             "type": "Ethereal Creature",
-            "number": 54,
+            "number": 55,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "[i](This card can't be put into your deck during deckbuilding.)[/i]\nVoidborne {4} [i](When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {4}.)[/i]",
@@ -884,6 +934,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "kandzo",
+            "alias": "",
             "notes": ""
         },
         {
@@ -891,7 +942,7 @@
             "color": "",
             "rarity": "special",
             "type": "Ethereal Sorcery",
-            "number": 51,
+            "number": 52,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "[i](This card can't be put into your deck during deckbuilding.)[/i]\nExile up to two target cards in graveyards. Exiling cards this way can't cause Voidborne abilities to trigger. You gain 3 life.",
@@ -902,6 +953,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Guido Marsman",
+            "alias": "",
             "notes": ""
         },
         {
@@ -909,7 +961,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 49,
+            "number": 50,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -920,6 +972,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Nik Maierle",
+            "alias": "",
             "notes": ""
         },
         {
@@ -927,7 +980,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 47,
+            "number": 48,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -938,6 +991,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Yumiji",
+            "alias": "",
             "notes": ""
         },
         {
@@ -945,7 +999,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 48,
+            "number": 49,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -956,6 +1010,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Corey Contreras-Rojas",
+            "alias": "",
             "notes": ""
         },
         {
@@ -963,7 +1018,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 46,
+            "number": 47,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -974,6 +1029,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Joshua Dj",
+            "alias": "",
             "notes": ""
         },
         {
@@ -981,7 +1037,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 50,
+            "number": 51,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -992,6 +1048,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Vyntt",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1010,6 +1067,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Lacrima Art",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1028,6 +1086,7 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "Benjamin Davis",
+            "alias": "",
             "notes": ""
         },
         {
@@ -1046,8 +1105,28 @@
             "set": "XRX",
             "loyalty": "",
             "artist": "nemfisart",
+            "alias": "",
+            "notes": ""
+        },
+        {
+            "card_name": "Tumble Down the Stairs SBHJ",
+            "color": "W",
+            "rarity": "rare",
+            "type": "Instant",
+            "number": 8,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "Destroy target creature, artifact, or planeswalker. Its controller draws a card.\nVoidborne {1}",
+            "flavor_text": "[i]I told you about stairs bro.[/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "XRX",
+            "loyalty": "",
+            "artist": "Dave Strider",
+            "alias": "",
             "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

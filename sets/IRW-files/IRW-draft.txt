@@ -459,7 +459,7 @@
 	2 Royal Foundry's Roar
 	2 Arhat of the Final Word
 	2 Willwrought Ascendant
-[uncommon(4)]
+[uncommon(3)]
 	4 Windscythe Ascendant
 	4 Shadows in the Way
 	4 Ironspark Ascendant
@@ -500,7 +500,53 @@
 	8 Ascendant Art - Horizon's Eye
 	8 Wayside Atlas
 	8 Altar of Harmonious Spheres
-[wildcard(2)]
+[foil(1)]
+	12 Arhat of Unbidden Lessons
+	12 Sentry Post
+	12 Lesser-Chariot Vassal
+	12 Ascendant Art - Form of Forms
+	12 Hard Bargain
+	12 Griefspear Ascendant
+	12 Hesitation
+	12 Concordance Appraisal
+	12 Countervail
+	12 Ascendant Art - Everstasis
+	12 Terrorcrown Ascendant
+	12 Charnel-Alley Confessor
+	12 Glass-Needle Facsimile
+	12 Arhat's Mercy
+	12 Ceaseless Obstacles
+	12 Wrathstar Ascendant
+	12 Arhat of Fraying Patience
+	12 Mantar-Am Freeglider
+	12 Ascendant Art - Soul As Ash
+	12 Training Montage
+	12 Arhat of Ephemeral Gifts
+	12 Waymark Eviscerator
+	12 Enter Malichai
+	12 Charnel Pickpocket
+	12 Ascendant Art - Horizon's Eye
+	12 Wayside Atlas
+	12 Altar of Harmonious Spheres
+	6 Windscythe Ascendant
+	6 Shadows in the Way
+	2 Aeon-Tested Polearm
+	6 Ironspark Ascendant
+	6 Time to Reflect
+	6 Demiurge's Graces
+	6 Swornspine Ascendant
+	6 Utter Conquest
+	6 Inadequacy
+	6 Pulse of the Ashen Capital
+	6 Thorn-Petal Halo
+	6 Immaculate Ledger
+	2 Cylothyne, Never-Named
+	2 Cleaver of the Last Path
+	6 Road's End
+	2 Royal Foundry's Roar
+	2 Arhat of the Final Word
+	2 Willwrought Ascendant
+[wildcard(1)]
 	6 Arhat of Unbidden Lessons
 	6 Sentry Post
 	6 Lesser-Chariot Vassal

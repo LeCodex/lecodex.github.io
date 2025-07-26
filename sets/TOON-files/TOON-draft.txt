@@ -489,7 +489,7 @@
 	2 Rise to the Fight
 	2 The Powerpuff Girls
 	2 The Mystery Machine
-[uncommon(4)]
+[uncommon(3)]
 	4 Wil.E Coyote, Gourmet
 	4 Close Down
 	4 Cog Gang
@@ -528,7 +528,51 @@
 	8 Gravity is a Harsh Mistress
 	8 Obsessive Chase
 	8 Mean Hook
-[wildcard(2)]
+[foil(1)]
+	12 Falling Anvil
+	2 Mind Control Hat
+	6 Wil.E Coyote, Gourmet
+	6 Close Down
+	6 Cog Gang
+	12 Trickster Wolf
+	2 Duck Season, Rabbit Season
+	1 The Big Bad Wolf
+	12 Laidback Cat
+	12 Shady Mafioso
+	12 Mysterious Doors
+	12 Human Seeking Gun
+	12 Ride the Rocket
+	12 Temporary Jetpacks
+	12 Unlucky Accident
+	12 Quickshot Duo
+	12 Wrong Turn at Albuquerque
+	2 Rise to the Fight
+	12 Zoinks!
+	6 Shaggy, All Alone
+	2 The Powerpuff Girls
+	6 Mean Giant
+	2 The Mystery Machine
+	12 Terrible Wolfman
+	12 Spinach Can
+	6 The Script
+	6 Yosemite Sam, Angry Cowboy
+	6 Spongebob Squarepants
+	6 Fairly Odd Wand
+	6 Big Brawl
+	6 Yogi Bear, Friendly Ursine
+	12 Robot Maid
+	12 Moomin Trolls
+	12 Protective Shark
+	12 Cockroach Gang
+	12 Smurf Villager
+	12 Explosive Result
+	12 Pink Panther
+	12 Henchcat
+	12 Gravity is a Harsh Mistress
+	12 Obsessive Chase
+	6 Anchor Down
+	12 Mean Hook
+[wildcard(1)]
 	6 Falling Anvil
 	7 Mind Control Hat
 	15 Wil.E Coyote, Gourmet

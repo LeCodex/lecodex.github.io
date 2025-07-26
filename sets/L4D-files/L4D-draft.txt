@@ -459,7 +459,7 @@
 	2 The Sugar Mill
 	2 Auto Shotgun
 	2 Startled Witch
-[uncommon(4)]
+[uncommon(3)]
 	4 Helicopter Pilot
 	4 The Coaster
 	4 Zoey, Hope Against Hope
@@ -500,7 +500,53 @@
 	8 Pipe Bomb
 	8 Electric Guitar
 	8 Green Flu Mutation
-[wildcard(2)]
+[foil(1)]
+	1 Rock-Throwing Tank
+	2 The Apartments
+	2 Bill, the Sacrifice
+	2 The Sugar Mill
+	2 Auto Shotgun
+	2 Startled Witch
+	6 Helicopter Pilot
+	6 The Coaster
+	6 Zoey, Hope Against Hope
+	6 Coach, Devoted Leader
+	6 Louis, the Optimist
+	6 Wedding Witch
+	6 Cargo Plane
+	6 The Waterfront
+	6 Ellis, Killing Machine
+	6 Pestilent Zombies
+	6 Alarmed Car
+	6 Sniper Rifle
+	12 Jockey Ride
+	12 Pummeling Charger
+	12 Ravenous Horde
+	12 Headshot
+	12 Team Healer
+	12 Rooftop Smoker
+	12 Bilious Boomer
+	12 Molotov Throw
+	12 Fallen CEDA Agent
+	12 Ensnaring Smoker
+	12 Rocket-Launched Survivor
+	12 Spawn-Point Scouting
+	12 Katana Wielder
+	12 Expert Tactician
+	12 Ceiling Hunter
+	12 Swamp Fever
+	12 Reckless Speedster
+	12 Cacophonous Crows
+	12 Noxious Spitter
+	12 Eviscerating Hunter
+	12 Infected Clown
+	12 Resourceful Survivor
+	12 Infected Riot Guards
+	12 Incendiary Explosion
+	12 Pipe Bomb
+	12 Electric Guitar
+	12 Green Flu Mutation
+[wildcard(1)]
 	4 Rock-Throwing Tank
 	7 The Apartments
 	7 Bill, the Sacrifice
