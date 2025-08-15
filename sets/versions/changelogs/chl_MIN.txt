@@ -1,4 +1,394 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Debug World added.
+Roll Back added.
+
+Dinnerbone removed.
+Teleport Out removed.
+
+Unlit Cave
+rules_text: When Unlit Cave enters or leaves the battlefield, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => When Unlit Cave enters or leaves the battlefield, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Flaming Weapons
+
+Full Set
+
+Piercing Crossbow
+rules_text: When Piercing Crossbow enters, attach it to target creature you control.
+Equipped creature gets +2/+0 and has trample and first strike as long as it's your turn.
+Equip {2} => When Piercing Crossbow enters, attach it to target creature you control.
+Equipped creature gets +2/+0, and has trample and first strike as long as it's your turn.
+Equip {2}
+
+Mob Spawner
+rules_text: When Mob Spawner enters, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i]
+{1}, {T}: Add {B}, {R}, or {G}. => When Mob Spawner enters, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+{1}, {T}: Add {B}, {R}, or {G}.
+
+Illusioner
+rules_text: When Illusioner enters, you may exile another target nontoken artifact or creature you control. If you do, create two tokens that are copies of it, except they have menace if they're a creature. => Menace
+When Illusioner enters, you may exile another target nontoken artifact or creature you control. If you do, create two tokens that are copies of it, except they have menace if they're a creature.
+
+Efficiency Pickaxe
+
+Sculk Spread
+
+Cave Spider
+rules_text: Reach, deathtouch
+When Cave Spider enters, spawn deathtouch 2. [i](Create a 2/2 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i]
+Creature tokens you control can block as though they didn't have decayed. => Reach, deathtouch
+When Cave Spider enters, spawn deathtouch 2. [i](Create a 2/2 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+Creature tokens you control can block as though they didn't have decayed.
+
+Scurrying Bats
+
+Silverfish
+rules_text: Flash
+When Silverfish enters, if it's not a token, choose one —
+• Destroy target enchantment or artifact.
+• Create a token that's a copy of Silverfish. => Flash
+When Silverfish enters, if it's not a token, choose one —
+• Destroy target enchantment or artifact.
+• Create a token that's a copy of target creature you control with the highest power or tied for the highest power.
+
+Creative Mode
+
+Replace with Air
+
+Surprise Explosion
+rules_text: This spell deals 2 damage to each creature. Then, spawn trample 2. [i](Create a 2/2 black Horde creature token with trample and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => This spell deals 2 damage to each creature. Then, spawn trample 2. [i](Create a 2/2 black Horde creature token with trample and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Exposing Demolition
+rules_text: Destroy target artifact. If you controlled that artifact, spawn trample 4. [i](Create a 4/4 black Horde creature token with trample and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => Destroy target artifact. If you controlled that artifact, spawn trample 4. [i](Create a 4/4 black Horde creature token with trample and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Mob Farm
+rules_text: At the beginning of your end step, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i]
+{2}, {T}, Sacrifice a creature: Draw a card. => At the beginning of your end step, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+{2}, {T}, Sacrifice a creature: Draw a card.
+
+Uneasy Alliance
+rules_text: [i]Apex[/i] — Gain control of target creature until end of turn. Untap it. It gains haste until end of turn, then it deals damage equal to its power to its owner if you controlled a creature with the greatest power or tied for the greatest power as you cast this spell. => Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+[i]Apex[/i] —That creature deals damage equal to its power to its owner if you controlled a creature with the greatest power or tied for the greatest power as you cast this spell.
+
+Glow Squid
+
+Neverending Spawn
+rules_text: If you would create one or more tokens, create that many tokens plus an additional one.
+At the beginning of your end step, spawn deathtouch 2. [i](Create a 2/2 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => If you would create one or more tokens, create that many tokens plus an additional one.
+At the beginning of your end step, spawn deathtouch 2. [i](Create a 2/2 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Smithing Table
+
+Golden Apple
+rules_text: Target creature gets +2/+2 and gains trample until end of turn. Untap it. => Target creature gets +2/+2 and gains trample until end of turn. Untap it. If it has decayed, it loses decayed. [i](This effect lasts indefinitely.)[/i]
+
+Village Cleric
+
+Zombie Villager
+rules_text: When Zombie Villager dies, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => When Zombie Villager dies, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Getting an Upgrade
+
+Fang Attack
+rules_text: Target opponent sacrifices a creature.
+[i]Raid[/i] — If you attacked this turn, they also lose 2 life and you gain 2 life. => Choose creature or enchantment. Target opponent sacrifices a permanent of that type of their choice.
+[i]Raid[/i] — If you attacked this turn, they also lose 2 life and you gain 2 life.
+
+Baby Zombie
+
+Polar Bear
+
+Iron Hopper
+
+Husk
+rules_text: Deathtouch
+When Husk enters, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => Deathtouch
+When Husk enters, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Enter the Cave
+rules_text: When Enter the Cave enters, spawn deathtouch 2. [i](Create a 2/2 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i]
+Creature tokens you control get +1/+1. => When Enter the Cave enters, spawn deathtouch 2. [i](Create a 2/2 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+Creature tokens you control get +1/+1.
+
+Jungle Parrot
+
+Meadow Cow
+rules_text: When Meadow Cow enters, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle. If you gained or lost life this turn, search for two of those cards instead. => When Meadow Cow enters, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+[i]Landfall[/i] — Whenever a land you control enters, you gain 1 life.
+
+Victory Celebration
+
+Hero of the Village
+
+Kick
+rules_text: Return target artifact or creature to its owner's hand. If its mana value was 3 or less, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Return target nonland permanent to its owner's hand. If its mana value was 3 or less, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Spectator Mode
+cost: {W} => {U}
+rules_text: Enchant creature
+Enchanted creature has defender.
+Prevent all damage that would be dealt by enchanted creature.
+Function — Exile enchanted creature. [i]({6}: Trigger any number of Function abilities you control, only as a sorcery.)[/i] => Enchant creature
+Enchanted creature is a colorless 1/1 Spirit creature and loses all other abilities, colors, and types.
+
+Ink Squid
+
+Fish Bucket
+
+Happy Ghast
+
+Command Block
+
+Nether Portal
+rules_text: When Nether Portal enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Whenever you play a land or cast a spell from anywhere but your hand, Nether Portal deals 1 damage to target player. => Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+When Nether Portal enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+{T}: Nether Portal deals 1 damage to target player. Activate only if you're an explorer.
+
+Zombie Reinforcements
+rules_text: Choose one —
+• Sacrifice an artifact or creature. If you do, return target creature card from your graveyard to the battlefield.
+• Spawn menace 6. [i](Create a 6/6 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => Choose one —
+• Sacrifice an artifact or creature. If you do, return target creature card from your graveyard to the battlefield.
+• Spawn menace 6. [i](Create a 6/6 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Dragon's Breath
+rules_text: Enchant creature
+Enchanted creature has deathtouch. 
+[i]Apex[/i] — When Dragon's Breath enters, if you control a creature with the greatest power or tied for the greatest power, enchanted creature deals damage equal to its power to target creature. => Enchant creature
+Enchanted creature has deathtouch. 
+[i]Apex[/i] — When Dragon's Breath enters, if you control a creature with the greatest power or tied for the greatest power, destroy up to one target artifact or enchantment.
+
+Zombie's Bite
+rules_text: Destroy target creature. Its controller creates a 2/2 black Zombie Villager creature token. => Choose one —
+• Destroy target creature. Its controller creates a 2/2 black Zombie Villager creature token.
+• Target opponent sacrifices an enchantment of their choice.
+
+Insect Infestation
+rules_text: Destroy target artifact or enchantment. Spawn deathtouch 2. [i](Create a 2/2 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => Destroy target artifact or enchantment. Spawn deathtouch 2. [i](Create a 2/2 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Charging Strike
+rules_text: This spell deals 3 damage to any target. Then, spawn trample 3. [i](Create a 3/3 black Horde creature token with trample and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => This spell deals 3 damage to any target. Then, spawn trample 3. [i](Create a 3/3 black Horde creature token with trample and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Snow Golem
+
+Acid Fireball
+rules_text: Destroy target creature. Whenever its controller casts a spell this turn, they lose 2 life. => Destroy target creature or enchantment. Whenever its controller casts a spell this turn, they lose 2 life.
+
+Enderman
+
+Ice Highway
+
+Gather Experience
+
+Defend the Village
+
+One-Way Trip
+
+Out of the Webs
+rules_text: Target creature gets +1/+2 and gains reach until end of turn. Untap it.
+Spawn deathtouch 2. [i](Create a 2/2 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => Target creature gets +1/+2 and gains reach until end of turn. Untap it.
+Spawn deathtouch 2. [i](Create a 2/2 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Isn't it Iron Pick
+
+Fire Charge
+
+Tadpole Knot
+
+Faithful Companion
+
+Forest Fire
+rules_text: Destroy target land. Its controller searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.
+Draw a card. => Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+Destroy target artifact. If you're an explorer, destroy up to two target artifacts instead.
+
+Ender Chest
+
+Wandering Trader
+rules_text: When Wandering Trader enters, for each of artifact, creature, enchantment, instant or sorcery, and land, search your library for card of that type, reveal them, then shuffle. Put any number of them into your graveyard and the rest on top of your library in any order. Then, draw a card. => When Wandering Trader enters, search your library for a card of each card type, reveal them, then shuffle. Put any number of them into your graveyard and the rest on top of your library in any order. Then, draw a card.
+
+Zombie Giant
+rules_text: When Zombie Giant dies, spawn menace 6. [i](Create a 6/6 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => When Zombie Giant dies, spawn menace 6. [i](Create a 6/6 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Bad Omen
+type: Enchantment — Aura Curse => Enchantment
+rules_text: Enchant player
+At the beginning of combat on your turn, if enchanted player has more life than you, amass Villagers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Villager. If you don't control an Army, create a 0/0 black Villager Army creature token first.)[/i] => Whenever a creature you control dies, put an omen counter on Bad Omen.
+Sacrifice Bad Omen: Amass Villagers 1 for each omen counter on it. Activate only as a sorcery. [i](To amass Villagers 1, put a +1/+1 counter on an Army you control. It's also a Villager. If you don't control an Army, create a 0/0 black Villager Army creature token first.)[/i]
+
+Pufferfish
+
+Iron Shovel
+
+Observer
+
+Spider Jockey
+rules_text: Reach
+When Spider Jockey dies, spawn deathtouch 3. [i](Create a 3/3 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => Reach
+When Spider Jockey dies, spawn deathtouch 3. [i](Create a 3/3 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Brown Mooshroom
+
+For the Herd
+
+Repeating Command Chain
+
+Finish The Base
+
+Unpleasant Surprise
+rules_text: Discard your hand, then draw three cards and spawn trample 2. [i](Create a 2/2 black Horde creature token with trample and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => Discard your hand, then draw three cards and spawn trample 2. [i](Create a 2/2 black Horde creature token with trample and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Torching
+rules_text: Target creature gets +4/+0 until end of turn. Whenever a creature dies this turn, exile the top card of your library. You may play it until the end of your next turn. => Target creature gets +3/+0 and gains first strike until end of turn. If it's attacking, destroy up to one target artifact.
+
+Dungeon Chest
+
+Escalating Raid
+
+Protection Chestplate
+
+Lightning Rod
+
+Mall Music Disc
+
+The Wither
+rules_text: You may sacrifice three black creatures instead of paying The Wither's mana cost. 
+Flying, menace, deathtouch
+At the beginning each player's upkeep, that player sacrifices a permanent. => You may sacrifice three black creatures instead of paying The Wither's mana cost. 
+Flying, menace, deathtouch
+At the beginning each player's upkeep, that player sacrifices a permanent of their choice.
+
+Jeb Door
+rules_text: When Jeb Door enters, untap up to two artifacts and/or lands.
+Function — Exile up to two artifacts and/or creatures you control, then return those cards to the battlefield under their owner's control. [i]({6}: Trigger any number of Function abilities you control, only as a sorcery.)[/i] => When Jeb Door enters, untap up to two artifacts and/or lands.
+Function — Untap up to two artifacts and/or lands. [i]({6}: Trigger any number of Function abilities you control, only as a sorcery.)[/i]
+
+Moody Weather
+rules_text: {2}{G}: Spawn deathtouch X, where X is the power of target creature you control. Sacrifice Moody Weather at the beginning of the next end step. [i](Create a X/X black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => {2}{G}: Spawn deathtouch X, where X is the power of target creature you control. Sacrifice Moody Weather at the beginning of the next end step. [i](Create a X/X black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Planned for It
+
+Resource Organization
+
+Zombie Horse
+rules_text: Menace
+Whenever another creature you control dies, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i] => Menace
+Whenever another creature you control dies, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+The End Fountain
+rules_text: When The End Fountain enters, target player sacrifices a creature.
+{6}, {T}, Sacrifice The End Fountain: Discard your hand, then draw seven cards. => When The End Fountain enters, target player sacrifices a creature of their choice.
+{6}, {T}, Sacrifice The End Fountain: Discard your hand, then draw seven cards.
+
+New Professions
+
+Cartography Table
+cost: {1} => {2}
+rules_text: {2}, Discard a land card: Draw a card.
+{2}, Discard a nonland card: Search your library for basic land card, reveal it, put it into your hand, then shuffle. => {1}, Discard a land card: Draw a card.
+{1}, Discard a nonland card: Search your library for basic land card, reveal it, put it into your hand, then shuffle.
+
+Hired Help
+
+Pilfer the Bastion
+rules_text: Discard a card, then draw two cards and create a Treasure token.
+[i]Apex[/i] — Pilfer the Bastion costs {1} less to cast if you control a creature with the greatest power or tied for the greatest power. => [i]Apex[/i] — Pilfer the Bastion costs {1} less to cast if you control a creature with the greatest power or tied for the greatest power.
+Discard a card, then draw two cards and create a Treasure token.
+
+Warden
+
+Animal Husbandry
+
+World Eater
+
+Trail Ruins
+
+Wooden Shield
+
+Grindstone
+rules_text: When Grindstone enters, suit up. [i](You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)[/i]
+{T}, Unattach an Equipment attached to a creature you control: You draw a card and lose 1 life. => When Grindstone enters, suit up. [i](You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)[/i]
+Whenever an Equipment you control enters, destroy target enchantment you don't control.
+
+Low Durability
+
+Fake Abandon
+rules_text: Each player sacrifices a creature. If you sacrificed a creature this way, each opponent also discards a card. => Each player sacrifices a creature of their choice. If you sacrificed a creature this way, each opponent also discards a card.
+
+A Complete Catalogue
+type: Sorcery => Enchantment
+cost: {3}{G} => {1}{G}{G}
+rules_text: [i]Gather[/i] — Create three 1/1 white Cat creature tokens, plus an additional one for each permanent you control with a mana ability that entered this turn. => [i]Gather[/i] — Whenever a permanent you control with a mana ability enters, put a variant counter on A Complete Catalogue, then create a 1/1 white Cat creature token for each variant counter on it. Then if it has five or more variant counters on it, sacrifice it.
+
+Mesa Wolf
+
+Pick Back Up
+
+Herd Spawning
+
+Emperor Penguin
+
+Lobsided Crab
+
+Shy Armadillo
+
+Trial Spawner
+rules_text: When Trial Spawner enters, spawn trample 4. [i](Create a 4/4 black Horde creature token with trample and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed.)[/i]
+Whenever a Horde you control dies, exile the top card of your library. Until your next end step, you may play it. => When Trial Spawner enters, spawn trample 4. [i](Create a 4/4 black Horde creature token with trample and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+Whenever a Horde you control dies, exile the top card of your library. Until your next end step, you may play it.
+
+Beacon Platform
+
+Faction Base
+
+Spleef Arena
+
+Storage System
+
+Wood Camp
+
+Blowing Breeze
+
+TNT Block
+cost: {4} => {3}
+
+The Dragon Egg
+cost: {3} => {2}
+rules_text: {T}, Put The Dragon Egg on the bottom of its owner's library: Exile target spell you control. Exile cards from the top of your library until you reveal a card that shares a card type with it. You may cast this card without paying its mana cost. Then put the other cards exiled this way on the bottom of your library in a random order. => {1}, {T}, Discard a card: Reveal cards from the top of your library until you reveal a card that shares a card type with the discarded card. Put that card into your hand and the rest on the bottom of your library in a random order.
+
+Stasis Chamber
+cost: {3} => {2}
+rules_text: When Stasis Chamber enters, return target creature to its owner's hand.
+{2}, {T}: Return Stasis Chamber to its owner's hand. Activate only as a sorcery. => Flash
+When Stasis Chamber enters, return target creature you control to its owner's hand.
+{3}, {T}: Return Stasis Chamber to its owner's hand. Activate only as a sorcery.
+
+Elder Guardian
+
+Moobloom
+
+Mangrove Frog
+
+Skulking Shulker
+
+Small Chicken
+
+Deep Dark
+
+End City
+rules_text: {T}: Add {C}.
+{1}, {T}: Exile another target land you control, then return that card to the battlefield under your control. => {T}: Add {C}.
+{2}, {T}: Exile another target land you control, then return that card to the battlefield under your control.
+
+Copper Brush
+
+Crossbow Shot
+rules_text: This spell deals 3 damage to target attacking or blocking creature. => Crossbow Shot deals 3 damage to target attacking or blocking creature.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

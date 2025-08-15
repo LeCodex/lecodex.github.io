@@ -270,13 +270,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Defend the Village",
+        "card_name": "Debug World",
         "number": 10,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Dinnerbone",
+        "card_name": "Emperor Penguin",
         "number": 61,
         "shape": "normal",
         "set": "MIN"
@@ -300,13 +300,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Dungeon Chest",
+        "card_name": "Defend the Village",
         "number": 11,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Emperor Penguin",
+        "card_name": "Ender Chest",
         "number": 62,
         "shape": "normal",
         "set": "MIN"
@@ -330,13 +330,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Efficiency Pickaxe",
+        "card_name": "Dungeon Chest",
         "number": 12,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Ender Chest",
+        "card_name": "Enderman",
         "number": 63,
         "shape": "normal",
         "set": "MIN"
@@ -360,13 +360,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Elder Guardian",
+        "card_name": "Efficiency Pickaxe",
         "number": 13,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Enderman",
+        "card_name": "Fish Bucket",
         "number": 64,
         "shape": "normal",
         "set": "MIN"
@@ -390,13 +390,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Escalating Raid",
+        "card_name": "Elder Guardian",
         "number": 14,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Fish Bucket",
+        "card_name": "Gather Experience",
         "number": 65,
         "shape": "normal",
         "set": "MIN"
@@ -420,13 +420,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Faction Base",
+        "card_name": "Escalating Raid",
         "number": 15,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Gather Experience",
+        "card_name": "Getting an Upgrade",
         "number": 66,
         "shape": "normal",
         "set": "MIN"
@@ -450,13 +450,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Faithful Companion",
+        "card_name": "Faction Base",
         "number": 16,
-        "shape": "normal",
+        "shape": "class",
         "set": "MIN"
     },
     {
-        "card_name": "Getting an Upgrade",
+        "card_name": "Glow Squid",
         "number": 67,
         "shape": "normal",
         "set": "MIN"
@@ -480,13 +480,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Finish The Base",
+        "card_name": "Faithful Companion",
         "number": 17,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Glow Squid",
+        "card_name": "Happy Ghast",
         "number": 68,
         "shape": "normal",
         "set": "MIN"
@@ -510,15 +510,15 @@
         "set": "MIN"
     },
     {
-        "card_name": "Full Set",
+        "card_name": "Finish The Base",
         "number": 18,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Happy Ghast",
+        "card_name": "Ice Highway",
         "number": 69,
-        "shape": "normal",
+        "shape": "class",
         "set": "MIN"
     },
     {
@@ -540,15 +540,15 @@
         "set": "MIN"
     },
     {
-        "card_name": "Herd Spawning",
+        "card_name": "Full Set",
         "number": 19,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Ice Highway",
+        "card_name": "Ink Squid",
         "number": 70,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN"
     },
     {
@@ -570,13 +570,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Hero of the Village",
+        "card_name": "Herd Spawning",
         "number": 20,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Ink Squid",
+        "card_name": "Iron Hopper",
         "number": 71,
         "shape": "normal",
         "set": "MIN"
@@ -600,13 +600,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Hired Help",
+        "card_name": "Hero of the Village",
         "number": 21,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Iron Hopper",
+        "card_name": "Jeb Door",
         "number": 72,
         "shape": "normal",
         "set": "MIN"
@@ -630,13 +630,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Iron Shovel",
+        "card_name": "Hired Help",
         "number": 22,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Jeb Door",
+        "card_name": "Jungle Parrot",
         "number": 73,
         "shape": "normal",
         "set": "MIN"
@@ -660,13 +660,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Isn't it Iron Pick",
+        "card_name": "Iron Shovel",
         "number": 23,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Jungle Parrot",
+        "card_name": "Kick",
         "number": 74,
         "shape": "normal",
         "set": "MIN"
@@ -690,13 +690,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Low Durability",
+        "card_name": "Isn't it Iron Pick",
         "number": 24,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Kick",
+        "card_name": "Lightning Rod",
         "number": 75,
         "shape": "normal",
         "set": "MIN"
@@ -720,13 +720,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Meadow Cow",
+        "card_name": "Low Durability",
         "number": 25,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Lightning Rod",
+        "card_name": "Lobsided Crab",
         "number": 76,
         "shape": "normal",
         "set": "MIN"
@@ -750,13 +750,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Mesa Wolf",
+        "card_name": "Meadow Cow",
         "number": 26,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Lobsided Crab",
+        "card_name": "Mall Music Disc",
         "number": 77,
         "shape": "normal",
         "set": "MIN"
@@ -780,13 +780,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Moobloom",
+        "card_name": "Mesa Wolf",
         "number": 27,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Mall Music Disc",
+        "card_name": "Mangrove Frog",
         "number": 78,
         "shape": "normal",
         "set": "MIN"
@@ -810,13 +810,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "New Professions",
+        "card_name": "Moobloom",
         "number": 28,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Mangrove Frog",
+        "card_name": "Observer",
         "number": 79,
         "shape": "normal",
         "set": "MIN"
@@ -840,13 +840,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "One-Way Trip",
+        "card_name": "New Professions",
         "number": 29,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Observer",
+        "card_name": "Pick Back Up",
         "number": 80,
         "shape": "normal",
         "set": "MIN"
@@ -870,13 +870,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Polar Bear",
+        "card_name": "One-Way Trip",
         "number": 30,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Pick Back Up",
+        "card_name": "Planned for It",
         "number": 81,
         "shape": "normal",
         "set": "MIN"
@@ -900,13 +900,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Protection Chestplate",
+        "card_name": "Polar Bear",
         "number": 31,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Planned for It",
+        "card_name": "Pufferfish",
         "number": 82,
         "shape": "normal",
         "set": "MIN"
@@ -930,13 +930,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Replace with Air",
+        "card_name": "Protection Chestplate",
         "number": 32,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Pufferfish",
+        "card_name": "Repeating Command Chain",
         "number": 83,
         "shape": "normal",
         "set": "MIN"
@@ -960,13 +960,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Scurrying Bats",
+        "card_name": "Replace with Air",
         "number": 33,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Repeating Command Chain",
+        "card_name": "Resource Organization",
         "number": 84,
         "shape": "normal",
         "set": "MIN"
@@ -990,13 +990,13 @@
         "set": "MIN"
     },
     {
-        "card_name": "Shy Armadillo",
+        "card_name": "Scurrying Bats",
         "number": 34,
         "shape": "normal",
         "set": "MIN"
     },
     {
-        "card_name": "Resource Organization",
+        "card_name": "Roll Back",
         "number": 85,
         "shape": "normal",
         "set": "MIN"
@@ -1020,7 +1020,7 @@
         "set": "MIN"
     },
     {
-        "card_name": "Small Chicken",
+        "card_name": "Shy Armadillo",
         "number": 35,
         "shape": "normal",
         "set": "MIN"
@@ -1050,7 +1050,7 @@
         "set": "MIN"
     },
     {
-        "card_name": "Smithing Table",
+        "card_name": "Small Chicken",
         "number": 36,
         "shape": "normal",
         "set": "MIN"
@@ -1080,7 +1080,7 @@
         "set": "MIN"
     },
     {
-        "card_name": "Spectator Mode",
+        "card_name": "Smithing Table",
         "number": 37,
         "shape": "normal",
         "set": "MIN"
@@ -1146,9 +1146,9 @@
         "set": "MIN"
     },
     {
-        "card_name": "Spleef Arena",
+        "card_name": "Spectator Mode",
         "number": 90,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN"
     },
     {
@@ -1176,7 +1176,7 @@
         "set": "MIN"
     },
     {
-        "card_name": "Storage System",
+        "card_name": "Spleef Arena",
         "number": 91,
         "shape": "class",
         "set": "MIN"
@@ -1206,9 +1206,9 @@
         "set": "MIN"
     },
     {
-        "card_name": "Tadpole Knot",
+        "card_name": "Storage System",
         "number": 92,
-        "shape": "normal",
+        "shape": "class",
         "set": "MIN"
     },
     {
@@ -1236,7 +1236,7 @@
         "set": "MIN"
     },
     {
-        "card_name": "Teleport Out",
+        "card_name": "Tadpole Knot",
         "number": 93,
         "shape": "normal",
         "set": "MIN"
