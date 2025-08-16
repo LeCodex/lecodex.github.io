@@ -33,7 +33,7 @@
             "number": 292,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "{1}, {T}: Add one mana of any color.\nTools you control have \u201c{T}: Add one mana of any color.\u201d",
+            "rules_text": "{T}, Tap an untapped artifact or land you control: Add one mana of any color.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1277,7 +1277,7 @@
             "loyalty": "3",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "Bomb\n!tokens Horde MIN"
+            "notes": "Bomb\nRemoval\nDestruction\n!tokens Horde MIN"
         },
         {
             "card_name": "Sculk Spread",
@@ -1296,7 +1296,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "Destruction\nRemoval\nRework"
+            "notes": "Destruction\nRemoval"
         },
         {
             "card_name": "Cave Spider",
@@ -1723,8 +1723,8 @@
             "type": "Enchantment",
             "number": 234,
             "color_identity": "G",
-            "cost": "{3}{G}{G}",
-            "rules_text": "If you would create one or more tokens, create that many tokens plus an additional one.\nAt the beginning of your end step, spawn deathtouch 2. [i](Create a 2/2 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]",
+            "cost": "{2}{G}{G}",
+            "rules_text": "At the beginning of your end step, put a mob counter on Neverending Spawn, then spawn deathtouch X, where X is the number of mob counters on it. [i](Create a X/X black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1733,7 +1733,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "Creature slot\nGW archetype\nBomb\nRework\n!tokens Horde MIN"
+            "notes": "Creature slot\nGW archetype\nBomb\n!tokens Horde MIN"
         },
         {
             "card_name": "Crossbow Piglin",
@@ -1820,7 +1820,7 @@
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Target creature gets +2/+2 and gains trample until end of turn. Untap it. If it has decayed, it loses decayed. [i](This effect lasts indefinitely.)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Tasty for humans, curing for zombies.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1828,7 +1828,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "Removal-ish, aggro\nEvasion\nRework"
+            "notes": "Removal-ish, aggro\nEvasion"
         },
         {
             "card_name": "Ramming Goat",
@@ -2465,7 +2465,7 @@
             "number": 247,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Look at the top four cards of your library. You may reveal an artifact, creature, or land card among them and put it into your hand. Put the rest on the bottom of your library.",
+            "rules_text": "Look at the top four cards of your library. You may reveal an artifact, creature, or land card among them and put it into your hand. Put the rest into your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2522,7 +2522,7 @@
             "number": 90,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Enchant creature\nEnchanted creature is a colorless 1/1 Spirit creature and loses all other abilities, colors, and types.",
+            "rules_text": "Enchant creature\nEnchanted creature loses all abilities and is a colorless 1/1 Spirit creature. [i](It loses all other colors, card types, creature types, and names.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2617,7 +2617,7 @@
             "number": 70,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Whenever Ink Squid attacks, creature tokens you control can't be blocked this turn unless defending player pays {1} for each one they block.",
+            "rules_text": "When Ink Squid dies, you may return target creature to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -2626,7 +2626,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "Creature slot\nGeneric\nEvasion"
+            "notes": "Creature slot\nGeneric\nRemoval\nBounce\nMaybe as a ward ability instead?"
         },
         {
             "card_name": "Tame Panda",
@@ -3196,7 +3196,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "Removal, destruction\nGeneric\nRework\n!tokens Zombie Villager MIN"
+            "notes": "Removal, destruction\nGeneric\nRework?\n!tokens Zombie Villager MIN"
         },
         {
             "card_name": "Zombie",
@@ -3377,7 +3377,7 @@
             "number": 94,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Reveal cards from the top of your library until you reveal a land card, then put those cards into your graveyard. When you do, create a black X/X Golem Horror artifact creature token, where X is the number of land cards in your graveyard.",
+            "rules_text": "Reveal cards from the top of your library until you reveal a land card, then put those cards into your graveyard. When you do, create an X/X black Golem Horror artifact creature token, where X is the number of land cards in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3500,7 +3500,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "UB archetype\n!tokens Brick Reserve MIN"
+            "notes": "Bounce\nDestruction, removal\nUB archetype\n!tokens Brick Reserve MIN"
         },
         {
             "card_name": "Shore Lighthouse",
@@ -3975,7 +3975,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "Resource, Ramping\n!tokens Tool MIN\nRework"
+            "notes": "Resource, Ramping\n!tokens Tool MIN\nRework?"
         },
         {
             "card_name": "Isn't it Iron Pick",
@@ -4051,7 +4051,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "Removal-ish\nRework"
+            "notes": "Removal-ish\nRework?"
         },
         {
             "card_name": "Tadpole Knot",
@@ -4061,7 +4061,7 @@
             "number": 93,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Whenever you cast a noncreature spell, create a 1/1 blue Fish creature token with \u201cThis creature can't be blocked.\u201d",
+            "rules_text": "When Tadpole Knot enters, create a 1/1 blue Fish creature token with \u201cThis creature can't be blocked.\u201d\nCrabs, Fishes, Frogs, Turtles, Squids, and Whales you control have \u201c{1}, {T}: Add {U}.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4498,7 +4498,7 @@
             "number": 193,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i]Apex[/i] \u2014 Whenever a creature you control attacks, if you control a creature with the greatest power or tied for the greatest power, target creature can't block this turn. That creature attacks during its controller's next combat phase if able.",
+            "rules_text": "[i]Apex[/i] \u2014 Whenever a creature you control with the greatest power or tied for the greatest power attacks, target creature can't block this turn. That creature attacks during its controller's next combat phase if able.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4954,7 +4954,7 @@
             "number": 123,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "{X}, {T}: Exile target artifact, enchantment, instant, or sorcery card from an opponent's graveyard with mana value X.\nFunction \u2014 Copy each card exiled with Jukebox. You may cast the copies without paying their mana cost. [i]({6}: Trigger any number of Function abilities you control, only as a sorcery.)[/i]",
+            "rules_text": "{T}: Exile target card from an opponent's graveyard.\nFunction \u2014 Put a disc counter on a nonland card exiled with Jukebox. For as long as that card remains exiled, you may cast it and you may spend mana as though it were mana of any color to cast it. [i]({6}: Trigger any number of Function abilities you control, only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4963,7 +4963,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "Bomb\nRework"
+            "notes": "Bomb"
         },
         {
             "card_name": "Skeleton Bowman",
@@ -4991,9 +4991,9 @@
             "type": "Enchantment",
             "number": 205,
             "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "At the beginning of your end step, you may pay {2} or \ud83e\uddf1. If you do, you may return a permanent card from your graveyard to your hand.",
-            "flavor_text": "[i]A little bit of greenery and natural space help mix up the industrial look of automated farms.[/i]",
+            "cost": "{2}{G}",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever Act of Preservation or a land you control enters, choose one \u2014\n\u2022 You get \ud83e\uddf1 [i](a brick counter)[/i].\n\u2022 Put target permanent card from your graveyard on top of your library.",
+            "flavor_text": "[i]A little bit of greenery and natural space helps mix up the industrial look of automated farms.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -5001,7 +5001,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "Bomb\nRework"
+            "notes": "Bomb\nResource"
         },
         {
             "card_name": "The Wither",
@@ -5087,7 +5087,7 @@
             "number": 232,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "{2}{G}: Spawn deathtouch X, where X is the power of target creature you control. Sacrifice Moody Weather at the beginning of the next end step. [i](Create a X/X black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]",
+            "rules_text": "{1}{G}, Discard a card: Spawn deathtouch 3. [i](Create a 3/3 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]\nWhenever a creature you control with power 3 or more dies, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5096,7 +5096,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "BRG\nBomb\nRework\n!tokens Horde MIN"
+            "notes": "Bomb\nCreature slot\n!tokens Horde MIN"
         },
         {
             "card_name": "Planned for It",
@@ -5732,8 +5732,8 @@
             "type": "Enchantment",
             "number": 161,
             "color_identity": "R",
-            "cost": "{2}{R}",
-            "rules_text": "Whenever Equipped Spawn or a creature you control enters, suit up. [i](You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)[/i]",
+            "cost": "{1}{R}",
+            "rules_text": "When Equipped Spawn enters, suit up. [i](You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)[/i]\nWhenever you cast an Equipment spell, you may create a 2/2 black Zombie creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5742,7 +5742,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "Bomb\nRework"
+            "notes": "Bomb\nCreature slot\n!tokens Zombie MIN"
         },
         {
             "card_name": "Stone Sword",
@@ -5970,7 +5970,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "notes": "Creature slot, rework\nBomb, resource\n!tokens Cat MIN"
+            "notes": "Creature slot\nBomb, resource\n!tokens Cat MIN"
         },
         {
             "card_name": "Cat",
@@ -7348,7 +7348,7 @@
             "number": 342,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{1}, {T}: Scry 2. Activate only if a permanent you control became the target of a spell or ability you don't control this turn.",
+            "rules_text": "{T}: Add {C}.\n{1}, {T}: Scry 2. Activate only if you or a permanent you control became the target of a spell or ability you don't control this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7683,5 +7683,5 @@
             "notes": "Destruction\nBounce\nGeneric"
         }
     ],
-    "version": 4
+    "version": 5
 }

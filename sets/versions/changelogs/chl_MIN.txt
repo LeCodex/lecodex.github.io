@@ -1,4 +1,81 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Crafting Bench
+rules_text: {1}, {T}: Add one mana of any color.
+Tools you control have “{T}: Add one mana of any color.” => {T}, Tap an untapped artifact or land you control: Add one mana of any color.
+
+Herobrine, Never Removed
+
+Sculk Spread
+
+Neverending Spawn
+cost: {3}{G}{G} => {2}{G}{G}
+rules_text: If you would create one or more tokens, create that many tokens plus an additional one.
+At the beginning of your end step, spawn deathtouch 2. [i](Create a 2/2 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i] => At the beginning of your end step, put a mob counter on Neverending Spawn, then spawn deathtouch X, where X is the number of mob counters on it. [i](Create a X/X black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Golden Apple
+
+Take Inventory
+rules_text: Look at the top four cards of your library. You may reveal an artifact, creature, or land card among them and put it into your hand. Put the rest on the bottom of your library. => Look at the top four cards of your library. You may reveal an artifact, creature, or land card among them and put it into your hand. Put the rest into your graveyard.
+
+Spectator Mode
+rules_text: Enchant creature
+Enchanted creature is a colorless 1/1 Spirit creature and loses all other abilities, colors, and types. => Enchant creature
+Enchanted creature loses all abilities and is a colorless 1/1 Spirit creature. [i](It loses all other colors, card types, creature types, and names.)[/i]
+
+Ink Squid
+rules_text: Whenever Ink Squid attacks, creature tokens you control can't be blocked this turn unless defending player pays {1} for each one they block. => When Ink Squid dies, you may return target creature to its owner's hand.
+
+Zombie's Bite
+
+Third Shriek
+rules_text: Reveal cards from the top of your library until you reveal a land card, then put those cards into your graveyard. When you do, create a black X/X Golem Horror artifact creature token, where X is the number of land cards in your graveyard. => Reveal cards from the top of your library until you reveal a land card, then put those cards into your graveyard. When you do, create an X/X black Golem Horror artifact creature token, where X is the number of land cards in your graveyard.
+
+Ice Highway
+
+Equipping Station
+
+Fire Charge
+
+Tadpole Knot
+rules_text: Whenever you cast a noncreature spell, create a 1/1 blue Fish creature token with “This creature can't be blocked.” => When Tadpole Knot enters, create a 1/1 blue Fish creature token with “This creature can't be blocked.”
+Crabs, Fishes, Frogs, Turtles, Squids, and Whales you control have “{1}, {T}: Add {U}.”
+
+Territorial Anger
+rules_text: [i]Apex[/i] — Whenever a creature you control attacks, if you control a creature with the greatest power or tied for the greatest power, target creature can't block this turn. That creature attacks during its controller's next combat phase if able. => [i]Apex[/i] — Whenever a creature you control with the greatest power or tied for the greatest power attacks, target creature can't block this turn. That creature attacks during its controller's next combat phase if able.
+
+Jukebox
+rules_text: {X}, {T}: Exile target artifact, enchantment, instant, or sorcery card from an opponent's graveyard with mana value X.
+Function — Copy each card exiled with Jukebox. You may cast the copies without paying their mana cost. [i]({6}: Trigger any number of Function abilities you control, only as a sorcery.)[/i] => {T}: Exile target card from an opponent's graveyard.
+Function — Put a disc counter on a nonland card exiled with Jukebox. For as long as that card remains exiled, you may cast it and you may spend mana as though it were mana of any color to cast it. [i]({6}: Trigger any number of Function abilities you control, only as a sorcery.)[/i]
+
+Act of Preservation
+cost: {1}{G} => {2}{G}
+rules_text: At the beginning of your end step, you may pay {2} or 🧱. If you do, you may return a permanent card from your graveyard to your hand. => [i]Landfall[/i] — Whenever Act of Preservation or a land you control enters, choose one —
+• You get 🧱 [i](a brick counter)[/i].
+• Put target permanent card from your graveyard on top of your library.
+
+Moody Weather
+rules_text: {2}{G}: Spawn deathtouch X, where X is the power of target creature you control. Sacrifice Moody Weather at the beginning of the next end step. [i](Create a X/X black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i] => {1}{G}, Discard a card: Spawn deathtouch 3. [i](Create a 3/3 black Horde creature token with deathtouch and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+Whenever a creature you control with power 3 or more dies, draw a card.
+
+Equipped Spawn
+cost: {2}{R} => {1}{R}
+rules_text: Whenever Equipped Spawn or a creature you control enters, suit up. [i](You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)[/i] => When Equipped Spawn enters, suit up. [i](You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)[/i]
+Whenever you cast an Equipment spell, you may create a 2/2 black Zombie creature token.
+
+A Complete Catalogue
+
+Pale Garden
+rules_text: {T}: Add {C}.
+{1}, {T}: Scry 2. Activate only if a permanent you control became the target of a spell or ability you don't control this turn. => {T}: Add {C}.
+{1}, {T}: Scry 2. Activate only if you or a permanent you control became the target of a spell or ability you don't control this turn.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Debug World added.

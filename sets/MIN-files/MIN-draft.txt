@@ -91,6 +91,16 @@
 			}
 		},
 		{
+			"name": "Fish",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Fish",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/9_Fish.png"
+			}
+		},
+		{
 			"name": "Wooly Sheep",
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
@@ -148,6 +158,16 @@
 			"collector_number": "273",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/273_Steve, Quaint Builder.png"
+			}
+		},
+		{
+			"name": "Villager",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Villager",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/8_Villager.png"
 			}
 		},
 		{
@@ -221,6 +241,16 @@
 			}
 		},
 		{
+			"name": "Golem",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Golem",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/32_Golem.png"
+			}
+		},
+		{
 			"name": "Pillager's Capture",
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
@@ -228,6 +258,16 @@
 			"collector_number": "130",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/130_Pillager's Capture.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/29_Spirit.png"
 			}
 		},
 		{
@@ -671,6 +711,16 @@
 			}
 		},
 		{
+			"name": "Bat",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Bat",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/4_Bat.png"
+			}
+		},
+		{
 			"name": "Closed Server",
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
@@ -853,7 +903,7 @@
 		{
 			"name": "Neverending Spawn",
 			"rarity": "special",
-			"mana_cost": "{3}{G}{G}",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "234",
 			"image_uris": {
@@ -1031,6 +1081,16 @@
 			}
 		},
 		{
+			"name": "Bear",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Bear",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/5_Bear.png"
+			}
+		},
+		{
 			"name": "Pillager Raid",
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
@@ -1038,6 +1098,16 @@
 			"collector_number": "129",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/129_Pillager Raid.png"
+			}
+		},
+		{
+			"name": "Villager Army",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Villager Army",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/16_Villager Army.png"
 			}
 		},
 		{
@@ -1108,6 +1178,16 @@
 			"collector_number": "73",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/73_Jungle Parrot.png"
+			}
+		},
+		{
+			"name": "Tool",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Tool",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/33_Tool.png"
 			}
 		},
 		{
@@ -1441,6 +1521,16 @@
 			}
 		},
 		{
+			"name": "Insect",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/22_Insect.png"
+			}
+		},
+		{
 			"name": "The Ender Dragon",
 			"rarity": "special",
 			"mana_cost": "{3}{B}{R}{G}",
@@ -1448,6 +1538,16 @@
 			"collector_number": "261",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/261_The Ender Dragon.png"
+			}
+		},
+		{
+			"name": "End Crystal",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/30_End Crystal.png"
 			}
 		},
 		{
@@ -1541,6 +1641,16 @@
 			}
 		},
 		{
+			"name": "Skeleton Archer",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton Archer",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/14_Skeleton Archer.png"
+			}
+		},
+		{
 			"name": "Change Data",
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
@@ -1568,6 +1678,16 @@
 			"collector_number": "153",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/153_Zombie's Bite.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/17_Zombie.png"
 			}
 		},
 		{
@@ -1761,6 +1881,26 @@
 			}
 		},
 		{
+			"name": "Medium Slime",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Ooze",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/24_Medium Slime.png"
+			}
+		},
+		{
+			"name": "Small Slime",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Ooze",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/27_Small Slime.png"
+			}
+		},
+		{
 			"name": "Defend the Village",
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
@@ -1921,6 +2061,16 @@
 			}
 		},
 		{
+			"name": "Rabbit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Rabbit",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/26_Rabbit.png"
+			}
+		},
+		{
 			"name": "Stone Age",
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
@@ -1958,6 +2108,16 @@
 			"collector_number": "227",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/227_Growing Pack.png"
+			}
+		},
+		{
+			"name": "Wolf",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/28_Wolf.png"
 			}
 		},
 		{
@@ -2188,6 +2348,16 @@
 			"collector_number": "246",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/246_Spider Jockey.png"
+			}
+		},
+		{
+			"name": "Explorer",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Emblem — Explorer",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/2_Explorer.png"
 			}
 		},
 		{
@@ -2453,7 +2623,7 @@
 		{
 			"name": "Act of Preservation",
 			"rarity": "special",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "205",
 			"image_uris": {
@@ -2811,6 +2981,26 @@
 			}
 		},
 		{
+			"name": "Ox",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Ox",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/25_Ox.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/6_Bird.png"
+			}
+		},
+		{
 			"name": "Diamond Gear",
 			"rarity": "special",
 			"mana_cost": "{3}",
@@ -2823,7 +3013,7 @@
 		{
 			"name": "Equipped Spawn",
 			"rarity": "special",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
 			"collector_number": "161",
 			"image_uris": {
@@ -2838,6 +3028,16 @@
 			"collector_number": "140",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/140_Stone Sword.png"
+			}
+		},
+		{
+			"name": "Skeleton Warrior",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton Warrior",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/15_Skeleton Warrior.png"
 			}
 		},
 		{
@@ -2878,6 +3078,16 @@
 			"collector_number": "210",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/210_Awaited Hatching.png"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/23_Beast.png"
 			}
 		},
 		{
@@ -2928,6 +3138,16 @@
 			"collector_number": "214",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/214_A Complete Catalogue.png"
+			}
+		},
+		{
+			"name": "Cat",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Cat",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/7_Cat.png"
 			}
 		},
 		{
@@ -3001,6 +3221,16 @@
 			}
 		},
 		{
+			"name": "Human",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/21_Human.png"
+			}
+		},
+		{
 			"name": "Emperor Penguin",
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
@@ -3038,6 +3268,26 @@
 			"collector_number": "197",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/197_Trial Spawner.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/34_Treasure.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/31_Food.png"
 			}
 		},
 		{
@@ -3161,6 +3411,16 @@
 			}
 		},
 		{
+			"name": "Elemental",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/20_Elemental.png"
+			}
+		},
+		{
 			"name": "TNT Block",
 			"rarity": "special",
 			"mana_cost": "{3}",
@@ -3208,6 +3468,46 @@
 			"collector_number": "299",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/299_Iron Stockpile.png"
+			}
+		},
+		{
+			"name": "Boar",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Boar",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/19_Boar.png"
+			}
+		},
+		{
+			"name": "Zombie Villager",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie Villager",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/18_Zombie Villager.png"
+			}
+		},
+		{
+			"name": "MIN DRAFT ARCHETYPES",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Archetypes",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/3_MIN DRAFT ARCHETYPES.png"
+			}
+		},
+		{
+			"name": "Golem Horror",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Golem Horror",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/11_Golem Horror.png"
 			}
 		},
 		{
@@ -3401,6 +3701,16 @@
 			}
 		},
 		{
+			"name": "Turtle",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Turtle",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/10_Turtle.png"
+			}
+		},
+		{
 			"name": "Small Chicken",
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
@@ -3411,6 +3721,16 @@
 			}
 		},
 		{
+			"name": "Horde",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Horde",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/12_Horde.png"
+			}
+		},
+		{
 			"name": "Brick Reserve",
 			"rarity": "special",
 			"mana_cost": "",
@@ -3418,6 +3738,16 @@
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/1_Brick Reserve.png"
+			}
+		},
+		{
+			"name": "Skeleton",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Skeleton",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://lecodex.github.io/sets/MIN-files/img/13_Skeleton.png"
 			}
 		},
 		{
