@@ -1,4 +1,2083 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Unlit Cave
+
+Crafting Bench
+
+Flaming Weapons
+
+Full Set
+
+Fortune Pickaxe
+
+Respawn and Collect
+
+Piercing Crossbow
+
+Thorny Dissuasion
+
+Impaling Trident
+
+Fish
+
+Wooly Sheep
+
+Sunken Stronghold
+
+Floating Allay
+
+Alex, Ready for Battle
+
+Village Shepherd
+
+Steve, Quaint Builder
+
+Villager
+
+Grazing Grounds
+
+Village Bell
+
+Golem
+
+Pillager's Capture
+
+Spirit
+
+Sticky Piston
+
+Armor Stand
+
+Mob Spawner
+
+Warm Campfire
+
+Flower Forest
+
+River Bed
+
+Mushroom Island
+
+Badlands Desert
+
+Dark Forest
+
+Thermal Vent
+
+Jungle
+
+Savanna
+
+Eroded Badlands
+
+Amplified Terrain
+
+Far Lands
+
+Unloaded Chunk
+
+Igloo Basement
+
+Ancient City
+
+Ruined Portal
+
+Peaceful Village
+
+Jungle Temple
+
+Witch Hut
+
+Ocean Monument
+
+Abandoned Mineshaft
+
+Desert Well
+
+Pillager Outpost
+
+Combat Arena
+
+Cherry Grove
+
+The End, Dragon's Realm
+
+The Nether
+
+Axolotl
+
+Illusioner
+
+Zombified Piglin
+
+Raid Captain
+
+Iron Anvil
+
+Multishot Crossbow
+
+Efficiency Pickaxe
+
+Soul Speed
+
+Totem Of Undying
+
+Herobrine, Never Removed
+
+Sculk Spread
+
+Cave Spider
+
+Composter
+
+Scurrying Bats
+
+Bat
+
+Closed Server
+
+Silverfish
+
+Tamed Cat
+
+Creative Mode
+
+Replace with Air
+
+Unload
+
+jeb
+
+Surprise Explosion
+
+Respawn Anchor
+
+Lightning Strike
+
+Exposing Demolition
+
+Mob Farm
+
+Chrysopoeia
+
+Smoking Blaze
+
+Piglin Brute
+
+Uneasy Alliance
+
+Cliff Llamas
+
+Glow Squid
+
+Neverending Spawn
+
+Crossbow Piglin
+
+Coral Reef
+
+Smithing Table
+
+Oak Sapling
+
+Golden Apple
+
+Ramming Goat
+
+Evoker
+
+Village Cleric
+
+Village Nitwit
+
+Village Fisherman
+
+Zombie Villager
+
+Village Cartographer
+
+Village Weaponsmith
+
+Getting an Upgrade
+
+Fang Attack
+
+Baby Zombie
+
+Polar Bear
+
+Bear
+
+Pillager Raid
+
+Villager Army
+
+Turn to Data
+
+Iron Hopper
+
+Husk
+
+Wither Skeleton
+
+Enter the Cave
+
+Village Butcher
+
+Jungle Parrot
+
+Tool
+
+Vindicator
+
+Meadow Cow
+
+Banished Witch
+
+Trial Raid
+
+Sea Dolphin
+
+Victory Celebration
+
+Hero of the Village
+
+Kick
+
+Time Command
+
+Critical Strike
+
+Take Inventory
+
+Ruthless Predation
+
+Large Slime
+
+Spectator Mode
+
+Void Command
+
+Gold Bartering
+
+Wither Rose
+
+Turtle
+
+Ink Squid
+
+Tame Panda
+
+Pack Donkey
+
+Clear Command
+
+Wild Fox
+
+Frost Stray
+
+Fish Bucket
+
+Outpost Defense
+
+Phantom
+
+Arctic Fox
+
+Happy Ghast
+
+Bee Hive
+
+Crying Ghast
+
+Armored Horse
+
+Sniffer
+
+Insect
+
+The Ender Dragon
+
+End Crystal
+
+Ravager
+
+Lava Strider
+
+How Did We Get Here
+
+Command Block
+
+Nether Portal
+
+Zombie Reinforcements
+
+Dragon's Breath
+
+Creaking
+
+Skeleton Horse
+
+Skeleton Archer
+
+Change Data
+
+Drowned Zombie
+
+Zombie's Bite
+
+Zombie
+
+Insect Infestation
+
+Swoop Down
+
+Charging Strike
+
+Snow Golem
+
+Temple Guardian
+
+Young Hoglin
+
+Village Farmer
+
+Angered Wolf
+
+Third Shriek
+
+Clearcutting
+
+Pink Sheep
+
+Acid Fireball
+
+Enderman
+
+Potion of Swiftness
+
+Ice Highway
+
+Shore Lighthouse
+
+Village Mason
+
+Gather Experience
+
+Village Librarian
+
+Medium Slime
+
+Small Slime
+
+Defend the Village
+
+Compacting Resources
+
+Chest Breaking
+
+Hoglin
+
+One-Way Trip
+
+Bogged Skeleton
+
+Dig Straight Down
+
+Out of the Webs
+
+TNT Cannon
+
+Terraforming
+
+Magma Cube
+
+Tend the Pens
+
+Flying Machine
+
+Shrinking Worldborder
+
+Village Armorer
+
+Wild Rabbit
+
+Rabbit
+
+Stone Age
+
+Equipping Station
+
+Isn't it Iron Pick
+
+Growing Pack
+
+Wolf
+
+Fire Charge
+
+Tadpole Knot
+
+Faithful Companion
+
+Explore
+
+Wind Charge
+
+Forest Fire
+
+Ender Chest
+
+Golden Sword
+
+Glare
+
+Rascal
+
+Arson
+
+Wandering Trader
+
+Zombie Giant
+
+Mooshroom Herd
+
+Village Fletcher
+
+Tuff Golem
+
+Claim Land
+
+Bad Omen
+
+Shipwreck
+
+Pufferfish
+
+Iron Shovel
+
+Observer
+
+Spider Jockey
+
+Explorer
+
+Territorial Anger
+
+Brown Mooshroom
+
+Ancient Etchings
+
+For the Herd
+
+Repeating Command Chain
+
+Debug World
+
+Finish The Base
+
+Sift the Loot
+
+Unpleasant Surprise
+
+Elytras
+
+Illager Patrol
+
+Torching
+
+Pillager Horn
+
+Curse of Binding
+
+Dungeon Chest
+
+Escalating Raid
+
+Protection Chestplate
+
+Exponential Growth
+
+Lightning Rod
+
+11 Music Disc
+
+Pigstep Music Disc
+
+Far Music Disc
+
+Strad Music Disc
+
+Mall Music Disc
+
+Jukebox
+
+Skeleton Bowman
+
+Act of Preservation
+
+The Wither
+
+Jeb Door
+
+Lava Lake
+
+Ominous Banner
+
+Moody Weather
+
+Planned for It
+
+Resource Organization
+
+Zombie Horse
+
+Fang Defense
+
+Pig Herd
+
+The Parrots and the Bats
+
+Trading Hall
+
+Trader Llama
+
+The End Fountain
+
+Collect
+
+Iron Farm
+
+Village Leatherworker
+
+New Professions
+
+Return To Sender
+
+Cartography Table
+
+Hired Help
+
+Clone Command
+
+Potion Throw
+
+Pilfer the Bastion
+
+Warden
+
+Sculk Sensor
+
+Village Fountain
+
+Enchanting Table
+
+Minecart Network
+
+Strip Mining
+
+Animal Husbandry
+
+Spawn Egg
+
+World Eater
+
+Iceologer
+
+Trail Ruins
+
+Ox
+
+Bird
+
+Diamond Gear
+
+Equipped Spawn
+
+Stone Sword
+
+Skeleton Warrior
+
+Wooden Shield
+
+Grindstone
+
+Prepared Incursion
+
+Sniffer Egg
+
+Beast
+
+Blast Furnace
+
+Griefing
+
+Low Durability
+
+Fake Abandon
+
+A Complete Catalogue
+
+Cat
+
+Mesa Wolf
+
+Brewing Stand
+
+Pick Back Up
+
+Chicken Jockey
+
+Precarious Structure
+
+Haste Effect
+
+Herd Spawning
+
+Human
+
+Emperor Penguin
+
+Lobsided Crab
+
+Shy Armadillo
+
+Trial Spawner
+
+Treasure
+
+Food
+
+Beacon Platform
+
+Faction Base
+
+Town Square
+
+Watchful Outpost
+
+Clocktower
+
+Spleef Arena
+
+Storage System
+
+Archery Range
+
+Deep Mine
+
+Wood Camp
+
+Central Map
+
+Blowing Breeze
+
+Elemental
+
+TNT Block
+
+The Dragon Egg
+
+Stasis Chamber
+
+Ominous Vault
+
+Iron Stockpile
+
+Boar
+
+Zombie Villager
+
+MIN DRAFT ARCHETYPES
+
+Golem Horror
+
+Wooded Mountains
+
+Woodland Mansion
+
+Redstone Contraption
+
+Impressive Build
+
+Shulker Box
+
+Amethyst Geode
+
+Netherite Excavation
+
+Zoglin
+
+Endermite
+
+Copper Golem
+
+Elder Guardian
+
+Moobloom
+
+Mangrove Frog
+
+Skulking Shulker
+
+Wild Ocelot
+
+Piglin Warrior
+
+Desert Camel
+
+The Killer Bunny
+
+Village Toolsmith
+
+Turtle
+
+Small Chicken
+
+Horde
+
+Brick Reserve
+
+Skeleton
+
+Windswept Hills
+
+Classic Superflat
+
+Shattered Forest
+
+Old Growth Taiga
+
+Mangrove Swamp
+
+Jagged Peaks
+
+Dripstone Caves
+
+Sandy Beach
+
+Gravelly Hills
+
+Bamboo Jungle
+
+Sunflower Plains
+
+Pale Garden
+
+Deep Dark
+
+Tunneler's Dream
+
+Infinite Ocean
+
+Hillless Desert
+
+Flat Overworld
+
+End City
+
+Skyblock
+
+The Void
+
+Copper Brush
+
+Potion of Harming
+
+Crossbow Shot
+
+Roll Back
+
+
+VERSION 6 CHANGELOG
+====================
+
+Sniffer Egg added.
+
+Awaited Hatching removed.
+
+Unlit Cave
+rules_text: When Unlit Cave enters or leaves the battlefield, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i] => When Unlit Cave enters or is put into a graveyard from the battlefield, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Crafting Bench
+
+Flaming Weapons
+
+Full Set
+
+Fortune Pickaxe
+
+Respawn and Collect
+
+Piercing Crossbow
+
+Thorny Dissuasion
+
+Impaling Trident
+
+Fish
+
+Wooly Sheep
+
+Sunken Stronghold
+
+Floating Allay
+rules_text: Flying
+Your Function costs {2} less to activate.
+Function — Each opponent discards a card and you draw a card. [i]({6}: Trigger any number of Function abilities you control, only as a sorcery.)[/i] => Flying
+Your Function costs {1} less to activate.
+Function — Each opponent discards a card and you draw a card. [i]({6}: Trigger any number of Function abilities you control, only as a sorcery.)[/i]
+
+Alex, Ready for Battle
+
+Village Shepherd
+
+Steve, Quaint Builder
+
+Villager
+
+Grazing Grounds
+
+Village Bell
+
+Golem
+
+Pillager's Capture
+
+Spirit
+
+Sticky Piston
+
+Armor Stand
+
+Mob Spawner
+
+Warm Campfire
+
+Flower Forest
+
+River Bed
+
+Mushroom Island
+
+Badlands Desert
+
+Dark Forest
+
+Thermal Vent
+
+Jungle
+
+Savanna
+
+Eroded Badlands
+
+Amplified Terrain
+
+Far Lands
+
+Unloaded Chunk
+rules_text: Unloaded Chunk enters tapped. When it does, you gain 1 life.
+{T}, Sacrifice Unloaded Chunk: Search your library for a basic land card, put it onto the battlefield, then shuffle. => Unloaded Chunk enters tapped.
+When Unloaded Chunk enters, you gain 1 life.
+{T}, Sacrifice Unloaded Chunk: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+
+Igloo Basement
+
+Ancient City
+
+Ruined Portal
+
+Peaceful Village
+
+Jungle Temple
+
+Witch Hut
+
+Ocean Monument
+
+Abandoned Mineshaft
+
+Desert Well
+
+Pillager Outpost
+
+Combat Arena
+
+Cherry Grove
+
+The End, Dragon's Realm
+
+The Nether
+
+Axolotl
+
+Illusioner
+
+Zombified Piglin
+
+Raid Captain
+
+Iron Anvil
+
+Multishot Crossbow
+
+Efficiency Pickaxe
+
+Soul Speed
+
+Totem Of Undying
+
+Herobrine, Never Removed
+
+Sculk Spread
+
+Cave Spider
+
+Composter
+
+Scurrying Bats
+
+Bat
+
+Closed Server
+
+Silverfish
+rules_text: Flash
+When Silverfish enters, if it's not a token, choose one —
+• Destroy target enchantment or artifact.
+• Create a token that's a copy of target creature you control with the highest power or tied for the highest power. => When Silverfish enters, if it's not a token, choose one —
+• Destroy target enchantment or artifact.
+• Create a token that's a copy of target creature you control with the highest power or tied for the highest power.
+
+Tamed Cat
+
+Creative Mode
+
+Replace with Air
+
+Unload
+
+jeb
+
+Surprise Explosion
+rules_text: This spell deals 2 damage to each creature. Then, spawn trample 2. [i](Create a 2/2 black Horde creature token with trample and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i] => Surprise Explosion deals 2 damage to each creature. Then, spawn trample 2. [i](Create a 2/2 black Horde creature token with trample and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+
+Respawn Anchor
+
+Lightning Strike
+
+Exposing Demolition
+
+Mob Farm
+rules_text: At the beginning of your end step, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+{2}, {T}, Sacrifice a creature: Draw a card. => At the beginning of your end step, if you control no creatures with decayed, spawn menace 2. [i](Create a 2/2 black Horde creature token with menace and decayed. It can't block and is sacrificed after attacking. When a player casts no spells on their turn, it loses decayed forever.)[/i]
+{2}, {T}, Sacrifice a creature: Draw a card.
+
+Chrysopoeia
+
+Smoking Blaze
+
+Piglin Brute
+
+Uneasy Alliance
+
+Cliff Llamas
+
+Glow Squid
+
+Neverending Spawn
+
+Crossbow Piglin
+
+Coral Reef
+
+Smithing Table
+rules_text: When Smithing Table enters, create a 1/1 white Villager creature token.
+At the beginning of your end step, put a +1/+1 counter on target creature you control. => When Smithing Table enters, create a 1/1 white Villager creature token.
+At the beginning of your end step, put a +1/+1 counter on target creature you control with power 3 or less.
+
+Oak Sapling
+type: Land Creature — Forest Plant => Creature — Plant
+cost:  => {G}
+rules_text: [i](Oak Sapling isn't a spell, it's affected by summoning sickness, and it has “{T}: Add {G}.”)[/i][i][/i] => {T}, Sacrifice Oak Sapling: Search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
+
+Golden Apple
+
+Ramming Goat
+
+Evoker
+
+Village Cleric
+
+Village Nitwit
+
+Village Fisherman
+
+Zombie Villager
+
+Village Cartographer
+
+Village Weaponsmith
+
+Getting an Upgrade
+
+Fang Attack
+
+Baby Zombie
+
+Polar Bear
+
+Bear
+
+Pillager Raid
+
+Villager Army
+
+Turn to Data
+
+Iron Hopper
+
+Husk
+
+Wither Skeleton
+
+Enter the Cave
+
+Village Butcher
+
+Jungle Parrot
+
+Tool
+
+Vindicator
+
+Meadow Cow
+
+Banished Witch
+
+Trial Raid
+
+Sea Dolphin
+
+Victory Celebration
+
+Hero of the Village
+
+Kick
+
+Time Command
+
+Critical Strike
+
+Take Inventory
+
+Ruthless Predation
+
+Large Slime
+
+Spectator Mode
+rules_text: Enchant creature
+Enchanted creature loses all abilities and is a colorless 1/1 Spirit creature. [i](It loses all other colors, card types, creature types, and names.)[/i] => Enchant creature
+Enchanted creature loses all abilities and is a colorless 1/1 Spirit creature. [i](It loses all other colors, card types, and creature types.)[/i]
+
+Void Command
+
+Gold Bartering
+
+Wither Rose
+
+Turtle
+
+Ink Squid
+
+Tame Panda
+
+Pack Donkey
+
+Clear Command
+
+Wild Fox
+
+Frost Stray
+
+Fish Bucket
+
+Outpost Defense
+
+Phantom
+
+Arctic Fox
+
+Happy Ghast
+
+Bee Hive
+
+Crying Ghast
+
+Armored Horse
+
+Sniffer
+
+Insect
+
+The Ender Dragon
+
+End Crystal
+
+Ravager
+
+Lava Strider
+
+How Did We Get Here
+
+Command Block
+
+Nether Portal
+
+Zombie Reinforcements
+
+Dragon's Breath
+
+Creaking
+rules_text: Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+Whenever Creaking becomes the target of a spell or ability, unless you're an explorer, tap it and put a stun counter on it if it doesn't have one. => Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+Whenever Creaking attacks, if you're not an explorer, tap it and put a stun counter on it.
+
+Skeleton Horse
+
+Skeleton Archer
+
+Change Data
+
+Drowned Zombie
+rules_text: Whenever you gain or lose life during your turn, Drowned Zombie gets +1/+1 until end of turn.
+Pay 2 life: Drowned Zombie can't be blocked this turn. => Whenever you gain or lose life during your turn, Drowned Zombie gets +1/+1 until end of turn.
+Pay 2 life: Drowned Zombie can't be blocked this turn. Activate only once each turn.
+
+Zombie's Bite
+
+Zombie
+
+Insect Infestation
+
+Swoop Down
+
+Charging Strike
+
+Snow Golem
+
+Temple Guardian
+
+Young Hoglin
+
+Village Farmer
+
+Angered Wolf
+
+Third Shriek
+
+Clearcutting
+
+Pink Sheep
+
+Acid Fireball
+
+Enderman
+
+Potion of Swiftness
+
+Ice Highway
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Change Dimension
+Return target nonland permanent to its owner's hand.
+🧱🧱: Place Ice Blocks
+Artifact spells you cast this turn cost {3} less to cast.
+🧱🧱🧱: Boat Across
+Creatures you control get +1/+1 and gain menace and vigilance until end of turn. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Change Dimension
+Return target nonland permanent to its owner's hand.
+🧱🧱: Place Ice Blocks
+Artifact spells you cast this turn cost {3} less to cast.
+🧱🧱🧱: Boat Across
+Creatures you control get +1/+1 and gain menace and vigilance until end of turn.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Change Dimension
+Return target nonland permanent to its owner's hand.
+🧱🧱: Place Ice Blocks
+Artifact spells you cast this turn cost {3} less to cast.
+🧱🧱🧱: Boat Across
+Creatures you control get +1/+1 and gain menace and vigilance until end of turn. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Change Dimension
+Return target nonland permanent to its owner's hand.
+🧱🧱: Place Ice Blocks
+Artifact spells you cast this turn cost {3} less to cast.
+🧱🧱🧱: Boat Across
+Creatures you control get +1/+1 and gain menace and vigilance until end of turn.
+
+Shore Lighthouse
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Search for a Spot
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+🧱🧱: Build the Floors
+Put a reach and two +1/+1 counters on target creature.
+🧱🧱🧱: Light it Up
+This artifact gains “Whenever a land you control enters, proliferate.” [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Search for a Spot
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+🧱🧱: Build the Floors
+Put a reach and two +1/+1 counters on target creature.
+🧱🧱🧱: Light it Up
+Shore Lighthouse gains “Whenever a land you control enters, proliferate.” [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Search for a Spot
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+🧱🧱: Build the Floors
+Put a reach and two +1/+1 counters on target creature.
+🧱🧱🧱: Light it Up
+This artifact gains “Whenever a land you control enters, proliferate.” [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Search for a Spot
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+🧱🧱: Build the Floors
+Put a reach and two +1/+1 counters on target creature.
+🧱🧱🧱: Light it Up
+Shore Lighthouse gains “Whenever a land you control enters, proliferate.” [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Village Mason
+cost: {2}{U} => {1}{U}
+rules_text: {T}: Add {C}{C}. This mana can only be spent to cast artifact spells or to activate abilities of artifacts. => {T}: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+
+Gather Experience
+
+Village Librarian
+
+Medium Slime
+
+Small Slime
+
+Defend the Village
+
+Compacting Resources
+
+Chest Breaking
+
+Hoglin
+
+One-Way Trip
+
+Bogged Skeleton
+type: Creature — Skeleton Archer => Creature — Fungus Skeleton Archer
+
+Dig Straight Down
+
+Out of the Webs
+
+TNT Cannon
+
+Terraforming
+
+Magma Cube
+
+Tend the Pens
+
+Flying Machine
+
+Shrinking Worldborder
+
+Village Armorer
+
+Wild Rabbit
+
+Rabbit
+
+Stone Age
+
+Equipping Station
+
+Isn't it Iron Pick
+
+Growing Pack
+
+Wolf
+
+Fire Charge
+
+Tadpole Knot
+
+Faithful Companion
+
+Explore
+
+Wind Charge
+
+Forest Fire
+
+Ender Chest
+
+Golden Sword
+
+Glare
+
+Rascal
+
+Arson
+
+Wandering Trader
+
+Zombie Giant
+
+Mooshroom Herd
+
+Village Fletcher
+rules_text: Prowess
+Whenever Village Fletcher attacks, add {R}. This mana can only be spent to cast noncreature spells. Until end of turn, you don't lose this mana as steps and phases end. => Prowess
+Whenever Village Fletcher attacks, add {R}. Spend this mana only to cast noncreature spells. Until end of turn, you don't lose this mana as steps and phases end.
+
+Tuff Golem
+
+Claim Land
+
+Bad Omen
+
+Shipwreck
+
+Pufferfish
+
+Iron Shovel
+
+Observer
+
+Spider Jockey
+
+Explorer
+
+Territorial Anger
+
+Brown Mooshroom
+
+Ancient Etchings
+
+For the Herd
+
+Repeating Command Chain
+
+Debug World
+
+Finish The Base
+
+Sift the Loot
+
+Unpleasant Surprise
+
+Elytras
+
+Illager Patrol
+
+Torching
+
+Pillager Horn
+
+Curse of Binding
+
+Dungeon Chest
+
+Escalating Raid
+
+Protection Chestplate
+
+Exponential Growth
+
+Lightning Rod
+
+11 Music Disc
+
+Pigstep Music Disc
+
+Far Music Disc
+
+Strad Music Disc
+
+Mall Music Disc
+
+Jukebox
+
+Skeleton Bowman
+rules_text: Whenever Skeleton Bowman enters or a Horde you control attacks, Skeleton Bowman deals 1 damage to any target. => Whenever Skeleton Bowman enters or one or more Hordes you control attack, Skeleton Bowman deals 1 damage to any target.
+
+Act of Preservation
+cost: {2}{G} => {1}{G}
+rules_text: [i]Landfall[/i] — Whenever Act of Preservation or a land you control enters, choose one —
+• You get 🧱 [i](a brick counter)[/i].
+• Put target permanent card from your graveyard on top of your library. => [i]Landfall[/i] — Whenever a land you control enters, choose one —
+• You get 🧱 [i](a brick counter)[/i].
+• Put target permanent card from your graveyard on top of your library.
+
+The Wither
+
+Jeb Door
+
+Lava Lake
+
+Ominous Banner
+
+Moody Weather
+
+Planned for It
+
+Resource Organization
+
+Zombie Horse
+
+Fang Defense
+
+Pig Herd
+
+The Parrots and the Bats
+
+Trading Hall
+
+Trader Llama
+
+The End Fountain
+
+Collect
+
+Iron Farm
+
+Village Leatherworker
+
+New Professions
+
+Return To Sender
+
+Cartography Table
+
+Hired Help
+
+Clone Command
+
+Potion Throw
+
+Pilfer the Bastion
+
+Warden
+pt: 3/3 => 2/2
+
+Sculk Sensor
+
+Village Fountain
+
+Enchanting Table
+
+Minecart Network
+
+Strip Mining
+
+Animal Husbandry
+
+Spawn Egg
+
+World Eater
+
+Iceologer
+
+Trail Ruins
+
+Ox
+
+Bird
+
+Diamond Gear
+
+Equipped Spawn
+
+Stone Sword
+
+Skeleton Warrior
+
+Wooden Shield
+
+Grindstone
+
+Prepared Incursion
+
+Beast
+
+Blast Furnace
+
+Griefing
+
+Low Durability
+
+Fake Abandon
+
+A Complete Catalogue
+
+Cat
+
+Mesa Wolf
+
+Brewing Stand
+
+Pick Back Up
+
+Chicken Jockey
+
+Precarious Structure
+
+Haste Effect
+
+Herd Spawning
+
+Human
+
+Emperor Penguin
+
+Lobsided Crab
+
+Shy Armadillo
+
+Trial Spawner
+
+Treasure
+
+Food
+
+Beacon Platform
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i][/i]
+🧱: Get a Nether Star
+Destroy target creature with power 4 or greater.
+🧱🧱: Build the Base
+Untap each other artifact or each other creature you control.
+🧱🧱🧱: Light the Beam
+This artifact gains “Creatures you control get +2/+2.” => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i][/i]
+🧱: Get a Nether Star
+Destroy target creature with power 4 or greater.
+🧱🧱: Build the Base
+Untap each other artifact or each other creature you control.
+🧱🧱🧱: Light the Beam
+Beacon Platform gains “Creatures you control get +2/+2.”
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i][/i]
+🧱: Get a Nether Star
+Destroy target creature with power 4 or greater.
+🧱🧱: Build the Base
+Untap each other artifact or each other creature you control.
+🧱🧱🧱: Light the Beam
+This artifact gains “Creatures you control get +2/+2.” => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i][/i]
+🧱: Get a Nether Star
+Destroy target creature with power 4 or greater.
+🧱🧱: Build the Base
+Untap each other artifact or each other creature you control.
+🧱🧱🧱: Light the Beam
+Beacon Platform gains “Creatures you control get +2/+2.”
+
+Faction Base
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Stock Up
+You gain 5 life and draw a card.
+🧱🧱: Hide Inside
+Exile any number of target creatures you control, then return them to the battlefield.
+🧱🧱🧱: Close the Doors
+This artifact gains “Whenever a creature attacks, you gain 1 life.” => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Stock Up
+You gain 5 life and draw a card.
+🧱🧱: Hide Inside
+Exile any number of target creatures you control, then return them to the battlefield.
+🧱🧱🧱: Close the Doors
+Faction Base gains “Whenever one or more creatures attack, you gain that much life.”
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Stock Up
+You gain 5 life and draw a card.
+🧱🧱: Hide Inside
+Exile any number of target creatures you control, then return them to the battlefield.
+🧱🧱🧱: Close the Doors
+This artifact gains “Whenever a creature attacks, you gain 1 life.” => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Stock Up
+You gain 5 life and draw a card.
+🧱🧱: Hide Inside
+Exile any number of target creatures you control, then return them to the battlefield.
+🧱🧱🧱: Close the Doors
+Faction Base gains “Whenever one or more creatures attack, you gain that much life.”
+
+Town Square
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Do Some Trades
+Create a 1/1 white Villager creature token and a Food token.
+🧱🧱: Summon a Golem
+Create a 3/3 colorless Golem artifact creature with vigilance.
+🧱🧱🧱: Expand Out
+For each of up to three target tokens you control, create a token that's a copy of it. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Do Some Trades
+Create a 1/1 white Villager creature token and a Food token.
+🧱🧱: Summon a Golem
+Create a 3/3 colorless Golem artifact creature with vigilance.
+🧱🧱🧱: Expand Out
+For each of up to three target tokens you control, create a token that's a copy of it.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Do Some Trades
+Create a 1/1 white Villager creature token and a Food token.
+🧱🧱: Summon a Golem
+Create a 3/3 colorless Golem artifact creature with vigilance.
+🧱🧱🧱: Expand Out
+For each of up to three target tokens you control, create a token that's a copy of it. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Do Some Trades
+Create a 1/1 white Villager creature token and a Food token.
+🧱🧱: Summon a Golem
+Create a 3/3 colorless Golem artifact creature with vigilance.
+🧱🧱🧱: Expand Out
+For each of up to three target tokens you control, create a token that's a copy of it.
+
+Watchful Outpost
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Find the Ruins
+Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+🧱🧱: Repossess it
+Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+🧱🧱🧱: Watch Over
+Create a 1/1 Villager creature token for each Plains you control. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Find the Ruins
+Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+🧱🧱: Repossess it
+Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+🧱🧱🧱: Watch Over
+Create a 1/1 Villager creature token for each Plains you control.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Find the Ruins
+Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+🧱🧱: Repossess it
+Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+🧱🧱🧱: Watch Over
+Create a 1/1 Villager creature token for each Plains you control. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Find the Ruins
+Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+🧱🧱: Repossess it
+Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.
+🧱🧱🧱: Watch Over
+Create a 1/1 Villager creature token for each Plains you control.
+
+Clocktower
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Design the System
+Search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+🧱🧱: Trap in the Tower
+The owner of target permanent puts it on the top or bottom of their library.
+🧱🧱🧱: Activate it
+Each player may shuffle their hand and graveyard into their library. Each player who does so draws seven cards. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Design the System
+Search your library for an artifact card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
+🧱🧱: Trap in the Tower
+The owner of target nonland permanent puts it on the top or bottom of their library.
+🧱🧱🧱: Activate it
+Each player may shuffle their hand and graveyard into their library. Each player who does so draws seven cards.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Design the System
+Search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+🧱🧱: Trap in the Tower
+The owner of target permanent puts it on the top or bottom of their library.
+🧱🧱🧱: Activate it
+Each player may shuffle their hand and graveyard into their library. Each player who does so draws seven cards. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Design the System
+Search your library for an artifact card with mana value 2 or less, reveal it, put it into your hand, then shuffle.
+🧱🧱: Trap in the Tower
+The owner of target nonland permanent puts it on the top or bottom of their library.
+🧱🧱🧱: Activate it
+Each player may shuffle their hand and graveyard into their library. Each player who does so draws seven cards.
+
+Spleef Arena
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Gather Snow
+Target creature gets -3/-0 for as long as you control Spleef Arena.
+🧱🧱: Shovel the Floor
+Tap up to three target creatures you don't control. Put a stun counter on each of them.
+🧱🧱🧱: Win the Round
+Draw a card for each tapped creature target opponent controls. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Gather Snow
+Target creature gets -3/-0 for as long as you control Spleef Arena.
+🧱🧱: Shovel the Floor
+Tap up to three target creatures you don't control. Put a stun counter on each of them.
+🧱🧱🧱: Win the Round
+Draw a card for each tapped creature target opponent controls.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Gather Snow
+Target creature gets -3/-0 for as long as you control Spleef Arena.
+🧱🧱: Shovel the Floor
+Tap up to three target creatures you don't control. Put a stun counter on each of them.
+🧱🧱🧱: Win the Round
+Draw a card for each tapped creature target opponent controls. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Gather Snow
+Target creature gets -3/-0 for as long as you control Spleef Arena.
+🧱🧱: Shovel the Floor
+Tap up to three target creatures you don't control. Put a stun counter on each of them.
+🧱🧱🧱: Win the Round
+Draw a card for each tapped creature target opponent controls.
+
+Storage System
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Place the Chests
+Draw two cards, then discard a card.
+🧱🧱: Retrieve an Item
+Return up to one target instant or sorcery card from your graveyard to your hand.
+🧱🧱🧱: Add Sorting
+This artifact gains “Whenever you draw a card, put a +1/+1 counter on target creature you control.” => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Place the Chests
+Draw two cards, then discard a card.
+🧱🧱: Retrieve an Item
+Return up to one target instant or sorcery card from your graveyard to your hand.
+🧱🧱🧱: Add Sorting
+Storage System gains “Whenever you draw a card, put a +1/+1 counter on target creature you control.”
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Place the Chests
+Draw two cards, then discard a card.
+🧱🧱: Retrieve an Item
+Return up to one target instant or sorcery card from your graveyard to your hand.
+🧱🧱🧱: Add Sorting
+This artifact gains “Whenever you draw a card, put a +1/+1 counter on target creature you control.” => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Place the Chests
+Draw two cards, then discard a card.
+🧱🧱: Retrieve an Item
+Return up to one target instant or sorcery card from your graveyard to your hand.
+🧱🧱🧱: Add Sorting
+Storage System gains “Whenever you draw a card, put a +1/+1 counter on target creature you control.”
+
+Archery Range
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Acquire Targets
+Create a 3/3 green Ox creature token.
+🧱🧱: Practice Aim
+Target creature you control gets +2/+0 until end of turn, then deals damage equal to its power to another target creature.
+🧱🧱🧱: Restock Arrows
+This artifact gains “Whenever you attack or block with one or more creatures, put a +1/+1 counter on each of them.” => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Acquire Targets
+Create a 3/3 green Ox creature token.
+🧱🧱: Practice Aim
+Target creature you control gets +2/+0 until end of turn, then deals damage equal to its power to another target creature.
+🧱🧱🧱: Restock Arrows
+Archery Range gains “Whenever you attack or block with one or more creatures, put a +1/+1 counter on each of them.”
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Acquire Targets
+Create a 3/3 green Ox creature token.
+🧱🧱: Practice Aim
+Target creature you control gets +2/+0 until end of turn, then deals damage equal to its power to another target creature.
+🧱🧱🧱: Restock Arrows
+This artifact gains “Whenever you attack or block with one or more creatures, put a +1/+1 counter on each of them.” => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Acquire Targets
+Create a 3/3 green Ox creature token.
+🧱🧱: Practice Aim
+Target creature you control gets +2/+0 until end of turn, then deals damage equal to its power to another target creature.
+🧱🧱🧱: Restock Arrows
+Archery Range gains “Whenever you attack or block with one or more creatures, put a +1/+1 counter on each of them.”
+
+Deep Mine
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Dig Down
+Mill four cards. You may put a permanent card from among the cards milled this way into your hand.
+🧱🧱: Open a Cave
+Create two 2/2 black Zombie creature tokens.
+🧱🧱🧱: Smelt the Ores
+Create three Treasure tokens. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Dig Down
+Mill four cards. You may put a permanent card from among the cards milled this way into your hand.
+🧱🧱: Open a Cave
+Create two 2/2 black Zombie creature tokens.
+🧱🧱🧱: Smelt the Ores
+Add three mana in any combination of colors.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Dig Down
+Mill four cards. You may put a permanent card from among the cards milled this way into your hand.
+🧱🧱: Open a Cave
+Create two 2/2 black Zombie creature tokens.
+🧱🧱🧱: Smelt the Ores
+Create three Treasure tokens. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Dig Down
+Mill four cards. You may put a permanent card from among the cards milled this way into your hand.
+🧱🧱: Open a Cave
+Create two 2/2 black Zombie creature tokens.
+🧱🧱🧱: Smelt the Ores
+Add three mana in any combination of colors.
+
+Wood Camp
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Light a Campfire
+Destroy target artifact or enchantment. Draw a card.
+🧱🧱: Place Some Tents
+Return up to two target permanent cards from your graveyard to your hand.
+🧱🧱🧱: Rest for a Night
+Untap each creature you control. They gain indestructible and hexproof until the beginning of your next turn. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Light a Campfire
+Destroy target artifact or enchantment. Draw a card.
+🧱🧱: Place Some Tents
+Return up to two target permanent cards from your graveyard to your hand.
+🧱🧱🧱: Rest for a Night
+Untap each creature you control. They gain indestructible and hexproof until the beginning of your next turn.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Light a Campfire
+Destroy target artifact or enchantment. Draw a card.
+🧱🧱: Place Some Tents
+Return up to two target permanent cards from your graveyard to your hand.
+🧱🧱🧱: Rest for a Night
+Untap each creature you control. They gain indestructible and hexproof until the beginning of your next turn. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Light a Campfire
+Destroy target artifact or enchantment. Draw a card.
+🧱🧱: Place Some Tents
+Return up to two target permanent cards from your graveyard to your hand.
+🧱🧱🧱: Rest for a Night
+Untap each creature you control. They gain indestructible and hexproof until the beginning of your next turn.
+
+Central Map
+rules_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Collect Resources
+You get 🧱 [i](a brick counter)[/i] for each Construction you control.
+🧱🧱: Begin Projects
+Reveal the top four cards of your library. Put any number of creature, land, and artifact cards from among them into your hand, then put the rest into your graveyard.
+🧱🧱🧱: Embellish Them
+Exile any number of other target Constructions you control, then return them to the battlefield under your control. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Plan Out Placements
+Untap each other artifact you control.
+🧱🧱: Begin Projects
+Reveal the top four cards of your library. Put any number of creature, land, and artifact cards from among them into your hand, then put the rest into your graveyard.
+🧱🧱🧱: Embellish Them
+Exile any number of other target Constructions you control, then return them to the battlefield under your control.
+special_text: Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i]
+🧱: Collect Resources
+You get 🧱 [i](a brick counter)[/i] for each Construction you control.
+🧱🧱: Begin Projects
+Reveal the top four cards of your library. Put any number of creature, land, and artifact cards from among them into your hand, then put the rest into your graveyard.
+🧱🧱🧱: Embellish Them
+Exile any number of other target Constructions you control, then return them to the battlefield under your control. => Gain the next level as a sorcery to add its ability.
+[i]({X}: You get X brick counters.)[/i]
+[i]({T}: Activate a floor ability you haven't activated yet, in any order, as a sorcery.)[/i]
+🧱: Plan Out Placements
+Untap each other artifact you control.
+🧱🧱: Begin Projects
+Reveal the top four cards of your library. Put any number of creature, land, and artifact cards from among them into your hand, then put the rest into your graveyard.
+🧱🧱🧱: Embellish Them
+Exile any number of other target Constructions you control, then return them to the battlefield under your control.
+
+Blowing Breeze
+
+Elemental
+
+TNT Block
+
+The Dragon Egg
+
+Stasis Chamber
+
+Ominous Vault
+
+Iron Stockpile
+
+Boar
+
+Zombie Villager
+
+MIN DRAFT ARCHETYPES
+
+Golem Horror
+
+Wooded Mountains
+
+Woodland Mansion
+
+Redstone Contraption
+
+Impressive Build
+
+Shulker Box
+
+Amethyst Geode
+
+Netherite Excavation
+
+Zoglin
+
+Endermite
+
+Copper Golem
+
+Elder Guardian
+
+Moobloom
+
+Mangrove Frog
+
+Skulking Shulker
+
+Wild Ocelot
+
+Piglin Warrior
+
+Desert Camel
+
+The Killer Bunny
+
+Village Toolsmith
+
+Turtle
+
+Small Chicken
+
+Horde
+
+Brick Reserve
+
+Skeleton
+
+Windswept Hills
+
+Classic Superflat
+
+Shattered Forest
+
+Old Growth Taiga
+
+Mangrove Swamp
+
+Jagged Peaks
+
+Dripstone Caves
+
+Sandy Beach
+
+Gravelly Hills
+
+Bamboo Jungle
+
+Sunflower Plains
+
+Pale Garden
+
+Deep Dark
+
+Tunneler's Dream
+
+Infinite Ocean
+
+Hillless Desert
+
+Flat Overworld
+
+End City
+
+Skyblock
+
+The Void
+
+Copper Brush
+
+Potion of Harming
+
+Crossbow Shot
+
+Roll Back
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

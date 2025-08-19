@@ -5,9 +5,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "308",
+			"collector_number": "309",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/308_Unlit Cave.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/309_Unlit Cave.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "292",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/292_Crafting Bench.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/293_Crafting Bench.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Sheep",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/254_Wooly Sheep.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/255_Wooly Sheep.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Artifact",
-			"collector_number": "275",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/275_Sunken Stronghold.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/276_Sunken Stronghold.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/263_Floating Allay.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/264_Floating Allay.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Planeswalker — Alex",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/255_Alex, Ready for Battle.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/256_Alex, Ready for Battle.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Creature — Villager Peasant",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/280_Village Shepherd.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/281_Village Shepherd.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Planeswalker — Steve",
-			"collector_number": "273",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/273_Steve, Quaint Builder.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/274_Steve, Quaint Builder.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "226",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/226_Grazing Grounds.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/225_Grazing Grounds.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "305",
+			"collector_number": "306",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/305_Sticky Piston.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/306_Sticky Piston.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "287",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/287_Armor Stand.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/288_Armor Stand.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "300",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/300_Mob Spawner.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/301_Mob Spawner.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "309",
+			"collector_number": "310",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/309_Warm Campfire.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/310_Warm Campfire.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "327",
+			"collector_number": "328",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/327_Flower Forest.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/328_Flower Forest.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "337",
+			"collector_number": "338",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/337_Mushroom Island.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/338_Mushroom Island.png"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "313",
+			"collector_number": "314",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/313_Badlands Desert.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/314_Badlands Desert.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "318",
+			"collector_number": "319",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/318_Dark Forest.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/319_Dark Forest.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "334",
+			"collector_number": "335",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/334_Jungle.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/335_Jungle.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "324",
+			"collector_number": "325",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/324_Eroded Badlands.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/325_Eroded Badlands.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "311",
+			"collector_number": "312",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/311_Amplified Terrain.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/312_Amplified Terrain.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "325",
+			"collector_number": "326",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/325_Far Lands.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/326_Far Lands.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "330",
+			"collector_number": "331",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/330_Igloo Basement.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/331_Igloo Basement.png"
 			}
 		},
 		{
@@ -445,9 +445,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "312",
+			"collector_number": "313",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/312_Ancient City.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/313_Ancient City.png"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "335",
+			"collector_number": "336",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/335_Jungle Temple.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/336_Jungle Temple.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "310",
+			"collector_number": "311",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/310_Abandoned Mineshaft.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/311_Abandoned Mineshaft.png"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "320",
+			"collector_number": "321",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/320_Desert Well.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/321_Desert Well.png"
 			}
 		},
 		{
@@ -535,9 +535,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "317",
+			"collector_number": "318",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/317_Combat Arena.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/318_Combat Arena.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "315",
+			"collector_number": "316",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/315_Cherry Grove.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/316_Cherry Grove.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "323",
+			"collector_number": "324",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/323_The End, Dragon's Realm.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/324_The End, Dragon's Realm.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Enchantment Land — Saga",
-			"collector_number": "338",
+			"collector_number": "339",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/338_The Nether.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/339_The Nether.png"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Axolotl",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/257_Axolotl.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/258_Axolotl.png"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Creature — Villager Wizard",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/267_Illusioner.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/268_Illusioner.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Zombie Boar",
-			"collector_number": "284",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/284_Zombified Piglin.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/285_Zombified Piglin.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Villager Shaman",
-			"collector_number": "271",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/271_Raid Captain.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/272_Raid Captain.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "298",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/298_Iron Anvil.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/299_Iron Anvil.png"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Legendary Planeswalker — Herobrine",
-			"collector_number": "264",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/264_Herobrine, Never Removed.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/265_Herobrine, Never Removed.png"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Spider",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/211_Cave Spider.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/210_Cave Spider.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/215_Composter.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/214_Composter.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "230",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/230_jeb.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/229_jeb.png"
 			}
 		},
 		{
@@ -905,9 +905,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "234",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/234_Neverending Spawn.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/233_Neverending Spawn.png"
 			}
 		},
 		{
@@ -943,11 +943,11 @@
 		{
 			"name": "Oak Sapling",
 			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land Creature — Forest Plant",
-			"collector_number": "339",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/339_Oak Sapling.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/234_Oak Sapling.png"
 			}
 		},
 		{
@@ -955,9 +955,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/225_Golden Apple.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/224_Golden Apple.png"
 			}
 		},
 		{
@@ -975,9 +975,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Creature — Villager Shaman",
-			"collector_number": "262",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/262_Evoker.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/263_Evoker.png"
 			}
 		},
 		{
@@ -985,9 +985,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Villager Cleric",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/278_Village Cleric.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/279_Village Cleric.png"
 			}
 		},
 		{
@@ -1025,9 +1025,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Villager Advisor",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/250_Village Cartographer.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/251_Village Cartographer.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/219_Enter the Cave.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/218_Enter the Cave.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Villager Peasant",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/249_Village Butcher.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/250_Village Butcher.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Villager Barbarian",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/251_Vindicator.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/252_Vindicator.png"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Villager Warlock",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/258_Banished Witch.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/259_Banished Witch.png"
 			}
 		},
 		{
@@ -1295,9 +1295,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/247_Take Inventory.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/248_Take Inventory.png"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Ooze",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/231_Large Slime.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/230_Large Slime.png"
 			}
 		},
 		{
@@ -1385,9 +1385,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Bear",
-			"collector_number": "276",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/276_Tame Panda.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/277_Tame Panda.png"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Horse",
-			"collector_number": "270",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/270_Pack Donkey.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/271_Pack Donkey.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{R}{G}",
 			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/261_The Ender Dragon.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/262_The Ender Dragon.png"
 			}
 		},
 		{
@@ -1575,9 +1575,9 @@
 			"rarity": "special",
 			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
 			"type": "Enchantment",
-			"collector_number": "265",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/265_How Did We Get Here.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/266_How Did We Get Here.png"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "290",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/290_Command Block.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/291_Command Block.png"
 			}
 		},
 		{
@@ -1615,9 +1615,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/218_Dragon's Breath.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/217_Dragon's Breath.png"
 			}
 		},
 		{
@@ -1695,9 +1695,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/229_Insect Infestation.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/228_Insect Infestation.png"
 			}
 		},
 		{
@@ -1785,9 +1785,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/213_Clearcutting.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/212_Clearcutting.png"
 			}
 		},
 		{
@@ -1853,7 +1853,7 @@
 		{
 			"name": "Village Mason",
 			"rarity": "special",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Villager Artificer",
 			"collector_number": "99",
 			"image_uris": {
@@ -1954,7 +1954,7 @@
 			"name": "Bogged Skeleton",
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Skeleton Archer",
+			"type": "Creature — Fungus Skeleton Archer",
 			"collector_number": "107",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/107_Bogged Skeleton.png"
@@ -1995,9 +1995,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "248",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/248_Terraforming.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/249_Terraforming.png"
 			}
 		},
 		{
@@ -2025,9 +2025,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "297",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/297_Flying Machine.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/298_Flying Machine.png"
 			}
 		},
 		{
@@ -2055,9 +2055,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Rabbit",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/252_Wild Rabbit.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/253_Wild Rabbit.png"
 			}
 		},
 		{
@@ -2105,9 +2105,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/227_Growing Pack.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/226_Growing Pack.png"
 			}
 		},
 		{
@@ -2155,9 +2155,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/220_Explore.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/219_Explore.png"
 			}
 		},
 		{
@@ -2205,9 +2205,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Plant Elemental",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/224_Glare.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/223_Glare.png"
 			}
 		},
 		{
@@ -2235,9 +2235,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Villager Nomad",
-			"collector_number": "282",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/282_Wandering Trader.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/283_Wandering Trader.png"
 			}
 		},
 		{
@@ -2255,9 +2255,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Fungus Ox",
-			"collector_number": "233",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/233_Mooshroom Herd.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/232_Mooshroom Herd.png"
 			}
 		},
 		{
@@ -2285,9 +2285,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/212_Claim Land.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/211_Claim Land.png"
 			}
 		},
 		{
@@ -2305,9 +2305,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Treasure",
-			"collector_number": "302",
+			"collector_number": "303",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/302_Shipwreck.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/303_Shipwreck.png"
 			}
 		},
 		{
@@ -2345,9 +2345,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Skeleton Spider",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/246_Spider Jockey.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/247_Spider Jockey.png"
 			}
 		},
 		{
@@ -2395,9 +2395,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{G}",
 			"type": "Instant",
-			"collector_number": "223",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/223_For the Herd.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/222_For the Herd.png"
 			}
 		},
 		{
@@ -2455,9 +2455,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "295",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/295_Elytras.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/296_Elytras.png"
 			}
 		},
 		{
@@ -2535,9 +2535,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/221_Exponential Growth.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/220_Exponential Growth.png"
 			}
 		},
 		{
@@ -2575,9 +2575,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/222_Far Music Disc.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/221_Far Music Disc.png"
 			}
 		},
 		{
@@ -2623,7 +2623,7 @@
 		{
 			"name": "Act of Preservation",
 			"rarity": "special",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "205",
 			"image_uris": {
@@ -2675,9 +2675,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "232",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/232_Moody Weather.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/231_Moody Weather.png"
 			}
 		},
 		{
@@ -2745,9 +2745,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "307",
+			"collector_number": "308",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/307_Trading Hall.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/308_Trading Hall.png"
 			}
 		},
 		{
@@ -2765,9 +2765,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "296",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/296_The End Fountain.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/297_The End Fountain.png"
 			}
 		},
 		{
@@ -2795,9 +2795,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Creature — Villager Peasant",
-			"collector_number": "279",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/279_Village Leatherworker.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/280_Village Leatherworker.png"
 			}
 		},
 		{
@@ -2825,9 +2825,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "289",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/289_Cartography Table.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/290_Cartography Table.png"
 			}
 		},
 		{
@@ -2905,9 +2905,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Artifact",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/260_Enchanting Table.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/261_Enchanting Table.png"
 			}
 		},
 		{
@@ -2915,9 +2915,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Artifact",
-			"collector_number": "269",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/269_Minecart Network.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/270_Minecart Network.png"
 			}
 		},
 		{
@@ -2925,9 +2925,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "274",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/274_Strip Mining.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/275_Strip Mining.png"
 			}
 		},
 		{
@@ -2935,9 +2935,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/256_Animal Husbandry.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/257_Animal Husbandry.png"
 			}
 		},
 		{
@@ -2945,9 +2945,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/272_Spawn Egg.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/273_Spawn Egg.png"
 			}
 		},
 		{
@@ -2955,9 +2955,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Artifact — Tool",
-			"collector_number": "283",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/283_World Eater.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/284_World Eater.png"
 			}
 		},
 		{
@@ -2965,9 +2965,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Creature — Villager Wizard",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/266_Iceologer.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/267_Iceologer.png"
 			}
 		},
 		{
@@ -2975,9 +2975,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Artifact",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/277_Trail Ruins.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/278_Trail Ruins.png"
 			}
 		},
 		{
@@ -3005,9 +3005,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "293",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/293_Diamond Gear.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/294_Diamond Gear.png"
 			}
 		},
 		{
@@ -3071,13 +3071,13 @@
 			}
 		},
 		{
-			"name": "Awaited Hatching",
+			"name": "Sniffer Egg",
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment",
-			"collector_number": "210",
+			"type": "Artifact",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/210_Awaited Hatching.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/246_Sniffer Egg.png"
 			}
 		},
 		{
@@ -3095,9 +3095,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "288",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/288_Blast Furnace.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/289_Blast Furnace.png"
 			}
 		},
 		{
@@ -3135,9 +3135,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/214_A Complete Catalogue.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/213_A Complete Catalogue.png"
 			}
 		},
 		{
@@ -3205,9 +3205,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{G}",
 			"type": "Sorcery",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/228_Haste Effect.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/227_Haste Effect.png"
 			}
 		},
 		{
@@ -3375,9 +3375,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Construction",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/216_Deep Mine.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/215_Deep Mine.png"
 			}
 		},
 		{
@@ -3385,9 +3385,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Construction",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/253_Wood Camp.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/254_Wood Camp.png"
 			}
 		},
 		{
@@ -3395,9 +3395,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Artifact — Construction",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/259_Central Map.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/260_Central Map.png"
 			}
 		},
 		{
@@ -3425,9 +3425,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "306",
+			"collector_number": "307",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/306_TNT Block.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/307_TNT Block.png"
 			}
 		},
 		{
@@ -3435,9 +3435,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact",
-			"collector_number": "294",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/294_The Dragon Egg.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/295_The Dragon Egg.png"
 			}
 		},
 		{
@@ -3445,9 +3445,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "304",
+			"collector_number": "305",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/304_Stasis Chamber.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/305_Stasis Chamber.png"
 			}
 		},
 		{
@@ -3455,9 +3455,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "301",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/301_Ominous Vault.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/302_Ominous Vault.png"
 			}
 		},
 		{
@@ -3465,9 +3465,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "299",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/299_Iron Stockpile.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/300_Iron Stockpile.png"
 			}
 		},
 		{
@@ -3545,9 +3545,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "331",
+			"collector_number": "332",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/331_Impressive Build.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/332_Impressive Build.png"
 			}
 		},
 		{
@@ -3555,9 +3555,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "303",
+			"collector_number": "304",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/303_Shulker Box.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/304_Shulker Box.png"
 			}
 		},
 		{
@@ -3565,9 +3565,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "286",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/286_Amethyst Geode.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/287_Amethyst Geode.png"
 			}
 		},
 		{
@@ -3585,9 +3585,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B/R}",
 			"type": "Creature — Zombie Boar",
-			"collector_number": "285",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/285_Zoglin.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/286_Zoglin.png"
 			}
 		},
 		{
@@ -3675,9 +3675,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Camel",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/217_Desert Camel.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/216_Desert Camel.png"
 			}
 		},
 		{
@@ -3685,9 +3685,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Rabbit",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/268_The Killer Bunny.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/269_The Killer Bunny.png"
 			}
 		},
 		{
@@ -3695,9 +3695,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Villager Artificer",
-			"collector_number": "281",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/281_Village Toolsmith.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/282_Village Toolsmith.png"
 			}
 		},
 		{
@@ -3765,9 +3765,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "316",
+			"collector_number": "317",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/316_Classic Superflat.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/317_Classic Superflat.png"
 			}
 		},
 		{
@@ -3795,9 +3795,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "336",
+			"collector_number": "337",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/336_Mangrove Swamp.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/337_Mangrove Swamp.png"
 			}
 		},
 		{
@@ -3805,9 +3805,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "333",
+			"collector_number": "334",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/333_Jagged Peaks.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/334_Jagged Peaks.png"
 			}
 		},
 		{
@@ -3815,9 +3815,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "321",
+			"collector_number": "322",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/321_Dripstone Caves.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/322_Dripstone Caves.png"
 			}
 		},
 		{
@@ -3835,9 +3835,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "328",
+			"collector_number": "329",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/328_Gravelly Hills.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/329_Gravelly Hills.png"
 			}
 		},
 		{
@@ -3845,9 +3845,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "314",
+			"collector_number": "315",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/314_Bamboo Jungle.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/315_Bamboo Jungle.png"
 			}
 		},
 		{
@@ -3875,9 +3875,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "319",
+			"collector_number": "320",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/319_Deep Dark.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/320_Deep Dark.png"
 			}
 		},
 		{
@@ -3895,9 +3895,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "332",
+			"collector_number": "333",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/332_Infinite Ocean.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/333_Infinite Ocean.png"
 			}
 		},
 		{
@@ -3905,9 +3905,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "329",
+			"collector_number": "330",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/329_Hillless Desert.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/330_Hillless Desert.png"
 			}
 		},
 		{
@@ -3915,9 +3915,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "326",
+			"collector_number": "327",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/326_Flat Overworld.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/327_Flat Overworld.png"
 			}
 		},
 		{
@@ -3925,9 +3925,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "322",
+			"collector_number": "323",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/322_End City.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/323_End City.png"
 			}
 		},
 		{
@@ -4005,9 +4005,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "291",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/291_Copper Brush.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/292_Copper Brush.png"
 			}
 		},
 		{
@@ -4325,7 +4325,7 @@
 	1 Wooden Shield
 	1 Grindstone
 	1 Prepared Incursion
-	1 Awaited Hatching
+	1 Sniffer Egg
 	1 Blast Furnace
 	1 Griefing
 	1 Low Durability
