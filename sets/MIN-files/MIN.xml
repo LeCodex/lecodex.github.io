@@ -4234,7 +4234,7 @@ As long as you are an explorer, artifacts you control are 3/3 Golem creatures wi
 				<type>Instant</type>
 				<maintype>Instant</maintype>
 				<manacost>XG</manacost>
-				<cmc>2</cmc>
+				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -4830,7 +4830,7 @@ Search your library for a creature card with mana value X or less, put it onto t
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
 				<manacost>XGGG</manacost>
-				<cmc>4</cmc>
+				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -5624,7 +5624,7 @@ Equipment you control have “Equip creature token {0}. Activate only once each 
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
 				<manacost>XG</manacost>
-				<cmc>2</cmc>
+				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
