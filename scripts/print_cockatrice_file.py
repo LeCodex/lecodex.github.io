@@ -17,11 +17,9 @@ def cost_to_cmc(cost):
 	cmc = 0
 	for symbol in symbols:
 		if len(symbol) == 0 or symbol == "X": continue
-		if len(symbol) > 1:
-			cmc += 2 if '2' in symbol else 1
-			continue
+		num = re.match(r'\d+', symbol).group(0)
 		try:
-			cmc += int(symbol)
+			cmc += int(num)
 		except:
 			cmc += 1
 	return cmc
@@ -43,19 +41,37 @@ def get_related(notes, instruction, tag):
 
 	return related
 
+def get_picurl(github_path, set_data, card, back):
+	return (
+		f'https://{github_path}/sets/{card['set']}-files/img/'
+		f'{card['number']}{'t' if 'token' in card['shape'] else ''}{'' if 'double' not in card['shape'] else '_back' if back else '_front'}_{card[f'card_name{suffix}']}'
+		f'.{set_data['image_type']}'
+	)
+
+def get_number(card, back):
+	return f'{card['number']}{'' if 'double' not in card['shape'] else 'b' if back else 'a'}'
+
+def get_tablerow(card_type):
+	return (
+		2 if 'Creature' in card_type else
+		0 if 'Land' in card_type else
+		3 if 'Instant' in card_type or 'Sorcery' in card_type else
+		1
+	)
+
 def render_card(set_data, github_path, card, back=False):
 	suffix = '2' if back else ''
 	props = f'''
 				<layout>{'split' if 'split' in card['shape'] else 'transform' if 'double' in card['shape'] else 'normal'}</layout>
 				<side>front</side>
-				<type>{card['type'].strip()}</type>
-				<maintype>{get_maintype(card['type'])}</maintype>
-				<manacost>{format_cost(card['cost'])}</manacost>
-				<cmc>{cost_to_cmc(card['cost'])}</cmc>'''
+				<type>{card[f'type{suffix}'].strip()}</type>
+				<maintype>{get_maintype(card[f'type{suffix}'])}</maintype>
+				<manacost>{format_cost(card[f'cost{suffix}'])}</manacost>
+				<cmc>{cost_to_cmc(card[f'cost{suffix}'])}</cmc>'''
 
 	if len(card[f'color{suffix}']):
 		props += f'''
-				<colors>{card['color']}</colors>'''
+				<colors>{card[f'color{suffix}']}</colors>'''
 
 	color_identity = card['color_identity'].replace('C', '')
 	if len(color_identity):
@@ -64,20 +80,21 @@ def render_card(set_data, github_path, card, back=False):
 
 	if len(card[f'pt{suffix}']):
 		props += f'''
-				<pt>{card['pt']}</pt>'''
+				<pt>{card[f'pt{suffix}']}</pt>'''
 
 	if len(card[f'loyalty{suffix}']):
 		props += f'''
-				<loyalty>{card['loyalty']}</loyalty>'''
+				<loyalty>{card[f'loyalty{suffix}']}</loyalty>'''
 
+	card_type = card[f'type{suffix}']
 	card_string = f'''
 		<card>
 			<name>{card[f'card_name{suffix}']}</name>
 			<text>{re.sub(r'\[/?i\]', '', card[f'rules_text{suffix}'])}</text>
-			<set rarity="{'rare' if card['rarity'] == 'cube' else card['rarity']}" picurl="{f'https://{github_path}/sets/{card['set']}-files/img/{card['number']}{'t' if 'token' in card['shape'] else ''}_{card[f'card_name{suffix}']}.{set_data['image_type']}'}" num="{card['number']}{'' if 'double' not in card['shape'] else 'b' if back else 'a'}">{card['set']}</set>
+			<set rarity="{'rare' if card['rarity'] == 'cube' else card['rarity']}" picurl="{get_picurl(github_path, set_data, card, back)}" num="{get_number(card, back)}">{card['set']}</set>
 			<prop>{props}
 			</prop>
-			<tablerow>{2 if 'Creature' in card[f'type{suffix}'] else 0 if 'Land' in card[f'type{suffix}'] else 3 if 'Instant' in card[f'type{suffix}'] or 'Sorcery' in card[f'type{suffix}'] else 1}</tablerow>'''
+			<tablerow>{get_tablerow(card_type)}</tablerow>'''
 
 	if 'token' in card['shape']:
 		card_string += '''
@@ -89,7 +106,7 @@ def render_card(set_data, github_path, card, back=False):
 
 	related = get_related(card['notes'], '!tokens', 'related')
 	if 'double' in card['shape']:
-		related.append(f'<related attach="transform">{card['name' if back else 'name2']}</related>')
+		related.append(f'<related attach="transform">{card['card_name' if back else 'card_name2']}</related>')
 	if len(related):
 		card_string += f'''
 			{'\n			'.join(related)}'''
