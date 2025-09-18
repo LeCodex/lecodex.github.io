@@ -5,6 +5,7 @@ import markdown
 import re
 
 #F = Fungustober's notes
+#C = Codex's notes
 
 def generateHTML(code):
 	#F: /sets/SET.html
@@ -337,17 +338,22 @@ def generateHTML(code):
 				<img class="set-logo" src="/sets/''' + code + '''-files/icon.png">
 				<div class="banner-text">
 					<div class="set-title">''' + set_name + '''</div>
-					<div class="extras-container">'''
+					<div class="extras-container">
+'''
 
 	#F: sets/SET-files/SET-draft.txt
 	if os.path.exists(os.path.join('sets', code + '-files', code + '-draft.txt')) and not previewing:
-		html_content += '''<a href="/sets/''' + code + '''-files/''' + code + '''-draft.txt" download>Draft</a><div class="dot"> • </div>
-			<a onclick="packOnePickOne()">P1P1</a><div class="dot"> • </div>
+		html_content += '''						<a href="/sets/''' + code + '''-files/''' + code + '''-draft.txt" download>Draft</a><div class="dot"> • </div>
+						<a onclick="packOnePickOne()">P1P1</a><div class="dot"> • </div>
 '''
-	html_content += '''			<a onclick="randomSetCard()">I'm Feeling Lucky</a>
+	#C: sets/SET-files/SET.xml
+		if os.path.exists(os.path.join('sets', code + '-files', code + '.xml')) and not previewing:
+			html_content += '''						<a href="/sets/''' + code + '''-files/''' + code + '''.xml" download>Play</a><div class="dot"> • </div>
+'''
+	html_content += '''						<a onclick="randomSetCard()">I'm Feeling Lucky</a>
+					</div>
 				</div>
 			</div>
-		</div>
 '''
 
 	html_content += '''
