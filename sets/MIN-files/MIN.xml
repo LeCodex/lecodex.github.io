@@ -5,7 +5,7 @@
 			<name>MIN</name>
 			<longname>Minecraft</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-09-15</releasedate>
+			<releasedate>2025-09-19</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -163,7 +163,7 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Fish</name>
+			<name>Fish MIN</name>
 			<text>This creature can't be blocked.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/9t_Fish.png" num="9">MIN</set>
 			<prop>
@@ -294,7 +294,7 @@ Whenever a creature you don't control becomes the target of a spell or ability y
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Villager</name>
+			<name>Villager MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/8t_Villager.png" num="8">MIN</set>
 			<prop>
@@ -423,7 +423,7 @@ Function — Until your next turn, target artifact or creature you control becom
 			<related>Golem MIN</related>
 		</card>
 		<card>
-			<name>Golem</name>
+			<name>Golem MIN</name>
 			<text>Vigilance</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/32t_Golem.png" num="32">MIN</set>
 			<prop>
@@ -457,7 +457,7 @@ Whenever you gain or lose life during your turn, amass Villagers 1. (Put a +1/+1
 			<related>Villager Army MIN</related>
 		</card>
 		<card>
-			<name>Spirit</name>
+			<name>Spirit MIN</name>
 			<text>Haste; decayed (This creature can't block. When it attacks, sacrifice it at end of combat.)
 This creature can't be blocked.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/29t_Spirit.png" num="29">MIN</set>
@@ -1254,7 +1254,7 @@ Whenever you gain or lose life during your turn, you may pay {1}. If you do, cre
 			<related>Bat MIN</related>
 		</card>
 		<card>
-			<name>Bat</name>
+			<name>Bat MIN</name>
 			<text>Flying</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/4t_Bat.png" num="4">MIN</set>
 			<prop>
@@ -1890,7 +1890,7 @@ When Polar Bear enters, create a 2/2 white Bear creature token.</text>
 			<related>Bear MIN</related>
 		</card>
 		<card>
-			<name>Bear</name>
+			<name>Bear MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/5t_Bear.png" num="5">MIN</set>
 			<prop>
@@ -1926,7 +1926,7 @@ Raid — At the beginning of your end step, if you attacked this turn, you draw 
 			<related>Villager Army MIN</related>
 		</card>
 		<card>
-			<name>Villager Army</name>
+			<name>Villager Army MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/16t_Villager Army.png" num="16">MIN</set>
 			<prop>
@@ -2072,7 +2072,7 @@ Apex — As long as you control a creature with the greatest power or tied for t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Tool</name>
+			<name>Tool MIN</name>
 			<text>{T}: Add {C}. This mana can't be spent to cast nonartifact spells.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/33t_Tool.png" num="33">MIN</set>
 			<prop>
@@ -2674,7 +2674,7 @@ When Sniffer enters, mill three cards. You may return a creature or land card fr
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Insect</name>
+			<name>Insect MIN</name>
 			<text>Flying
 When this creature dies, it deals 1 damage to any target.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/22t_Insect.png" num="22">MIN</set>
@@ -2713,7 +2713,7 @@ When The Ender Dragon enters, create an artifact token named End Crystal with �
 			<related>End Crystal MIN</related>
 		</card>
 		<card>
-			<name>End Crystal</name>
+			<name>End Crystal MIN</name>
 			<text>{T}: Add one mana of any color.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/30t_End Crystal.png" num="30">MIN</set>
 			<prop>
@@ -2893,7 +2893,7 @@ When Skeleton Horse dies, create four 1/1 black Skeleton Archer creature tokens 
 			<related count="4">Skeleton Archer MIN</related>
 		</card>
 		<card>
-			<name>Skeleton Archer</name>
+			<name>Skeleton Archer MIN</name>
 			<text>Lifelink, menace</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/14t_Skeleton Archer.png" num="14">MIN</set>
 			<prop>
@@ -2965,7 +2965,7 @@ Pay 2 life: Drowned Zombie can't be blocked this turn. Activate only once each t
 			<related>Zombie Villager MIN</related>
 		</card>
 		<card>
-			<name>Zombie</name>
+			<name>Zombie MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/17t_Zombie.png" num="17">MIN</set>
 			<prop>
@@ -3326,7 +3326,7 @@ Shore Lighthouse gains “Whenever a land you control enters, proliferate.” (T
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Medium Slime</name>
+			<name>Medium Slime MIN</name>
 			<text>When this creature dies, create two 1/1 green Ooze creature tokens named Small Slime.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/24t_Medium Slime.png" num="24">MIN</set>
 			<prop>
@@ -3345,7 +3345,7 @@ Shore Lighthouse gains “Whenever a land you control enters, proliferate.” (T
 			<related count="2">Small Slime MIN</related>
 		</card>
 		<card>
-			<name>Small Slime</name>
+			<name>Small Slime MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/27t_Small Slime.png" num="27">MIN</set>
 			<prop>
@@ -3642,7 +3642,7 @@ Function — Creatures you control get +1/+1 until end of turn. ({6}: Trigger an
 			<related>Rabbit MIN</related>
 		</card>
 		<card>
-			<name>Rabbit</name>
+			<name>Rabbit MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/26t_Rabbit.png" num="26">MIN</set>
 			<prop>
@@ -3731,7 +3731,7 @@ Draw a card and create a tapped Tool token. (It's an artifact with “{T}: Add {
 			<related>Wolf MIN</related>
 		</card>
 		<card>
-			<name>Wolf</name>
+			<name>Wolf MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/28t_Wolf.png" num="28">MIN</set>
 			<prop>
@@ -4156,7 +4156,7 @@ When Spider Jockey dies, spawn deathtouch 3. (Create a 3/3 black Horde creature 
 			<related>Horde MIN</related>
 		</card>
 		<card>
-			<name>Explorer</name>
+			<name>Explorer MIN</name>
 			<text>From the depths of the Nether to the isles of the End, from scorched deserts to frozen ice peaks, you've seen it all!</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/2t_Explorer.png" num="2">MIN</set>
 			<prop>
@@ -5236,7 +5236,7 @@ At the beginning of your upkeep, choose one. If you're an explorer, you may choo
 			<related>Explorer MIN</related>
 		</card>
 		<card>
-			<name>Ox</name>
+			<name>Ox MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/25t_Ox.png" num="25">MIN</set>
 			<prop>
@@ -5254,7 +5254,7 @@ At the beginning of your upkeep, choose one. If you're an explorer, you may choo
 			<token>1</token>
 		</card>
 		<card>
-			<name>Bird</name>
+			<name>Bird MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/6t_Bird.png" num="6">MIN</set>
 			<prop>
@@ -5325,7 +5325,7 @@ Equip {1}</text>
 			<related>Skeleton Warrior MIN</related>
 		</card>
 		<card>
-			<name>Skeleton Warrior</name>
+			<name>Skeleton Warrior MIN</name>
 			<text>Deathtouch</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/15t_Skeleton Warrior.png" num="15">MIN</set>
 			<prop>
@@ -5412,7 +5412,7 @@ Equipment you control have “Equip creature token {0}. Activate only once each 
 			<related>Beast MIN</related>
 		</card>
 		<card>
-			<name>Beast</name>
+			<name>Beast MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/23t_Beast.png" num="23">MIN</set>
 			<prop>
@@ -5511,7 +5511,7 @@ Equipment you control have “Equip creature token {0}. Activate only once each 
 			<related>Cat MIN</related>
 		</card>
 		<card>
-			<name>Cat</name>
+			<name>Cat MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/7t_Cat.png" num="7">MIN</set>
 			<prop>
@@ -5647,7 +5647,7 @@ Equipment you control have “Equip creature token {0}. Activate only once each 
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Human</name>
+			<name>Human MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/21t_Human.png" num="21">MIN</set>
 			<prop>
@@ -5738,7 +5738,7 @@ Whenever a Horde you control dies, exile the top card of your library. Until you
 			<related>Horde MIN</related>
 		</card>
 		<card>
-			<name>Treasure</name>
+			<name>Treasure MIN</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/34t_Treasure.png" num="34">MIN</set>
 			<prop>
@@ -5753,7 +5753,7 @@ Whenever a Horde you control dies, exile the top card of your library. Until you
 			<token>1</token>
 		</card>
 		<card>
-			<name>Food</name>
+			<name>Food MIN</name>
 			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/31t_Food.png" num="31">MIN</set>
 			<prop>
@@ -6057,7 +6057,7 @@ Whenever a land card is put into your graveyard from anywhere for the first time
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Elemental</name>
+			<name>Elemental MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/20t_Elemental.png" num="20">MIN</set>
 			<prop>
@@ -6149,7 +6149,7 @@ When Stasis Chamber enters, return target creature you control to its owner's ha
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Boar</name>
+			<name>Boar MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/19t_Boar.png" num="19">MIN</set>
 			<prop>
@@ -6167,7 +6167,7 @@ When Stasis Chamber enters, return target creature you control to its owner's ha
 			<token>1</token>
 		</card>
 		<card>
-			<name>Zombie Villager</name>
+			<name>Zombie Villager MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/18t_Zombie Villager.png" num="18">MIN</set>
 			<prop>
@@ -6185,7 +6185,7 @@ When Stasis Chamber enters, return target creature you control to its owner's ha
 			<token>1</token>
 		</card>
 		<card>
-			<name>MIN DRAFT ARCHETYPES</name>
+			<name>MIN DRAFT ARCHETYPES MIN</name>
 			<text>{W}{U}{B} [b]TECHNICAL[/b] Control the board and combo cards to amass value, all in one run of your Function.
  {W}{B} [b]LIFE[/b] Gain or lose life during your turn to slowly drain your enemies.
 {R}{W}{B} [b]COMBAT [/b]Gear up with counters and Equipment to best your opponent in battle.
@@ -6210,7 +6210,7 @@ When Stasis Chamber enters, return target creature you control to its owner's ha
 			<token>1</token>
 		</card>
 		<card>
-			<name>Golem Horror</name>
+			<name>Golem Horror MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/11t_Golem Horror.png" num="11">MIN</set>
 			<prop>
@@ -6568,7 +6568,7 @@ Gather — Whenever a permanent you control with a mana ability enters, put a +1
 			<related>Tool MIN</related>
 		</card>
 		<card>
-			<name>Turtle</name>
+			<name>Turtle MIN</name>
 			<text>Hexproof</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/10t_Turtle.png" num="10">MIN</set>
 			<prop>
@@ -6606,7 +6606,7 @@ Function — Create a tapped 1/1 white Bird creature token. ({6}: Trigger any nu
 			<related>Bird MIN</related>
 		</card>
 		<card>
-			<name>Horde</name>
+			<name>Horde MIN</name>
 			<text>Decayed (This creature can't block. When it attacks, sacrifice it at end of combat.)
 When a player casts no spells on their turn, this creature loses decayed. (This lasts indefinitely.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/12t_Horde.png" num="12">MIN</set>
@@ -6625,7 +6625,7 @@ When a player casts no spells on their turn, this creature loses decayed. (This 
 			<token>1</token>
 		</card>
 		<card>
-			<name>Brick Reserve</name>
+			<name>Brick Reserve MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/1t_Brick Reserve.png" num="1">MIN</set>
 			<prop>
@@ -6640,7 +6640,7 @@ When a player casts no spells on their turn, this creature loses decayed. (This 
 			<token>1</token>
 		</card>
 		<card>
-			<name>Skeleton</name>
+			<name>Skeleton MIN</name>
 			<text></text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/13t_Skeleton.png" num="13">MIN</set>
 			<prop>
