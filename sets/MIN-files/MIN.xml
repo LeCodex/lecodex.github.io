@@ -5,7 +5,7 @@
 			<name>MIN</name>
 			<longname>Minecraft</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-10-15</releasedate>
+			<releasedate>2025-10-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -57,7 +57,7 @@
 		</card>
 		<card>
 			<name>Full Set</name>
-			<text>Create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)
+			<text>Create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)
 Suit up. (You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/19_Full Set.png" num="19">MIN</set>
 			<prop>
@@ -477,7 +477,7 @@ This creature can&apos;t be blocked.</text>
 		</card>
 		<card>
 			<name>Sticky Piston</name>
-			<text>When Sticky Piston enters, create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)
+			<text>When Sticky Piston enters, create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)
 {1}, {T}: Add {W}, {U}, or {B}.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/306_Sticky Piston.png" num="306">MIN</set>
 			<prop>
@@ -986,7 +986,7 @@ When Cherry Grove enters untapped, draw two cards, then discard two cards.
 		<card>
 			<name>The Nether</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — The Nether deals 1 damage to you and gains “{T}: Add {C}.”
+I — The Nether deals 1 damage to you and gains &quot;{T}: Add {C}.&quot;
 II — At the beginning of the next end step, if a creature died this turn, create a Treasure token.
 III — If The Nether is untapped, search your library for a land card with a basic land type, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/339_The Nether.png" num="339">MIN</set>
@@ -1144,7 +1144,7 @@ Modified creatures you control have haste. (Equipment, Auras you control, and co
 		<card>
 			<name>Totem Of Undying</name>
 			<text>Flash
-When Totem Of Undying enters, until end of turn, target creature gets +1/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner&apos;s control.”
+When Totem Of Undying enters, until end of turn, target creature gets +1/+0 and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;
 {2}{B}, Sacrifice Totem Of Undying: Return it to the battlefield, then exile it.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/143_Totem Of Undying.png" num="143">MIN</set>
 			<prop>
@@ -1219,7 +1219,7 @@ Creature tokens you control can block as though they didn&apos;t have decayed.</
 		<card>
 			<name>Composter</name>
 			<text>When Composter enters, mill three cards, then you may return a permanent card from your graveyard to your hand.
-{G}, {T}, Exile three cards from your graveyard: Create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)</text>
+{G}, {T}, Exile three cards from your graveyard: Create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/214_Composter.png" num="214">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1309,7 +1309,7 @@ Function — Return all cards you own exiled by Closed Server to the battlefield
 		</card>
 		<card>
 			<name>Tamed Cat</name>
-			<text>When Tamed Cat enters, create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)</text>
+			<text>When Tamed Cat enters, create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/39_Tamed Cat.png" num="39">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1606,7 +1606,7 @@ Raid — When Crossbow Piglin enters, if you attacked this turn, it deals 2 dama
 		</card>
 		<card>
 			<name>Coral Reef</name>
-			<text>Gather — Whenever Coral Reef or a permanent you control with a mana ability enters, create a 1/1 blue Fish creature token with “This creature can&apos;t be blocked.”</text>
+			<text>Gather — Whenever Coral Reef or a permanent you control with a mana ability enters, create a 1/1 blue Fish creature token with &quot;This creature can&apos;t be blocked.&quot;</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/59_Coral Reef.png" num="59">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1695,7 +1695,7 @@ As long as you&apos;re an explorer, other creatures you control have trample.</t
 		<card>
 			<name>Evoker</name>
 			<text>Trample
-Whenever you cast a noncreature spell, create a 2/1 blue and red Spirit creature token with haste, decayed, and “This creature can&apos;t be blocked.” (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+Whenever you cast a noncreature spell, create a 2/1 blue and red Spirit creature token with haste, decayed, and &quot;This creature can&apos;t be blocked.&quot; (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/264_Evoker.png" num="264">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1748,7 +1748,7 @@ Whenever you cast a noncreature spell, create a 2/1 blue and red Spirit creature
 		</card>
 		<card>
 			<name>Village Fisherman</name>
-			<text>{1}{U}, Exile Village Fisherman from your graveyard: Create a 1/1 blue Fish creature token with “This creature can&apos;t be blocked.”</text>
+			<text>{1}{U}, Exile Village Fisherman from your graveyard: Create a 1/1 blue Fish creature token with &quot;This creature can&apos;t be blocked.&quot;</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/98_Village Fisherman.png" num="98">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1820,7 +1820,7 @@ When Village Weaponsmith enters, target creature gets +2/+0 and gains haste unti
 		</card>
 		<card>
 			<name>Getting an Upgrade</name>
-			<text>Draw two cards, then discard a card. Create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)</text>
+			<text>Draw two cards, then discard a card. Create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/66_Getting an Upgrade.png" num="66">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1946,7 +1946,7 @@ Raid — At the beginning of your end step, if you attacked this turn, you draw 
 		<card>
 			<name>Turn to Data</name>
 			<text>When Turn to Data enters, exile target nonland permanent an opponent controls until Turn to Data leaves the battlefield.
-When Turn to Data enters, create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)</text>
+When Turn to Data enters, create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/44_Turn to Data.png" num="44">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1963,7 +1963,7 @@ When Turn to Data enters, create a tapped Tool token. (It&apos;s an artifact wit
 		</card>
 		<card>
 			<name>Iron Hopper</name>
-			<text>When Iron Hopper enters, choose one — Draw a card; or create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)
+			<text>When Iron Hopper enters, choose one — Draw a card; or create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)
 Function — Draw a card. ({6}: Trigger any number of Function abilities you control, only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/71_Iron Hopper.png" num="71">MIN</set>
 			<prop>
@@ -2037,7 +2037,7 @@ Creature tokens you control get +1/+1.</text>
 		<card>
 			<name>Village Butcher</name>
 			<text>At the beginning of your end step, create a Food token.
-Apex — As long as you control a creature with the greatest power or tied for the greatest power, Foods you control have “{2}, {T}, Sacrifice this artifact: Put two +1/+1 counters on target creature.”</text>
+Apex — As long as you control a creature with the greatest power or tied for the greatest power, Foods you control have &quot;{2}, {T}, Sacrifice this artifact: Put two +1/+1 counters on target creature.&quot;</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/250_Village Butcher.png" num="250">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2297,7 +2297,7 @@ Apex — If you control a creature with the greatest power or tied for the great
 		</card>
 		<card>
 			<name>Large Slime</name>
-			<text>When Large Slime dies, create two 2/2 green Ooze creature tokens named Medium Slime with “When this creature dies, create two 1/1 green Ooze creature tokens named Small Slime.”</text>
+			<text>When Large Slime dies, create two 2/2 green Ooze creature tokens named Medium Slime with &quot;When this creature dies, create two 1/1 green Ooze creature tokens named Small Slime.&quot;</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/229_Large Slime.png" num="229">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2456,7 +2456,7 @@ Tame Panda has all mana abilities of land cards in your graveyard.</text>
 		<card>
 			<name>Clear Command</name>
 			<text>Target player reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
-Create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)</text>
+Create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/111_Clear Command.png" num="111">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2511,8 +2511,8 @@ Function — Return Frost Stray from your graveyard to the battlefield. ({6}: Tr
 		</card>
 		<card>
 			<name>Fish Bucket</name>
-			<text>When Fish Bucket leaves the battlefield, create a 1/1 blue Fish creature token with “This creature can&apos;t be blocked.”
-{2}, Sacrifice Fish Bucket: Scry 1 and create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)</text>
+			<text>When Fish Bucket leaves the battlefield, create a 1/1 blue Fish creature token with &quot;This creature can&apos;t be blocked.&quot;
+{2}, Sacrifice Fish Bucket: Scry 1 and create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/64_Fish Bucket.png" num="64">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2603,7 +2603,7 @@ As long as you&apos;re an explorer, other creatures you control have flying.</te
 		</card>
 		<card>
 			<name>Bee Hive</name>
-			<text>Whenever Bee Hive enters or a nontoken creature you control attacks, create a tapped 1/1 red Insect creature token with flying and “When this creature dies, it deals 1 damage to any target.” If it&apos;s during your combat phase, it enters attacking.</text>
+			<text>Whenever Bee Hive enters or a nontoken creature you control attacks, create a tapped 1/1 red Insect creature token with flying and &quot;When this creature dies, it deals 1 damage to any target.&quot; If it&apos;s during your combat phase, it enters attacking.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/155_Bee Hive.png" num="155">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2695,7 +2695,7 @@ When this creature dies, it deals 1 damage to any target.</text>
 		<card>
 			<name>The Ender Dragon</name>
 			<text>Flying, trample
-When The Ender Dragon enters, create an artifact token named End Crystal with “{T}: Add one mana of any color.”
+When The Ender Dragon enters, create an artifact token named End Crystal with &quot;{T}: Add one mana of any color.&quot;
 {1}, Sacrifice another artifact or creature: The Ender Dragon gains indestructible until end of turn. Tap it.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/263_The Ender Dragon.png" num="263">MIN</set>
 			<prop>
@@ -3234,7 +3234,7 @@ Whenever Enderman deals combat damage to a player, gain control of target noncre
 🧱: Route
 Return target nonland permanent to its owner&apos;s hand.
 🧱🧱: Ice and Boat
-Ice Highway gains “You may cast artifact spells as though they had flash.”
+Ice Highway gains &quot;You may cast artifact spells as though they had flash.&quot;
 🧱🧱🧱: Transport
 Creatures you control get +1/+1 and gain menace and vigilance until end of turn.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/69_Ice Highway.png" num="69">MIN</set>
@@ -3260,7 +3260,7 @@ Search your library for a basic land card, put it onto the battlefield tapped, t
 🧱🧱: Jump
 Put a reach and two +1/+1 counters on target creature.
 🧱🧱🧱: Light
-Shore Lighthouse gains “Whenever a land you control enters, proliferate.” (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+Shore Lighthouse gains &quot;Whenever a land you control enters, proliferate.&quot; (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/242_Shore Lighthouse.png" num="242">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3662,7 +3662,7 @@ Function — Creatures you control get +1/+1 until end of turn. ({6}: Trigger an
 		<card>
 			<name>Stone Age</name>
 			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
-Draw two cards and create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)</text>
+Draw two cards and create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/139_Stone Age.png" num="139">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3679,7 +3679,7 @@ Draw two cards and create a tapped Tool token. (It&apos;s an artifact with “{T
 		</card>
 		<card>
 			<name>Equipping Station</name>
-			<text>When Equipping Station enters, create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)
+			<text>When Equipping Station enters, create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)
 Function — Put a +1/+1 counter and a deathtouch, lifelink, or menace counter on target creature. ({6}: Trigger any number of Function abilities you control, only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/114_Equipping Station.png" num="114">MIN</set>
 			<prop>
@@ -3698,7 +3698,7 @@ Function — Put a +1/+1 counter and a deathtouch, lifelink, or menace counter o
 		<card>
 			<name>Isn&apos;t it Iron Pick</name>
 			<text>Exile up to one target artifact or enchantment.
-Draw a card and create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)</text>
+Draw a card and create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/24_Isn&apos;t it Iron Pick.png" num="24">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3767,8 +3767,8 @@ Apex — If you control a creature with the greatest power or tied for the great
 		</card>
 		<card>
 			<name>Tadpole Knot</name>
-			<text>When Tadpole Knot enters, create a 1/1 blue Fish creature token with “This creature can&apos;t be blocked.”
-Crabs, Fishes, Frogs, Turtles, Squids, and Whales you control have “{1}, {T}: Add {U}.”</text>
+			<text>When Tadpole Knot enters, create a 1/1 blue Fish creature token with &quot;This creature can&apos;t be blocked.&quot;
+Crabs, Fishes, Frogs, Turtles, Squids, and Whales you control have &quot;{1}, {T}: Add {U}.&quot;</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/93_Tadpole Knot.png" num="93">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4469,7 +4469,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Exponential Growth</name>
-			<text>When Exponential Growth enters, for each artifact you control, create your choice of a Food token or a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)
+			<text>When Exponential Growth enters, for each artifact you control, create your choice of a Food token or a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)
 Whenever you activate a floor ability of a Construction you control, return Exponential Growth to its owner&apos;s hand.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/220_Exponential Growth.png" num="220">MIN</set>
 			<prop>
@@ -5379,7 +5379,7 @@ Whenever an Equipment you control enters, destroy target enchantment you don&apo
 		<card>
 			<name>Prepared Incursion</name>
 			<text>When Prepared Incursion enters, create a 2/2 red Human creature token.
-Equipment you control have “Equip creature token {0}. Activate only once each turn.”</text>
+Equipment you control have &quot;Equip creature token {0}. Activate only once each turn.&quot;</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/185_Prepared Incursion.png" num="185">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5776,7 +5776,7 @@ Destroy target artifact or enchantment.
 🧱🧱, {T}: Resistance
 Untap each other artifact and each other creature you control.
 🧱🧱🧱, {T} Strength
-Beacon Platform gains “Creatures you control get +2/+2.”</text>
+Beacon Platform gains &quot;Creatures you control get +2/+2.&quot;</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/1_Beacon Platform.png" num="1">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5800,7 +5800,7 @@ You gain 5 life and draw a card.
 🧱🧱: Weapons
 Target creature you control gains indestructible and vigilance until your next turn.
 🧱🧱🧱: Obsidian
-Faction Base gains “Other artifacts you control have indestructible.”</text>
+Faction Base gains &quot;Other artifacts you control have indestructible.&quot;</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/16_Faction Base.png" num="16">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5924,7 +5924,7 @@ Draw two cards, then discard a card.
 🧱🧱: Hoppers
 Return target instant or sorcery card from your graveyard to your hand.
 🧱🧱🧱: Chests
-Storage System gains “Whenever you draw a card, put a +1/+1 counter on target creature you control.”</text>
+Storage System gains &quot;Whenever you draw a card, put a +1/+1 counter on target creature you control.&quot;</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/92_Storage System.png" num="92">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5948,7 +5948,7 @@ Create a 3/3 green Ox creature token.
 🧱🧱: Aim
 Target creature you control gets +2/+0 until end of turn, then deals damage equal to its power to another target creature.
 🧱🧱🧱: Restock
-Archery Range gains “Whenever you attack or block with one or more creatures, put a +1/+1 counter on each of them.”</text>
+Archery Range gains &quot;Whenever you attack or block with one or more creatures, put a +1/+1 counter on each of them.&quot;</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/208_Archery Range.png" num="208">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6076,7 +6076,7 @@ Whenever a land card is put into your graveyard from anywhere for the first time
 		</card>
 		<card>
 			<name>TNT Block</name>
-			<text>{T}: TNT Block gains “When this artifact untaps, sacrifice it and destroy target nonland permanent you don&apos;t control.” Activate only as a sorcery.</text>
+			<text>{T}: TNT Block gains &quot;When this artifact untaps, sacrifice it and destroy target nonland permanent you don&apos;t control.&quot; Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/307_TNT Block.png" num="307">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6550,7 +6550,7 @@ The Killer Bunny enters with a +1/+1 counter on it for each land card in your gr
 		<card>
 			<name>Village Toolsmith</name>
 			<text>Vigilance
-When Village Toolsmith enters, create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)
+When Village Toolsmith enters, create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)
 Gather — Whenever a permanent you control with a mana ability enters, put a +1/+1 counter on Village Toolsmith.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/282_Village Toolsmith.png" num="282">MIN</set>
 			<prop>
@@ -7105,7 +7105,7 @@ Draw a card.</text>
 			<text>(Activate each mode ability once, as a sorcery, in any order.)
 {1}: You get 🧱 (a brick counter). Activate only twice each turn and only as a sorcery.
  Materials
-Destroy up to one target artifact or enchantment. Create a tapped Tool token. (It&apos;s an artifact with “{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.”)
+Destroy up to one target artifact or enchantment. Create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)
  Plots
 Return target permanent to its owner&apos;s hand. If you controlled it, draw a card.
  Farms

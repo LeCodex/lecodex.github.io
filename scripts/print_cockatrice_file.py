@@ -6,6 +6,8 @@ from datetime import datetime
 def escape_and_format(text: str):
 	return text.replace('&', '&amp;') \
 				.replace('"', '&quot;') \
+				.replace('“', '&quot;') \
+				.replace('”', '&quot;') \
 				.replace('\'', '&apos;') \
 				.replace('’', '&apos;') \
 				.replace('<', '&lt;') \
@@ -27,7 +29,7 @@ def cost_to_cmc(cost):
 	symbols = re.split(r'\{([^{}]+)\}', cost)
 	cmc = 0
 	for symbol in symbols:
-		if len(symbol) == 0 or symbol == "X": continue
+		if len(symbol) == 0 or symbol == "X" or symbol == "Y": continue
 		try:
 			num = re.match(r'\d+', symbol).group(0)
 			cmc += int(num)
@@ -47,8 +49,14 @@ def get_related(notes, instruction, tag):
 
 		tokens = line[len(instruction) + 1:].split(';')
 		for token in tokens:
-			name, num = re.match(r'([^<]+)(?:<(\d+)>)?', token).groups()
-			related.append(f'<{tag}{f' count="{num}"' if num else ''}>{escape_and_format(name)}</{tag}>')
+			name, num = re.match(r'([^<]+)(?:<([^<]+)>)?', token).groups()
+			if not num:
+				extra = ''
+			elif num.isdecimal() or num == "x" or num == "X":
+				extra = f' count="{num}"'
+			elif num == "persistent" or num == "conjure":
+				extra = ' persistent=""'
+			related.append(f'<{tag}{extra}>{escape_and_format(name)}</{tag}>')
 
 	return related
 
