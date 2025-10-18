@@ -97,7 +97,7 @@
 			"type": "Token Creature — Fish",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/9_Fish.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/9t_Fish.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Token Creature — Villager",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/8_Villager.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/8t_Villager.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Token Artifact Creature — Golem",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/32_Golem.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/32t_Golem.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/29_Spirit.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/29t_Spirit.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Token Creature — Bat",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/4_Bat.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/4t_Bat.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Token Creature — Bear",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/5_Bear.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/5t_Bear.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Token Creature — Villager Army",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/16_Villager Army.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/16t_Villager Army.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Token Artifact — Tool",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/33_Tool.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/33t_Tool.png"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Token Creature — Insect",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/22_Insect.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/22t_Insect.png"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"type": "Token Artifact",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/30_End Crystal.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/30t_End Crystal.png"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "Token Creature — Skeleton Archer",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/14_Skeleton Archer.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/14t_Skeleton Archer.png"
 			}
 		},
 		{
@@ -1677,7 +1677,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/17_Zombie.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/17t_Zombie.png"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Token Creature — Ooze",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/24_Medium Slime.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/24t_Medium Slime.png"
 			}
 		},
 		{
@@ -1887,7 +1887,7 @@
 			"type": "Token Creature — Ooze",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/27_Small Slime.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/27t_Small Slime.png"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Token Creature — Rabbit",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/26_Rabbit.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/26t_Rabbit.png"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Token Creature — Wolf",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/28_Wolf.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/28t_Wolf.png"
 			}
 		},
 		{
@@ -2347,7 +2347,7 @@
 			"type": "Token Emblem — Explorer",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/2_Explorer.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/2t_Explorer.png"
 			}
 		},
 		{
@@ -2967,7 +2967,7 @@
 			"type": "Token Creature — Ox",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/25_Ox.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/25t_Ox.png"
 			}
 		},
 		{
@@ -2977,7 +2977,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/6_Bird.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/6t_Bird.png"
 			}
 		},
 		{
@@ -3017,7 +3017,7 @@
 			"type": "Token Creature — Skeleton Warrior",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/15_Skeleton Warrior.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/15t_Skeleton Warrior.png"
 			}
 		},
 		{
@@ -3067,7 +3067,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/23_Beast.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/23t_Beast.png"
 			}
 		},
 		{
@@ -3127,7 +3127,7 @@
 			"type": "Token Creature — Cat",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/7_Cat.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/7t_Cat.png"
 			}
 		},
 		{
@@ -3207,7 +3207,7 @@
 			"type": "Token Creature — Human",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/21_Human.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/21t_Human.png"
 			}
 		},
 		{
@@ -3257,7 +3257,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/34_Treasure.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/34t_Treasure.png"
 			}
 		},
 		{
@@ -3267,7 +3267,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/31_Food.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/31t_Food.png"
 			}
 		},
 		{
@@ -3397,7 +3397,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/20_Elemental.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/20t_Elemental.png"
 			}
 		},
 		{
@@ -3457,7 +3457,7 @@
 			"type": "Token Creature — Boar",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/19_Boar.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/19t_Boar.png"
 			}
 		},
 		{
@@ -3467,7 +3467,7 @@
 			"type": "Token Creature — Zombie Villager",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/18_Zombie Villager.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/18t_Zombie Villager.png"
 			}
 		},
 		{
@@ -3477,7 +3477,7 @@
 			"type": "Token Archetypes",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/3_MIN DRAFT ARCHETYPES.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/3t_MIN DRAFT ARCHETYPES.png"
 			}
 		},
 		{
@@ -3487,7 +3487,7 @@
 			"type": "Token Artifact Creature — Golem Horror",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/11_Golem Horror.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/11t_Golem Horror.png"
 			}
 		},
 		{
@@ -3687,7 +3687,7 @@
 			"type": "Token Creature — Turtle",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/10_Turtle.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/10t_Turtle.png"
 			}
 		},
 		{
@@ -3707,7 +3707,7 @@
 			"type": "Token Creature — Horde",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/12_Horde.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/12t_Horde.png"
 			}
 		},
 		{
@@ -3717,7 +3717,7 @@
 			"type": "Reminder",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/1_Brick Reserve.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/1t_Brick Reserve.png"
 			}
 		},
 		{
@@ -3727,7 +3727,7 @@
 			"type": "Token Creature — Skeleton",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://lecodex.github.io/sets/MIN-files/img/13_Skeleton.png"
+				"en": "https://lecodex.github.io/sets/MIN-files/img/13t_Skeleton.png"
 			}
 		},
 		{

@@ -5,7 +5,7 @@
 			<name>MIN</name>
 			<longname>Minecraft</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-10-17</releasedate>
+			<releasedate>2025-10-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -991,7 +991,7 @@ II — At the beginning of the next end step, if a creature died this turn, crea
 III — If The Nether is untapped, search your library for a land card with a basic land type, put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/339_The Nether.png" num="339">MIN</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>saga</layout>
 				<side>front</side>
 				<type>Legendary Enchantment Land — Saga</type>
 				<maintype>Land</maintype>
