@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -207,7 +208,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="IRW"><img src="/sets/IRW-files/icon.png">By Iron Will</a>
 	
@@ -257,81 +258,81 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\IRW-files\img\3_Cylothyne, Never-Named.png" id="3_Cylothyne, Never-Named" data-flag="@X" onclick="openSidebar('3_Cylothyne, Never-Named',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\9_Cleaver of the Last Path.png" id="9_Cleaver of the Last Path" data-flag="@X" onclick="openSidebar('9_Cleaver of the Last Path',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\15_Aeon-Tested Polearm.png" id="15_Aeon-Tested Polearm" data-flag="@X" onclick="openSidebar('15_Aeon-Tested Polearm',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\26_Royal Foundry's Roar.png" id="26_Royal Foundrys Roar" data-flag="@X" onclick="openSidebar('26_Royal Foundrys Roar',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\33_Time to Reflect.png" id="33_Time to Reflect" data-flag="@X" onclick="openSidebar('33_Time to Reflect',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\7_Windscythe Ascendant.png" id="7_Windscythe Ascendant" data-flag="@X" onclick="openSidebar('7_Windscythe Ascendant',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\14_Shadows in the Way.png" id="14_Shadows in the Way" data-flag="@X" onclick="openSidebar('14_Shadows in the Way',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\20_Road's End.png" id="20_Roads End" data-flag="@X" onclick="openSidebar('20_Roads End',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\24_Ironspark Ascendant.png" id="24_Ironspark Ascendant" data-flag="@X" onclick="openSidebar('24_Ironspark Ascendant',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\29_Arhat of Ephemeral Gifts.png" id="29_Arhat of Ephemeral Gifts" data-flag="@X" onclick="openSidebar('29_Arhat of Ephemeral Gifts',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\1_Arhat of Unbidden Lessons.png" id="1_Arhat of Unbidden Lessons" data-flag="@X" onclick="openSidebar('1_Arhat of Unbidden Lessons',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\8_Ascendant Art - Everstasis.png" id="8_Ascendant Art - Everstasis" data-flag="@X" onclick="openSidebar('8_Ascendant Art - Everstasis',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\16_Arhat's Mercy.png" id="16_Arhats Mercy" data-flag="@X" onclick="openSidebar('16_Arhats Mercy',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\22_Arhat of Fraying Patience.png" id="22_Arhat of Fraying Patience" data-flag="@X" onclick="openSidebar('22_Arhat of Fraying Patience',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\30_Ascendant Art - Horizon's Eye.png" id="30_Ascendant Art - Horizons Eye" data-flag="@X" onclick="openSidebar('30_Ascendant Art - Horizons Eye',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\2_Ascendant Art - Form of Forms.png" id="2_Ascendant Art - Form of Forms" data-flag="@X" onclick="openSidebar('2_Ascendant Art - Form of Forms',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\10_Concordance Appraisal.png" id="10_Concordance Appraisal" data-flag="@X" onclick="openSidebar('10_Concordance Appraisal',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\17_Ceaseless Obstacles.png" id="17_Ceaseless Obstacles" data-flag="@X" onclick="openSidebar('17_Ceaseless Obstacles',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\23_Ascendant Art - Soul As Ash.png" id="23_Ascendant Art - Soul As Ash" data-flag="@X" onclick="openSidebar('23_Ascendant Art - Soul As Ash',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\31_Charnel Pickpocket.png" id="31_Charnel Pickpocket" data-flag="@X" onclick="openSidebar('31_Charnel Pickpocket',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\4_Hard Bargain.png" id="4_Hard Bargain" data-flag="@X" onclick="openSidebar('4_Hard Bargain',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\11_Countervail.png" id="11_Countervail" data-flag="@X" onclick="openSidebar('11_Countervail',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\18_Charnel-Alley Confessor.png" id="18_Charnel-Alley Confessor" data-flag="@X" onclick="openSidebar('18_Charnel-Alley Confessor',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\25_Mantar-Am Freeglider.png" id="25_Mantar-Am Freeglider" data-flag="@X" onclick="openSidebar('25_Mantar-Am Freeglider',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\32_Enter Malichai.png" id="32_Enter Malichai" data-flag="@X" onclick="openSidebar('32_Enter Malichai',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\5_Lesser-Chariot Vassal.png" id="5_Lesser-Chariot Vassal" data-flag="@X" onclick="openSidebar('5_Lesser-Chariot Vassal',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\12_Griefspear Ascendant.png" id="12_Griefspear Ascendant" data-flag="@X" onclick="openSidebar('12_Griefspear Ascendant',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\19_Glass-Needle Facsimile.png" id="19_Glass-Needle Facsimile" data-flag="@X" onclick="openSidebar('19_Glass-Needle Facsimile',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\27_Training Montage.png" id="27_Training Montage" data-flag="@X" onclick="openSidebar('27_Training Montage',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\34_Waymark Eviscerator.png" id="34_Waymark Eviscerator" data-flag="@X" onclick="openSidebar('34_Waymark Eviscerator',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\6_Sentry Post.png" id="6_Sentry Post" data-flag="@X" onclick="openSidebar('6_Sentry Post',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\13_Hesitation.png" id="13_Hesitation" data-flag="@X" onclick="openSidebar('13_Hesitation',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\21_Terrorcrown Ascendant.png" id="21_Terrorcrown Ascendant" data-flag="@X" onclick="openSidebar('21_Terrorcrown Ascendant',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\28_Wrathstar Ascendant.png" id="28_Wrathstar Ascendant" data-flag="@X" onclick="openSidebar('28_Wrathstar Ascendant',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\3_Cylothyne, Never-Named.png" id="3_Cylothyne, Never-Named" data-flag="@X" onclick="openSidebar('3_Cylothyne, Never-Named',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\9_Cleaver of the Last Path.png" id="9_Cleaver of the Last Path" data-flag="@X" onclick="openSidebar('9_Cleaver of the Last Path',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\15_Aeon-Tested Polearm.png" id="15_Aeon-Tested Polearm" data-flag="@X" onclick="openSidebar('15_Aeon-Tested Polearm',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\26_Royal Foundry's Roar.png" id="26_Royal Foundrys Roar" data-flag="@X" onclick="openSidebar('26_Royal Foundrys Roar',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\33_Time to Reflect.png" id="33_Time to Reflect" data-flag="@X" onclick="openSidebar('33_Time to Reflect',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\7_Windscythe Ascendant.png" id="7_Windscythe Ascendant" data-flag="@X" onclick="openSidebar('7_Windscythe Ascendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\14_Shadows in the Way.png" id="14_Shadows in the Way" data-flag="@X" onclick="openSidebar('14_Shadows in the Way',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\20_Road's End.png" id="20_Roads End" data-flag="@X" onclick="openSidebar('20_Roads End',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\24_Ironspark Ascendant.png" id="24_Ironspark Ascendant" data-flag="@X" onclick="openSidebar('24_Ironspark Ascendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\29_Arhat of Ephemeral Gifts.png" id="29_Arhat of Ephemeral Gifts" data-flag="@X" onclick="openSidebar('29_Arhat of Ephemeral Gifts',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\1_Arhat of Unbidden Lessons.png" id="1_Arhat of Unbidden Lessons" data-flag="@X" onclick="openSidebar('1_Arhat of Unbidden Lessons',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\8_Ascendant Art - Everstasis.png" id="8_Ascendant Art - Everstasis" data-flag="@X" onclick="openSidebar('8_Ascendant Art - Everstasis',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\16_Arhat's Mercy.png" id="16_Arhats Mercy" data-flag="@X" onclick="openSidebar('16_Arhats Mercy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\22_Arhat of Fraying Patience.png" id="22_Arhat of Fraying Patience" data-flag="@X" onclick="openSidebar('22_Arhat of Fraying Patience',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\30_Ascendant Art - Horizon's Eye.png" id="30_Ascendant Art - Horizons Eye" data-flag="@X" onclick="openSidebar('30_Ascendant Art - Horizons Eye',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\2_Ascendant Art - Form of Forms.png" id="2_Ascendant Art - Form of Forms" data-flag="@X" onclick="openSidebar('2_Ascendant Art - Form of Forms',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\10_Concordance Appraisal.png" id="10_Concordance Appraisal" data-flag="@X" onclick="openSidebar('10_Concordance Appraisal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\17_Ceaseless Obstacles.png" id="17_Ceaseless Obstacles" data-flag="@X" onclick="openSidebar('17_Ceaseless Obstacles',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\23_Ascendant Art - Soul As Ash.png" id="23_Ascendant Art - Soul As Ash" data-flag="@X" onclick="openSidebar('23_Ascendant Art - Soul As Ash',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\31_Charnel Pickpocket.png" id="31_Charnel Pickpocket" data-flag="@X" onclick="openSidebar('31_Charnel Pickpocket',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\4_Hard Bargain.png" id="4_Hard Bargain" data-flag="@X" onclick="openSidebar('4_Hard Bargain',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\11_Countervail.png" id="11_Countervail" data-flag="@X" onclick="openSidebar('11_Countervail',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\18_Charnel-Alley Confessor.png" id="18_Charnel-Alley Confessor" data-flag="@X" onclick="openSidebar('18_Charnel-Alley Confessor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\25_Mantar-Am Freeglider.png" id="25_Mantar-Am Freeglider" data-flag="@X" onclick="openSidebar('25_Mantar-Am Freeglider',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\32_Enter Malichai.png" id="32_Enter Malichai" data-flag="@X" onclick="openSidebar('32_Enter Malichai',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\5_Lesser-Chariot Vassal.png" id="5_Lesser-Chariot Vassal" data-flag="@X" onclick="openSidebar('5_Lesser-Chariot Vassal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\12_Griefspear Ascendant.png" id="12_Griefspear Ascendant" data-flag="@X" onclick="openSidebar('12_Griefspear Ascendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\19_Glass-Needle Facsimile.png" id="19_Glass-Needle Facsimile" data-flag="@X" onclick="openSidebar('19_Glass-Needle Facsimile',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\27_Training Montage.png" id="27_Training Montage" data-flag="@X" onclick="openSidebar('27_Training Montage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\34_Waymark Eviscerator.png" id="34_Waymark Eviscerator" data-flag="@X" onclick="openSidebar('34_Waymark Eviscerator',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\6_Sentry Post.png" id="6_Sentry Post" data-flag="@X" onclick="openSidebar('6_Sentry Post',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\13_Hesitation.png" id="13_Hesitation" data-flag="@X" onclick="openSidebar('13_Hesitation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\21_Terrorcrown Ascendant.png" id="21_Terrorcrown Ascendant" data-flag="@X" onclick="openSidebar('21_Terrorcrown Ascendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\28_Wrathstar Ascendant.png" id="28_Wrathstar Ascendant" data-flag="@X" onclick="openSidebar('28_Wrathstar Ascendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\37_Inadequacy.png" id="37_Inadequacy" data-flag="@X" onclick="openSidebar('37_Inadequacy',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\39_Swornspine Ascendant.png" id="39_Swornspine Ascendant" data-flag="@X" onclick="openSidebar('39_Swornspine Ascendant',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\40_Utter Conquest.png" id="40_Utter Conquest" data-flag="@X" onclick="openSidebar('40_Utter Conquest',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\36_Demiurge's Graces.png" id="36_Demiurges Graces" data-flag="@X" onclick="openSidebar('36_Demiurges Graces',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\35_Arhat of the Final Word.png" id="35_Arhat of the Final Word" data-flag="@X" onclick="openSidebar('35_Arhat of the Final Word',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\38_Pulse of the Ashen Capital.png" id="38_Pulse of the Ashen Capital" data-flag="@X" onclick="openSidebar('38_Pulse of the Ashen Capital',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\37_Inadequacy.png" id="37_Inadequacy" data-flag="@X" onclick="openSidebar('37_Inadequacy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\39_Swornspine Ascendant.png" id="39_Swornspine Ascendant" data-flag="@X" onclick="openSidebar('39_Swornspine Ascendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\40_Utter Conquest.png" id="40_Utter Conquest" data-flag="@X" onclick="openSidebar('40_Utter Conquest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\36_Demiurge's Graces.png" id="36_Demiurges Graces" data-flag="@X" onclick="openSidebar('36_Demiurges Graces',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\35_Arhat of the Final Word.png" id="35_Arhat of the Final Word" data-flag="@X" onclick="openSidebar('35_Arhat of the Final Word',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\38_Pulse of the Ashen Capital.png" id="38_Pulse of the Ashen Capital" data-flag="@X" onclick="openSidebar('38_Pulse of the Ashen Capital',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\45_Willwrought Ascendant.png" id="45_Willwrought Ascendant" data-flag="@X" onclick="openSidebar('45_Willwrought Ascendant',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\42_Immaculate Ledger.png" id="42_Immaculate Ledger" data-flag="@X" onclick="openSidebar('42_Immaculate Ledger',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\43_Thorn-Petal Halo.png" id="43_Thorn-Petal Halo" data-flag="@X" onclick="openSidebar('43_Thorn-Petal Halo',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\41_Altar of Harmonious Spheres.png" id="41_Altar of Harmonious Spheres" data-flag="@X" onclick="openSidebar('41_Altar of Harmonious Spheres',false)"></div>
-				<div class="container"><img alt="/sets\IRW-files\img\44_Wayside Atlas.png" id="44_Wayside Atlas" data-flag="@X" onclick="openSidebar('44_Wayside Atlas',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\45_Willwrought Ascendant.png" id="45_Willwrought Ascendant" data-flag="@X" onclick="openSidebar('45_Willwrought Ascendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\42_Immaculate Ledger.png" id="42_Immaculate Ledger" data-flag="@X" onclick="openSidebar('42_Immaculate Ledger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\43_Thorn-Petal Halo.png" id="43_Thorn-Petal Halo" data-flag="@X" onclick="openSidebar('43_Thorn-Petal Halo',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\41_Altar of Harmonious Spheres.png" id="41_Altar of Harmonious Spheres" data-flag="@X" onclick="openSidebar('41_Altar of Harmonious Spheres',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\IRW-files\img\44_Wayside Atlas.png" id="44_Wayside Atlas" data-flag="@X" onclick="openSidebar('44_Wayside Atlas',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -428,27 +429,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -460,17 +485,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -503,6 +530,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -512,6 +540,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{

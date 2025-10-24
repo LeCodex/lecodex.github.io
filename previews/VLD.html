@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -207,7 +208,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="VLD"><img src="/sets/VLD-files/icon.png">Veldstire</a>
 	
@@ -257,86 +258,86 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\VLD-files\img\4_Sic.png" id="4_Sic" data-flag="@X" onclick="openSidebar('4_Sic',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\8_Unravel.png" id="8_Unravel" data-flag="@X" onclick="openSidebar('8_Unravel',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\11_Famineflight Feldgast.png" id="11_Famineflight Feldgast" data-flag="@X" onclick="openSidebar('11_Famineflight Feldgast',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\18_Unassuming Servant.png" id="18_Unassuming Servant" data-flag="@X" onclick="openSidebar('18_Unassuming Servant',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\22_Favor of the Weald.png" id="22_Favor of the Weald" data-flag="@X" onclick="openSidebar('22_Favor of the Weald',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\1_Planting Season.png" id="1_Planting Season" data-flag="@X" onclick="openSidebar('1_Planting Season',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\6_Cruor Harvester.png" id="6_Cruor Harvester" data-flag="@X" onclick="openSidebar('6_Cruor Harvester',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\12_Lurking Fieldfiend.png" id="12_Lurking Fieldfiend" data-flag="@X" onclick="openSidebar('12_Lurking Fieldfiend',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\16_Feldgast's Counsel.png" id="16_Feldgasts Counsel" data-flag="@X" onclick="openSidebar('16_Feldgasts Counsel',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\21_Fangweed.png" id="21_Fangweed" data-flag="@X" onclick="openSidebar('21_Fangweed',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\2_Production Overseer.png" id="2_Production Overseer" data-flag="@X" onclick="openSidebar('2_Production Overseer',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\7_Korvan Enforcers.png" id="7_Korvan Enforcers" data-flag="@X" onclick="openSidebar('7_Korvan Enforcers',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\13_Poach.png" id="13_Poach" data-flag="@X" onclick="openSidebar('13_Poach',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\17_Red Harvest.png" id="17_Red Harvest" data-flag="@X" onclick="openSidebar('17_Red Harvest',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\23_Flockfeaster.png" id="23_Flockfeaster" data-flag="@X" onclick="openSidebar('23_Flockfeaster',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\3_Scarlet Matron.png" id="3_Scarlet Matron" data-flag="@X" onclick="openSidebar('3_Scarlet Matron',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\9_Wealdwitch Familiar.png" id="9_Wealdwitch Familiar" data-flag="@X" onclick="openSidebar('9_Wealdwitch Familiar',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\14_Profane Offerings.png" id="14_Profane Offerings" data-flag="@X" onclick="openSidebar('14_Profane Offerings',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\19_Vengeful Thatchlings.png" id="19_Vengeful Thatchlings" data-flag="@X" onclick="openSidebar('19_Vengeful Thatchlings',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\24_Korvan Thresher.png" id="24_Korvan Thresher" data-flag="@X" onclick="openSidebar('24_Korvan Thresher',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\5_Threadbreaker Magus.png" id="5_Threadbreaker Magus" data-flag="@X" onclick="openSidebar('5_Threadbreaker Magus',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\10_Wheat from Chaff.png" id="10_Wheat from Chaff" data-flag="@X" onclick="openSidebar('10_Wheat from Chaff',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\15_Veldstire Bloodrancher.png" id="15_Veldstire Bloodrancher" data-flag="@X" onclick="openSidebar('15_Veldstire Bloodrancher',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\20_Voracious Roggenwulf.png" id="20_Voracious Roggenwulf" data-flag="@X" onclick="openSidebar('20_Voracious Roggenwulf',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\25_Uprooter's Blessing.png" id="25_Uprooters Blessing" data-flag="@X" onclick="openSidebar('25_Uprooters Blessing',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\4_Sic.png" id="4_Sic" data-flag="@X" onclick="openSidebar('4_Sic',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\8_Unravel.png" id="8_Unravel" data-flag="@X" onclick="openSidebar('8_Unravel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\11_Famineflight Feldgast.png" id="11_Famineflight Feldgast" data-flag="@X" onclick="openSidebar('11_Famineflight Feldgast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\18_Unassuming Servant.png" id="18_Unassuming Servant" data-flag="@X" onclick="openSidebar('18_Unassuming Servant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\22_Favor of the Weald.png" id="22_Favor of the Weald" data-flag="@X" onclick="openSidebar('22_Favor of the Weald',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\1_Planting Season.png" id="1_Planting Season" data-flag="@X" onclick="openSidebar('1_Planting Season',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\6_Cruor Harvester.png" id="6_Cruor Harvester" data-flag="@X" onclick="openSidebar('6_Cruor Harvester',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\12_Lurking Fieldfiend.png" id="12_Lurking Fieldfiend" data-flag="@X" onclick="openSidebar('12_Lurking Fieldfiend',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\16_Feldgast's Counsel.png" id="16_Feldgasts Counsel" data-flag="@X" onclick="openSidebar('16_Feldgasts Counsel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\21_Fangweed.png" id="21_Fangweed" data-flag="@X" onclick="openSidebar('21_Fangweed',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\2_Production Overseer.png" id="2_Production Overseer" data-flag="@X" onclick="openSidebar('2_Production Overseer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\7_Korvan Enforcers.png" id="7_Korvan Enforcers" data-flag="@X" onclick="openSidebar('7_Korvan Enforcers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\13_Poach.png" id="13_Poach" data-flag="@X" onclick="openSidebar('13_Poach',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\17_Red Harvest.png" id="17_Red Harvest" data-flag="@X" onclick="openSidebar('17_Red Harvest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\23_Flockfeaster.png" id="23_Flockfeaster" data-flag="@X" onclick="openSidebar('23_Flockfeaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\3_Scarlet Matron.png" id="3_Scarlet Matron" data-flag="@X" onclick="openSidebar('3_Scarlet Matron',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\9_Wealdwitch Familiar.png" id="9_Wealdwitch Familiar" data-flag="@X" onclick="openSidebar('9_Wealdwitch Familiar',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\14_Profane Offerings.png" id="14_Profane Offerings" data-flag="@X" onclick="openSidebar('14_Profane Offerings',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\19_Vengeful Thatchlings.png" id="19_Vengeful Thatchlings" data-flag="@X" onclick="openSidebar('19_Vengeful Thatchlings',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\24_Korvan Thresher.png" id="24_Korvan Thresher" data-flag="@X" onclick="openSidebar('24_Korvan Thresher',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\5_Threadbreaker Magus.png" id="5_Threadbreaker Magus" data-flag="@X" onclick="openSidebar('5_Threadbreaker Magus',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\10_Wheat from Chaff.png" id="10_Wheat from Chaff" data-flag="@X" onclick="openSidebar('10_Wheat from Chaff',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\15_Veldstire Bloodrancher.png" id="15_Veldstire Bloodrancher" data-flag="@X" onclick="openSidebar('15_Veldstire Bloodrancher',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\20_Voracious Roggenwulf.png" id="20_Voracious Roggenwulf" data-flag="@X" onclick="openSidebar('20_Voracious Roggenwulf',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\25_Uprooter's Blessing.png" id="25_Uprooters Blessing" data-flag="@X" onclick="openSidebar('25_Uprooters Blessing',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\34_Shadowstitch.png" id="34_Shadowstitch" data-flag="@X" onclick="openSidebar('34_Shadowstitch',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\35_Springsturmer.png" id="35_Springsturmer" data-flag="@X" onclick="openSidebar('35_Springsturmer',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\30_Green Thumbling.png" id="30_Green Thumbling" data-flag="@X" onclick="openSidebar('30_Green Thumbling',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\32_Offalings.png" id="32_Offalings" data-flag="@X" onclick="openSidebar('32_Offalings',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\26_Crone of Thorns.png" id="26_Crone of Thorns" data-flag="@X" onclick="openSidebar('26_Crone of Thorns',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\27_The Day's Labors.png" id="27_The Days Labors" data-flag="@X" onclick="openSidebar('27_The Days Labors',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\39_Stitcher of the Strictures.png" id="39_Stitcher of the Strictures" data-flag="@X" onclick="openSidebar('39_Stitcher of the Strictures',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\37_The Hands That Feed.png" id="37_The Hands That Feed" data-flag="@X" onclick="openSidebar('37_The Hands That Feed',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\40_Weald's Edge Herald.png" id="40_Wealds Edge Herald" data-flag="@X" onclick="openSidebar('40_Wealds Edge Herald',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\31_Harbinger of the Harvest.png" id="31_Harbinger of the Harvest" data-flag="@X" onclick="openSidebar('31_Harbinger of the Harvest',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\28_Dragon's Revelation.png" id="28_Dragons Revelation" data-flag="@X" onclick="openSidebar('28_Dragons Revelation',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\33_Shadowmaidens.png" id="33_Shadowmaidens" data-flag="@X" onclick="openSidebar('33_Shadowmaidens',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\29_Fieldpyre.png" id="29_Fieldpyre" data-flag="@X" onclick="openSidebar('29_Fieldpyre',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\36_Expansion Overseers.png" id="36_Expansion Overseers" data-flag="@X" onclick="openSidebar('36_Expansion Overseers',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\38_Living Almanac.png" id="38_Living Almanac" data-flag="@X" onclick="openSidebar('38_Living Almanac',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\34_Shadowstitch.png" id="34_Shadowstitch" data-flag="@X" onclick="openSidebar('34_Shadowstitch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\35_Springsturmer.png" id="35_Springsturmer" data-flag="@X" onclick="openSidebar('35_Springsturmer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\30_Green Thumbling.png" id="30_Green Thumbling" data-flag="@X" onclick="openSidebar('30_Green Thumbling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\32_Offalings.png" id="32_Offalings" data-flag="@X" onclick="openSidebar('32_Offalings',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\26_Crone of Thorns.png" id="26_Crone of Thorns" data-flag="@X" onclick="openSidebar('26_Crone of Thorns',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\27_The Day's Labors.png" id="27_The Days Labors" data-flag="@X" onclick="openSidebar('27_The Days Labors',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\39_Stitcher of the Strictures.png" id="39_Stitcher of the Strictures" data-flag="@X" onclick="openSidebar('39_Stitcher of the Strictures',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\37_The Hands That Feed.png" id="37_The Hands That Feed" data-flag="@X" onclick="openSidebar('37_The Hands That Feed',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\40_Weald's Edge Herald.png" id="40_Wealds Edge Herald" data-flag="@X" onclick="openSidebar('40_Wealds Edge Herald',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\31_Harbinger of the Harvest.png" id="31_Harbinger of the Harvest" data-flag="@X" onclick="openSidebar('31_Harbinger of the Harvest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\28_Dragon's Revelation.png" id="28_Dragons Revelation" data-flag="@X" onclick="openSidebar('28_Dragons Revelation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\33_Shadowmaidens.png" id="33_Shadowmaidens" data-flag="@X" onclick="openSidebar('33_Shadowmaidens',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\29_Fieldpyre.png" id="29_Fieldpyre" data-flag="@X" onclick="openSidebar('29_Fieldpyre',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\36_Expansion Overseers.png" id="36_Expansion Overseers" data-flag="@X" onclick="openSidebar('36_Expansion Overseers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\38_Living Almanac.png" id="38_Living Almanac" data-flag="@X" onclick="openSidebar('38_Living Almanac',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\45_Whik, First of the Thatched.png" id="45_Whik, First of the Thatched" data-flag="@X" onclick="openSidebar('45_Whik, First of the Thatched',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\41_Indentured Fieldguard.png" id="41_Indentured Fieldguard" data-flag="@X" onclick="openSidebar('41_Indentured Fieldguard',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\43_Mobile Home.png" id="43_Mobile Home" data-flag="@X" onclick="openSidebar('43_Mobile Home',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\42_Iron Ox.png" id="42_Iron Ox" data-flag="@X" onclick="openSidebar('42_Iron Ox',false)"></div>
-				<div class="container"><img alt="/sets\VLD-files\img\44_Servile Thatchling.png" id="44_Servile Thatchling" data-flag="@X" onclick="openSidebar('44_Servile Thatchling',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\45_Whik, First of the Thatched.png" id="45_Whik, First of the Thatched" data-flag="@X" onclick="openSidebar('45_Whik, First of the Thatched',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\41_Indentured Fieldguard.png" id="41_Indentured Fieldguard" data-flag="@X" onclick="openSidebar('41_Indentured Fieldguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\43_Mobile Home.png" id="43_Mobile Home" data-flag="@X" onclick="openSidebar('43_Mobile Home',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\42_Iron Ox.png" id="42_Iron Ox" data-flag="@X" onclick="openSidebar('42_Iron Ox',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\VLD-files\img\44_Servile Thatchling.png" id="44_Servile Thatchling" data-flag="@X" onclick="openSidebar('44_Servile Thatchling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -433,27 +434,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -465,17 +490,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -508,6 +535,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -517,6 +545,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{

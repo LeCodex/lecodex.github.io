@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -207,7 +208,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="TVN"><img src="/sets/TVN-files/icon.png">Titans of Viludin Microset</a>
 	
@@ -257,81 +258,81 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\TVN-files\img\3_Mistcutter Attendant.png" id="3_Mistcutter Attendant" data-flag="@X" onclick="openSidebar('3_Mistcutter Attendant',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\7_Mercurial Skyrod.png" id="7_Mercurial Skyrod" data-flag="@X" onclick="openSidebar('7_Mercurial Skyrod',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\13_Crossbone Cove Cutter.png" id="13_Crossbone Cove Cutter" data-flag="@X" onclick="openSidebar('13_Crossbone Cove Cutter',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\19_Crackling Eel.png" id="19_Crackling Eel" data-flag="@X" onclick="openSidebar('19_Crackling Eel',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\24_Ava, Thorny Diva.png" id="24_Ava, Thorny Diva" data-flag="@X" onclick="openSidebar('24_Ava, Thorny Diva',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\1_Deckhand's Blade.png" id="1_Deckhands Blade" data-flag="@X" onclick="openSidebar('1_Deckhands Blade',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\8_Observant Osprey.png" id="8_Observant Osprey" data-flag="@X" onclick="openSidebar('8_Observant Osprey',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\16_Jahan's Pets.png" id="16_Jahans Pets" data-flag="@X" onclick="openSidebar('16_Jahans Pets',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\18_Bursting Vein Serpent.png" id="18_Bursting Vein Serpent" data-flag="@X" onclick="openSidebar('18_Bursting Vein Serpent',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\25_Elemental's Flourish.png" id="25_Elementals Flourish" data-flag="@X" onclick="openSidebar('25_Elementals Flourish',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\2_Goldseeker Cruiser.png" id="2_Goldseeker Cruiser" data-flag="@X" onclick="openSidebar('2_Goldseeker Cruiser',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\9_Sea Witch's Wards.png" id="9_Sea Witchs Wards" data-flag="@X" onclick="openSidebar('9_Sea Witchs Wards',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\12_Abyssal Tempter.png" id="12_Abyssal Tempter" data-flag="@X" onclick="openSidebar('12_Abyssal Tempter',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\20_Expedition Funding.png" id="20_Expedition Funding" data-flag="@X" onclick="openSidebar('20_Expedition Funding',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\26_Give In to Instinct.png" id="26_Give In to Instinct" data-flag="@X" onclick="openSidebar('26_Give In to Instinct',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\4_Skyskimmer Glaucus.png" id="4_Skyskimmer Glaucus" data-flag="@X" onclick="openSidebar('4_Skyskimmer Glaucus',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\10_Stormbelt Serpent.png" id="10_Stormbelt Serpent" data-flag="@X" onclick="openSidebar('10_Stormbelt Serpent',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\14_Deadman's Tales.png" id="14_Deadmans Tales" data-flag="@X" onclick="openSidebar('14_Deadmans Tales',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\21_Explosive Rage.png" id="21_Explosive Rage" data-flag="@X" onclick="openSidebar('21_Explosive Rage',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\27_Mosstusk Guardian.png" id="27_Mosstusk Guardian" data-flag="@X" onclick="openSidebar('27_Mosstusk Guardian',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\5_Steelfin Dolphin.png" id="5_Steelfin Dolphin" data-flag="@X" onclick="openSidebar('5_Steelfin Dolphin',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\11_Titanic Haruspicy.png" id="11_Titanic Haruspicy" data-flag="@X" onclick="openSidebar('11_Titanic Haruspicy',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\15_Inktrench Stinger.png" id="15_Inktrench Stinger" data-flag="@X" onclick="openSidebar('15_Inktrench Stinger',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\22_Overloaded Cannonship.png" id="22_Overloaded Cannonship" data-flag="@X" onclick="openSidebar('22_Overloaded Cannonship',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\28_Propagated Bioship.png" id="28_Propagated Bioship" data-flag="@X" onclick="openSidebar('28_Propagated Bioship',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\6_Sunvine Nurturer.png" id="6_Sunvine Nurturer" data-flag="@X" onclick="openSidebar('6_Sunvine Nurturer',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\17_Noxious Venting.png" id="17_Noxious Venting" data-flag="@X" onclick="openSidebar('17_Noxious Venting',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\23_Powderkeg Explosion.png" id="23_Powderkeg Explosion" data-flag="@X" onclick="openSidebar('23_Powderkeg Explosion',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\29_Quaking Tunneler.png" id="29_Quaking Tunneler" data-flag="@X" onclick="openSidebar('29_Quaking Tunneler',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\3_Mistcutter Attendant.png" id="3_Mistcutter Attendant" data-flag="@X" onclick="openSidebar('3_Mistcutter Attendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\7_Mercurial Skyrod.png" id="7_Mercurial Skyrod" data-flag="@X" onclick="openSidebar('7_Mercurial Skyrod',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\13_Crossbone Cove Cutter.png" id="13_Crossbone Cove Cutter" data-flag="@X" onclick="openSidebar('13_Crossbone Cove Cutter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\19_Crackling Eel.png" id="19_Crackling Eel" data-flag="@X" onclick="openSidebar('19_Crackling Eel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\24_Ava, Thorny Diva.png" id="24_Ava, Thorny Diva" data-flag="@X" onclick="openSidebar('24_Ava, Thorny Diva',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\1_Deckhand's Blade.png" id="1_Deckhands Blade" data-flag="@X" onclick="openSidebar('1_Deckhands Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\8_Observant Osprey.png" id="8_Observant Osprey" data-flag="@X" onclick="openSidebar('8_Observant Osprey',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\16_Jahan's Pets.png" id="16_Jahans Pets" data-flag="@X" onclick="openSidebar('16_Jahans Pets',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\18_Bursting Vein Serpent.png" id="18_Bursting Vein Serpent" data-flag="@X" onclick="openSidebar('18_Bursting Vein Serpent',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\25_Elemental's Flourish.png" id="25_Elementals Flourish" data-flag="@X" onclick="openSidebar('25_Elementals Flourish',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\2_Goldseeker Cruiser.png" id="2_Goldseeker Cruiser" data-flag="@X" onclick="openSidebar('2_Goldseeker Cruiser',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\9_Sea Witch's Wards.png" id="9_Sea Witchs Wards" data-flag="@X" onclick="openSidebar('9_Sea Witchs Wards',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\12_Abyssal Tempter.png" id="12_Abyssal Tempter" data-flag="@X" onclick="openSidebar('12_Abyssal Tempter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\20_Expedition Funding.png" id="20_Expedition Funding" data-flag="@X" onclick="openSidebar('20_Expedition Funding',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\26_Give In to Instinct.png" id="26_Give In to Instinct" data-flag="@X" onclick="openSidebar('26_Give In to Instinct',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\4_Skyskimmer Glaucus.png" id="4_Skyskimmer Glaucus" data-flag="@X" onclick="openSidebar('4_Skyskimmer Glaucus',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\10_Stormbelt Serpent.png" id="10_Stormbelt Serpent" data-flag="@X" onclick="openSidebar('10_Stormbelt Serpent',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\14_Deadman's Tales.png" id="14_Deadmans Tales" data-flag="@X" onclick="openSidebar('14_Deadmans Tales',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\21_Explosive Rage.png" id="21_Explosive Rage" data-flag="@X" onclick="openSidebar('21_Explosive Rage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\27_Mosstusk Guardian.png" id="27_Mosstusk Guardian" data-flag="@X" onclick="openSidebar('27_Mosstusk Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\5_Steelfin Dolphin.png" id="5_Steelfin Dolphin" data-flag="@X" onclick="openSidebar('5_Steelfin Dolphin',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\11_Titanic Haruspicy.png" id="11_Titanic Haruspicy" data-flag="@X" onclick="openSidebar('11_Titanic Haruspicy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\15_Inktrench Stinger.png" id="15_Inktrench Stinger" data-flag="@X" onclick="openSidebar('15_Inktrench Stinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\22_Overloaded Cannonship.png" id="22_Overloaded Cannonship" data-flag="@X" onclick="openSidebar('22_Overloaded Cannonship',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\28_Propagated Bioship.png" id="28_Propagated Bioship" data-flag="@X" onclick="openSidebar('28_Propagated Bioship',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\6_Sunvine Nurturer.png" id="6_Sunvine Nurturer" data-flag="@X" onclick="openSidebar('6_Sunvine Nurturer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\17_Noxious Venting.png" id="17_Noxious Venting" data-flag="@X" onclick="openSidebar('17_Noxious Venting',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\23_Powderkeg Explosion.png" id="23_Powderkeg Explosion" data-flag="@X" onclick="openSidebar('23_Powderkeg Explosion',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\29_Quaking Tunneler.png" id="29_Quaking Tunneler" data-flag="@X" onclick="openSidebar('29_Quaking Tunneler',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\31_Cephalid Strategist.png" id="31_Cephalid Strategist" data-flag="@X" onclick="openSidebar('31_Cephalid Strategist',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\30_Abyssal Sea-Witch.png" id="30_Abyssal Sea-Witch" data-flag="@X" onclick="openSidebar('30_Abyssal Sea-Witch',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\37_Reckless Innovator.png" id="37_Reckless Innovator" data-flag="@X" onclick="openSidebar('37_Reckless Innovator',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\35_Ka'bi, the Bloomhoof.png" id="35_Kabi, the Bloomhoof" data-flag="@X" onclick="openSidebar('35_Kabi, the Bloomhoof',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\39_Riding Turtle.png" id="39_Riding Turtle" data-flag="@X" onclick="openSidebar('39_Riding Turtle',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\36_Lava Flow Hellbender.png" id="36_Lava Flow Hellbender" data-flag="@X" onclick="openSidebar('36_Lava Flow Hellbender',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\40_Superb Salvage.png" id="40_Superb Salvage" data-flag="@X" onclick="openSidebar('40_Superb Salvage',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\33_Grandir, the Storm-Bodied.png" id="33_Grandir, the Storm-Bodied" data-flag="@X" onclick="openSidebar('33_Grandir, the Storm-Bodied',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\34_Hungering Greatleech.png" id="34_Hungering Greatleech" data-flag="@X" onclick="openSidebar('34_Hungering Greatleech',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\38_Relentless Reconstructionist.png" id="38_Relentless Reconstructionist" data-flag="@X" onclick="openSidebar('38_Relentless Reconstructionist',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\42_Tyrant Territory.png" id="42_Tyrant Territory" data-flag="@X" onclick="openSidebar('42_Tyrant Territory',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\41_Surly Maintainer.png" id="41_Surly Maintainer" data-flag="@X" onclick="openSidebar('41_Surly Maintainer',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\32_Chordatan Bloodseeker.png" id="32_Chordatan Bloodseeker" data-flag="@X" onclick="openSidebar('32_Chordatan Bloodseeker',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\31_Cephalid Strategist.png" id="31_Cephalid Strategist" data-flag="@X" onclick="openSidebar('31_Cephalid Strategist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\30_Abyssal Sea-Witch.png" id="30_Abyssal Sea-Witch" data-flag="@X" onclick="openSidebar('30_Abyssal Sea-Witch',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\37_Reckless Innovator.png" id="37_Reckless Innovator" data-flag="@X" onclick="openSidebar('37_Reckless Innovator',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\35_Ka'bi, the Bloomhoof.png" id="35_Kabi, the Bloomhoof" data-flag="@X" onclick="openSidebar('35_Kabi, the Bloomhoof',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\39_Riding Turtle.png" id="39_Riding Turtle" data-flag="@X" onclick="openSidebar('39_Riding Turtle',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\36_Lava Flow Hellbender.png" id="36_Lava Flow Hellbender" data-flag="@X" onclick="openSidebar('36_Lava Flow Hellbender',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\40_Superb Salvage.png" id="40_Superb Salvage" data-flag="@X" onclick="openSidebar('40_Superb Salvage',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\33_Grandir, the Storm-Bodied.png" id="33_Grandir, the Storm-Bodied" data-flag="@X" onclick="openSidebar('33_Grandir, the Storm-Bodied',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\34_Hungering Greatleech.png" id="34_Hungering Greatleech" data-flag="@X" onclick="openSidebar('34_Hungering Greatleech',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\38_Relentless Reconstructionist.png" id="38_Relentless Reconstructionist" data-flag="@X" onclick="openSidebar('38_Relentless Reconstructionist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\42_Tyrant Territory.png" id="42_Tyrant Territory" data-flag="@X" onclick="openSidebar('42_Tyrant Territory',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\41_Surly Maintainer.png" id="41_Surly Maintainer" data-flag="@X" onclick="openSidebar('41_Surly Maintainer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\32_Chordatan Bloodseeker.png" id="32_Chordatan Bloodseeker" data-flag="@X" onclick="openSidebar('32_Chordatan Bloodseeker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\43_Cogwork Ichthyoid.png" id="43_Cogwork Ichthyoid" data-flag="@X" onclick="openSidebar('43_Cogwork Ichthyoid',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\44_Research Vessel.png" id="44_Research Vessel" data-flag="@X" onclick="openSidebar('44_Research Vessel',false)"></div>
-				<div class="container"><img alt="/sets\TVN-files\img\45_Uncovered Pitfall.png" id="45_Uncovered Pitfall" data-flag="@X" onclick="openSidebar('45_Uncovered Pitfall',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\43_Cogwork Ichthyoid.png" id="43_Cogwork Ichthyoid" data-flag="@X" onclick="openSidebar('43_Cogwork Ichthyoid',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\44_Research Vessel.png" id="44_Research Vessel" data-flag="@X" onclick="openSidebar('44_Research Vessel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TVN-files\img\45_Uncovered Pitfall.png" id="45_Uncovered Pitfall" data-flag="@X" onclick="openSidebar('45_Uncovered Pitfall',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -428,27 +429,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -460,17 +485,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -503,6 +530,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -512,6 +540,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{

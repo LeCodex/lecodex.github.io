@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -207,7 +208,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="MSL"><img src="/sets/MSL-files/icon.png">Microset Landbase</a>
 	
@@ -257,46 +258,46 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\MSL-files\img\9_Idyllic Beachfront.png" id="9_Idyllic Beachfront" data-flag="@X" onclick="openSidebar('9_Idyllic Beachfront',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\2_Contaminated Aquifer.png" id="2_Contaminated Aquifer" data-flag="@X" onclick="openSidebar('2_Contaminated Aquifer',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\1_Cinder Barrens.png" id="1_Cinder Barrens" data-flag="@X" onclick="openSidebar('1_Cinder Barrens',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\20_Timber Gorge.png" id="20_Timber Gorge" data-flag="@X" onclick="openSidebar('20_Timber Gorge',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\12_Radiant Grove.png" id="12_Radiant Grove" data-flag="@X" onclick="openSidebar('12_Radiant Grove',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\10_Meandering River.png" id="10_Meandering River" data-flag="@X" onclick="openSidebar('10_Meandering River',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\16_Submerged Boneyard.png" id="16_Submerged Boneyard" data-flag="@X" onclick="openSidebar('16_Submerged Boneyard',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\6_Geothermal Bog.png" id="6_Geothermal Bog" data-flag="@X" onclick="openSidebar('6_Geothermal Bog',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\22_Wooded Ridgeline.png" id="22_Wooded Ridgeline" data-flag="@X" onclick="openSidebar('22_Wooded Ridgeline',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\21_Tranquil Expanse.png" id="21_Tranquil Expanse" data-flag="@X" onclick="openSidebar('21_Tranquil Expanse',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\4_Forsaken Sanctuary.png" id="4_Forsaken Sanctuary" data-flag="@X" onclick="openSidebar('4_Forsaken Sanctuary',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\8_Highland Lake.png" id="8_Highland Lake" data-flag="@X" onclick="openSidebar('8_Highland Lake',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\5_Foul Orchard.png" id="5_Foul Orchard" data-flag="@X" onclick="openSidebar('5_Foul Orchard',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\14_Sacred Peaks.png" id="14_Sacred Peaks" data-flag="@X" onclick="openSidebar('14_Sacred Peaks',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\18_Tangled Islet.png" id="18_Tangled Islet" data-flag="@X" onclick="openSidebar('18_Tangled Islet',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\17_Sunlit Marsh.png" id="17_Sunlit Marsh" data-flag="@X" onclick="openSidebar('17_Sunlit Marsh',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\11_Molten Tributary.png" id="11_Molten Tributary" data-flag="@X" onclick="openSidebar('11_Molten Tributary',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\7_Haunted Mire.png" id="7_Haunted Mire" data-flag="@X" onclick="openSidebar('7_Haunted Mire',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\15_Stone Quarry.png" id="15_Stone Quarry" data-flag="@X" onclick="openSidebar('15_Stone Quarry',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\23_Woodland Stream.png" id="23_Woodland Stream" data-flag="@X" onclick="openSidebar('23_Woodland Stream',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\3_Evolving Wilds.png" id="3_Evolving Wilds" data-flag="@X" onclick="openSidebar('3_Evolving Wilds',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\13_Rupture Spire.png" id="13_Rupture Spire" data-flag="@X" onclick="openSidebar('13_Rupture Spire',false)"></div>
-				<div class="container"><img alt="/sets\MSL-files\img\19_Terramorphic Expanse.png" id="19_Terramorphic Expanse" data-flag="@X" onclick="openSidebar('19_Terramorphic Expanse',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\9_Idyllic Beachfront.png" id="9_Idyllic Beachfront" data-flag="@X" onclick="openSidebar('9_Idyllic Beachfront',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\2_Contaminated Aquifer.png" id="2_Contaminated Aquifer" data-flag="@X" onclick="openSidebar('2_Contaminated Aquifer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\1_Cinder Barrens.png" id="1_Cinder Barrens" data-flag="@X" onclick="openSidebar('1_Cinder Barrens',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\20_Timber Gorge.png" id="20_Timber Gorge" data-flag="@X" onclick="openSidebar('20_Timber Gorge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\12_Radiant Grove.png" id="12_Radiant Grove" data-flag="@X" onclick="openSidebar('12_Radiant Grove',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\10_Meandering River.png" id="10_Meandering River" data-flag="@X" onclick="openSidebar('10_Meandering River',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\16_Submerged Boneyard.png" id="16_Submerged Boneyard" data-flag="@X" onclick="openSidebar('16_Submerged Boneyard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\6_Geothermal Bog.png" id="6_Geothermal Bog" data-flag="@X" onclick="openSidebar('6_Geothermal Bog',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\22_Wooded Ridgeline.png" id="22_Wooded Ridgeline" data-flag="@X" onclick="openSidebar('22_Wooded Ridgeline',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\21_Tranquil Expanse.png" id="21_Tranquil Expanse" data-flag="@X" onclick="openSidebar('21_Tranquil Expanse',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\4_Forsaken Sanctuary.png" id="4_Forsaken Sanctuary" data-flag="@X" onclick="openSidebar('4_Forsaken Sanctuary',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\8_Highland Lake.png" id="8_Highland Lake" data-flag="@X" onclick="openSidebar('8_Highland Lake',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\5_Foul Orchard.png" id="5_Foul Orchard" data-flag="@X" onclick="openSidebar('5_Foul Orchard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\14_Sacred Peaks.png" id="14_Sacred Peaks" data-flag="@X" onclick="openSidebar('14_Sacred Peaks',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\18_Tangled Islet.png" id="18_Tangled Islet" data-flag="@X" onclick="openSidebar('18_Tangled Islet',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\17_Sunlit Marsh.png" id="17_Sunlit Marsh" data-flag="@X" onclick="openSidebar('17_Sunlit Marsh',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\11_Molten Tributary.png" id="11_Molten Tributary" data-flag="@X" onclick="openSidebar('11_Molten Tributary',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\7_Haunted Mire.png" id="7_Haunted Mire" data-flag="@X" onclick="openSidebar('7_Haunted Mire',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\15_Stone Quarry.png" id="15_Stone Quarry" data-flag="@X" onclick="openSidebar('15_Stone Quarry',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\23_Woodland Stream.png" id="23_Woodland Stream" data-flag="@X" onclick="openSidebar('23_Woodland Stream',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\3_Evolving Wilds.png" id="3_Evolving Wilds" data-flag="@X" onclick="openSidebar('3_Evolving Wilds',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\13_Rupture Spire.png" id="13_Rupture Spire" data-flag="@X" onclick="openSidebar('13_Rupture Spire',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\MSL-files\img\19_Terramorphic Expanse.png" id="19_Terramorphic Expanse" data-flag="@X" onclick="openSidebar('19_Terramorphic Expanse',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -393,27 +394,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -425,17 +450,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -468,6 +495,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -477,6 +505,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{

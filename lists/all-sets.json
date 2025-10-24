@@ -8,12 +8,12 @@
         {
             "set_code": "ASC",
             "set_name": "Act So Cinematic",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "BMR",
             "set_name": "Behemoth\u2019s Rise Microset",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "CFL",
@@ -23,47 +23,47 @@
         {
             "set_code": "CRF",
             "set_name": "Chikyu: Ruined Future",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "HNG",
             "set_name": "Honor and Greed",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "IRW",
             "set_name": "By Iron Will",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "KEC",
             "set_name": "Kylem\u2019s Encore",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "KTG",
             "set_name": "Kalthrasha: Genesis",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "L4D",
             "set_name": "LEFT4DEAD",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "MRC",
             "set_name": "Mercadia: Blood and Gold",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "MSL",
             "set_name": "Microset Landbase",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "PHD",
             "set_name": "Panarchademia: Hardcover Labyrinth",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "REL",
@@ -78,32 +78,32 @@
         {
             "set_code": "TOON",
             "set_name": "Toon Set",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "TVN",
             "set_name": "Titans of Viludin Microset",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "VGT",
             "set_name": "Voc-Gal Techniques",
-            "formats": "Microset"
+            "formats": "Microsets"
         },
         {
             "set_code": "VLD",
             "set_name": "Veldstire",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "VRL",
             "set_name": "Veyrathal",
-            "formats": ""
+            "formats": "Microsets"
         },
         {
             "set_code": "XRX",
             "set_name": "XereX",
-            "formats": ""
+            "formats": "Microsets"
         }
     ]
 }

@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -207,7 +208,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="BMR"><img src="/sets/BMR-files/icon.png">Behemoth’s Rise Microset</a>
 	
@@ -257,91 +258,91 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\BMR-files\img\3_Resolute Guard.png" id="3_Resolute Guard" data-flag="@X" onclick="openSidebar('3_Resolute Guard',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\6_Giant Owl.png" id="6_Giant Owl" data-flag="@X" onclick="openSidebar('6_Giant Owl',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\13_Forgeheart Sentinel.png" id="13_Forgeheart Sentinel" data-flag="@X" onclick="openSidebar('13_Forgeheart Sentinel',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\18_Smoldering Zealot.png" id="18_Smoldering Zealot" data-flag="@X" onclick="openSidebar('18_Smoldering Zealot',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\24_Stormlash Warden.png" id="24_Stormlash Warden" data-flag="@X" onclick="openSidebar('24_Stormlash Warden',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\1_Ashheart Herald.png" id="1_Ashheart Herald" data-flag="@X" onclick="openSidebar('1_Ashheart Herald',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\7_Reforged Strix.png" id="7_Reforged Strix" data-flag="@X" onclick="openSidebar('7_Reforged Strix',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\11_Ashmaw Direhound.png" id="11_Ashmaw Direhound" data-flag="@X" onclick="openSidebar('11_Ashmaw Direhound',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\16_Ashheart Spawn.png" id="16_Ashheart Spawn" data-flag="@X" onclick="openSidebar('16_Ashheart Spawn',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\21_Discover the Heartland.png" id="21_Discover the Heartland" data-flag="@X" onclick="openSidebar('21_Discover the Heartland',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\2_Flock Hawk.png" id="2_Flock Hawk" data-flag="@X" onclick="openSidebar('2_Flock Hawk',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\8_Stormline Severence.png" id="8_Stormline Severence" data-flag="@X" onclick="openSidebar('8_Stormline Severence',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\12_Forgeheart Researcher.png" id="12_Forgeheart Researcher" data-flag="@X" onclick="openSidebar('12_Forgeheart Researcher',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\17_Gather the Weapons.png" id="17_Gather the Weapons" data-flag="@X" onclick="openSidebar('17_Gather the Weapons',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\22_Growth Elemental.png" id="22_Growth Elemental" data-flag="@X" onclick="openSidebar('22_Growth Elemental',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\4_Suncrest Rider.png" id="4_Suncrest Rider" data-flag="@X" onclick="openSidebar('4_Suncrest Rider',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\9_Vault.png" id="9_Vault" data-flag="@X" onclick="openSidebar('9_Vault',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\14_Saproling Incubator.png" id="14_Saproling Incubator" data-flag="@X" onclick="openSidebar('14_Saproling Incubator',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\19_Windshear.png" id="19_Windshear" data-flag="@X" onclick="openSidebar('19_Windshear',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\23_Stormheart Captain.png" id="23_Stormheart Captain" data-flag="@X" onclick="openSidebar('23_Stormheart Captain',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\5_Wrath of the Thornheart.png" id="5_Wrath of the Thornheart" data-flag="@X" onclick="openSidebar('5_Wrath of the Thornheart',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\10_Zephyrheart Blessing.png" id="10_Zephyrheart Blessing" data-flag="@X" onclick="openSidebar('10_Zephyrheart Blessing',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\15_Sever the Heartline.png" id="15_Sever the Heartline" data-flag="@X" onclick="openSidebar('15_Sever the Heartline',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\20_Zephyrheart Fledgling.png" id="20_Zephyrheart Fledgling" data-flag="@X" onclick="openSidebar('20_Zephyrheart Fledgling',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\25_Thornheart Sapling.png" id="25_Thornheart Sapling" data-flag="@X" onclick="openSidebar('25_Thornheart Sapling',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\3_Resolute Guard.png" id="3_Resolute Guard" data-flag="@X" onclick="openSidebar('3_Resolute Guard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\6_Giant Owl.png" id="6_Giant Owl" data-flag="@X" onclick="openSidebar('6_Giant Owl',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\13_Forgeheart Sentinel.png" id="13_Forgeheart Sentinel" data-flag="@X" onclick="openSidebar('13_Forgeheart Sentinel',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\18_Smoldering Zealot.png" id="18_Smoldering Zealot" data-flag="@X" onclick="openSidebar('18_Smoldering Zealot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\24_Stormlash Warden.png" id="24_Stormlash Warden" data-flag="@X" onclick="openSidebar('24_Stormlash Warden',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\1_Ashheart Herald.png" id="1_Ashheart Herald" data-flag="@X" onclick="openSidebar('1_Ashheart Herald',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\7_Reforged Strix.png" id="7_Reforged Strix" data-flag="@X" onclick="openSidebar('7_Reforged Strix',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\11_Ashmaw Direhound.png" id="11_Ashmaw Direhound" data-flag="@X" onclick="openSidebar('11_Ashmaw Direhound',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\16_Ashheart Spawn.png" id="16_Ashheart Spawn" data-flag="@X" onclick="openSidebar('16_Ashheart Spawn',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\21_Discover the Heartland.png" id="21_Discover the Heartland" data-flag="@X" onclick="openSidebar('21_Discover the Heartland',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\2_Flock Hawk.png" id="2_Flock Hawk" data-flag="@X" onclick="openSidebar('2_Flock Hawk',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\8_Stormline Severence.png" id="8_Stormline Severence" data-flag="@X" onclick="openSidebar('8_Stormline Severence',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\12_Forgeheart Researcher.png" id="12_Forgeheart Researcher" data-flag="@X" onclick="openSidebar('12_Forgeheart Researcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\17_Gather the Weapons.png" id="17_Gather the Weapons" data-flag="@X" onclick="openSidebar('17_Gather the Weapons',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\22_Growth Elemental.png" id="22_Growth Elemental" data-flag="@X" onclick="openSidebar('22_Growth Elemental',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\4_Suncrest Rider.png" id="4_Suncrest Rider" data-flag="@X" onclick="openSidebar('4_Suncrest Rider',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\9_Vault.png" id="9_Vault" data-flag="@X" onclick="openSidebar('9_Vault',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\14_Saproling Incubator.png" id="14_Saproling Incubator" data-flag="@X" onclick="openSidebar('14_Saproling Incubator',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\19_Windshear.png" id="19_Windshear" data-flag="@X" onclick="openSidebar('19_Windshear',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\23_Stormheart Captain.png" id="23_Stormheart Captain" data-flag="@X" onclick="openSidebar('23_Stormheart Captain',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\5_Wrath of the Thornheart.png" id="5_Wrath of the Thornheart" data-flag="@X" onclick="openSidebar('5_Wrath of the Thornheart',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\10_Zephyrheart Blessing.png" id="10_Zephyrheart Blessing" data-flag="@X" onclick="openSidebar('10_Zephyrheart Blessing',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\15_Sever the Heartline.png" id="15_Sever the Heartline" data-flag="@X" onclick="openSidebar('15_Sever the Heartline',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\20_Zephyrheart Fledgling.png" id="20_Zephyrheart Fledgling" data-flag="@X" onclick="openSidebar('20_Zephyrheart Fledgling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\25_Thornheart Sapling.png" id="25_Thornheart Sapling" data-flag="@X" onclick="openSidebar('25_Thornheart Sapling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\27_Aeron's Vale.png" id="27_Aerons Vale" data-flag="@X" onclick="openSidebar('27_Aerons Vale',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\36_Vessk's Maw.png" id="36_Vessks Maw" data-flag="@X" onclick="openSidebar('36_Vessks Maw',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\29_Evara's Flame.png" id="29_Evaras Flame" data-flag="@X" onclick="openSidebar('29_Evaras Flame',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\31_Jorrin's Blade.png" id="31_Jorrins Blade" data-flag="@X" onclick="openSidebar('31_Jorrins Blade',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\33_Syris' Guard.png" id="33_Syris Guard" data-flag="@X" onclick="openSidebar('33_Syris Guard',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\26_Aeron, Zephyrheart's Vale.png" id="26_Aeron, Zephyrhearts Vale" data-flag="@X" onclick="openSidebar('26_Aeron, Zephyrhearts Vale',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\28_Evara, Ashheart's Flame.png" id="28_Evara, Ashhearts Flame" data-flag="@X" onclick="openSidebar('28_Evara, Ashhearts Flame',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\30_Jorrin, Stormheart's Blade.png" id="30_Jorrin, Stormhearts Blade" data-flag="@X" onclick="openSidebar('30_Jorrin, Stormhearts Blade',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\34_Syris, Thornheart's Guard.png" id="34_Syris, Thornhearts Guard" data-flag="@X" onclick="openSidebar('34_Syris, Thornhearts Guard',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\35_Vessk, Forgeheart's Maw.png" id="35_Vessk, Forgehearts Maw" data-flag="@X" onclick="openSidebar('35_Vessk, Forgehearts Maw',false)"></div>
-				<div class="container"><img data-alt_src="/sets\BMR-files\img\32_Raeden, Behemoth's Heart_back.png" alt="/sets\BMR-files\img\32_Raeden, Behemoth's Heart_front.png" id="32_Raeden, Behemoths Heart" data-flag="@XD" onclick="openSidebar('32_Raeden, Behemoths Heart',false)"><button class="flip-btn" onclick="imgFlip('32_Raeden, Behemoths Heart')"></button></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\27_Aeron's Vale.png" id="27_Aerons Vale" data-flag="@X" onclick="openSidebar('27_Aerons Vale',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\36_Vessk's Maw.png" id="36_Vessks Maw" data-flag="@X" onclick="openSidebar('36_Vessks Maw',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\29_Evara's Flame.png" id="29_Evaras Flame" data-flag="@X" onclick="openSidebar('29_Evaras Flame',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\31_Jorrin's Blade.png" id="31_Jorrins Blade" data-flag="@X" onclick="openSidebar('31_Jorrins Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\33_Syris' Guard.png" id="33_Syris Guard" data-flag="@X" onclick="openSidebar('33_Syris Guard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\26_Aeron, Zephyrheart's Vale.png" id="26_Aeron, Zephyrhearts Vale" data-flag="@X" onclick="openSidebar('26_Aeron, Zephyrhearts Vale',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\28_Evara, Ashheart's Flame.png" id="28_Evara, Ashhearts Flame" data-flag="@X" onclick="openSidebar('28_Evara, Ashhearts Flame',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\30_Jorrin, Stormheart's Blade.png" id="30_Jorrin, Stormhearts Blade" data-flag="@X" onclick="openSidebar('30_Jorrin, Stormhearts Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\34_Syris, Thornheart's Guard.png" id="34_Syris, Thornhearts Guard" data-flag="@X" onclick="openSidebar('34_Syris, Thornhearts Guard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\35_Vessk, Forgeheart's Maw.png" id="35_Vessk, Forgehearts Maw" data-flag="@X" onclick="openSidebar('35_Vessk, Forgehearts Maw',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="/sets\BMR-files\img\32_Raeden, Behemoth's Heart_back.png" alt="/sets\BMR-files\img\32_Raeden, Behemoth's Heart_front.png" id="32_Raeden, Behemoths Heart" data-flag="@XD" onclick="openSidebar('32_Raeden, Behemoths Heart',false)"><button class="flip-btn" onclick="imgFlip('32_Raeden, Behemoths Heart')"></button></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\38_Behemoth-Claw Blade.png" id="38_Behemoth-Claw Blade" data-flag="@X" onclick="openSidebar('38_Behemoth-Claw Blade',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\40_Shard of the Behemoth.png" id="40_Shard of the Behemoth" data-flag="@X" onclick="openSidebar('40_Shard of the Behemoth',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\37_Ashheart Shard.png" id="37_Ashheart Shard" data-flag="@X" onclick="openSidebar('37_Ashheart Shard',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\39_Forgeheart Shard.png" id="39_Forgeheart Shard" data-flag="@X" onclick="openSidebar('39_Forgeheart Shard',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\41_Stormheart Scout.png" id="41_Stormheart Scout" data-flag="@X" onclick="openSidebar('41_Stormheart Scout',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\42_Stormheart Shard.png" id="42_Stormheart Shard" data-flag="@X" onclick="openSidebar('42_Stormheart Shard',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\43_Thornheart Shard.png" id="43_Thornheart Shard" data-flag="@X" onclick="openSidebar('43_Thornheart Shard',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\44_Zephyr Wings.png" id="44_Zephyr Wings" data-flag="@X" onclick="openSidebar('44_Zephyr Wings',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\45_Zephyrheart Shard.png" id="45_Zephyrheart Shard" data-flag="@X" onclick="openSidebar('45_Zephyrheart Shard',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\38_Behemoth-Claw Blade.png" id="38_Behemoth-Claw Blade" data-flag="@X" onclick="openSidebar('38_Behemoth-Claw Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\40_Shard of the Behemoth.png" id="40_Shard of the Behemoth" data-flag="@X" onclick="openSidebar('40_Shard of the Behemoth',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\37_Ashheart Shard.png" id="37_Ashheart Shard" data-flag="@X" onclick="openSidebar('37_Ashheart Shard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\39_Forgeheart Shard.png" id="39_Forgeheart Shard" data-flag="@X" onclick="openSidebar('39_Forgeheart Shard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\41_Stormheart Scout.png" id="41_Stormheart Scout" data-flag="@X" onclick="openSidebar('41_Stormheart Scout',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\42_Stormheart Shard.png" id="42_Stormheart Shard" data-flag="@X" onclick="openSidebar('42_Stormheart Shard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\43_Thornheart Shard.png" id="43_Thornheart Shard" data-flag="@X" onclick="openSidebar('43_Thornheart Shard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\44_Zephyr Wings.png" id="44_Zephyr Wings" data-flag="@X" onclick="openSidebar('44_Zephyr Wings',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\45_Zephyrheart Shard.png" id="45_Zephyrheart Shard" data-flag="@X" onclick="openSidebar('45_Zephyrheart Shard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\6t_Scrap.png" id="6t_Scrap" data-flag="@X" onclick="openSidebar('6t_Scrap',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\7t_Sword.png" id="7t_Sword" data-flag="@X" onclick="openSidebar('7t_Sword',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\8t_Thopter.png" id="8t_Thopter" data-flag="@X" onclick="openSidebar('8t_Thopter',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\1t_Bird.png" id="1t_Bird" data-flag="@X" onclick="openSidebar('1t_Bird',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\2t_Human Soldier.png" id="2t_Human Soldier" data-flag="@X" onclick="openSidebar('2t_Human Soldier',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\3t_Phoenix.png" id="3t_Phoenix" data-flag="@X" onclick="openSidebar('3t_Phoenix',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\4t_Phoenix.png" id="4t_Phoenix" data-flag="@X" onclick="openSidebar('4t_Phoenix',false)"></div>
-				<div class="container"><img alt="/sets\BMR-files\img\5t_Saproling.png" id="5t_Saproling" data-flag="@X" onclick="openSidebar('5t_Saproling',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\6t_Scrap.png" id="6t_Scrap" data-flag="@X" onclick="openSidebar('6t_Scrap',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\7t_Sword.png" id="7t_Sword" data-flag="@X" onclick="openSidebar('7t_Sword',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\8t_Thopter.png" id="8t_Thopter" data-flag="@X" onclick="openSidebar('8t_Thopter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\1t_Bird.png" id="1t_Bird" data-flag="@X" onclick="openSidebar('1t_Bird',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\2t_Human Soldier.png" id="2t_Human Soldier" data-flag="@X" onclick="openSidebar('2t_Human Soldier',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\3t_Phoenix.png" id="3t_Phoenix" data-flag="@X" onclick="openSidebar('3t_Phoenix',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\4t_Phoenix.png" id="4t_Phoenix" data-flag="@X" onclick="openSidebar('4t_Phoenix',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BMR-files\img\5t_Saproling.png" id="5t_Saproling" data-flag="@X" onclick="openSidebar('5t_Saproling',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -438,27 +439,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -470,17 +495,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -513,6 +540,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -522,6 +550,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{

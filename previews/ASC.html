@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -207,7 +208,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="ASC"><img src="/sets/ASC-files/icon.png">Act So Cinematic</a>
 	
@@ -257,81 +258,81 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\ASC-files\img\7_Self-Experimentalist.png" id="7_Self-Experimentalist" data-flag="@X" onclick="openSidebar('7_Self-Experimentalist',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\8_Calm.png" id="8_Calm" data-flag="@X" onclick="openSidebar('8_Calm',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\13_A Dark Whisper.png" id="13_A Dark Whisper" data-flag="@X" onclick="openSidebar('13_A Dark Whisper',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\18_Celebration.png" id="18_Celebration" data-flag="@X" onclick="openSidebar('18_Celebration',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\28_Verdant Repose.png" id="28_Verdant Repose" data-flag="@X" onclick="openSidebar('28_Verdant Repose',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\2_Deconstitute.png" id="2_Deconstitute" data-flag="@X" onclick="openSidebar('2_Deconstitute',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\9_Flight of Fancy.png" id="9_Flight of Fancy" data-flag="@X" onclick="openSidebar('9_Flight of Fancy',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\14_Fateful Encounter.png" id="14_Fateful Encounter" data-flag="@X" onclick="openSidebar('14_Fateful Encounter',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\19_Combat Apprentice.png" id="19_Combat Apprentice" data-flag="@X" onclick="openSidebar('19_Combat Apprentice',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\23_Greatsword Student.png" id="23_Greatsword Student" data-flag="@X" onclick="openSidebar('23_Greatsword Student',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\3_Deep-Focus Automaton.png" id="3_Deep-Focus Automaton" data-flag="@X" onclick="openSidebar('3_Deep-Focus Automaton',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\10_Rooftop Runners.png" id="10_Rooftop Runners" data-flag="@X" onclick="openSidebar('10_Rooftop Runners',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\15_Junkyard Emergent.png" id="15_Junkyard Emergent" data-flag="@X" onclick="openSidebar('15_Junkyard Emergent',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\20_Patchwork Collector.png" id="20_Patchwork Collector" data-flag="@X" onclick="openSidebar('20_Patchwork Collector',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\24_Internal Weaponcraft.png" id="24_Internal Weaponcraft" data-flag="@X" onclick="openSidebar('24_Internal Weaponcraft',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\4_Leadership.png" id="4_Leadership" data-flag="@X" onclick="openSidebar('4_Leadership',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\11_Soaring Gearheads.png" id="11_Soaring Gearheads" data-flag="@X" onclick="openSidebar('11_Soaring Gearheads',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\16_Model Weapon.png" id="16_Model Weapon" data-flag="@X" onclick="openSidebar('16_Model Weapon',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\21_Roving Skaters.png" id="21_Roving Skaters" data-flag="@X" onclick="openSidebar('21_Roving Skaters',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\25_New Sights to See.png" id="25_New Sights to See" data-flag="@X" onclick="openSidebar('25_New Sights to See',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\5_Mana-Thrust Skater.png" id="5_Mana-Thrust Skater" data-flag="@X" onclick="openSidebar('5_Mana-Thrust Skater',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\12_Tune In.png" id="12_Tune In" data-flag="@X" onclick="openSidebar('12_Tune In',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\17_Rearm.png" id="17_Rearm" data-flag="@X" onclick="openSidebar('17_Rearm',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\22_Weapon Surge.png" id="22_Weapon Surge" data-flag="@X" onclick="openSidebar('22_Weapon Surge',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\26_Outpace.png" id="26_Outpace" data-flag="@X" onclick="openSidebar('26_Outpace',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\6_Quick Slash.png" id="6_Quick Slash" data-flag="@X" onclick="openSidebar('6_Quick Slash',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\27_Traveling Aspirants.png" id="27_Traveling Aspirants" data-flag="@X" onclick="openSidebar('27_Traveling Aspirants',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\7_Self-Experimentalist.png" id="7_Self-Experimentalist" data-flag="@X" onclick="openSidebar('7_Self-Experimentalist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\8_Calm.png" id="8_Calm" data-flag="@X" onclick="openSidebar('8_Calm',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\13_A Dark Whisper.png" id="13_A Dark Whisper" data-flag="@X" onclick="openSidebar('13_A Dark Whisper',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\18_Celebration.png" id="18_Celebration" data-flag="@X" onclick="openSidebar('18_Celebration',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\28_Verdant Repose.png" id="28_Verdant Repose" data-flag="@X" onclick="openSidebar('28_Verdant Repose',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\2_Deconstitute.png" id="2_Deconstitute" data-flag="@X" onclick="openSidebar('2_Deconstitute',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\9_Flight of Fancy.png" id="9_Flight of Fancy" data-flag="@X" onclick="openSidebar('9_Flight of Fancy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\14_Fateful Encounter.png" id="14_Fateful Encounter" data-flag="@X" onclick="openSidebar('14_Fateful Encounter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\19_Combat Apprentice.png" id="19_Combat Apprentice" data-flag="@X" onclick="openSidebar('19_Combat Apprentice',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\23_Greatsword Student.png" id="23_Greatsword Student" data-flag="@X" onclick="openSidebar('23_Greatsword Student',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\3_Deep-Focus Automaton.png" id="3_Deep-Focus Automaton" data-flag="@X" onclick="openSidebar('3_Deep-Focus Automaton',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\10_Rooftop Runners.png" id="10_Rooftop Runners" data-flag="@X" onclick="openSidebar('10_Rooftop Runners',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\15_Junkyard Emergent.png" id="15_Junkyard Emergent" data-flag="@X" onclick="openSidebar('15_Junkyard Emergent',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\20_Patchwork Collector.png" id="20_Patchwork Collector" data-flag="@X" onclick="openSidebar('20_Patchwork Collector',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\24_Internal Weaponcraft.png" id="24_Internal Weaponcraft" data-flag="@X" onclick="openSidebar('24_Internal Weaponcraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\4_Leadership.png" id="4_Leadership" data-flag="@X" onclick="openSidebar('4_Leadership',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\11_Soaring Gearheads.png" id="11_Soaring Gearheads" data-flag="@X" onclick="openSidebar('11_Soaring Gearheads',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\16_Model Weapon.png" id="16_Model Weapon" data-flag="@X" onclick="openSidebar('16_Model Weapon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\21_Roving Skaters.png" id="21_Roving Skaters" data-flag="@X" onclick="openSidebar('21_Roving Skaters',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\25_New Sights to See.png" id="25_New Sights to See" data-flag="@X" onclick="openSidebar('25_New Sights to See',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\5_Mana-Thrust Skater.png" id="5_Mana-Thrust Skater" data-flag="@X" onclick="openSidebar('5_Mana-Thrust Skater',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\12_Tune In.png" id="12_Tune In" data-flag="@X" onclick="openSidebar('12_Tune In',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\17_Rearm.png" id="17_Rearm" data-flag="@X" onclick="openSidebar('17_Rearm',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\22_Weapon Surge.png" id="22_Weapon Surge" data-flag="@X" onclick="openSidebar('22_Weapon Surge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\26_Outpace.png" id="26_Outpace" data-flag="@X" onclick="openSidebar('26_Outpace',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\6_Quick Slash.png" id="6_Quick Slash" data-flag="@X" onclick="openSidebar('6_Quick Slash',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\27_Traveling Aspirants.png" id="27_Traveling Aspirants" data-flag="@X" onclick="openSidebar('27_Traveling Aspirants',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\39_Soaring Masterwork.png" id="39_Soaring Masterwork" data-flag="@X" onclick="openSidebar('39_Soaring Masterwork',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\36_Introspection.png" id="36_Introspection" data-flag="@X" onclick="openSidebar('36_Introspection',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\31_Ambition.png" id="31_Ambition" data-flag="@X" onclick="openSidebar('31_Ambition',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\41_Town Trasher.png" id="41_Town Trasher" data-flag="@X" onclick="openSidebar('41_Town Trasher',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\43_Wanderlust.png" id="43_Wanderlust" data-flag="@X" onclick="openSidebar('43_Wanderlust',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\40_Spellwork Enthusiast.png" id="40_Spellwork Enthusiast" data-flag="@X" onclick="openSidebar('40_Spellwork Enthusiast',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\34_Free-Wheeling Musician.png" id="34_Free-Wheeling Musician" data-flag="@X" onclick="openSidebar('34_Free-Wheeling Musician',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\37_Local Hero.png" id="37_Local Hero" data-flag="@X" onclick="openSidebar('37_Local Hero',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\29_Ambient Shellcrafter.png" id="29_Ambient Shellcrafter" data-flag="@X" onclick="openSidebar('29_Ambient Shellcrafter',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\42_Vivid Pyrokinetic.png" id="42_Vivid Pyrokinetic" data-flag="@X" onclick="openSidebar('42_Vivid Pyrokinetic',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\30_Ambient Summoner.png" id="30_Ambient Summoner" data-flag="@X" onclick="openSidebar('30_Ambient Summoner',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\32_Crafty Combatant.png" id="32_Crafty Combatant" data-flag="@X" onclick="openSidebar('32_Crafty Combatant',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\33_Creation.png" id="33_Creation" data-flag="@X" onclick="openSidebar('33_Creation',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\0_Love.png" id="0_Love" data-flag="@X" onclick="openSidebar('0_Love',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\35_Genius Attuner.png" id="35_Genius Attuner" data-flag="@X" onclick="openSidebar('35_Genius Attuner',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\39_Soaring Masterwork.png" id="39_Soaring Masterwork" data-flag="@X" onclick="openSidebar('39_Soaring Masterwork',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\36_Introspection.png" id="36_Introspection" data-flag="@X" onclick="openSidebar('36_Introspection',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\31_Ambition.png" id="31_Ambition" data-flag="@X" onclick="openSidebar('31_Ambition',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\41_Town Trasher.png" id="41_Town Trasher" data-flag="@X" onclick="openSidebar('41_Town Trasher',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\43_Wanderlust.png" id="43_Wanderlust" data-flag="@X" onclick="openSidebar('43_Wanderlust',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\40_Spellwork Enthusiast.png" id="40_Spellwork Enthusiast" data-flag="@X" onclick="openSidebar('40_Spellwork Enthusiast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\34_Free-Wheeling Musician.png" id="34_Free-Wheeling Musician" data-flag="@X" onclick="openSidebar('34_Free-Wheeling Musician',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\37_Local Hero.png" id="37_Local Hero" data-flag="@X" onclick="openSidebar('37_Local Hero',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\29_Ambient Shellcrafter.png" id="29_Ambient Shellcrafter" data-flag="@X" onclick="openSidebar('29_Ambient Shellcrafter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\42_Vivid Pyrokinetic.png" id="42_Vivid Pyrokinetic" data-flag="@X" onclick="openSidebar('42_Vivid Pyrokinetic',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\30_Ambient Summoner.png" id="30_Ambient Summoner" data-flag="@X" onclick="openSidebar('30_Ambient Summoner',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\32_Crafty Combatant.png" id="32_Crafty Combatant" data-flag="@X" onclick="openSidebar('32_Crafty Combatant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\33_Creation.png" id="33_Creation" data-flag="@X" onclick="openSidebar('33_Creation',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\0_Love.png" id="0_Love" data-flag="@X" onclick="openSidebar('0_Love',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\35_Genius Attuner.png" id="35_Genius Attuner" data-flag="@X" onclick="openSidebar('35_Genius Attuner',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\1_Potential.png" id="1_Potential" data-flag="@X" onclick="openSidebar('1_Potential',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\44_Infused Heirloom.png" id="44_Infused Heirloom" data-flag="@X" onclick="openSidebar('44_Infused Heirloom',false)"></div>
-				<div class="container"><img alt="/sets\ASC-files\img\45_Personal Headphones.png" id="45_Personal Headphones" data-flag="@X" onclick="openSidebar('45_Personal Headphones',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\1_Potential.png" id="1_Potential" data-flag="@X" onclick="openSidebar('1_Potential',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\44_Infused Heirloom.png" id="44_Infused Heirloom" data-flag="@X" onclick="openSidebar('44_Infused Heirloom',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ASC-files\img\45_Personal Headphones.png" id="45_Personal Headphones" data-flag="@X" onclick="openSidebar('45_Personal Headphones',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -428,27 +429,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -460,17 +485,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -503,6 +530,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -512,6 +540,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{

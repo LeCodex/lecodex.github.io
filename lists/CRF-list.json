@@ -3,151 +3,176 @@
         "card_name": "Emissary of the Sun",
         "number": 2,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Ryoto, Wilds Walker",
         "number": 11,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Gluttonous Ghost",
         "number": 13,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Unrelenting Titan",
         "number": 23,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Cliffside Crusher",
         "number": 24,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Lonely Youngling",
         "number": 3,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Bump in the Road",
         "number": 8,
         "shape": "double faced split",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Mournful Amnesiac",
         "number": 14,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Bellowing Behemoth",
         "number": 18,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Doomed Trainer",
         "number": 25,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Pacifying Predator",
         "number": 4,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Beauty of the Wastes",
         "number": 7,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Nasty Plot",
         "number": 15,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "The City Made Wild",
         "number": 19,
         "shape": "double faced split",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "The Earth Endures",
         "number": 26,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Wandering Vagabonds",
         "number": 5,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Future's Present",
         "number": 9,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Partner in Crime",
         "number": 16,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Prepare for Trouble!",
         "number": 20,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Excavation Mole",
         "number": 27,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Warden's Mission",
         "number": 6,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Icy Glare",
         "number": 10,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Sanaito's Nightmare",
         "number": 17,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Scalewrought Protector",
         "number": 21,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Treetop Trapper",
         "number": 28,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -156,7 +181,8 @@
         "card_name": "To the Sea, Returned",
         "number": 12,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -165,7 +191,8 @@
         "card_name": "Shrieking Pest",
         "number": 22,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -187,31 +214,36 @@
         "card_name": "Maven of Disaster",
         "number": 36,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Rage of the Reef",
         "number": 37,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Remnant of Rocket",
         "number": 39,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Brick by Brick",
         "number": 29,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Community's Garden",
         "number": 31,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -232,31 +264,36 @@
         "card_name": "Yearning Mimic",
         "number": 42,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "First Contact",
         "number": 34,
         "shape": "double faced split",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Ravenous Flytrap",
         "number": 38,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Conduit of Change",
         "number": 32,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Dark-Dwelling Mycellium",
         "number": 33,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -265,7 +302,8 @@
         "card_name": "Valiant Truthseeker",
         "number": 41,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -295,19 +333,22 @@
         "card_name": "Karina, Out of Time",
         "number": 35,
         "shape": "planeswalker",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Sanaito, Root of Ruin",
         "number": 40,
         "shape": "planeswalker",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Chikyu's Champion",
         "number": 30,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -332,25 +373,29 @@
         "card_name": "Dregs of Industry",
         "number": 44,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Sunset Chaser",
         "number": 1,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Berry Basket",
         "number": 43,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "Preserved Specimens",
         "number": 45,
         "shape": "normal",
-        "set": "CRF"
+        "set": "CRF",
+        "position": ""
     },
     {
         "card_name": "e"

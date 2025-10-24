@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -207,7 +208,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="ARC"><img src="/sets/ARC-files/icon.png">Techniques — Archery</a>
 	
@@ -257,96 +258,96 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\ARC-files\img\3_Angelic Archer.png" id="3_Angelic Archer" data-flag="@X" onclick="openSidebar('3_Angelic Archer',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\8_Acrobatic Archer.png" id="8_Acrobatic Archer" data-flag="@X" onclick="openSidebar('8_Acrobatic Archer',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\13_Dire Position.png" id="13_Dire Position" data-flag="@X" onclick="openSidebar('13_Dire Position',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\18_Aim for the Heart.png" id="18_Aim for the Heart" data-flag="@X" onclick="openSidebar('18_Aim for the Heart',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\23_Artetian Recruit.png" id="23_Artetian Recruit" data-flag="@X" onclick="openSidebar('23_Artetian Recruit',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\4_Champion Archer.png" id="4_Champion Archer" data-flag="@X" onclick="openSidebar('4_Champion Archer',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\9_Avian Archer.png" id="9_Avian Archer" data-flag="@X" onclick="openSidebar('9_Avian Archer',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\14_Multi-Shot.png" id="14_Multi-Shot" data-flag="@X" onclick="openSidebar('14_Multi-Shot',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\19_Bjorken Raider.png" id="19_Bjorken Raider" data-flag="@X" onclick="openSidebar('19_Bjorken Raider',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\24_Druid of Mahjorda.png" id="24_Druid of Mahjorda" data-flag="@X" onclick="openSidebar('24_Druid of Mahjorda',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\5_Create an Opening.png" id="5_Create an Opening" data-flag="@X" onclick="openSidebar('5_Create an Opening',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\10_Direfrost Leap.png" id="10_Direfrost Leap" data-flag="@X" onclick="openSidebar('10_Direfrost Leap',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\15_Plague Archer.png" id="15_Plague Archer" data-flag="@X" onclick="openSidebar('15_Plague Archer',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\20_Frontline Bowmaster.png" id="20_Frontline Bowmaster" data-flag="@X" onclick="openSidebar('20_Frontline Bowmaster',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\25_Mounted Archery.png" id="25_Mounted Archery" data-flag="@X" onclick="openSidebar('25_Mounted Archery',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\6_Crossbow Artillery.png" id="6_Crossbow Artillery" data-flag="@X" onclick="openSidebar('6_Crossbow Artillery',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\11_Direfrost Scavengers.png" id="11_Direfrost Scavengers" data-flag="@X" onclick="openSidebar('11_Direfrost Scavengers',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\16_Terror of Tchainmak.png" id="16_Terror of Tchainmak" data-flag="@X" onclick="openSidebar('16_Terror of Tchainmak',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\21_Mahjordan Scout.png" id="21_Mahjordan Scout" data-flag="@X" onclick="openSidebar('21_Mahjordan Scout',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\26_Stampeding Archer.png" id="26_Stampeding Archer" data-flag="@X" onclick="openSidebar('26_Stampeding Archer',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\7_Rangers of Gorgunder.png" id="7_Rangers of Gorgunder" data-flag="@X" onclick="openSidebar('7_Rangers of Gorgunder',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\12_Temporal Strategem.png" id="12_Temporal Strategem" data-flag="@X" onclick="openSidebar('12_Temporal Strategem',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\17_Vampiric Archer.png" id="17_Vampiric Archer" data-flag="@X" onclick="openSidebar('17_Vampiric Archer',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\22_Really Big Crossbow.png" id="22_Really Big Crossbow" data-flag="@X" onclick="openSidebar('22_Really Big Crossbow',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\27_Stonehide Archer.png" id="27_Stonehide Archer" data-flag="@X" onclick="openSidebar('27_Stonehide Archer',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\3_Angelic Archer.png" id="3_Angelic Archer" data-flag="@X" onclick="openSidebar('3_Angelic Archer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\8_Acrobatic Archer.png" id="8_Acrobatic Archer" data-flag="@X" onclick="openSidebar('8_Acrobatic Archer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\13_Dire Position.png" id="13_Dire Position" data-flag="@X" onclick="openSidebar('13_Dire Position',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\18_Aim for the Heart.png" id="18_Aim for the Heart" data-flag="@X" onclick="openSidebar('18_Aim for the Heart',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\23_Artetian Recruit.png" id="23_Artetian Recruit" data-flag="@X" onclick="openSidebar('23_Artetian Recruit',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\4_Champion Archer.png" id="4_Champion Archer" data-flag="@X" onclick="openSidebar('4_Champion Archer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\9_Avian Archer.png" id="9_Avian Archer" data-flag="@X" onclick="openSidebar('9_Avian Archer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\14_Multi-Shot.png" id="14_Multi-Shot" data-flag="@X" onclick="openSidebar('14_Multi-Shot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\19_Bjorken Raider.png" id="19_Bjorken Raider" data-flag="@X" onclick="openSidebar('19_Bjorken Raider',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\24_Druid of Mahjorda.png" id="24_Druid of Mahjorda" data-flag="@X" onclick="openSidebar('24_Druid of Mahjorda',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\5_Create an Opening.png" id="5_Create an Opening" data-flag="@X" onclick="openSidebar('5_Create an Opening',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\10_Direfrost Leap.png" id="10_Direfrost Leap" data-flag="@X" onclick="openSidebar('10_Direfrost Leap',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\15_Plague Archer.png" id="15_Plague Archer" data-flag="@X" onclick="openSidebar('15_Plague Archer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\20_Frontline Bowmaster.png" id="20_Frontline Bowmaster" data-flag="@X" onclick="openSidebar('20_Frontline Bowmaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\25_Mounted Archery.png" id="25_Mounted Archery" data-flag="@X" onclick="openSidebar('25_Mounted Archery',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\6_Crossbow Artillery.png" id="6_Crossbow Artillery" data-flag="@X" onclick="openSidebar('6_Crossbow Artillery',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\11_Direfrost Scavengers.png" id="11_Direfrost Scavengers" data-flag="@X" onclick="openSidebar('11_Direfrost Scavengers',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\16_Terror of Tchainmak.png" id="16_Terror of Tchainmak" data-flag="@X" onclick="openSidebar('16_Terror of Tchainmak',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\21_Mahjordan Scout.png" id="21_Mahjordan Scout" data-flag="@X" onclick="openSidebar('21_Mahjordan Scout',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\26_Stampeding Archer.png" id="26_Stampeding Archer" data-flag="@X" onclick="openSidebar('26_Stampeding Archer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\7_Rangers of Gorgunder.png" id="7_Rangers of Gorgunder" data-flag="@X" onclick="openSidebar('7_Rangers of Gorgunder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\12_Temporal Strategem.png" id="12_Temporal Strategem" data-flag="@X" onclick="openSidebar('12_Temporal Strategem',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\17_Vampiric Archer.png" id="17_Vampiric Archer" data-flag="@X" onclick="openSidebar('17_Vampiric Archer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\22_Really Big Crossbow.png" id="22_Really Big Crossbow" data-flag="@X" onclick="openSidebar('22_Really Big Crossbow',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\27_Stonehide Archer.png" id="27_Stonehide Archer" data-flag="@X" onclick="openSidebar('27_Stonehide Archer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\30_Archons of Drenz.png" id="30_Archons of Drenz" data-flag="@X" onclick="openSidebar('30_Archons of Drenz',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\32_Boglands Guide.png" id="32_Boglands Guide" data-flag="@X" onclick="openSidebar('32_Boglands Guide',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\37_Heartpiercer Shade.png" id="37_Heartpiercer Shade" data-flag="@X" onclick="openSidebar('37_Heartpiercer Shade',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\40_Maiden of Mahjordan.png" id="40_Maiden of Mahjordan" data-flag="@X" onclick="openSidebar('40_Maiden of Mahjordan',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\31_Artetian Beastmaster.png" id="31_Artetian Beastmaster" data-flag="@X" onclick="openSidebar('31_Artetian Beastmaster',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\34_Drenz Gloryseeker.png" id="34_Drenz Gloryseeker" data-flag="@X" onclick="openSidebar('34_Drenz Gloryseeker',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\36_Foolish Challenge.png" id="36_Foolish Challenge" data-flag="@X" onclick="openSidebar('36_Foolish Challenge',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\43_Vengeful Nymph.png" id="43_Vengeful Nymph" data-flag="@X" onclick="openSidebar('43_Vengeful Nymph',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\39_Longshot Master.png" id="39_Longshot Master" data-flag="@X" onclick="openSidebar('39_Longshot Master',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\35_Dusk Cult Squad.png" id="35_Dusk Cult Squad" data-flag="@X" onclick="openSidebar('35_Dusk Cult Squad',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\29_Angel of Ire.png" id="29_Angel of Ire" data-flag="@X" onclick="openSidebar('29_Angel of Ire',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\28_Ace Tactician.png" id="28_Ace Tactician" data-flag="@X" onclick="openSidebar('28_Ace Tactician',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\42_Surprise Attack.png" id="42_Surprise Attack" data-flag="@X" onclick="openSidebar('42_Surprise Attack',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\33_Brumhilda Sureshot.png" id="33_Brumhilda Sureshot" data-flag="@X" onclick="openSidebar('33_Brumhilda Sureshot',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\38_Herdi, Resourceful Huntress.png" id="38_Herdi, Resourceful Huntress" data-flag="@X" onclick="openSidebar('38_Herdi, Resourceful Huntress',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\41_Queen of Strings.png" id="41_Queen of Strings" data-flag="@X" onclick="openSidebar('41_Queen of Strings',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\30_Archons of Drenz.png" id="30_Archons of Drenz" data-flag="@X" onclick="openSidebar('30_Archons of Drenz',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\32_Boglands Guide.png" id="32_Boglands Guide" data-flag="@X" onclick="openSidebar('32_Boglands Guide',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\37_Heartpiercer Shade.png" id="37_Heartpiercer Shade" data-flag="@X" onclick="openSidebar('37_Heartpiercer Shade',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\40_Maiden of Mahjordan.png" id="40_Maiden of Mahjordan" data-flag="@X" onclick="openSidebar('40_Maiden of Mahjordan',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\31_Artetian Beastmaster.png" id="31_Artetian Beastmaster" data-flag="@X" onclick="openSidebar('31_Artetian Beastmaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\34_Drenz Gloryseeker.png" id="34_Drenz Gloryseeker" data-flag="@X" onclick="openSidebar('34_Drenz Gloryseeker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\36_Foolish Challenge.png" id="36_Foolish Challenge" data-flag="@X" onclick="openSidebar('36_Foolish Challenge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\43_Vengeful Nymph.png" id="43_Vengeful Nymph" data-flag="@X" onclick="openSidebar('43_Vengeful Nymph',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\39_Longshot Master.png" id="39_Longshot Master" data-flag="@X" onclick="openSidebar('39_Longshot Master',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\35_Dusk Cult Squad.png" id="35_Dusk Cult Squad" data-flag="@X" onclick="openSidebar('35_Dusk Cult Squad',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\29_Angel of Ire.png" id="29_Angel of Ire" data-flag="@X" onclick="openSidebar('29_Angel of Ire',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\28_Ace Tactician.png" id="28_Ace Tactician" data-flag="@X" onclick="openSidebar('28_Ace Tactician',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\42_Surprise Attack.png" id="42_Surprise Attack" data-flag="@X" onclick="openSidebar('42_Surprise Attack',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\33_Brumhilda Sureshot.png" id="33_Brumhilda Sureshot" data-flag="@X" onclick="openSidebar('33_Brumhilda Sureshot',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\38_Herdi, Resourceful Huntress.png" id="38_Herdi, Resourceful Huntress" data-flag="@X" onclick="openSidebar('38_Herdi, Resourceful Huntress',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\41_Queen of Strings.png" id="41_Queen of Strings" data-flag="@X" onclick="openSidebar('41_Queen of Strings',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\1_Patient Hunt.png" id="1_Patient Hunt" data-flag="@X" onclick="openSidebar('1_Patient Hunt',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\2_Seek the Wilderness.png" id="2_Seek the Wilderness" data-flag="@X" onclick="openSidebar('2_Seek the Wilderness',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\0_Archery.png" id="0_Archery" data-flag="@X" onclick="openSidebar('0_Archery',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\44_Fletching.png" id="44_Fletching" data-flag="@X" onclick="openSidebar('44_Fletching',false)"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\45_Trusty Bow.png" id="45_Trusty Bow" data-flag="@X" onclick="openSidebar('45_Trusty Bow',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\1_Patient Hunt.png" id="1_Patient Hunt" data-flag="@X" onclick="openSidebar('1_Patient Hunt',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\2_Seek the Wilderness.png" id="2_Seek the Wilderness" data-flag="@X" onclick="openSidebar('2_Seek the Wilderness',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\0_Archery.png" id="0_Archery" data-flag="@X" onclick="openSidebar('0_Archery',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\44_Fletching.png" id="44_Fletching" data-flag="@X" onclick="openSidebar('44_Fletching',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\45_Trusty Bow.png" id="45_Trusty Bow" data-flag="@X" onclick="openSidebar('45_Trusty Bow',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img alt="/sets\ARC-files\img\1t_Arrow.png" id="1t_Arrow" data-flag="@X" onclick="openSidebar('1t_Arrow',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\ARC-files\img\1t_Arrow.png" id="1t_Arrow" data-flag="@X" onclick="openSidebar('1t_Arrow',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -443,27 +444,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -475,17 +500,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -518,6 +545,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -527,6 +555,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{

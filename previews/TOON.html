@@ -39,8 +39,8 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
@@ -126,12 +126,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -207,7 +208,7 @@
 		</div>
 	</div>
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
 		<a class="set-bar" href="TOON"><img src="/sets/TOON-files/icon.png">Toon Set</a>
 	
@@ -257,96 +258,96 @@
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\TOON-files\img\6_The Powerpuff Girls.png" id="6_The Powerpuff Girls" data-flag="@X" onclick="openSidebar('6_The Powerpuff Girls',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\8_Mind Control Hat.png" id="8_Mind Control Hat" data-flag="@X" onclick="openSidebar('8_Mind Control Hat',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\13_The Big Bad Wolf.png" id="13_The Big Bad Wolf" data-flag="@X" onclick="openSidebar('13_The Big Bad Wolf',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\25_Shaggy, All Alone.png" id="25_Shaggy, All Alone" data-flag="@X" onclick="openSidebar('25_Shaggy, All Alone',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\27_Mean Giant.png" id="27_Mean Giant" data-flag="@X" onclick="openSidebar('27_Mean Giant',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\1_Fairly Odd Wand.png" id="1_Fairly Odd Wand" data-flag="@X" onclick="openSidebar('1_Fairly Odd Wand',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\7_Anchor Down.png" id="7_Anchor Down" data-flag="@X" onclick="openSidebar('7_Anchor Down',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\15_Cog Gang.png" id="15_Cog Gang" data-flag="@X" onclick="openSidebar('15_Cog Gang',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\19_Explosive Result.png" id="19_Explosive Result" data-flag="@X" onclick="openSidebar('19_Explosive Result',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\28_Mysterious Doors.png" id="28_Mysterious Doors" data-flag="@X" onclick="openSidebar('28_Mysterious Doors',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\2_Falling Anvil.png" id="2_Falling Anvil" data-flag="@X" onclick="openSidebar('2_Falling Anvil',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\9_Protective Shark.png" id="9_Protective Shark" data-flag="@X" onclick="openSidebar('9_Protective Shark',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\14_Cockroach Gang.png" id="14_Cockroach Gang" data-flag="@X" onclick="openSidebar('14_Cockroach Gang',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\20_Human Seeking Gun.png" id="20_Human Seeking Gun" data-flag="@X" onclick="openSidebar('20_Human Seeking Gun',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\29_Obsessive Chase.png" id="29_Obsessive Chase" data-flag="@X" onclick="openSidebar('29_Obsessive Chase',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\3_Gravity is a Harsh Mistress.png" id="3_Gravity is a Harsh Mistress" data-flag="@X" onclick="openSidebar('3_Gravity is a Harsh Mistress',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\10_Smurf Villager.png" id="10_Smurf Villager" data-flag="@X" onclick="openSidebar('10_Smurf Villager',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\16_Henchcat.png" id="16_Henchcat" data-flag="@X" onclick="openSidebar('16_Henchcat',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\21_Mean Hook.png" id="21_Mean Hook" data-flag="@X" onclick="openSidebar('21_Mean Hook',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\30_Terrible Wolfman.png" id="30_Terrible Wolfman" data-flag="@X" onclick="openSidebar('30_Terrible Wolfman',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\4_Laidback Cat.png" id="4_Laidback Cat" data-flag="@X" onclick="openSidebar('4_Laidback Cat',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\11_Temporary Jetpacks.png" id="11_Temporary Jetpacks" data-flag="@X" onclick="openSidebar('11_Temporary Jetpacks',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\17_Shady Mafioso.png" id="17_Shady Mafioso" data-flag="@X" onclick="openSidebar('17_Shady Mafioso',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\22_Pink Panther.png" id="22_Pink Panther" data-flag="@X" onclick="openSidebar('22_Pink Panther',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\31_Trickster Wolf.png" id="31_Trickster Wolf" data-flag="@X" onclick="openSidebar('31_Trickster Wolf',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\5_Moomin Trolls.png" id="5_Moomin Trolls" data-flag="@X" onclick="openSidebar('5_Moomin Trolls',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\12_Wrong Turn at Albuquerque.png" id="12_Wrong Turn at Albuquerque" data-flag="@X" onclick="openSidebar('12_Wrong Turn at Albuquerque',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\18_Zoinks!.png" id="18_Zoinks!" data-flag="@X" onclick="openSidebar('18_Zoinks!',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\23_Quickshot Duo.png" id="23_Quickshot Duo" data-flag="@X" onclick="openSidebar('23_Quickshot Duo',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\24_Ride the Rocket.png" id="24_Ride the Rocket" data-flag="@X" onclick="openSidebar('24_Ride the Rocket',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\26_Unlucky Accident.png" id="26_Unlucky Accident" data-flag="@X" onclick="openSidebar('26_Unlucky Accident',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\6_The Powerpuff Girls.png" id="6_The Powerpuff Girls" data-flag="@X" onclick="openSidebar('6_The Powerpuff Girls',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\8_Mind Control Hat.png" id="8_Mind Control Hat" data-flag="@X" onclick="openSidebar('8_Mind Control Hat',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\13_The Big Bad Wolf.png" id="13_The Big Bad Wolf" data-flag="@X" onclick="openSidebar('13_The Big Bad Wolf',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\25_Shaggy, All Alone.png" id="25_Shaggy, All Alone" data-flag="@X" onclick="openSidebar('25_Shaggy, All Alone',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\27_Mean Giant.png" id="27_Mean Giant" data-flag="@X" onclick="openSidebar('27_Mean Giant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\1_Fairly Odd Wand.png" id="1_Fairly Odd Wand" data-flag="@X" onclick="openSidebar('1_Fairly Odd Wand',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\7_Anchor Down.png" id="7_Anchor Down" data-flag="@X" onclick="openSidebar('7_Anchor Down',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\15_Cog Gang.png" id="15_Cog Gang" data-flag="@X" onclick="openSidebar('15_Cog Gang',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\19_Explosive Result.png" id="19_Explosive Result" data-flag="@X" onclick="openSidebar('19_Explosive Result',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\28_Mysterious Doors.png" id="28_Mysterious Doors" data-flag="@X" onclick="openSidebar('28_Mysterious Doors',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\2_Falling Anvil.png" id="2_Falling Anvil" data-flag="@X" onclick="openSidebar('2_Falling Anvil',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\9_Protective Shark.png" id="9_Protective Shark" data-flag="@X" onclick="openSidebar('9_Protective Shark',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\14_Cockroach Gang.png" id="14_Cockroach Gang" data-flag="@X" onclick="openSidebar('14_Cockroach Gang',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\20_Human Seeking Gun.png" id="20_Human Seeking Gun" data-flag="@X" onclick="openSidebar('20_Human Seeking Gun',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\29_Obsessive Chase.png" id="29_Obsessive Chase" data-flag="@X" onclick="openSidebar('29_Obsessive Chase',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\3_Gravity is a Harsh Mistress.png" id="3_Gravity is a Harsh Mistress" data-flag="@X" onclick="openSidebar('3_Gravity is a Harsh Mistress',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\10_Smurf Villager.png" id="10_Smurf Villager" data-flag="@X" onclick="openSidebar('10_Smurf Villager',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\16_Henchcat.png" id="16_Henchcat" data-flag="@X" onclick="openSidebar('16_Henchcat',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\21_Mean Hook.png" id="21_Mean Hook" data-flag="@X" onclick="openSidebar('21_Mean Hook',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\30_Terrible Wolfman.png" id="30_Terrible Wolfman" data-flag="@X" onclick="openSidebar('30_Terrible Wolfman',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\4_Laidback Cat.png" id="4_Laidback Cat" data-flag="@X" onclick="openSidebar('4_Laidback Cat',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\11_Temporary Jetpacks.png" id="11_Temporary Jetpacks" data-flag="@X" onclick="openSidebar('11_Temporary Jetpacks',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\17_Shady Mafioso.png" id="17_Shady Mafioso" data-flag="@X" onclick="openSidebar('17_Shady Mafioso',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\22_Pink Panther.png" id="22_Pink Panther" data-flag="@X" onclick="openSidebar('22_Pink Panther',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\31_Trickster Wolf.png" id="31_Trickster Wolf" data-flag="@X" onclick="openSidebar('31_Trickster Wolf',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\5_Moomin Trolls.png" id="5_Moomin Trolls" data-flag="@X" onclick="openSidebar('5_Moomin Trolls',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\12_Wrong Turn at Albuquerque.png" id="12_Wrong Turn at Albuquerque" data-flag="@X" onclick="openSidebar('12_Wrong Turn at Albuquerque',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\18_Zoinks!.png" id="18_Zoinks!" data-flag="@X" onclick="openSidebar('18_Zoinks!',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\23_Quickshot Duo.png" id="23_Quickshot Duo" data-flag="@X" onclick="openSidebar('23_Quickshot Duo',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\24_Ride the Rocket.png" id="24_Ride the Rocket" data-flag="@X" onclick="openSidebar('24_Ride the Rocket',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\26_Unlucky Accident.png" id="26_Unlucky Accident" data-flag="@X" onclick="openSidebar('26_Unlucky Accident',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\33_Close Down.png" id="33_Close Down" data-flag="@X" onclick="openSidebar('33_Close Down',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\39_Yosemite Sam, Angry Cowboy.png" id="39_Yosemite Sam, Angry Cowboy" data-flag="@X" onclick="openSidebar('39_Yosemite Sam, Angry Cowboy',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\38_Yogi Bear, Friendly Ursine.png" id="38_Yogi Bear, Friendly Ursine" data-flag="@X" onclick="openSidebar('38_Yogi Bear, Friendly Ursine',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\35_Rise to the Fight.png" id="35_Rise to the Fight" data-flag="@X" onclick="openSidebar('35_Rise to the Fight',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\34_Duck Season, Rabbit Season.png" id="34_Duck Season, Rabbit Season" data-flag="@X" onclick="openSidebar('34_Duck Season, Rabbit Season',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\32_Big Brawl.png" id="32_Big Brawl" data-flag="@X" onclick="openSidebar('32_Big Brawl',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\36_Spongebob Squarepants.png" id="36_Spongebob Squarepants" data-flag="@X" onclick="openSidebar('36_Spongebob Squarepants',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\37_Wil.E Coyote, Gourmet.png" id="37_Wil.E Coyote, Gourmet" data-flag="@X" onclick="openSidebar('37_Wil.E Coyote, Gourmet',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\33_Close Down.png" id="33_Close Down" data-flag="@X" onclick="openSidebar('33_Close Down',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\39_Yosemite Sam, Angry Cowboy.png" id="39_Yosemite Sam, Angry Cowboy" data-flag="@X" onclick="openSidebar('39_Yosemite Sam, Angry Cowboy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\38_Yogi Bear, Friendly Ursine.png" id="38_Yogi Bear, Friendly Ursine" data-flag="@X" onclick="openSidebar('38_Yogi Bear, Friendly Ursine',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\35_Rise to the Fight.png" id="35_Rise to the Fight" data-flag="@X" onclick="openSidebar('35_Rise to the Fight',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\34_Duck Season, Rabbit Season.png" id="34_Duck Season, Rabbit Season" data-flag="@X" onclick="openSidebar('34_Duck Season, Rabbit Season',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\32_Big Brawl.png" id="32_Big Brawl" data-flag="@X" onclick="openSidebar('32_Big Brawl',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\36_Spongebob Squarepants.png" id="36_Spongebob Squarepants" data-flag="@X" onclick="openSidebar('36_Spongebob Squarepants',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\37_Wil.E Coyote, Gourmet.png" id="37_Wil.E Coyote, Gourmet" data-flag="@X" onclick="openSidebar('37_Wil.E Coyote, Gourmet',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\40_The Mystery Machine.png" id="40_The Mystery Machine" data-flag="@X" onclick="openSidebar('40_The Mystery Machine',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\42_The Script.png" id="42_The Script" data-flag="@X" onclick="openSidebar('42_The Script',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\41_Robot Maid.png" id="41_Robot Maid" data-flag="@X" onclick="openSidebar('41_Robot Maid',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\43_Spinach Can.png" id="43_Spinach Can" data-flag="@X" onclick="openSidebar('43_Spinach Can',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\44_Plains.png" id="44_Plains" data-flag="@X" onclick="openSidebar('44_Plains',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\46_Swamp.png" id="46_Swamp" data-flag="@X" onclick="openSidebar('46_Swamp',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\47_Mountain.png" id="47_Mountain" data-flag="@X" onclick="openSidebar('47_Mountain',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\48_Forest.png" id="48_Forest" data-flag="@X" onclick="openSidebar('48_Forest',false)"></div>
-				<div class="container"><img alt="/sets\TOON-files\img\45_Island.png" id="45_Island" data-flag="@X" onclick="openSidebar('45_Island',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\40_The Mystery Machine.png" id="40_The Mystery Machine" data-flag="@X" onclick="openSidebar('40_The Mystery Machine',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\42_The Script.png" id="42_The Script" data-flag="@X" onclick="openSidebar('42_The Script',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\41_Robot Maid.png" id="41_Robot Maid" data-flag="@X" onclick="openSidebar('41_Robot Maid',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\43_Spinach Can.png" id="43_Spinach Can" data-flag="@X" onclick="openSidebar('43_Spinach Can',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\44_Plains.png" id="44_Plains" data-flag="@X" onclick="openSidebar('44_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\46_Swamp.png" id="46_Swamp" data-flag="@X" onclick="openSidebar('46_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\47_Mountain.png" id="47_Mountain" data-flag="@X" onclick="openSidebar('47_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\48_Forest.png" id="48_Forest" data-flag="@X" onclick="openSidebar('48_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\TOON-files\img\45_Island.png" id="45_Island" data-flag="@X" onclick="openSidebar('45_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
@@ -443,27 +444,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -475,17 +500,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -518,6 +545,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -527,6 +555,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
