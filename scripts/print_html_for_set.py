@@ -358,6 +358,7 @@ def generateHTML(code):
 '''
 
 	html_content += '''			<a onclick="randomSetCard()">I'm Feeling Lucky</a>
+					</div>
 				</div>
 			</div>
 '''
