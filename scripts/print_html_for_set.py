@@ -614,7 +614,7 @@ def generateHTML(code):
 							colors: getCardColors(card),
 							type: card.type,
 							rarity: card.rarity,
-							url: rootPath + '/' + card.image_uris.en
+							url: card.image_uris.en
 						});
 					}
 
