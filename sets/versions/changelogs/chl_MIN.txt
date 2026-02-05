@@ -1,4 +1,205 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Impaling Trident
+rules_text: When Impaling Trident enters, attach it to target creature you control.
+Whenever a creature dies, put a sharp counter on Impaling Trident.
+Equipped creature gets +1/+1, plus an additional +1/+1 for each sharp counter on Impaling Trident.
+Equip {2} => When Impaling Trident enters, attach it to target creature you control.
+Whenever Impaling Trident enters or a creature you control dies, put a sharp counter on Impaling Trident.
+Equipped creature gets +1/+1 for each sharp counter on Impaling Trident.
+Equip {2}
+
+Curious Axolotl
+
+Herobrine, Never Removed
+rules_text: You may cast Herobrine, Never Removed from your graveyard.
+Hordes you control have first strike.
+[0]: Spawn 2. [i](Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+[-2]: Exile target nonland permanent. => You may cast Herobrine from your graveyard by discarding a card in addition to its other costs.
+Hordes you control have menace.
+[0]: Spawn 3. [i](Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+[-2]: Exile target nonland permanent.
+special_text: You may cast Herobrine, Never Removed from your graveyard.
+Hordes you control have first strike.
+[0]: Spawn 2. [i](Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+[-2]: Exile target nonland permanent. => You may cast Herobrine from your graveyard by discarding a card in addition to its other costs.
+Hordes you control have menace.
+[0]: Spawn 3. [i](Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+[-2]: Exile target nonland permanent.
+
+Neverending Spawn
+
+Evoker
+rules_text: Whenever a land you control enters or a land card is put into your graveyard from anywhere, create a 2/1 blue and red Spirit creature token with haste, decayed, and “This creature can't be blocked.” This ability only triggers once each turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Whenever a land you control enters or a land card is put into your graveyard from anywhere, create a 2/1 blue and red Spirit creature token with haste, decayed, and “This creature can't be blocked.” [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Village Weaponsmith
+rules_text: At the beginning of combat on your turn, target creature gets +1/+0 and gains trample until end of turn. => At the beginning of combat on your turn, target creature gets +1/+0 and gains haste and trample until end of turn.
+
+Ink Squids
+pt: 4/4 => 3/4
+
+Sniffer
+rules_text: Vigilance
+When Sniffer enters, mill three cards. You may return a creature, artifact, or land card from your graveyard to your hand. => Vigilance
+When Sniffer enters, mill three cards. You may return a creature, artifact, or land card from your graveyard to your hand. Then, you may shuffle up to three cards from your graveyard into your library.
+
+Enderman
+rules_text: Ward {2}
+Enderman can't be blocked.
+Whenever Enderman deals combat damage to a player, you get 🧱 [i](a brick counter)[/i]. You may reveal card from the top of your library until you reveal a land card. Put that card into your graveyard and the rest on the bottom of your library in a random order. => Ward {2}
+Enderman can't be blocked.
+Whenever Enderman deals combat damage to a player, you get 🧱 [i](a brick counter)[/i]. You may reveal the top card of your library until you reveal a land card. Put that card into your graveyard and the rest on the bottom of your library in a random order.
+
+Village Mason
+rules_text: {T}: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts. => {T}: Add {C}{C}. Spend this mana only to cast artifact spells or to activate abilities.
+
+Gather Experience
+rules_text: [i]Gather[/i] — Draw three cards, then discard two cards, or discard one card if a permanent you control with a mana ability entered this turn. => [i]Gather[/i] — Draw three cards, then discard two cards. If a permanent you control with a mana ability entered this turn, draw three cards, then discard a card instead.
+
+TNT Cannon
+rules_text: {T}: TNT Cannon deals 1 damage to each opponent.
+Whenever you cast a spell, if it's not the first spell you cast this turn, untap TNT Cannon. => {T}: TNT Cannon deals 1 damage to each opponent.
+Whenever a creature you control attacks, untap TNT Cannon.
+
+Claim Land
+rules_text: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, put it onto the battlefield tapped instead. => Search your library for a basic land card, reveal it, and put it into your hand, then shuffle.
+[i]Ferocious[/i] — If you control a creature with power 4 or greater, you may put it onto the battlefield tapped instead.
+
+Bad Omen
+rules_text: Whenever a creature you control dies, put an omen counter on Bad Omen.
+Sacrifice Bad Omen: Amass Villagers 1 for each omen counter on it. Activate only as a sorcery. [i](To amass Villagers 1, put a +1/+1 counter on an Army you control. It's also a Villager. If you don't control an Army, create a 0/0 black Villager Army creature token first.)[/i] => When Bad Omen enters, amass Villagers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Villager. If you don't control an Army, create a 0/0 black Villager Army creature token first.)[/i]
+When a nontoken creature you control dies, return Bad Omen to its owner's hand.
+
+Iron Shovel
+rules_text: Iron Shovel enters with a charge counter on it.
+Equipped creature gets +2/+1. Whenever it attacks, you may remove a charge counter from Iron Shovel. If you do, destroy target artifact or enchantment.
+Equip {2} => Iron Shovel enters with a charge counter on it.
+Equipped creature gets +2/+1 and has “Whenever this creature attacks, you may remove a charge counter from Iron Shovel. When you do, destroy target artifact or enchantment.”
+Equip {2}
+
+Enclosure Evasion
+rules_text: Kicker {4} [i](You may pay an additional {4} as you cast this spell.)[/i]
+Create a 3/3 green Ox creature token. If this spell was kicked, create one of this token for each artifact you control instead. => Kicker {4} [i](You may pay an additional {4} as you cast this spell.)[/i]
+Create a 3/3 green Ox creature token. If this spell was kicked, create an additional one of this token for each artifact you control.
+
+Pigstep Music Disc
+rules_text: Hordes you control get +2/+2 and have trample.
+Cycling {1}{R} [i]({1}{R}, Discard this card: Draw a card.)[/i]
+When you cycle Pigstep Music Disc, Hordes you control get +2/+0 until end of turn. => Hordes you control enter with two additional +1/+1 counters on them and have trample.
+Cycling {1}{R} [i]({1}{R}, Discard this card: Draw a card.)[/i]
+When you cycle Pigstep Music Disc, Hordes you control get +2/+0 until end of turn.
+
+Moody Weather
+rules_text: {1}{G}, Discard a card: Spawn 4. [i](Create a 4/4 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+[i]Ferocious[/i] — Whenever a creature you control with power 4 or more dies, you may draw a card. => {1}{G}, Discard a card: Spawn 4. Activate only as a sorcery. [i](To spawn 4, create a 4/4 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+[i]Ferocious[/i] — Whenever a creature you control with power 4 or more dies, you may draw a card.
+
+Pig Herd
+rules_text: Whenever another creature you control with power greater than Pig Herd enters, put a +1/+1 counter on Pig Herd. => Whenever another creature you control with power or toughness greater than Pig Herd enters, put a +1/+1 counter on Pig Herd.
+
+Enchanting Table
+rules_text: {2}, {T}, Sacrifice a creature: Draw a card and put an experience counter on Enchanting Table.
+{2}, {T}, Remove X experience counters from Enchanting Table: Put X +1/+1 counters on target creature. Activate only as a sorcery. => Whenever a creature you control dies, put an experience counter on Enchanting Table.
+{2}, {T}, Sacrifice a creature: Draw a card.
+{1}, {T}, Remove X experience counters from Enchanting Table: Put X +1/+1 counters on target creature. Activate only as a sorcery.
+
+MIN DRAFT ARCHETYPES
+rules_text: {W}{U}{B} [b]TECHNICAL[/b] Control the board and combo cards to amass value, all in one run of your Function.
+ {W}{B} [b]LIFE[/b] Gain or lose life during your turn to slowly drain your enemies.
+{R}{W}{B} [b]COMBAT [/b]Gear up with counters and Equipment to best your opponent in battle.
+ {B}{R} [b]RAID[/b] Be relentless in your attacks to close the game quickly and gain benefits.
+{B}{R}{G} [b]MONSTERS [/b]Grow an army of monsters for cheap, then wait for night to fall to overwhelm your opponent with them.
+ {R}{G} [b]GREATEST POWER[/b] Buff your creatures to have the biggest, baddest one on the battlefield.
+{G}{U}{R} [b]EXPLORATION [/b]Collect lands in play and in your graveyard, as fast as possible.
+ {G}{U} [b]GATHER[/b] Explore and create Tools to accelerate into late-game threats.
+{G}{W}{U} [b]BUILDING [/b]Slowly build up your Construction, giving you access to more abilities and synergies.
+ {W}{U} [b]ARTIFACTS[/b] Get discounts and bonus abilities for having artifacts under your control. => {W}{U}{B} [b]TECHNICAL[/b] Control the board and combo cards to amass value, all in one run of your Function.
+ {W}{B} [b]SACRIFICE [/b]Use your creatures and artifacts as resources to accumulate value.
+{R}{W}{B} [b]COMBAT [/b]Gear up with counters and Equipment to best your opponent in battle.
+ {B}{R} [b]RAID[/b] Be relentless in your attacks to close the game quickly and gain benefits.
+{B}{R}{G} [b]MONSTERS [/b]Grow an army of monsters for cheap, then wait for night to fall to overwhelm your opponent with them.
+ {R}{G} [b]FEROCIOUS[/b] Buff your creatures to have the biggest, baddest one on the battlefield.
+{G}{U}{R} [b]EXPLORATION [/b]Collect lands in play and in your graveyard, as fast as possible.
+ {G}{U} [b]GATHER[/b] Explore and create Tools to accelerate into late-game threats.
+{G}{W}{U} [b]BUILDING [/b]Slowly build up your Construction, giving you access to more abilities and synergies.
+ {W}{U} [b]ARTIFACTS[/b] Get discounts and bonus abilities for having artifacts under your control.
+
+Desert Camel
+rules_text: Trample
+When Desert Camel enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Desert Camel gets +1/+1 for each land you control. => Trample, vigilance
+When Desert Camel enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Desert Camel gets +1/+1 for each land you control.
+
+Roll Back
+rules_text: Return target noncreature, nonland permanent to its owner's hand.
+Draw a card. => Return target noncreature, nonland permanent to its owner's hand.
+You may shuffle up to three cards from your graveyard into your library.
+Draw a card.
+
+Snow Golem
+rules_text: Whenever Snow Golem becomes tapped, tap another target creature. => Whenever Snow Golem becomes tapped, tap target creature you don't control.
+
+Nest Harvest
+rules_text: Choose one —
+• Destroy target artifact.
+• Discard a card, then draw a card.
+• Create a 1/1 red Insect creature token with flying and “When this creature dies, it deals 1 damage to any target.” => Choose one —
+• Destroy target artifact.
+• Discard a card, then draw two cards.
+• Create a 1/1 red Insect creature token with flying and “When this creature dies, it deals 1 damage to any target.”
+
+Zombie Nautilus
+
+Coral Nautilus
+rules_text: When Coral Nautilus enters, exile up to two target lands you control, then return those cards to the battlefield under their owner's control.
+{4}{U}: Coral Nautilus can't be blocked this turn. => When Coral Nautilus enters, exile up to two target lands you control, then return those cards to the battlefield tapped under their owner's control.
+{4}{U}: Coral Nautilus can't be blocked this turn.
+
+Tadpole Knot
+cost: {5}{U} => {4}{U}{U}
+
+Mapped Access
+type: Enchantment => Enchantment — Aura
+rules_text: Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+{1}: Target land you control becomes the basic land type of your choice.
+As long as you're an explorer, lands you control have “{T}: Draw a card, then discard a card.” => Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+Enchant land you control
+As Mapped Access enters, choose a basic land type.
+Enchanted land is the chosen type in addition to its other types. As long as you're an explorer, it has “{1}, {T}: Draw a card.”
+
+Pierce Through
+rules_text: Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+Target creature gets +3/+3 until end of turn. If you're an explorer, it gains trample until end of turn. Untap it. => Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+Target creature gets +3/+3 until end of turn. If you're an explorer, untap it, and it gains trample until end of turn.
+
+Jungle Parrot
+rules_text: Flying
+At the beginning of your end step, you may pay {2}. If you do, copy a noncreature spell you cast this turn. You may cast the copy without paying its mana cost. => Flying
+At the beginning of your end step, you may pay {3}. If you do, copy a noncreature spell you cast this turn. You may cast the copy without paying its mana cost.
+
+Comfort in Darkness
+rules_text: Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+Draw a card for each creature you control with power 4 or greater. If you're an explorer, draw a card for each creature you control instead. => Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+[i]Ferocious[/i] — Draw a card for each creature you control with power 4 or greater. If you're an explorer, draw a card for each creature you control instead.
+
+Call of the Horde
+rules_text: Target creature and each Horde you control gets +1/+0 and gains haste until end of turn. => Target creature and each other Horde you control gets +1/+0 and gains haste until end of turn.
+
+School of Fish
+cost: {5}{U} => {4}{U}{U}
+
+Deep Dive
+
+Nightly Confrontation
+rules_text: Target creature you control gets +2/+2 until end of turn. If it has power 4 or greater, it fights up to one target creature you don't control. => Target creature you control gets +2/+2 and gains your choice or hexproof or trample until end of turn.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Transport Donkey added.

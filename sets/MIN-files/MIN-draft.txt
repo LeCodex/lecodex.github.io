@@ -3883,7 +3883,7 @@
 		{
 			"name": "Tadpole Knot",
 			"rarity": "special",
-			"mana_cost": "{5}{U}",
+			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Frog",
 			"collector_number": "97",
 			"image_uris": {
@@ -3894,7 +3894,7 @@
 			"name": "Mapped Access",
 			"rarity": "special",
 			"mana_cost": "{U}",
-			"type": "Enchantment",
+			"type": "Enchantment — Aura",
 			"collector_number": "83",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/389.png"
@@ -4023,7 +4023,7 @@
 		{
 			"name": "School of Fish",
 			"rarity": "special",
-			"mana_cost": "{5}{U}",
+			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Fish",
 			"collector_number": "90",
 			"image_uris": {
