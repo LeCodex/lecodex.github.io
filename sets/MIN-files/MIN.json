@@ -173,7 +173,7 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": ""
+            "notes": "Complexity flag"
         },
         {
             "card_name": "Fish",
@@ -467,7 +467,7 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "Creature slot\nGW archetype\nAggro\n!tokens Villager MIN<2>;Golem MIN"
+            "notes": "Creature slot\nGW archetype\nAggro\n!tokens Villager MIN<2>;Golem MIN\nComplexity flag"
         },
         {
             "card_name": "Golem",
@@ -1139,7 +1139,7 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "!tokens Treasure MIN"
+            "notes": "!tokens Treasure MIN\nComplexity flag"
         },
         {
             "card_name": "Curious Axolotl",
@@ -1212,7 +1212,7 @@
             "number": 273,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "[i]Ferocious[/i] \u2014 At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. Then, that creature gains trample until end of turn if you control a creature with power 4 or greater.",
+            "rules_text": "[i]Ferocious[/i] \u2014 At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. If you control a creature with power 4 or greater, that creature gains trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1254,7 +1254,7 @@
             "number": 127,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When Multishot Crossbow enters, attach it to target creature you control.\nEquipped creature gets +2/+1 and has menace.\nEquip {2}",
+            "rules_text": "When Multishot Crossbow enters, attach it to target creature you control.\nEquipped creature gets +1/+1 and has menace.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1296,7 +1296,7 @@
             "number": 192,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "When Soul Speed enters, suit up. [i](You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)[/i]\nWhenever you cast a noncreature spell, put a +1/+1 counter on target creature you control.\nModified creatures you control have haste. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
+            "rules_text": "When Soul Speed enters, suit up. [i](You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)[/i]\nWhenever you cast a noncreature spell, target creature you control gets +1/+1 and gains haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1475,7 +1475,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": "Destruction\nCreature slot\n!tokens Horde MIN"
+            "notes": "Destruction\nCreature slot\n!tokens Horde MIN\nComplexity flag"
         },
         {
             "card_name": "Tamed Cat",
@@ -1706,7 +1706,7 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": "Evasion"
+            "notes": "Evasion\nComplexity flag"
         },
         {
             "card_name": "Cliff Llamas",
@@ -1958,7 +1958,7 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": "Creature slot\nAggro, Evasion\n!tokens Fish MIN"
+            "notes": "Creature slot\nAggro, Evasion\n!tokens Fish MIN\nRework?"
         },
         {
             "card_name": "Zombie Villager",
@@ -1989,7 +1989,7 @@
             "number": 202,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "At the beginning of combat on your turn, target creature gets +1/+0 and gains haste and trample until end of turn.",
+            "rules_text": "At the beginning of combat on your turn, target creature gets +1/+0 and gains your choice of haste or trample until end of turn.",
             "flavor_text": "[i]Swords, axes... They have everything, as long as you have enough emeralds.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2084,7 +2084,7 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": "Creature slot\nAggro\n!tokens Bear MIN"
+            "notes": "Creature slot\nAggro\n!tokens Bear MIN\nComplexity flag"
         },
         {
             "card_name": "Bear",
@@ -2364,7 +2364,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Creature \u2014 Whale",
-            "number": 91,
+            "number": 90,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "{2}: Target creature you control gains flying until end of turn.\nFunction \u2014 Creatures you control can't be blocked this turn. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i]",
@@ -2388,7 +2388,7 @@
             "number": 200,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "When Victory Celebration enters, create a 3/3 red Boar creature token.\nWhenever one or more creature you control deal combat damage to a player, exile the top card of your library. You may play it this turn.",
+            "rules_text": "When Victory Celebration enters, create a 3/3 red Boar creature token.\nWhenever one or more creatures you control deal combat damage to a player, exile the top card of your library. You may play it this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2409,7 +2409,7 @@
             "number": 20,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Whenever an artifact you control enters, put a quest counter on Hero of the Village.\nSacrifice Hero of the Village: Create a 1/1 white Villager creature token for each quest counter on it. Activate only as a sorcery.",
+            "rules_text": "When Hero of the Village enters, create two 1/1 white Villager creature tokens.\nArtifact spells you cast cost {1} less to cast.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2420,7 +2420,7 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": "Creature slot\nBomb\n!tokens Villager MIN<x>"
+            "notes": "Creature slot\n!tokens Villager MIN"
         },
         {
             "card_name": "Kick",
@@ -2441,13 +2441,13 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": "Removal, destruction\nBounce\nKinda generic"
+            "notes": "Removal, destruction\nBounce\nKinda generic\nComplexity flag"
         },
         {
             "card_name": "Time Command",
             "color": "B",
             "rarity": "cube",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 143,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -2483,7 +2483,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "Removal-ish"
+            "notes": "Removal-ish\nComplexity flag"
         },
         {
             "card_name": "Take Inventory",
@@ -2532,7 +2532,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Enchantment \u2014 Aura",
-            "number": 94,
+            "number": 93,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Enchant creature\nEnchanted creature loses all abilities and is a colorless 1/1 Spirit creature. [i](It loses all other colors, card types, and creature types.)[/i]",
@@ -2616,10 +2616,10 @@
             "color": "U",
             "rarity": "cube",
             "type": "Creature \u2014 Turtle",
-            "number": 92,
+            "number": 91,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i]Gather[/i] \u2014 Whenever a permanent you control with a mana ability enters, choose one \u2014\n\u2022 Draw a card, then discard a card.\n\u2022 You get \ud83e\uddf1 [i](a brick counter)[/i].",
+            "rules_text": "[i]Gather[/i] \u2014 Whenever a permanent you control with a mana ability enters, mill a card. You get \ud83e\uddf1 [i](a brick counter)[/i].",
             "flavor_text": "[i]Their scales are used to create potions granting incredible fortitude, but also a powerful slowness.[/i]",
             "pt": "1/4",
             "special_text": "",
@@ -2868,7 +2868,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Creature \u2014 Horse",
-            "number": 84,
+            "number": 83,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
             "rules_text": "Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]\nVigilance\nWhenever Nimble Horse attacks, if you're an explorer, target creature can't be blocked this turn.",
@@ -2903,7 +2903,7 @@
             "alias": "",
             "position": "137",
             "rotated": false,
-            "notes": "Creature slot\nGeneric\nResource"
+            "notes": "Creature slot\nGeneric\nResource\nComplexity flag"
         },
         {
             "card_name": "Insect",
@@ -3302,7 +3302,7 @@
             "alias": "",
             "position": "156",
             "rotated": false,
-            "notes": "Creature slot\nBomb\n!tokens Villager MIN"
+            "notes": "Creature slot\nBomb\n!tokens Villager MIN\nComplexity flag\nRework"
         },
         {
             "card_name": "Third Shriek",
@@ -3323,7 +3323,7 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": "Creature slot\n!tokens Golem Horror MIN"
+            "notes": "Creature slot\n!tokens Golem Horror MIN\nComplexity flag"
         },
         {
             "card_name": "Clearcutting",
@@ -3375,7 +3375,7 @@
             "number": 67,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "Ward {2}\nEnderman can't be blocked.\nWhenever Enderman deals combat damage to a player, you get \ud83e\uddf1 [i](a brick counter)[/i]. You may reveal the top card of your library until you reveal a land card. Put that card into your graveyard and the rest on the bottom of your library in a random order.",
+            "rules_text": "Ward {2}\nEnderman can't be blocked.\nWhenever Enderman deals combat damage to a player, you get \ud83e\uddf1 [i](a brick counter)[/i]. You may draw a card. If you do, discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3410,48 +3410,6 @@
             "notes": "Removal\nRework"
         },
         {
-            "card_name": "Ice Highway",
-            "color": "U",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 73,
-            "color_identity": "U",
-            "cost": "{U}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Route\nReturn target nonland permanent to its owner's hand.\n\ud83e\uddf1\ud83e\uddf1: Build\nIce Highway gains \u201cYou may cast artifact spells as though they had flash.\u201d\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Transport\nCreatures you control get +1/+1 and gain menace and vigilance until end of turn.",
-            "flavor_text": "[i]\u200b[/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Route\nReturn target nonland permanent to its owner's hand.\n\ud83e\uddf1\ud83e\uddf1: Build\nIce Highway gains \u201cYou may cast artifact spells as though they had flash.\u201d\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Transport\nCreatures you control get +1/+1 and gain menace and vigilance until end of turn.",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "162",
-            "rotated": false,
-            "notes": "Bounce, anthem\nDestruction, removal\nUB archetype\n!tokens Brick Reserve MIN"
-        },
-        {
-            "card_name": "Shore Lighthouse",
-            "color": "G",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 244,
-            "color_identity": "G",
-            "cost": "{G}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Locate\nSearch your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n\ud83e\uddf1\ud83e\uddf1: Jump\nPut a reach and two +1/+1 counters on target creature.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Light\nShore Lighthouse gains \u201cWhenever a land you control enters, proliferate.\u201d [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Locate\nSearch your library for a basic land card, put it onto the battlefield tapped, then shuffle.\n\ud83e\uddf1\ud83e\uddf1: Jump\nPut a reach and two +1/+1 counters on target creature.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Light\nShore Lighthouse gains \u201cWhenever a land you control enters, proliferate.\u201d [i](To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "163",
-            "rotated": false,
-            "notes": "!tokens Brick Reserve MIN"
-        },
-        {
             "card_name": "Village Mason",
             "color": "U",
             "rarity": "cube",
@@ -3468,7 +3426,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "164",
+            "position": "162",
             "rotated": false,
             "notes": "Creature slot\nMana dork, resource"
         },
@@ -3480,7 +3438,7 @@
             "number": 69,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i]Gather[/i] \u2014 Draw three cards, then discard two cards. If a permanent you control with a mana ability entered this turn, draw three cards, then discard a card instead.",
+            "rules_text": "[i]Gather[/i] \u2014 Draw three cards, then discard two cards. If a permanent you control with a mana ability entered this turn, discard a card instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3489,7 +3447,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "165",
+            "position": "163",
             "rotated": false,
             "notes": "Resource"
         },
@@ -3510,7 +3468,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "166",
+            "position": "164",
             "rotated": false,
             "notes": "Creature slot\nAggro"
         },
@@ -3522,7 +3480,7 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Flash\nWhen Defend the Village enters, create a 3/3 colorless Golem artifact creature token.\nWhenever you activate a mode ability of a Construction you control, return Defend the Village to its owner's hand.",
+            "rules_text": "Flash\nWhen Defend the Village enters, create a 3/3 colorless Golem artifact creature token.\nWhenever you finish a Construction, return Defend the Village to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3531,7 +3489,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "167",
+            "position": "165",
             "rotated": false,
             "notes": "Creature slot\n!tokens Golem MIN"
         },
@@ -3552,7 +3510,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "168",
+            "position": "166",
             "rotated": false,
             "notes": "Resource"
         },
@@ -3573,7 +3531,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "169",
+            "position": "167",
             "rotated": false,
             "notes": "Creature slot\nAdvanc support\nResource\n"
         },
@@ -3594,7 +3552,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "170",
+            "position": "168",
             "rotated": false,
             "notes": "Removal, Destruction\nBounce\nGeneric"
         },
@@ -3615,7 +3573,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "171",
+            "position": "169",
             "rotated": false,
             "notes": "Creature slot\nGeneric\nRemoval"
         },
@@ -3636,7 +3594,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "172",
+            "position": "170",
             "rotated": false,
             "notes": "Creature slot\nRemoval-ish\n!tokens Horde MIN"
         },
@@ -3648,7 +3606,7 @@
             "number": 195,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "{T}: TNT Cannon deals 1 damage to each opponent.\nWhenever a creature you control attacks, untap TNT Cannon.",
+            "rules_text": "{T}: TNT Cannon deals 1 damage to each opponent.\nWhenever one or more creatures you control attack, TNT Cannon deals that much damage to each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3657,7 +3615,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "173",
+            "position": "171",
             "rotated": false,
             "notes": "Generic\nEvasion"
         },
@@ -3678,9 +3636,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "174",
+            "position": "172",
             "rotated": false,
-            "notes": "Ramping, resource, bomb\nGeneral land"
+            "notes": "Ramping, resource, bomb\nGeneral land\nComplexity flag"
         },
         {
             "card_name": "Magma Cube",
@@ -3699,7 +3657,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "175",
+            "position": "173",
             "rotated": false,
             "notes": "Creature slot\nAnthem, aggro\n!tokens Elemental MIN;Explorer MIN"
         },
@@ -3720,7 +3678,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "176",
+            "position": "174",
             "rotated": false,
             "notes": "Generic\nEvasion\nCreature slot"
         },
@@ -3741,7 +3699,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "177",
+            "position": "175",
             "rotated": false,
             "notes": "Bomb"
         },
@@ -3762,7 +3720,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "178",
+            "position": "176",
             "rotated": false,
             "notes": "Creature slot\nGW archetype\nAnthem, Bomb"
         },
@@ -3783,7 +3741,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "179",
+            "position": "177",
             "rotated": false,
             "notes": "Creature slot\nAggro\n!tokens Rabbit MIN"
         },
@@ -3804,7 +3762,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "180",
+            "position": "178",
             "rotated": false,
             "notes": ""
         },
@@ -3825,7 +3783,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "181",
+            "position": "179",
             "rotated": false,
             "notes": "Generic\nResource, Ramping\n!tokens Tool MIN"
         },
@@ -3836,8 +3794,8 @@
             "type": "Artifact",
             "number": 115,
             "color_identity": "B",
-            "cost": "{B}",
-            "rules_text": "When Equipping Station enters, create a tapped Tool token. [i](It's an artifact with \u201c{T}: Add {C}. This mana can't be spent to cast nonartifact spells.\u201d)[/i]\nFunction \u2014 Put a +1/+1 counter on target creature. It gains your choice of deathtouch, lifelink, or menace until end of turn. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i]",
+            "cost": "{1}{B}",
+            "rules_text": "When Equipping Station enters, create a tapped Tool token. [i](It's an artifact with \u201c{T}: Add {C}. This mana can't be spent to cast nonartifact spells.\u201d)[/i]\nFunction \u2014 Put a +1/+1 counter on target creature. It gains deathtouch and lifelink until end of turn. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3846,9 +3804,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "182",
+            "position": "180",
             "rotated": false,
-            "notes": "Resource, Ramping\n!tokens Tool MIN\nRework?"
+            "notes": "Resource, Ramping\n!tokens Tool MIN"
         },
         {
             "card_name": "Isn't It Iron Pick",
@@ -3867,7 +3825,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "183",
+            "position": "181",
             "rotated": false,
             "notes": "Destruction, Ramping\nGeneric\n!tokens Tool MIN"
         },
@@ -3878,7 +3836,7 @@
             "type": "Enchantment",
             "number": 227,
             "color_identity": "G",
-            "cost": "{1}{G}{G}",
+            "cost": "{2}{G}{G}",
             "rules_text": "[i]Ferocious[/i] \u2014 At the beginning of your end step, if you control a creature with power 4 or greater, choose one \u2014\n\u2022 Create a 2/2 green Wolf creature token.\n\u2022 Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -3888,7 +3846,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "184",
+            "position": "182",
             "rotated": false,
             "notes": "Creature slot\nBomb\n!tokens Wolf MIN"
         },
@@ -3909,7 +3867,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "185",
+            "position": "183",
             "rotated": false,
             "notes": ""
         },
@@ -3930,7 +3888,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "186",
+            "position": "184",
             "rotated": false,
             "notes": "Removal-ish\nRework?"
         },
@@ -3951,7 +3909,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "187",
+            "position": "185",
             "rotated": false,
             "notes": "Creature slot\nAggro"
         },
@@ -3972,7 +3930,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "188",
+            "position": "186",
             "rotated": false,
             "notes": "Ramping, resource\nAdvanc support\nGeneric"
         },
@@ -3993,7 +3951,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "189",
+            "position": "187",
             "rotated": false,
             "notes": "Generic\nEvasion\nDual WU"
         },
@@ -4014,7 +3972,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "190",
+            "position": "188",
             "rotated": false,
             "notes": "Destruction\n!tokens Explorer MIN"
         },
@@ -4035,7 +3993,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "191",
+            "position": "189",
             "rotated": false,
             "notes": "Resource"
         },
@@ -4056,9 +4014,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "192",
+            "position": "190",
             "rotated": false,
-            "notes": "Bomb"
+            "notes": "Bomb\nComplexity flag"
         },
         {
             "card_name": "Glare",
@@ -4077,7 +4035,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "193",
+            "position": "191",
             "rotated": false,
             "notes": "Creature slot\nMana dork\nRamping, resource\n!tokens Brick Reserve MIN"
         },
@@ -4098,7 +4056,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "194",
+            "position": "192",
             "rotated": false,
             "notes": "Creature slot\nEvasion"
         },
@@ -4119,7 +4077,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "195",
+            "position": "193",
             "rotated": false,
             "notes": "Creature slot\nBut kinda generic too\nResource, bomb"
         },
@@ -4140,7 +4098,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "196",
+            "position": "194",
             "rotated": false,
             "notes": "Creature slot\nBomb"
         },
@@ -4161,7 +4119,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "197",
+            "position": "195",
             "rotated": false,
             "notes": "Creature slot\nAggro\n!tokens Explorer MIN"
         },
@@ -4182,7 +4140,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "198",
+            "position": "196",
             "rotated": false,
             "notes": "Creature slot\nRamping\nAggro"
         },
@@ -4203,7 +4161,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "199",
+            "position": "197",
             "rotated": false,
             "notes": "Creature slot"
         },
@@ -4224,7 +4182,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "200",
+            "position": "198",
             "rotated": false,
             "notes": "General land, resource\nAdvanc support"
         },
@@ -4245,7 +4203,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "201",
+            "position": "199",
             "rotated": false,
             "notes": "Creature slot\nAggro\n!tokens Villager Army MIN"
         },
@@ -4266,7 +4224,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "202",
+            "position": "200",
             "rotated": false,
             "notes": "Resource, Ramping"
         },
@@ -4275,7 +4233,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Creature \u2014 Fish",
-            "number": 87,
+            "number": 86,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Whenever one or more creatures attack you, target creature gets -1/-0 until end of turn.\nFunction \u2014 Pufferfish has base power and toughness 6/6 until end of turn. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i]",
@@ -4287,7 +4245,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "203",
+            "position": "201",
             "rotated": false,
             "notes": "Creature slot"
         },
@@ -4308,7 +4266,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "204",
+            "position": "202",
             "rotated": false,
             "notes": "Destruction"
         },
@@ -4329,7 +4287,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "205",
+            "position": "203",
             "rotated": false,
             "notes": "Creature slot\nAggro\n!tokens Horde MIN"
         },
@@ -4350,7 +4308,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "206",
+            "position": "204",
             "rotated": false,
             "notes": "!token"
         },
@@ -4371,7 +4329,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "207",
+            "position": "205",
             "rotated": false,
             "notes": "Evasion"
         },
@@ -4392,9 +4350,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "208",
+            "position": "206",
             "rotated": false,
-            "notes": "Creature slot\nKinda generic\nResource, ramping\n!tokens Treasure MIN<2>;Explorer MIN"
+            "notes": "Creature slot\nKinda generic\nResource, ramping\n!tokens Treasure MIN<2>;Explorer MIN\nComplexity flag"
         },
         {
             "card_name": "Enclosure Evasion",
@@ -4413,7 +4371,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "209",
+            "position": "207",
             "rotated": false,
             "notes": "Creature slot\nGeneric\nArt flag\n!tokens Ox MIN<x>"
         },
@@ -4434,7 +4392,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "210",
+            "position": "208",
             "rotated": false,
             "notes": "Bomb"
         },
@@ -4455,7 +4413,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "211",
+            "position": "209",
             "rotated": false,
             "notes": ""
         },
@@ -4467,7 +4425,7 @@
             "number": 137,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Look at the top five cards of your library, put one into your hand, then put the rest on the bottom of your library.\n[i]Raid[/i] \u2014 If you attacked this turn, instead search your library for a card, put it into your hand, then shuffle.",
+            "rules_text": "Look at the top five cards of your library, put one of them into your hand and the rest on the bottom of your library.\n[i]Raid[/i] \u2014 If you attacked this turn, instead search your library for a card, put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4476,7 +4434,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "212",
+            "position": "210",
             "rotated": false,
             "notes": "Resource, bomb"
         },
@@ -4497,7 +4455,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "213",
+            "position": "211",
             "rotated": false,
             "notes": "Creature slot\nResource\n!tokens Horde MIN"
         },
@@ -4518,7 +4476,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "214",
+            "position": "212",
             "rotated": false,
             "notes": "Evasion"
         },
@@ -4539,7 +4497,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "215",
+            "position": "213",
             "rotated": false,
             "notes": "Creature slot\nAggro\n!tokens Villager Army MIN"
         },
@@ -4560,7 +4518,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "216",
+            "position": "214",
             "rotated": false,
             "notes": "Aggro\n!tokens Villager Army MIN"
         },
@@ -4581,7 +4539,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "217",
+            "position": "215",
             "rotated": false,
             "notes": "Removal, Destruction\nGeneric"
         },
@@ -4602,7 +4560,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "218",
+            "position": "216",
             "rotated": false,
             "notes": "Creature slot\nArt flag"
         },
@@ -4623,7 +4581,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "219",
+            "position": "217",
             "rotated": false,
             "notes": "Creature slot\nAggro\n!tokens Villager Army MIN"
         },
@@ -4644,7 +4602,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "220",
+            "position": "218",
             "rotated": false,
             "notes": "Protection"
         },
@@ -4656,7 +4614,7 @@
             "number": 225,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "When Gradual Growth enters, create a tapped Tool token. [i](It's an artifact with \u201c{T}: Add {C}. This mana can't be spent to cast nonartifact spells.\u201d)[/i]\nWhenever you activate a mode ability of a Construction you control, return Gradual Growth to its owner's hand.",
+            "rules_text": "When Gradual Growth enters, create a tapped Tool token. [i](It's an artifact with \u201c{T}: Add {C}. This mana can't be spent to cast nonartifact spells.\u201d)[/i]\nWhenever you finish a Construction, return Gradual Growth to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4665,7 +4623,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "221",
+            "position": "219",
             "rotated": false,
             "notes": "Resource, Ramping\n!tokens Tool MIN"
         },
@@ -4686,9 +4644,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "222",
+            "position": "220",
             "rotated": false,
-            "notes": "Counterspell"
+            "notes": "Counterspell\nComplexity flag"
         },
         {
             "card_name": "11 Music Disc",
@@ -4707,7 +4665,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "223",
+            "position": "221",
             "rotated": false,
             "notes": "Resource"
         },
@@ -4728,7 +4686,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "224",
+            "position": "222",
             "rotated": false,
             "notes": "Resource"
         },
@@ -4749,7 +4707,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "225",
+            "position": "223",
             "rotated": false,
             "notes": "Resource"
         },
@@ -4761,7 +4719,7 @@
             "number": 38,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Whenever you activate a mode ability of a Construction you control, target creature you control gets +2/+2 until end of turn. Untap it.\nCycling {1}{W} [i]({1}{W}, Discard this card: Draw a card.)[/i]\nWhen you cycle Strad Music Disc, you get \ud83e\uddf1 [i](a brick counter)[/i].",
+            "rules_text": "Whenever you finish a Construction, target creature you control gets +2/+2 until end of turn. Untap it.\nCycling {1}{W} [i]({1}{W}, Discard this card: Draw a card.)[/i]\nWhen you cycle Strad Music Disc, you get \ud83e\uddf1 [i](a brick counter)[/i].",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4770,7 +4728,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "226",
+            "position": "224",
             "rotated": false,
             "notes": "Resource\n!tokens Brick Reserve MIN"
         },
@@ -4791,7 +4749,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "227",
+            "position": "225",
             "rotated": false,
             "notes": "Resource"
         },
@@ -4812,9 +4770,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "228",
+            "position": "226",
             "rotated": false,
-            "notes": "Creature slot\nAggro, removal"
+            "notes": "Creature slot\nAggro, removal\nComplexity flag"
         },
         {
             "card_name": "Act of Preservation",
@@ -4833,7 +4791,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "229",
+            "position": "227",
             "rotated": false,
             "notes": "Bomb\nResource\n!tokens Brick Reserve MIN"
         },
@@ -4854,7 +4812,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "230",
+            "position": "228",
             "rotated": false,
             "notes": "Creature slot\nRemoval, destruction\nGeneric\nBomb"
         },
@@ -4875,7 +4833,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "231",
+            "position": "229",
             "rotated": false,
             "notes": "Evasion"
         },
@@ -4896,7 +4854,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "232",
+            "position": "230",
             "rotated": false,
             "notes": "Generic\nAggro"
         },
@@ -4917,7 +4875,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "233",
+            "position": "231",
             "rotated": false,
             "notes": "Creature slot\n!tokens Horde MIN"
         },
@@ -4926,7 +4884,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Instant",
-            "number": 86,
+            "number": 85,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Counter target spell unless its controller pays {2}. If they do, you get \ud83e\uddf1 [i](a brick counter)[/i] and surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
@@ -4938,7 +4896,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "234",
+            "position": "232",
             "rotated": false,
             "notes": "Counterspell\n!tokens Brick Reserve MIN"
         },
@@ -4947,10 +4905,10 @@
             "color": "U",
             "rarity": "cube",
             "type": "Enchantment",
-            "number": 88,
+            "number": 87,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "When Resource Organization enters, draw two cards, then discard a card.\nWhenever you activate a mode ability of a Construction you control, return Resource Organization to its owner's hand.",
+            "rules_text": "When Resource Organization enters, draw two cards, then discard a card.\nWhenever you finish a Construction, return Resource Organization to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4959,7 +4917,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "235",
+            "position": "233",
             "rotated": false,
             "notes": "Resource"
         },
@@ -4971,7 +4929,7 @@
             "number": 150,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Menace\nWhenever another creature you control dies, spawn 2. [i](Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]",
+            "rules_text": "Menace\nWhenever another nontoken creature you control dies, spawn 2. [i](Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -4980,7 +4938,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "236",
+            "position": "234",
             "rotated": false,
             "notes": "Creature slot\nAggro\n!tokens Horde MIN"
         },
@@ -5001,7 +4959,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "237",
+            "position": "235",
             "rotated": false,
             "notes": "Removal-ish"
         },
@@ -5022,7 +4980,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "238",
+            "position": "236",
             "rotated": false,
             "notes": "Creature slot\nAggro"
         },
@@ -5043,9 +5001,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "239",
+            "position": "237",
             "rotated": false,
-            "notes": "Resource, Ramping\n!tokens Villager MIN<2>;Treasure MIN"
+            "notes": "Resource, Ramping\n!tokens Villager MIN<2>;Treasure MIN\nComplexity flag"
         },
         {
             "card_name": "Collect",
@@ -5064,7 +5022,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "240",
+            "position": "238",
             "rotated": false,
             "notes": "Advanc support"
         },
@@ -5085,7 +5043,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "241",
+            "position": "239",
             "rotated": false,
             "notes": "Creature slot\n!tokens Golem MIN;Treasure MIN<2>"
         },
@@ -5106,7 +5064,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "242",
+            "position": "240",
             "rotated": false,
             "notes": "Creature slot\nGeneric\nBomb, aggro"
         },
@@ -5127,7 +5085,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "243",
+            "position": "241",
             "rotated": false,
             "notes": "Aggro\nEvasion\n!tokens Villager MIN<x>"
         },
@@ -5148,7 +5106,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "244",
+            "position": "242",
             "rotated": false,
             "notes": "Removal"
         },
@@ -5169,7 +5127,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "245",
+            "position": "243",
             "rotated": false,
             "notes": "Resource\nCreature slot"
         },
@@ -5190,7 +5148,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "246",
+            "position": "244",
             "rotated": false,
             "notes": "Ramping\nResource\n!tokens Treasure MIN"
         },
@@ -5211,7 +5169,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "247",
+            "position": "245",
             "rotated": false,
             "notes": "Creature slot\nArt flag\nBomb"
         },
@@ -5232,7 +5190,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "248",
+            "position": "246",
             "rotated": false,
             "notes": "Creature slot\n!tokens Villager MIN;Golem MIN"
         },
@@ -5253,7 +5211,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "249",
+            "position": "247",
             "rotated": false,
             "notes": "Resource"
         },
@@ -5274,7 +5232,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "250",
+            "position": "248",
             "rotated": false,
             "notes": "Resource"
         },
@@ -5295,7 +5253,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "251",
+            "position": "249",
             "rotated": false,
             "notes": "Creature slot"
         },
@@ -5307,7 +5265,7 @@
             "number": 285,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
-            "rules_text": "World Eater enters tapped.\nWhen World Eater enters, choose a nonland card type and exile up to one target permanent of that type. For each other card type, exile up to one target card of that type from a graveyard.\n{T}: Add {C}. If there are four or more cards exiled with World Eater, add {C}{C} instead. This mana can't be spent to cast nonartifact spells.",
+            "rules_text": "World Eater enters tapped.\nWhen World Eater enters, exile up to one target nonland permanent. For each card type it isn't, exile up to one target card of that type from a graveyard.\n{T}: Add {C}. If there are four or more cards exiled with World Eater, add {C}{C} instead. This mana can't be spent to cast nonartifact spells.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5316,9 +5274,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "252",
+            "position": "250",
             "rotated": false,
-            "notes": "!tapped\nWhenever you activate an ability that isn't a mana ability, you may pay 2. If you do, copy that ability. You may choose new targets for the copy.\nBomb, ramping, removal, destruction"
+            "notes": "!tapped\nWhenever you activate an ability that isn't a mana ability, you may pay 2. If you do, copy that ability. You may choose new targets for the copy.\nBomb, ramping, removal, destruction\nComplexity flag"
         },
         {
             "card_name": "Iceologer",
@@ -5328,7 +5286,7 @@
             "number": 268,
             "color_identity": "URG",
             "cost": "{1}{G}{U}{R}",
-            "rules_text": "When Iceologer enters, mill four cards. When you do, choose one for each land card in your graveyard. You may choose the same mode more than once.\n\u2022 Tap target nonland permanent and put a stun counter on it.\n\u2022 Exile the top card of your library. You may play it until the end of your next turn.",
+            "rules_text": "When Iceologer enters, mill three cards. When you do, choose one for each land card in your graveyard. You may choose the same mode more than once.\n\u2022 Tap target nonland permanent and put a stun counter on it.\n\u2022 Exile the top card of your library. You may play it until the end of your next turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5337,9 +5295,9 @@
             "loyalty": "",
             "artist": "Mojang, Double Eleven",
             "alias": "",
-            "position": "253",
+            "position": "251",
             "rotated": false,
-            "notes": "Creature slot\nBomb\nRemoval"
+            "notes": "Creature slot\nBomb\nRemoval\nComplexity flag?"
         },
         {
             "card_name": "Trail Ruins",
@@ -5358,7 +5316,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "254",
+            "position": "252",
             "rotated": false,
             "notes": "Bomb, aggro, ramping\n!tokens Explorer MIN;Treasure MIN"
         },
@@ -5379,7 +5337,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "255",
+            "position": "253",
             "rotated": false,
             "notes": ""
         },
@@ -5400,7 +5358,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "256",
+            "position": "254",
             "rotated": false,
             "notes": ""
         },
@@ -5421,7 +5379,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "257",
+            "position": "255",
             "rotated": false,
             "notes": ""
         },
@@ -5442,7 +5400,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "258",
+            "position": "256",
             "rotated": false,
             "notes": "Bomb\nCreature slot\n!tokens Zombie MIN"
         },
@@ -5463,7 +5421,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "259",
+            "position": "257",
             "rotated": false,
             "notes": "Creature slot\nAggro\n!tokens Skeleton Warrior MIN"
         },
@@ -5484,7 +5442,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "260",
+            "position": "258",
             "rotated": false,
             "notes": ""
         },
@@ -5505,7 +5463,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "261",
+            "position": "259",
             "rotated": false,
             "notes": "Resource\nDestruction\n!tokens Tool MIN"
         },
@@ -5526,9 +5484,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "262",
+            "position": "260",
             "rotated": false,
-            "notes": "Creature slot\nResource\n!tokens Human MIN"
+            "notes": "Creature slot\nResource\n!tokens Human MIN\nComplexity flag"
         },
         {
             "card_name": "Beast",
@@ -5547,7 +5505,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "263",
+            "position": "261",
             "rotated": false,
             "notes": ""
         },
@@ -5568,7 +5526,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "264",
+            "position": "262",
             "rotated": false,
             "notes": "Resource"
         },
@@ -5589,7 +5547,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "265",
+            "position": "263",
             "rotated": false,
             "notes": "Generic\nRemoval"
         },
@@ -5610,7 +5568,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "266",
+            "position": "264",
             "rotated": false,
             "notes": "Creature slot\nBomb, resource\n!tokens Cat MIN<x>"
         },
@@ -5631,7 +5589,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "267",
+            "position": "265",
             "rotated": false,
             "notes": ""
         },
@@ -5643,7 +5601,7 @@
             "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "{1}{W}: Mesa Wolf becomes a Dog with base power and toughness 3/3.\n{2}{W}: If Mesa Wolf is a Dog, put a +1/+1 counter on it. You gain 2 life.",
+            "rules_text": "{1}{W}: Mesa Wolf becomes a Dog with base power and toughness 3/3.\n{2}{W}: If Mesa Wolf is a Dog, put a +1/+1 counter on it. You gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -5652,7 +5610,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "268",
+            "position": "266",
             "rotated": false,
             "notes": "Creature slot\nRework"
         },
@@ -5673,7 +5631,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "269",
+            "position": "267",
             "rotated": false,
             "notes": "Generic\nBomb\nRework"
         },
@@ -5682,7 +5640,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Sorcery",
-            "number": 85,
+            "number": 84,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "You get \ud83e\uddf1\ud83e\uddf1 [i](two brick counters)[/i], then choose one \u2014\n\u2022 Exile target artifact you control, then return that card to the battlefield under your control.\n\u2022 Draw a card.",
@@ -5694,7 +5652,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "270",
+            "position": "268",
             "rotated": false,
             "notes": "Resource\n!tokens Brick Reserve MIN"
         },
@@ -5715,7 +5673,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "271",
+            "position": "269",
             "rotated": false,
             "notes": "Creature slot\nAggro\n!tokens Bird MIN"
         },
@@ -5736,7 +5694,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "272",
+            "position": "270",
             "rotated": false,
             "notes": "Removal\nWrath"
         },
@@ -5757,7 +5715,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "273",
+            "position": "271",
             "rotated": false,
             "notes": "Destruction\nGeneric"
         },
@@ -5778,7 +5736,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "274",
+            "position": "272",
             "rotated": false,
             "notes": ""
         },
@@ -5799,7 +5757,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "275",
+            "position": "273",
             "rotated": false,
             "notes": "Creature slot\nEvasion"
         },
@@ -5820,9 +5778,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "276",
+            "position": "274",
             "rotated": false,
-            "notes": "Creature slot\nGeneric\nResource\n!tokens Explorer MIN"
+            "notes": "Creature slot\nGeneric\nResource\n!tokens Explorer MIN\nRework"
         },
         {
             "card_name": "Shy Armadillo",
@@ -5841,7 +5799,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "277",
+            "position": "275",
             "rotated": false,
             "notes": "Creature slot"
         },
@@ -5862,7 +5820,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "278",
+            "position": "276",
             "rotated": false,
             "notes": "Resource\nCreature slot\n!tokens Horde MIN"
         },
@@ -5883,7 +5841,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "279",
+            "position": "277",
             "rotated": false,
             "notes": ""
         },
@@ -5904,240 +5862,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "280",
+            "position": "278",
             "rotated": false,
             "notes": ""
-        },
-        {
-            "card_name": "Beacon Platform",
-            "color": "W",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 2,
-            "color_identity": "W",
-            "cost": "{W}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1, {T}: Haste\nDestroy target artifact or enchantment.\n\ud83e\uddf1\ud83e\uddf1, {T}: Resistance\nUntap each other artifact and each other creature you control.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1, {T} Strength\nBeacon Platform gains \u201cCreatures you control get +2/+2.\u201d",
-            "flavor_text": "[i][i]({X}: You get X brick counters.)[/i]\n[i]({T}: Activate a floor ability you haven't activated yet, in any order, only as a sorcery.)[/i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1, {T}: Haste\nDestroy target artifact or enchantment.\n\ud83e\uddf1\ud83e\uddf1, {T}: Resistance\nUntap each other artifact and each other creature you control.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1, {T} Strength\nBeacon Platform gains \u201cCreatures you control get +2/+2.\u201d",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "281",
-            "rotated": false,
-            "notes": "Anthem, destruction\nGW archetype\n!tokens Brick Reserve MIN"
-        },
-        {
-            "card_name": "Faction Base",
-            "color": "W",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 16,
-            "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Stocks\nYou gain 5 life and draw a card.\n\ud83e\uddf1\ud83e\uddf1: Weapons\nTarget creature you control gains indestructible and vigilance until your next turn.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Obsidian\nFaction Base gains \u201cOther artifacts you control have indestructible.\u201d",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Stocks\nYou gain 5 life and draw a card.\n\ud83e\uddf1\ud83e\uddf1: Weapons\nTarget creature you control gains indestructible and vigilance until your next turn.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Obsidian\nFaction Base gains \u201cOther artifacts you control have indestructible.\u201d",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "282",
-            "rotated": false,
-            "notes": "!tokens Brick Reserve MIN"
-        },
-        {
-            "card_name": "Town Square",
-            "color": "W",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 41,
-            "color_identity": "W",
-            "cost": "{W}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Populate\nCreate a 1/1 white Villager creature token. Scry 1.\n\ud83e\uddf1\ud83e\uddf1: Trade\nCreate a Food token. Scry 1.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Protect\nCreate a 3/3 colorless Golem artifact creature.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Populate\nCreate a 1/1 white Villager creature token. Scry 1.\n\ud83e\uddf1\ud83e\uddf1: Trade\nCreate a Food token. Scry 1.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Protect\nCreate a 3/3 colorless Golem artifact creature.",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "283",
-            "rotated": false,
-            "notes": "Creature slot\nGW archetype\n!tokens Villager MIN;Food MIN;Golem MIN;Brick Reserve MIN"
-        },
-        {
-            "card_name": "Watchful Outpost",
-            "color": "W",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 51,
-            "color_identity": "W",
-            "cost": "{W}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Survey\nSearch your library for a basic Plains card, reveal it, put it into your hand, then shuffle. You gain 2 life.\n\ud83e\uddf1\ud83e\uddf1: Improve\nReturn target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Inhabit\nCreate a 1/1 Villager creature token for each Plains you control.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Survey\nSearch your library for a basic Plains card, reveal it, put it into your hand, then shuffle. You gain 2 life.\n\ud83e\uddf1\ud83e\uddf1: Improve\nReturn target artifact or creature card with mana value 3 or less from your graveyard to the battlefield.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Inhabit\nCreate a 1/1 Villager creature token for each Plains you control.",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "284",
-            "rotated": false,
-            "notes": "!tokens Villager MIN;Brick Reserve MIN\nCreature slot"
-        },
-        {
-            "card_name": "Clocktower",
-            "color": "U",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 56,
-            "color_identity": "U",
-            "cost": "{1}{U}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Design\nSearch your library for an artifact card with mana value 2 or less, reveal it, put it into your hand, then shuffle.\n\ud83e\uddf1\ud83e\uddf1: Build\nThe owner of another target nonland permanent puts it on the top or bottom of their library.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Wind Up\nShuffle your hand into your library, then draw X cards.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Design\nSearch your library for an artifact card with mana value 2 or less, reveal it, put it into your hand, then shuffle.\n\ud83e\uddf1\ud83e\uddf1: Build\nThe owner of another target nonland permanent puts it on the top or bottom of their library.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Wind Up\nShuffle your hand into your library, then draw X cards.",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "285",
-            "rotated": false,
-            "notes": "Removal,destruction\n!tokens Brick Reserve MIN"
-        },
-        {
-            "card_name": "Spleef Arena",
-            "color": "U",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 95,
-            "color_identity": "U",
-            "cost": "{U}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Snow\nTarget creature gets -3/-0 for as long as you control Spleef Arena.\n\ud83e\uddf1\ud83e\uddf1: Shovels\nTap up to two target creatures. Put a stun counter on each of them.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Prize\nDraw a card for each tapped creature target opponent controls.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Snow\nTarget creature gets -3/-0 for as long as you control Spleef Arena.\n\ud83e\uddf1\ud83e\uddf1: Shovels\nTap up to two target creatures. Put a stun counter on each of them.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Prize\nDraw a card for each tapped creature target opponent controls.",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "286",
-            "rotated": false,
-            "notes": "Evasion, removal\n!tokens Brick Reserve MIN"
-        },
-        {
-            "card_name": "Storage System",
-            "color": "U",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 96,
-            "color_identity": "U",
-            "cost": "{1}{U}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Items\nDraw two cards, then discard a card.\n\ud83e\uddf1\ud83e\uddf1: Hoppers\nReturn target instant or sorcery card from your graveyard to your hand.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Chests\nStorage System gains \u201cWhenever you draw a card, put a +1/+1 counter on target creature you control.\u201d",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Items\nDraw two cards, then discard a card.\n\ud83e\uddf1\ud83e\uddf1: Hoppers\nReturn target instant or sorcery card from your graveyard to your hand.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Chests\nStorage System gains \u201cWhenever you draw a card, put a +1/+1 counter on target creature you control.\u201d",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "287",
-            "rotated": false,
-            "notes": "!tokens Brick Reserve MIN"
-        },
-        {
-            "card_name": "Archery Range",
-            "color": "G",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 209,
-            "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Targets\nCreate a 3/3 green Ox creature token.\n\ud83e\uddf1\ud83e\uddf1: Aim\nTarget creature you control gets +2/+0 until end of turn, then deals damage equal to its power to another target creature.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Restock\nArchery Range gains \u201cWhenever you attack or block with one or more creatures, put a +1/+1 counter on each of them.\u201d",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Targets\nCreate a 3/3 green Ox creature token.\n\ud83e\uddf1\ud83e\uddf1: Aim\nTarget creature you control gets +2/+0 until end of turn, then deals damage equal to its power to another target creature.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Restock\nArchery Range gains \u201cWhenever you attack or block with one or more creatures, put a +1/+1 counter on each of them.\u201d",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "u/PiCO_109",
-            "alias": "",
-            "position": "288",
-            "rotated": false,
-            "notes": "Removal\n!tokens Ox MIN;Brick Reserve MIN"
-        },
-        {
-            "card_name": "Deep Mine",
-            "color": "G",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 217,
-            "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Stone\nMill four cards. You may put a permanent card from among the cards milled this way into your hand.\n\ud83e\uddf1\ud83e\uddf1: Caves\nCreate two 2/2 black Zombie creature tokens.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Ores\nAdd three mana in any combination of colors.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Stone\nMill four cards. You may put a permanent card from among the cards milled this way into your hand.\n\ud83e\uddf1\ud83e\uddf1: Caves\nCreate two 2/2 black Zombie creature tokens.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Ores\nAdd three mana in any combination of colors.",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "289",
-            "rotated": false,
-            "notes": "Ramping\nResource\n!tokens Zombie MIN<2>;Brick Reserve MIN"
-        },
-        {
-            "card_name": "Wood Camp",
-            "color": "G",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 255,
-            "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Campfire\nDestroy target artifact or enchantment.\n\ud83e\uddf1\ud83e\uddf1: Tents\nReturn target card from your graveyard to your hand.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Beds\nUntap each creature you control. They gain indestructible and hexproof until the beginning of your next turn.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Campfire\nDestroy target artifact or enchantment.\n\ud83e\uddf1\ud83e\uddf1: Tents\nReturn target card from your graveyard to your hand.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Beds\nUntap each creature you control. They gain indestructible and hexproof until the beginning of your next turn.",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "290",
-            "rotated": false,
-            "notes": "Resource\nProtection\nDestruction\n!tokens Brick Reserve MIN"
-        },
-        {
-            "card_name": "Central Map",
-            "color": "WUG",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 260,
-            "color_identity": "WUG",
-            "cost": "{G}{W}{U}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Plan Out\nUntap each other artifact you control.\n\ud83e\uddf1\ud83e\uddf1: Begin\nReveal the top four cards of your library. Put any number of creature, land, and artifact cards from among them into your hand, then put the rest into your graveyard.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Embellish\nExile any number of other target Constructions you control, then return them to the battlefield under your control.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n\ud83e\uddf1: Plan Out\nUntap each other artifact you control.\n\ud83e\uddf1\ud83e\uddf1: Begin\nReveal the top four cards of your library. Put any number of creature, land, and artifact cards from among them into your hand, then put the rest into your graveyard.\n\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1: Embellish\nExile any number of other target Constructions you control, then return them to the battlefield under your control.",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "291",
-            "rotated": false,
-            "notes": "!tokens Brick Reserve MIN\nResource, blink\nRework"
         },
         {
             "card_name": "Blowing Breeze",
@@ -6156,9 +5883,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "292",
+            "position": "279",
             "rotated": false,
-            "notes": "Evasion, removal\nCreature slot\nBomb"
+            "notes": "Evasion, removal\nCreature slot\nBomb\nComplexity flag"
         },
         {
             "card_name": "Elemental",
@@ -6177,7 +5904,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "293",
+            "position": "280",
             "rotated": false,
             "notes": ""
         },
@@ -6198,7 +5925,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "294",
+            "position": "281",
             "rotated": false,
             "notes": "Resource"
         },
@@ -6219,7 +5946,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "295",
+            "position": "282",
             "rotated": false,
             "notes": "Creature slot"
         },
@@ -6240,7 +5967,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "296",
+            "position": "283",
             "rotated": false,
             "notes": ""
         },
@@ -6261,7 +5988,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "297",
+            "position": "284",
             "rotated": false,
             "notes": ""
         },
@@ -6282,7 +6009,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "298",
+            "position": "285",
             "rotated": false,
             "notes": ""
         },
@@ -6303,7 +6030,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "299",
+            "position": "286",
             "rotated": false,
             "notes": ""
         },
@@ -6324,7 +6051,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "300",
+            "position": "287",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -6345,7 +6072,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "301",
+            "position": "288",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -6366,7 +6093,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "302",
+            "position": "289",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -6378,7 +6105,7 @@
             "number": 332,
             "color_identity": "WUG",
             "cost": "",
-            "rules_text": "Impressive Build enters tapped unless you control a Forest, a Plains, and an Island.\nWhen Impressive Build enters untapped, you may exile target Construction you control, then return that card to the battlefield under your control.\n{T}: Add {G}, {W}, or {U}.",
+            "rules_text": "Impressive Build enters tapped unless you control a Forest, a Plains, and an Island.\nWhen Impressive Build enters untapped, untap all Constructions you control.\n{T}: Add {G}, {W}, or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6387,7 +6114,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "303",
+            "position": "290",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -6408,7 +6135,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "304",
+            "position": "291",
             "rotated": false,
             "notes": "Resource\n!tokens Brick Reserve MIN"
         },
@@ -6429,7 +6156,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "305",
+            "position": "292",
             "rotated": false,
             "notes": "Resource"
         },
@@ -6441,7 +6168,7 @@
             "number": 178,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Netherite Excavation enters with a gear counter on it.\nWhenever you cast your second spell each turn, put a gear counter on Netherite Excavation.\nDuring your turn, creatures you control get +1/+0 for each gear counter on Netherite Excavation.",
+            "rules_text": "Whenever Netherite Excavation enters or you sacrifice a permanent, put a gear counter on Netherite Excavation.\nDuring your turn, creatures you control get +1/+0 for each gear counter on Netherite Excavation.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6450,7 +6177,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "306",
+            "position": "293",
             "rotated": false,
             "notes": "Resource, aggro"
         },
@@ -6471,7 +6198,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "307",
+            "position": "294",
             "rotated": false,
             "notes": "Creature slot, aggro\nRemoval"
         },
@@ -6492,7 +6219,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "308",
+            "position": "295",
             "rotated": false,
             "notes": "Creature slot, aggro"
         },
@@ -6504,7 +6231,7 @@
             "number": 6,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Copper Golem enters with two +1/+1 counters on it.\n{T}, Remove a +1/+1 counter from Copper Golem: Untap another target artifact or creature. If it's not an artifact, put a +1/+1 counter on it. Activate only as a sorcery.",
+            "rules_text": "Copper Golem enters with two +1/+1 counters on it.\n{T}, Remove a +1/+1 counter from Copper Golem: Untap another target artifact or creature. If it's a creature, put a +1/+1 counter on it. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -6513,9 +6240,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "309",
+            "position": "296",
             "rotated": false,
-            "notes": "Creature slot, resource"
+            "notes": "Creature slot, resource\nRework"
         },
         {
             "card_name": "Elder Guardian",
@@ -6534,7 +6261,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "310",
+            "position": "297",
             "rotated": false,
             "notes": "Creature slot\nEvasion"
         },
@@ -6555,7 +6282,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "311",
+            "position": "298",
             "rotated": false,
             "notes": "Creature slot"
         },
@@ -6576,7 +6303,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "312",
+            "position": "299",
             "rotated": false,
             "notes": "Creature slot, evasion, aggro, resource, advanc support"
         },
@@ -6585,7 +6312,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Creature \u2014 Elemental",
-            "number": 93,
+            "number": 92,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Shulker has hexproof as long as you control two or more artifacts.\nWhenever Shulker attacks, another target creature gains flying and can only block creatures with flying until end of turn.",
@@ -6597,7 +6324,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "313",
+            "position": "300",
             "rotated": false,
             "notes": "Creature slot, evasion\nProtection"
         },
@@ -6618,7 +6345,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "314",
+            "position": "301",
             "rotated": false,
             "notes": "Creature slot, evasion"
         },
@@ -6639,7 +6366,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "315",
+            "position": "302",
             "rotated": false,
             "notes": "Creature slot"
         },
@@ -6660,7 +6387,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "316",
+            "position": "303",
             "rotated": false,
             "notes": "Creature slot\nRamping, bomb\nResource\nEvasion"
         },
@@ -6681,7 +6408,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "317",
+            "position": "304",
             "rotated": false,
             "notes": "Creature slot, evasion, bomb\nRework?"
         },
@@ -6702,7 +6429,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "318",
+            "position": "305",
             "rotated": false,
             "notes": "Creature slot, aggro\n!tokens Tool MIN"
         },
@@ -6723,7 +6450,7 @@
             "loyalty": "",
             "artist": "Slamacow",
             "alias": "",
-            "position": "319",
+            "position": "306",
             "rotated": false,
             "notes": "Creature slot\nEvasion\n!tokens Bird MIN"
         },
@@ -6744,7 +6471,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "320",
+            "position": "307",
             "rotated": false,
             "notes": ""
         },
@@ -6765,7 +6492,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "321",
+            "position": "308",
             "rotated": false,
             "notes": ""
         },
@@ -6786,7 +6513,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "322",
+            "position": "309",
             "rotated": false,
             "notes": ""
         },
@@ -6807,7 +6534,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "323",
+            "position": "310",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -6828,7 +6555,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "324",
+            "position": "311",
             "rotated": false,
             "notes": ""
         },
@@ -6849,7 +6576,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "325",
+            "position": "312",
             "rotated": false,
             "notes": ""
         },
@@ -6870,7 +6597,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "326",
+            "position": "313",
             "rotated": false,
             "notes": ""
         },
@@ -6891,7 +6618,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "327",
+            "position": "314",
             "rotated": false,
             "notes": ""
         },
@@ -6912,7 +6639,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "328",
+            "position": "315",
             "rotated": false,
             "notes": ""
         },
@@ -6933,7 +6660,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "329",
+            "position": "316",
             "rotated": false,
             "notes": ""
         },
@@ -6954,7 +6681,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "330",
+            "position": "317",
             "rotated": false,
             "notes": ""
         },
@@ -6975,7 +6702,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "331",
+            "position": "318",
             "rotated": false,
             "notes": ""
         },
@@ -6996,7 +6723,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "332",
+            "position": "319",
             "rotated": false,
             "notes": ""
         },
@@ -7017,7 +6744,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "333",
+            "position": "320",
             "rotated": false,
             "notes": ""
         },
@@ -7038,7 +6765,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "334",
+            "position": "321",
             "rotated": false,
             "notes": "Protection"
         },
@@ -7059,7 +6786,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "335",
+            "position": "322",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -7080,7 +6807,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "336",
+            "position": "323",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -7101,7 +6828,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "337",
+            "position": "324",
             "rotated": false,
             "notes": "Creature slot\n!tapped\n!tokens Zombie MIN"
         },
@@ -7122,7 +6849,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "338",
+            "position": "325",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -7143,7 +6870,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "339",
+            "position": "326",
             "rotated": false,
             "notes": ""
         },
@@ -7164,7 +6891,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "340",
+            "position": "327",
             "rotated": false,
             "notes": "Destruction"
         },
@@ -7176,8 +6903,8 @@
             "number": 356,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{2}, {T}, Sacrifice The Void: Destroy target nonbasic land an opponent controls. That land's controller may search their library for a basic land card, put it onto the battlefield, then shuffle. You may search your library for a basic land card, put it onto the battlefield, then shuffle.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "{T}: Add {C}.\n{T}: Add {C}{C}. Spend this mana only to activate abilities that aren't mana abilities.",
+            "flavor_text": "[i]An empty world dedicated to creation.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -7185,7 +6912,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "341",
+            "position": "328",
             "rotated": false,
             "notes": ""
         },
@@ -7206,7 +6933,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "342",
+            "position": "329",
             "rotated": false,
             "notes": "!exportname Plains MIN2"
         },
@@ -7227,7 +6954,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "343",
+            "position": "330",
             "rotated": false,
             "notes": "!exportname Island MIN2"
         },
@@ -7248,7 +6975,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "344",
+            "position": "331",
             "rotated": false,
             "notes": "!exportname Swamp MIN2"
         },
@@ -7269,7 +6996,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "345",
+            "position": "332",
             "rotated": false,
             "notes": "!exportname Mountain MIN2"
         },
@@ -7290,7 +7017,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "346",
+            "position": "333",
             "rotated": false,
             "notes": "!exportname Forest MIN2"
         },
@@ -7311,7 +7038,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "347",
+            "position": "334",
             "rotated": false,
             "notes": "!tokens Zombie MIN"
         },
@@ -7332,7 +7059,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "348",
+            "position": "335",
             "rotated": false,
             "notes": "Removal"
         },
@@ -7353,51 +7080,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "349",
+            "position": "336",
             "rotated": false,
             "notes": "Removal\nGeneric"
-        },
-        {
-            "card_name": "Industrial District",
-            "color": "UG",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 270,
-            "color_identity": "UG",
-            "cost": "{G}{U}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n Materials\nDestroy up to one target artifact or enchantment. Create a tapped Tool token. [i](It's an artifact with \u201c{T}: Add {C}. This mana can't be spent to cast nonartifact spells.\u201d)[/i]\n Plots\nReturn target permanent to its owner's hand. If you controlled it, draw a card.\n Farms\nUntap all permanents you control with mana abilities.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n Materials\nDestroy up to one target artifact or enchantment. Create a tapped Tool token. [i](It's an artifact with \u201c{T}: Add {C}. This mana can't be spent to cast nonartifact spells.\u201d)[/i]\n Plots\nReturn target permanent to its owner's hand. If you controlled it, draw a card.\n Farms\nUntap all permanents you control with mana abilities.",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "Mojang Studios",
-            "alias": "",
-            "position": "350",
-            "rotated": false,
-            "notes": "Ramping\nBounce\nResource\nDestruction\n!tokens Brick Reserve MIN;Tool MIN"
-        },
-        {
-            "card_name": "Block Museum",
-            "color": "WU",
-            "rarity": "cube",
-            "type": "Artifact \u2014 Construction",
-            "number": 259,
-            "color_identity": "WU",
-            "cost": "{W}{U}",
-            "rules_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n Defend\nPut a +1/+1 counter on target creature for each artifact you control.\n Fill\nGain control of target noncreature artifact for as long as you control Block Museum.\n Peruse\nYou gain X life and draw X cards. X can't be greater than the number of artifacts you control.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Activate each mode ability once, as a sorcery, in any order.)[/i]\n{1}: You get \ud83e\uddf1 [i](a brick counter)[/i]. Activate only once during each of your turns.\n Defend\nPut a +1/+1 counter on target creature for each artifact you control.\n Fill\nGain control of target noncreature artifact for as long as you control Block Museum.\n Peruse\nYou gain X life and draw X cards. X can't be greater than the number of artifacts you control.",
-            "shape": "class",
-            "set": "MIN",
-            "loyalty": "",
-            "artist": "u/kristen87forever",
-            "alias": "",
-            "position": "351",
-            "rotated": false,
-            "notes": "Resource\n!tokens Brick Reserve MIN"
         },
         {
             "card_name": "Swoop Down",
@@ -7416,7 +7101,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "352",
+            "position": "337",
             "rotated": false,
             "notes": "Removal\nDestruction"
         },
@@ -7437,7 +7122,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "353",
+            "position": "338",
             "rotated": false,
             "notes": "Removal"
         },
@@ -7458,7 +7143,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "354",
+            "position": "339",
             "rotated": false,
             "notes": "Removal\n!tokens Horde MIN"
         },
@@ -7479,7 +7164,7 @@
             "loyalty": "",
             "artist": "YDM",
             "alias": "",
-            "position": "355",
+            "position": "340",
             "rotated": false,
             "notes": "Evasion"
         },
@@ -7500,9 +7185,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "356",
+            "position": "341",
             "rotated": false,
-            "notes": "Creature slot\n!tokens Bat MIN"
+            "notes": "Creature slot\n!tokens Bat MIN\nComplexity flag\nRework"
         },
         {
             "card_name": "Wither Skull",
@@ -7521,7 +7206,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "357",
+            "position": "342",
             "rotated": false,
             "notes": ""
         },
@@ -7533,7 +7218,7 @@
             "number": 63,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i]Gather[/i] \u2014 Whenever a permanent you control with a mana ability enters, you may add {C}{C}. Spend this mana only to activate abilities. Do this only once each turn.",
+            "rules_text": "[i]Gather[/i] \u2014 Whenever a permanent you control with a mana ability enters, untap target artifact or creature. If it's a creature, put a +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -7542,7 +7227,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "358",
+            "position": "343",
             "rotated": false,
             "notes": ""
         },
@@ -7563,7 +7248,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "359",
+            "position": "344",
             "rotated": false,
             "notes": ""
         },
@@ -7584,7 +7269,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "360",
+            "position": "345",
             "rotated": false,
             "notes": "!tokens Golem MIN"
         },
@@ -7605,7 +7290,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "361",
+            "position": "346",
             "rotated": false,
             "notes": ""
         },
@@ -7614,7 +7299,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Instant",
-            "number": 89,
+            "number": 88,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Return target noncreature, nonland permanent to its owner's hand.\nYou may shuffle up to three cards from your graveyard into your library.\nDraw a card.",
@@ -7626,7 +7311,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "362",
+            "position": "347",
             "rotated": false,
             "notes": "Destruction\nBounce\nGeneric"
         },
@@ -7640,14 +7325,14 @@
             "cost": "{3}",
             "rules_text": "Whenever Snow Golem becomes tapped, tap target creature you don't control.",
             "flavor_text": "[i][/i]",
-            "pt": "1/4",
+            "pt": "2/4",
             "special_text": "",
             "shape": "normal",
             "set": "MIN",
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "363",
+            "position": "348",
             "rotated": false,
             "notes": "Creature slot\nEvasion, removal"
         },
@@ -7668,7 +7353,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "364",
+            "position": "349",
             "rotated": false,
             "notes": "Creature slot"
         },
@@ -7689,7 +7374,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "365",
+            "position": "350",
             "rotated": false,
             "notes": ""
         },
@@ -7710,9 +7395,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "366",
+            "position": "351",
             "rotated": false,
-            "notes": "Creature slot\nBomb"
+            "notes": "Creature slot\nBomb\nComplexity flag"
         },
         {
             "card_name": "Pink Sheep",
@@ -7722,7 +7407,7 @@
             "number": 240,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Pink Sheep can't be blocked by more than one creature.\nWhenever Pink Sheep attacks, add X mana of any one color, where X is the number of Constructions you control. Until end of turn, you don't lose this mana as steps and phases end.",
+            "rules_text": "Vigilance\nPink Sheep can't be blocked by more than one creature.\n{T}: Add one mana of any color.",
             "flavor_text": "[i]Their rarity makes them good signs for discovering exotic places.[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -7731,7 +7416,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "367",
+            "position": "352",
             "rotated": false,
             "notes": ""
         },
@@ -7752,7 +7437,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "368",
+            "position": "353",
             "rotated": false,
             "notes": ""
         },
@@ -7773,7 +7458,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "369",
+            "position": "354",
             "rotated": false,
             "notes": ""
         },
@@ -7794,7 +7479,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "370",
+            "position": "355",
             "rotated": false,
             "notes": ""
         },
@@ -7815,7 +7500,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "371",
+            "position": "356",
             "rotated": false,
             "notes": ""
         },
@@ -7836,7 +7521,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "372",
+            "position": "357",
             "rotated": false,
             "notes": ""
         },
@@ -7857,9 +7542,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "373",
+            "position": "358",
             "rotated": false,
-            "notes": "Creature slot\nEvasion"
+            "notes": "Creature slot\nEvasion\nComplexity flag"
         },
         {
             "card_name": "Nest Harvest",
@@ -7878,7 +7563,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "374",
+            "position": "359",
             "rotated": false,
             "notes": "!tokens Insect MIN"
         },
@@ -7899,7 +7584,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "375",
+            "position": "360",
             "rotated": false,
             "notes": "Creature slot\nKinda generic\nAggro"
         },
@@ -7920,7 +7605,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "376",
+            "position": "361",
             "rotated": false,
             "notes": ""
         },
@@ -7941,7 +7626,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "377",
+            "position": "362",
             "rotated": false,
             "notes": ""
         },
@@ -7962,7 +7647,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "378",
+            "position": "363",
             "rotated": false,
             "notes": ""
         },
@@ -7983,7 +7668,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "379",
+            "position": "364",
             "rotated": false,
             "notes": ""
         },
@@ -8004,9 +7689,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "380",
+            "position": "365",
             "rotated": false,
-            "notes": ""
+            "notes": "Rework"
         },
         {
             "card_name": "Wooly Sheep",
@@ -8015,17 +7700,17 @@
             "type": "Creature \u2014 Sheep",
             "number": 256,
             "color_identity": "G",
-            "cost": "{3}{G}",
-            "rules_text": "When Wooly Sheep enters or dies, choose one \u2014\n\u2022 Create a Treasure token.\n\u2022 You may sacrifice a land. If you do, search your library for a basic land card, put it onto the battlefield, then shuffle.",
+            "cost": "{2}{G}",
+            "rules_text": "When Wooly Sheep enters, you may exile three cards from your graveyard. If you do, put two +1/+1 counters on it.\n{T}: Add two mana of any one color.",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "MIN",
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "381",
+            "position": "366",
             "rotated": false,
             "notes": "Creature slot\nRamping, resource\nAdvanc support\n!tokens Treasure MIN"
         },
@@ -8037,7 +7722,7 @@
             "number": 252,
             "color_identity": "G",
             "cost": "{5}{G}",
-            "rules_text": "When Village Butcher enters, pay any number of \ud83e\uddf1. Create a Food token and a 3/3 green Ox creature token, then create a Food token and a 3/3 green Ox creature token for each \ud83e\uddf1 paid this way.",
+            "rules_text": "When Village Butcher enters, pay any number of \ud83e\uddf1. Create a Food token and a 3/3 green Ox creature token, then repeat this process for each \ud83e\uddf1 paid this way.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -8046,7 +7731,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "382",
+            "position": "367",
             "rotated": false,
             "notes": "Creature slot\nAggro\n!tokens Food MIN;Ox MIN"
         },
@@ -8067,7 +7752,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "383",
+            "position": "368",
             "rotated": false,
             "notes": ""
         },
@@ -8088,7 +7773,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "384",
+            "position": "369",
             "rotated": false,
             "notes": ""
         },
@@ -8109,7 +7794,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "385",
+            "position": "370",
             "rotated": false,
             "notes": ""
         },
@@ -8130,9 +7815,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "386",
+            "position": "371",
             "rotated": false,
-            "notes": "Creature slot"
+            "notes": "Creature slot\nComplexity flag"
         },
         {
             "card_name": "Wooly Bull",
@@ -8151,7 +7836,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "387",
+            "position": "372",
             "rotated": false,
             "notes": ""
         },
@@ -8172,19 +7857,19 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "388",
+            "position": "373",
             "rotated": false,
             "notes": "Creature slot\nEvasion"
         },
         {
-            "card_name": "Mapped Access",
+            "card_name": "Submerged Conduit",
             "color": "U",
             "rarity": "cube",
-            "type": "Enchantment \u2014 Aura",
-            "number": 83,
+            "type": "Artifact",
+            "number": 96,
             "color_identity": "U",
-            "cost": "{U}",
-            "rules_text": "Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]\nEnchant land you control\nAs Mapped Access enters, choose a basic land type.\nEnchanted land is the chosen type in addition to its other types. As long as you're an explorer, it has \u201c{1}, {T}: Draw a card.\u201d",
+            "cost": "{1}{U}",
+            "rules_text": "Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]\n{T}: Target creature you control gains \u201cWhenever this creature deals combat damage to an opponent, draw a card.\u201d until end of turn. If you're an explorer, it can't be blocked this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -8193,9 +7878,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "389",
+            "position": "374",
             "rotated": false,
-            "notes": "Rework"
+            "notes": ""
         },
         {
             "card_name": "Out in the Sun",
@@ -8214,9 +7899,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "390",
+            "position": "375",
             "rotated": false,
-            "notes": ""
+            "notes": "Complexity flag"
         },
         {
             "card_name": "Pierce Through",
@@ -8235,7 +7920,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "391",
+            "position": "376",
             "rotated": false,
             "notes": ""
         },
@@ -8256,7 +7941,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "392",
+            "position": "377",
             "rotated": false,
             "notes": ""
         },
@@ -8277,9 +7962,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "393",
+            "position": "378",
             "rotated": false,
-            "notes": "Creature slot\nEvasion, Bomb later"
+            "notes": "Creature slot\nEvasion, Bomb later\nComplexity flag"
         },
         {
             "card_name": "Comfort in Darkness",
@@ -8298,7 +7983,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "394",
+            "position": "379",
             "rotated": false,
             "notes": ""
         },
@@ -8319,7 +8004,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "395",
+            "position": "380",
             "rotated": false,
             "notes": "!tokens Human MIN<x>"
         },
@@ -8340,9 +8025,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "396",
+            "position": "381",
             "rotated": false,
-            "notes": ""
+            "notes": "Rework? Could be modified creature instead"
         },
         {
             "card_name": "TNT Block",
@@ -8361,7 +8046,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "397",
+            "position": "382",
             "rotated": false,
             "notes": "Removal, Destruction"
         },
@@ -8382,7 +8067,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "398",
+            "position": "383",
             "rotated": false,
             "notes": ""
         },
@@ -8403,7 +8088,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "399",
+            "position": "384",
             "rotated": false,
             "notes": ""
         },
@@ -8424,7 +8109,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "400",
+            "position": "385",
             "rotated": false,
             "notes": ""
         },
@@ -8445,7 +8130,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "401",
+            "position": "386",
             "rotated": false,
             "notes": ""
         },
@@ -8454,7 +8139,7 @@
             "color": "U",
             "rarity": "cube",
             "type": "Creature \u2014 Fish",
-            "number": 90,
+            "number": 89,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
             "rules_text": "When School of Fish enters, draw three cards.\nYou have no maximum hand size.\nSchool of Fish's power and toughness are each equal to the number of cards in your hand.",
@@ -8466,7 +8151,7 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "402",
+            "position": "387",
             "rotated": false,
             "notes": ""
         },
@@ -8487,9 +8172,9 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "403",
+            "position": "388",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Treasure MIN"
         },
         {
             "card_name": "Nightly Confrontation",
@@ -8508,10 +8193,325 @@
             "loyalty": "",
             "artist": "Mojang Studios",
             "alias": "",
-            "position": "404",
+            "position": "389",
             "rotated": false,
             "notes": ""
+        },
+        {
+            "card_name": "Archery Range",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 209,
+            "color_identity": "G",
+            "cost": "{2}{G}",
+            "rules_text": "When Archery Range enters, create a tapped 3/3 green Ox creature token.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 2 \u2014 Whenever you attack, put a +1/+1 counter on each attacking creature. [i](Pay two \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "u/PiCO_109",
+            "alias": "",
+            "position": "390",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN;Ox MIN"
+        },
+        {
+            "card_name": "Industrial District",
+            "color": "UG",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 270,
+            "color_identity": "UG",
+            "cost": "{G}{U}",
+            "rules_text": "When Industrial District enters, create a tapped Tool token. [i](It's an artifact with \u201c{T}: Add {C}. This mana can't be spent to cast nonartifact spells.\u201d)[/i]\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 4 \u2014 Industrial District is an artifact creature with power and toughness each equal to the number of permanents with a mana ability you control. [i](Pay four \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "CrackedCubes",
+            "alias": "",
+            "position": "391",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN;Tool MIN"
+        },
+        {
+            "card_name": "Beacon Platform",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 2,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "When Beacon Platform enters, destroy target artifact, enchantment, or creature with power 4 or greater.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 4 \u2014 Creatures you control get +2/+2. [i](Pay four \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "Mojang Studios",
+            "alias": "",
+            "position": "392",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN"
+        },
+        {
+            "card_name": "Town Square",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 41,
+            "color_identity": "W",
+            "cost": "{W}",
+            "rules_text": "When Town Square enters, create a 1/1 white Villager creature token.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 2 \u2014 When Town Square becomes finished, create a 3/3 colorless Golem artifact creature token. [i](Pay two \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "Mojang Studios",
+            "alias": "",
+            "position": "393",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN;Villager MIN"
+        },
+        {
+            "card_name": "Faction Base",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 16,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "When Faction Base enters, you gain 3 life and draw a card.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 2 \u2014 When Faction Base becomes finished, target creature gains vigilance, lifelink, and indestructible until end of turn. [i](Pay two \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "Mojang Studios",
+            "alias": "",
+            "position": "394",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN"
+        },
+        {
+            "card_name": "Ice Highway",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 73,
+            "color_identity": "U",
+            "cost": "{1}{U}",
+            "rules_text": "When Ice Highway enters, return target nonland permanent to its owner's hand.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 3 \u2014 Creatures you control get +1/+1 and have menace. [i](Pay three \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "Mojang Studios",
+            "alias": "",
+            "position": "395",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN"
+        },
+        {
+            "card_name": "Watchful Outpost",
+            "color": "W",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 51,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "When Watchful Outpost enters, create a 2/2 red Human creature token.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 4 \u2014 Once each turn, you may cast an artifact or creature spell with mana value 3 or less from your graveyard. It enters with a finality counter on it. [i](Pay four \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "Mojang Studios",
+            "alias": "",
+            "position": "396",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN;Human MIN"
+        },
+        {
+            "card_name": "Clocktower",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 56,
+            "color_identity": "U",
+            "cost": "{2}{U}",
+            "rules_text": "When Clocktower enters, target nonland permanent's owner puts it on the top or bottom of their library.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish X \u2014 When Clocktower becomes finished, shuffle your hand into your library, then draw X cards. [i](Pay X \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "Mojang Studios",
+            "alias": "",
+            "position": "397",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN"
+        },
+        {
+            "card_name": "Storage System",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 95,
+            "color_identity": "U",
+            "cost": "{1}{U}",
+            "rules_text": "When Storage System enters, draw two cards, then discard a card.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 2 \u2014 Whenever you draw a card, put a +1/+1 counter on target creature you control. [i](Pay two \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "Mojang Studios",
+            "alias": "",
+            "position": "398",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN"
+        },
+        {
+            "card_name": "Spleef Arena",
+            "color": "U",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 94,
+            "color_identity": "U",
+            "cost": "{U}",
+            "rules_text": "When Spleef Arena enters, surveil 2.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 2 \u2014 {T}: Tap or untap target creature. [i](Pay two \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "Mojang Studios",
+            "alias": "",
+            "position": "399",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN"
+        },
+        {
+            "card_name": "Deep Mine",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 217,
+            "color_identity": "G",
+            "cost": "{1}{G}",
+            "rules_text": "When Deep Mine enters, create a 2/2 black Zombie creature token.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 3 \u2014 When Deep Mine becomes finished, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. [i](Pay three \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "Mojang Studios",
+            "alias": "",
+            "position": "400",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN;Zombie MIN"
+        },
+        {
+            "card_name": "Shore Lighthouse",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 244,
+            "color_identity": "G",
+            "cost": "{1}{G}",
+            "rules_text": "When Shore Lighthouse enters, put two +1/+1 counters and a reach counter on target creature you control.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 2 \u2014 Whenever a land you control enters, proliferate. [i](Pay two \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "Mojang Studios",
+            "alias": "",
+            "position": "401",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN"
+        },
+        {
+            "card_name": "Wood Camp",
+            "color": "G",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 255,
+            "color_identity": "G",
+            "cost": "{G}",
+            "rules_text": "When Wood Camp enters, destroy target artifact or enchantment.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 3 \u2014 At the beginning of combat on your turn, target creature you control gains indestructible and hexproof until your next turn. [i](Pay three \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "Mojang Studios",
+            "alias": "",
+            "position": "402",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN"
+        },
+        {
+            "card_name": "Block Museum",
+            "color": "WU",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 259,
+            "color_identity": "WU",
+            "cost": "{W}{U}",
+            "rules_text": "When Block Museum enters, target creature you control gets +2/+2 until end of turn and can't be blocked this turn.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 3 \u2014 Creatures you control get +1/+1 for each other artifact you control. [i](Pay three \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "u/kristen87forever",
+            "alias": "",
+            "position": "403",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN"
+        },
+        {
+            "card_name": "Central Map",
+            "color": "WUG",
+            "rarity": "cube",
+            "type": "Artifact \u2014 Construction",
+            "number": 260,
+            "color_identity": "WUG",
+            "cost": "{1}{G}{W}{U}",
+            "rules_text": "When Central Map enters, create two 2/2 red Human creature tokens.\n{1}, {T}: You get \ud83e\uddf1 [i](a brick counter)[/i].\nFinish 1 \u2014 When Central Map becomes finished, draw a card for each finished Construction you control. [i](Pay a \ud83e\uddf1: Finish this Construction and add this ability, only once as a sorcery.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MIN",
+            "loyalty": "",
+            "artist": "Mojang Studios",
+            "alias": "",
+            "position": "404",
+            "rotated": false,
+            "notes": "!tokens Brick Reserve MIN;Human MIN<2>"
         }
     ],
-    "version": 13
+    "version": 1
 }

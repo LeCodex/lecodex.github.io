@@ -2,10 +2,10 @@
     {
         "card_name": "Beacon Platform",
         "number": 2,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "281"
+        "position": "392"
     },
     {
         "card_name": "Blowing Breeze",
@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "292"
+        "position": "279"
     },
     {
         "card_name": "11 Music Disc",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "223"
+        "position": "221"
     },
     {
         "card_name": "Blaze Pack",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "229"
+        "position": "227"
     },
     {
         "card_name": "Brown Mooshroom",
@@ -45,7 +45,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "386"
+        "position": "371"
     },
     {
         "card_name": "Brewing Stand",
@@ -53,7 +53,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "269"
+        "position": "267"
     },
     {
         "card_name": "Acid Fireball",
@@ -69,7 +69,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "400"
+        "position": "385"
     },
     {
         "card_name": "Ancient Etchings",
@@ -77,7 +77,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "208"
+        "position": "206"
     },
     {
         "card_name": "Cliff Llamas",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "354"
+        "position": "339"
     },
     {
         "card_name": "Angered Wolf",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "375"
+        "position": "360"
     },
     {
         "card_name": "Closed Server",
@@ -130,10 +130,10 @@
     {
         "card_name": "Clocktower",
         "number": 56,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "285"
+        "position": "397"
     },
     {
         "card_name": "Bad Omen",
@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "201"
+        "position": "199"
     },
     {
         "card_name": "Critical Strike",
@@ -154,10 +154,10 @@
     {
         "card_name": "Archery Range",
         "number": 209,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "288"
+        "position": "390"
     },
     {
         "card_name": "Copper Golem",
@@ -165,7 +165,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "309"
+        "position": "296"
     },
     {
         "card_name": "Clone Command",
@@ -173,7 +173,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "245"
+        "position": "243"
     },
     {
         "card_name": "Bogged Skeleton",
@@ -181,7 +181,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "171"
+        "position": "169"
     },
     {
         "card_name": "Crossbow Piglin",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "240"
+        "position": "238"
     },
     {
         "card_name": "Camel Husk",
@@ -221,7 +221,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "377"
+        "position": "362"
     },
     {
         "card_name": "Crying Ghast",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "373"
+        "position": "358"
     },
     {
         "card_name": "Cave Spider",
@@ -245,7 +245,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "349"
+        "position": "336"
     },
     {
         "card_name": "Command Block",
@@ -253,7 +253,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "210"
+        "position": "208"
     },
     {
         "card_name": "Chest Breaking",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "168"
+        "position": "166"
     },
     {
         "card_name": "Difficulty Increase",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "384"
+        "position": "369"
     },
     {
         "card_name": "Claim Land",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "200"
+        "position": "198"
     },
     {
         "card_name": "Curse of Binding",
@@ -285,7 +285,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "217"
+        "position": "215"
     },
     {
         "card_name": "Coral Nautilus",
@@ -293,7 +293,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "380"
+        "position": "365"
     },
     {
         "card_name": "Chicken Jockey",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "271"
+        "position": "269"
     },
     {
         "card_name": "Endermite",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "308"
+        "position": "295"
     },
     {
         "card_name": "Clearcutting",
@@ -325,7 +325,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "401"
+        "position": "386"
     },
     {
         "card_name": "Coral Reef",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "258"
+        "position": "256"
     },
     {
         "card_name": "Comfort in Darkness",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "394"
+        "position": "379"
     },
     {
         "card_name": "Debug World",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "211"
+        "position": "209"
     },
     {
         "card_name": "Creaking",
@@ -381,7 +381,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "403"
+        "position": "388"
     },
     {
         "card_name": "Exposing Demolition",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "266"
+        "position": "264"
     },
     {
         "card_name": "Defend the Village",
@@ -405,7 +405,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "167"
+        "position": "165"
     },
     {
         "card_name": "Dashing Nautilus",
@@ -413,7 +413,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "358"
+        "position": "343"
     },
     {
         "card_name": "Drowned Zombie",
@@ -429,7 +429,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "237"
+        "position": "235"
     },
     {
         "card_name": "Composter",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "218"
+        "position": "216"
     },
     {
         "card_name": "Deplete",
@@ -453,7 +453,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "376"
+        "position": "361"
     },
     {
         "card_name": "Equipping Station",
@@ -461,7 +461,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "182"
+        "position": "180"
     },
     {
         "card_name": "Fire Charge",
@@ -469,15 +469,15 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "186"
+        "position": "184"
     },
     {
         "card_name": "Deep Mine",
         "number": 217,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "289"
+        "position": "400"
     },
     {
         "card_name": "Efficiency Pickaxe",
@@ -493,7 +493,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "275"
+        "position": "273"
     },
     {
         "card_name": "Escalating Raid",
@@ -501,7 +501,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "219"
+        "position": "217"
     },
     {
         "card_name": "Flaming Weapons",
@@ -517,7 +517,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "316"
+        "position": "303"
     },
     {
         "card_name": "Elder Guardian",
@@ -525,7 +525,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "310"
+        "position": "297"
     },
     {
         "card_name": "Ender Chest",
@@ -533,7 +533,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "191"
+        "position": "189"
     },
     {
         "card_name": "Fake Abandon",
@@ -541,7 +541,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "265"
+        "position": "263"
     },
     {
         "card_name": "Forest Fire",
@@ -549,7 +549,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "190"
+        "position": "188"
     },
     {
         "card_name": "Dragon's Breath",
@@ -562,10 +562,10 @@
     {
         "card_name": "Faction Base",
         "number": 16,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "282"
+        "position": "394"
     },
     {
         "card_name": "Enderman",
@@ -597,7 +597,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "209"
+        "position": "207"
     },
     {
         "card_name": "Faithful Companion",
@@ -605,7 +605,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "187"
+        "position": "185"
     },
     {
         "card_name": "Fish Bucket",
@@ -653,7 +653,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "165"
+        "position": "163"
     },
     {
         "card_name": "Grindstone",
@@ -661,7 +661,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "261"
+        "position": "259"
     },
     {
         "card_name": "Golden Sword",
@@ -669,7 +669,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "192"
+        "position": "190"
     },
     {
         "card_name": "Explore",
@@ -677,7 +677,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "188"
+        "position": "186"
     },
     {
         "card_name": "Gather the Loot",
@@ -685,7 +685,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "359"
+        "position": "344"
     },
     {
         "card_name": "Getting an Upgrade",
@@ -709,7 +709,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "169"
+        "position": "167"
     },
     {
         "card_name": "Far Music Disc",
@@ -717,7 +717,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "225"
+        "position": "223"
     },
     {
         "card_name": "Hero of the Village",
@@ -741,7 +741,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "215"
+        "position": "213"
     },
     {
         "card_name": "Lava Strider",
@@ -757,7 +757,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "193"
+        "position": "191"
     },
     {
         "card_name": "Invite Some Friends",
@@ -765,7 +765,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "395"
+        "position": "380"
     },
     {
         "card_name": "Happy Ghast",
@@ -781,7 +781,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "396"
+        "position": "381"
     },
     {
         "card_name": "Lightning Strike",
@@ -789,7 +789,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "353"
+        "position": "338"
     },
     {
         "card_name": "Gradual Growth",
@@ -797,7 +797,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "221"
+        "position": "219"
     },
     {
         "card_name": "Iron Shovel",
@@ -805,15 +805,15 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "204"
+        "position": "202"
     },
     {
         "card_name": "Ice Highway",
         "number": 73,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "162"
+        "position": "395"
     },
     {
         "card_name": "Impaling Trident",
@@ -829,7 +829,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "175"
+        "position": "173"
     },
     {
         "card_name": "Grazing Grounds",
@@ -845,7 +845,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "183"
+        "position": "181"
     },
     {
         "card_name": "Ink Squids",
@@ -861,7 +861,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "241"
+        "position": "239"
     },
     {
         "card_name": "Nest Harvest",
@@ -869,7 +869,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "374"
+        "position": "359"
     },
     {
         "card_name": "Growing Pack",
@@ -877,7 +877,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "184"
+        "position": "182"
     },
     {
         "card_name": "Meadow Cow",
@@ -917,7 +917,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "273"
+        "position": "271"
     },
     {
         "card_name": "Mesa Wolf",
@@ -925,7 +925,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "268"
+        "position": "266"
     },
     {
         "card_name": "Jeb Door",
@@ -933,7 +933,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "231"
+        "position": "229"
     },
     {
         "card_name": "Multishot Crossbow",
@@ -949,7 +949,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "306"
+        "position": "293"
     },
     {
         "card_name": "Insect Infestation",
@@ -965,7 +965,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "311"
+        "position": "298"
     },
     {
         "card_name": "Jungle Parrot",
@@ -973,7 +973,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "393"
+        "position": "378"
     },
     {
         "card_name": "Outpost Defense",
@@ -989,7 +989,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "390"
+        "position": "375"
     },
     {
         "card_name": "Large Slime",
@@ -997,7 +997,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "366"
+        "position": "351"
     },
     {
         "card_name": "Mounting Defense",
@@ -1005,7 +1005,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "385"
+        "position": "370"
     },
     {
         "card_name": "Kick",
@@ -1021,7 +1021,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "378"
+        "position": "363"
     },
     {
         "card_name": "Pack Mule",
@@ -1029,7 +1029,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "398"
+        "position": "383"
     },
     {
         "card_name": "Moody Weather",
@@ -1037,7 +1037,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "233"
+        "position": "231"
     },
     {
         "card_name": "New Professions",
@@ -1045,7 +1045,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "243"
+        "position": "241"
     },
     {
         "card_name": "Lightning Rod",
@@ -1053,7 +1053,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "222"
+        "position": "220"
     },
     {
         "card_name": "Phantom",
@@ -1077,7 +1077,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "197"
+        "position": "195"
     },
     {
         "card_name": "One-Way Trip",
@@ -1085,7 +1085,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "170"
+        "position": "168"
     },
     {
         "card_name": "Lobsided Crab",
@@ -1093,7 +1093,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "276"
+        "position": "274"
     },
     {
         "card_name": "Pillager Horn",
@@ -1101,7 +1101,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "216"
+        "position": "214"
     },
     {
         "card_name": "Piglin Brute",
@@ -1133,7 +1133,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "227"
+        "position": "225"
     },
     {
         "card_name": "Pillager Raid",
@@ -1149,7 +1149,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "315"
+        "position": "302"
     },
     {
         "card_name": "Nightly Confrontation",
@@ -1157,7 +1157,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "404"
+        "position": "389"
     },
     {
         "card_name": "Protection Chestplate",
@@ -1165,7 +1165,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "220"
+        "position": "218"
     },
     {
         "card_name": "Mangrove Frog",
@@ -1173,7 +1173,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "312"
+        "position": "299"
     },
     {
         "card_name": "Potion of Harming",
@@ -1181,7 +1181,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "348"
+        "position": "335"
     },
     {
         "card_name": "Pigstep Music Disc",
@@ -1189,7 +1189,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "224"
+        "position": "222"
     },
     {
         "card_name": "Oak Sapling",
@@ -1208,12 +1208,12 @@
         "position": "72"
     },
     {
-        "card_name": "Mapped Access",
+        "card_name": "Nimble Horse",
         "number": 83,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "389"
+        "position": "136"
     },
     {
         "card_name": "Rascal",
@@ -1221,7 +1221,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "194"
+        "position": "192"
     },
     {
         "card_name": "Pilfer the Bastion",
@@ -1229,7 +1229,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "246"
+        "position": "244"
     },
     {
         "card_name": "Ominous Banner",
@@ -1237,7 +1237,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "232"
+        "position": "230"
     },
     {
         "card_name": "Scurrying Bat",
@@ -1248,12 +1248,12 @@
         "position": "66"
     },
     {
-        "card_name": "Nimble Horse",
+        "card_name": "Pick Back Up",
         "number": 84,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "136"
+        "position": "268"
     },
     {
         "card_name": "Respawn Anchor",
@@ -1277,7 +1277,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "172"
+        "position": "170"
     },
     {
         "card_name": "Shed Light",
@@ -1285,15 +1285,15 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "356"
+        "position": "341"
     },
     {
-        "card_name": "Pick Back Up",
+        "card_name": "Planned for It",
         "number": 85,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "270"
+        "position": "232"
     },
     {
         "card_name": "Shrinking Worldborder",
@@ -1301,7 +1301,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "177"
+        "position": "175"
     },
     {
         "card_name": "Precarious Structure",
@@ -1309,7 +1309,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "272"
+        "position": "270"
     },
     {
         "card_name": "Pierce Through",
@@ -1317,7 +1317,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "391"
+        "position": "376"
     },
     {
         "card_name": "Shy Armadillo",
@@ -1325,15 +1325,15 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "277"
+        "position": "275"
     },
     {
-        "card_name": "Planned for It",
+        "card_name": "Pufferfish",
         "number": 86,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "234"
+        "position": "201"
     },
     {
         "card_name": "Sift the Loot",
@@ -1341,7 +1341,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "212"
+        "position": "210"
     },
     {
         "card_name": "Prepared Incursion",
@@ -1349,7 +1349,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "262"
+        "position": "260"
     },
     {
         "card_name": "Pig Herd",
@@ -1357,7 +1357,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "238"
+        "position": "236"
     },
     {
         "card_name": "Small Chicken",
@@ -1365,15 +1365,15 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "319"
+        "position": "306"
     },
     {
-        "card_name": "Pufferfish",
+        "card_name": "Resource Organization",
         "number": 87,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "203"
+        "position": "233"
     },
     {
         "card_name": "Skeleton Bowman",
@@ -1381,7 +1381,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "228"
+        "position": "226"
     },
     {
         "card_name": "Ravager",
@@ -1397,7 +1397,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "367"
+        "position": "352"
     },
     {
         "card_name": "Smithing Table",
@@ -1408,12 +1408,12 @@
         "position": "86"
     },
     {
-        "card_name": "Resource Organization",
+        "card_name": "Roll Back",
         "number": 88,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "235"
+        "position": "347"
     },
     {
         "card_name": "Skeleton Horse",
@@ -1429,7 +1429,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "244"
+        "position": "242"
     },
     {
         "card_name": "Ramming Goat",
@@ -1445,15 +1445,15 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "226"
+        "position": "224"
     },
     {
-        "card_name": "Roll Back",
+        "card_name": "School of Fish",
         "number": 89,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "362"
+        "position": "387"
     },
     {
         "card_name": "Stone Age",
@@ -1461,7 +1461,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "181"
+        "position": "179"
     },
     {
         "card_name": "Shared Anger",
@@ -1469,7 +1469,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "207"
+        "position": "205"
     },
     {
         "card_name": "Ruthless Predation",
@@ -1488,12 +1488,12 @@
         "position": "70"
     },
     {
-        "card_name": "School of Fish",
+        "card_name": "Sea Dolphin",
         "number": 90,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "402"
+        "position": "112"
     },
     {
         "card_name": "Stone Sword",
@@ -1501,7 +1501,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "259"
+        "position": "257"
     },
     {
         "card_name": "Soul Speed",
@@ -1528,12 +1528,12 @@
         "position": "154"
     },
     {
-        "card_name": "Sea Dolphin",
+        "card_name": "Shedding Turtle",
         "number": 91,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "112"
+        "position": "124"
     },
     {
         "card_name": "Thorny Dissuasion",
@@ -1554,26 +1554,26 @@
     {
         "card_name": "Shore Lighthouse",
         "number": 244,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "163"
+        "position": "401"
     },
     {
         "card_name": "Town Square",
         "number": 41,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "283"
+        "position": "393"
     },
     {
-        "card_name": "Shedding Turtle",
+        "card_name": "Shulker",
         "number": 92,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "124"
+        "position": "300"
     },
     {
         "card_name": "Time Command",
@@ -1589,7 +1589,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "352"
+        "position": "337"
     },
     {
         "card_name": "Silverfish",
@@ -1605,15 +1605,15 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "199"
+        "position": "197"
     },
     {
-        "card_name": "Shulker",
+        "card_name": "Spectator Mode",
         "number": 93,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "313"
+        "position": "120"
     },
     {
         "card_name": "Village Librarian",
@@ -1621,7 +1621,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "166"
+        "position": "164"
     },
     {
         "card_name": "TNT Cannon",
@@ -1629,7 +1629,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "173"
+        "position": "171"
     },
     {
         "card_name": "Sniffer",
@@ -1648,12 +1648,12 @@
         "position": "102"
     },
     {
-        "card_name": "Spectator Mode",
+        "card_name": "Spleef Arena",
         "number": 94,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "120"
+        "position": "399"
     },
     {
         "card_name": "Warden",
@@ -1661,7 +1661,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "247"
+        "position": "245"
     },
     {
         "card_name": "Trial Raid",
@@ -1677,7 +1677,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "205"
+        "position": "203"
     },
     {
         "card_name": "Village Armorer",
@@ -1685,15 +1685,15 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "178"
+        "position": "176"
     },
     {
-        "card_name": "Spleef Arena",
+        "card_name": "Storage System",
         "number": 95,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "286"
+        "position": "398"
     },
     {
         "card_name": "The Wither",
@@ -1701,7 +1701,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "230"
+        "position": "228"
     },
     {
         "card_name": "Trial Spawner",
@@ -1709,7 +1709,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "278"
+        "position": "276"
     },
     {
         "card_name": "Take Inventory",
@@ -1728,12 +1728,12 @@
         "position": "21"
     },
     {
-        "card_name": "Storage System",
+        "card_name": "Submerged Conduit",
         "number": 96,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "287"
+        "position": "374"
     },
     {
         "card_name": "Wither Rose",
@@ -1773,7 +1773,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "388"
+        "position": "373"
     },
     {
         "card_name": "Wither Skeleton",
@@ -1789,7 +1789,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "213"
+        "position": "211"
     },
     {
         "card_name": "Terraforming",
@@ -1797,7 +1797,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "174"
+        "position": "172"
     },
     {
         "card_name": "Village Fountain",
@@ -1805,7 +1805,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "248"
+        "position": "246"
     },
     {
         "card_name": "Third Shriek",
@@ -1821,7 +1821,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "196"
+        "position": "194"
     },
     {
         "card_name": "Victory Celebration",
@@ -1837,7 +1837,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "383"
+        "position": "368"
     },
     {
         "card_name": "Village Nitwit",
@@ -1861,7 +1861,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "236"
+        "position": "234"
     },
     {
         "card_name": "Village Fletcher",
@@ -1869,7 +1869,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "198"
+        "position": "196"
     },
     {
         "card_name": "Village Butcher",
@@ -1877,7 +1877,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "382"
+        "position": "367"
     },
     {
         "card_name": "Void Command",
@@ -1901,7 +1901,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "379"
+        "position": "364"
     },
     {
         "card_name": "Village Weaponsmith",
@@ -1925,7 +1925,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "355"
+        "position": "340"
     },
     {
         "card_name": "Village Mason",
@@ -1933,7 +1933,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "164"
+        "position": "162"
     },
     {
         "card_name": "Zombie Reinforcements",
@@ -1957,15 +1957,15 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "179"
+        "position": "177"
     },
     {
         "card_name": "Watchful Outpost",
         "number": 51,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "284"
+        "position": "396"
     },
     {
         "card_name": "Wild Ocelot",
@@ -1973,7 +1973,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "314"
+        "position": "301"
     },
     {
         "card_name": "Zombie Villager",
@@ -1989,15 +1989,15 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "357"
+        "position": "342"
     },
     {
         "card_name": "Wood Camp",
         "number": 255,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "290"
+        "position": "402"
     },
     {
         "card_name": "Wooly Bull",
@@ -2005,7 +2005,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "387"
+        "position": "372"
     },
     {
         "card_name": "Wind Charge",
@@ -2013,7 +2013,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "189"
+        "position": "187"
     },
     {
         "card_name": "Zombie's Bite",
@@ -2037,7 +2037,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "381"
+        "position": "366"
     },
     {
         "card_name": "er"
@@ -2055,10 +2055,10 @@
     {
         "card_name": "Block Museum",
         "number": 259,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "351"
+        "position": "403"
     },
     {
         "card_name": "e"
@@ -2077,7 +2077,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "317"
+        "position": "304"
     },
     {
         "card_name": "e"
@@ -2099,7 +2099,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "307"
+        "position": "294"
     },
     {
         "card_name": "Raid Captain",
@@ -2118,7 +2118,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "250"
+        "position": "248"
     },
     {
         "card_name": "e"
@@ -2137,7 +2137,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "251"
+        "position": "249"
     },
     {
         "card_name": "e"
@@ -2163,7 +2163,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "249"
+        "position": "247"
     },
     {
         "card_name": "e"
@@ -2177,10 +2177,10 @@
     {
         "card_name": "Industrial District",
         "number": 270,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "350"
+        "position": "391"
     },
     {
         "card_name": "Transport Donkey",
@@ -2205,7 +2205,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "318"
+        "position": "305"
     },
     {
         "card_name": "Village Cleric",
@@ -2230,7 +2230,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "195"
+        "position": "193"
     },
     {
         "card_name": "er"
@@ -2272,10 +2272,10 @@
     {
         "card_name": "Central Map",
         "number": 260,
-        "shape": "class",
+        "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "291"
+        "position": "404"
     },
     {
         "card_name": "Illusioner",
@@ -2313,7 +2313,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "252"
+        "position": "250"
     },
     {
         "card_name": "e"
@@ -2335,7 +2335,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "364"
+        "position": "349"
     },
     {
         "card_name": "er"
@@ -2391,7 +2391,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "253"
+        "position": "251"
     },
     {
         "card_name": "e"
@@ -2408,7 +2408,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "242"
+        "position": "240"
     },
     {
         "card_name": "Trail Ruins",
@@ -2416,7 +2416,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "254"
+        "position": "252"
     },
     {
         "card_name": "e"
@@ -2481,7 +2481,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "365"
+        "position": "350"
     },
     {
         "card_name": "Amethyst Geode",
@@ -2489,7 +2489,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "305"
+        "position": "292"
     },
     {
         "card_name": "Armor Stand",
@@ -2505,7 +2505,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "264"
+        "position": "262"
     },
     {
         "card_name": "Copper Chest",
@@ -2513,7 +2513,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "360"
+        "position": "345"
     },
     {
         "card_name": "Crafting Bench",
@@ -2529,7 +2529,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "257"
+        "position": "255"
     },
     {
         "card_name": "Elytras",
@@ -2537,7 +2537,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "214"
+        "position": "212"
     },
     {
         "card_name": "Fletching Table",
@@ -2545,7 +2545,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "392"
+        "position": "377"
     },
     {
         "card_name": "Flying Machine",
@@ -2553,7 +2553,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "176"
+        "position": "174"
     },
     {
         "card_name": "Iron Anvil",
@@ -2569,7 +2569,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "347"
+        "position": "334"
     },
     {
         "card_name": "Loom",
@@ -2577,7 +2577,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "399"
+        "position": "384"
     },
     {
         "card_name": "Mob Spawner",
@@ -2593,7 +2593,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "294"
+        "position": "281"
     },
     {
         "card_name": "Shipwreck",
@@ -2601,7 +2601,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "202"
+        "position": "200"
     },
     {
         "card_name": "Shulker Box",
@@ -2609,7 +2609,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "304"
+        "position": "291"
     },
     {
         "card_name": "Snow Golem",
@@ -2617,7 +2617,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "363"
+        "position": "348"
     },
     {
         "card_name": "Sticky Piston",
@@ -2633,7 +2633,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "397"
+        "position": "382"
     },
     {
         "card_name": "Trading Hall",
@@ -2641,7 +2641,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "239"
+        "position": "237"
     },
     {
         "card_name": "Unlit Cave",
@@ -2665,7 +2665,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "295"
+        "position": "282"
     },
     {
         "card_name": "e"
@@ -2689,7 +2689,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "323"
+        "position": "310"
     },
     {
         "card_name": "Infinite Ocean",
@@ -2697,7 +2697,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "336"
+        "position": "323"
     },
     {
         "card_name": "Hillless Desert",
@@ -2705,7 +2705,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "337"
+        "position": "324"
     },
     {
         "card_name": "Tunneler's Dream",
@@ -2713,7 +2713,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "335"
+        "position": "322"
     },
     {
         "card_name": "Flat Overworld",
@@ -2721,7 +2721,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "338"
+        "position": "325"
     },
     {
         "card_name": "er"
@@ -2808,7 +2808,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "300"
+        "position": "287"
     },
     {
         "card_name": "Peaceful Village",
@@ -2942,7 +2942,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "331"
+        "position": "318"
     },
     {
         "card_name": "Cherry Grove",
@@ -2966,7 +2966,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "334"
+        "position": "321"
     },
     {
         "card_name": "Dripstone Caves",
@@ -2974,7 +2974,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "328"
+        "position": "315"
     },
     {
         "card_name": "End City",
@@ -2982,7 +2982,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "339"
+        "position": "326"
     },
     {
         "card_name": "The End, Dragon's Realm",
@@ -3006,7 +3006,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "330"
+        "position": "317"
     },
     {
         "card_name": "Impressive Build",
@@ -3014,7 +3014,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "303"
+        "position": "290"
     },
     {
         "card_name": "Jagged Peaks",
@@ -3022,7 +3022,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "327"
+        "position": "314"
     },
     {
         "card_name": "Mangrove Swamp",
@@ -3030,7 +3030,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "326"
+        "position": "313"
     },
     {
         "card_name": "The Nether",
@@ -3046,7 +3046,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "325"
+        "position": "312"
     },
     {
         "card_name": "Pale Garden",
@@ -3054,7 +3054,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "333"
+        "position": "320"
     },
     {
         "card_name": "Redstone Contraption",
@@ -3062,7 +3062,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "302"
+        "position": "289"
     },
     {
         "card_name": "Sandy Beach",
@@ -3070,7 +3070,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "329"
+        "position": "316"
     },
     {
         "card_name": "Shattered Forest",
@@ -3078,7 +3078,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "324"
+        "position": "311"
     },
     {
         "card_name": "Skyblock",
@@ -3086,7 +3086,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "340"
+        "position": "327"
     },
     {
         "card_name": "Sunflower Plains",
@@ -3094,7 +3094,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "332"
+        "position": "319"
     },
     {
         "card_name": "Unloaded Chunk",
@@ -3110,7 +3110,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "341"
+        "position": "328"
     },
     {
         "card_name": "Windswept Hills",
@@ -3118,7 +3118,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "322"
+        "position": "309"
     },
     {
         "card_name": "Woodland Mansion",
@@ -3126,7 +3126,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "301"
+        "position": "288"
     },
     {
         "card_name": "er"
@@ -3189,7 +3189,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "342"
+        "position": "329"
     },
     {
         "card_name": "Island MIN2",
@@ -3197,7 +3197,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "343"
+        "position": "330"
     },
     {
         "card_name": "Swamp MIN2",
@@ -3205,7 +3205,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "344"
+        "position": "331"
     },
     {
         "card_name": "Mountain MIN2",
@@ -3213,7 +3213,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "345"
+        "position": "332"
     },
     {
         "card_name": "Forest MIN2",
@@ -3221,7 +3221,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "346"
+        "position": "333"
     },
     {
         "card_name": "Forest",
@@ -3229,7 +3229,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "368"
+        "position": "353"
     },
     {
         "card_name": "Mountain",
@@ -3237,7 +3237,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "369"
+        "position": "354"
     },
     {
         "card_name": "Plains",
@@ -3245,7 +3245,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "370"
+        "position": "355"
     },
     {
         "card_name": "Swamp",
@@ -3253,7 +3253,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "371"
+        "position": "356"
     },
     {
         "card_name": "Island",
@@ -3261,7 +3261,7 @@
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "372"
+        "position": "357"
     },
     {
         "card_name": "er"
@@ -3282,7 +3282,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "321"
+        "position": "308"
     },
     {
         "card_name": "Explorer",
@@ -3290,7 +3290,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "206"
+        "position": "204"
     },
     {
         "card_name": "MIN DRAFT ARCHETYPES",
@@ -3298,7 +3298,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "298"
+        "position": "285"
     },
     {
         "card_name": "Food",
@@ -3306,7 +3306,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "280"
+        "position": "278"
     },
     {
         "card_name": "Golem",
@@ -3330,7 +3330,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "279"
+        "position": "277"
     },
     {
         "card_name": "Bat",
@@ -3354,7 +3354,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "256"
+        "position": "254"
     },
     {
         "card_name": "Cat",
@@ -3362,7 +3362,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "267"
+        "position": "265"
     },
     {
         "card_name": "Villager",
@@ -3386,7 +3386,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "299"
+        "position": "286"
     },
     {
         "card_name": "Horde",
@@ -3394,7 +3394,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "320"
+        "position": "307"
     },
     {
         "card_name": "Skeleton Archer",
@@ -3410,7 +3410,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "260"
+        "position": "258"
     },
     {
         "card_name": "Villager Army",
@@ -3434,7 +3434,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "297"
+        "position": "284"
     },
     {
         "card_name": "Boar",
@@ -3442,7 +3442,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "296"
+        "position": "283"
     },
     {
         "card_name": "Elemental",
@@ -3450,7 +3450,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "293"
+        "position": "280"
     },
     {
         "card_name": "Human",
@@ -3458,7 +3458,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "274"
+        "position": "272"
     },
     {
         "card_name": "Insect",
@@ -3474,7 +3474,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "263"
+        "position": "261"
     },
     {
         "card_name": "Ox",
@@ -3482,7 +3482,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "255"
+        "position": "253"
     },
     {
         "card_name": "Rabbit",
@@ -3490,7 +3490,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "180"
+        "position": "178"
     },
     {
         "card_name": "Wolf",
@@ -3498,7 +3498,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "185"
+        "position": "183"
     },
     {
         "card_name": "Horse",
@@ -3506,7 +3506,7 @@
         "shape": "token",
         "set": "MIN",
         "rotated": false,
-        "position": "361"
+        "position": "346"
     },
     {
         "card_name": "Spirit",
