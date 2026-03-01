@@ -5,13 +5,13 @@
 			<name>MIN</name>
 			<longname>Minecraft</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-14</releasedate>
+			<releasedate>2026-03-01</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Unlit Cave</name>
-			<text>When Unlit Cave enters or is put into a graveyard from the battlefield, spawn menace 2. (Create a black 4/4 Horde enchantment creature token with menace and two time counters on it. Remove one whenever a spell is cast. It isn&apos;t a creature until it has none.)</text>
+			<text>When Unlit Cave enters or is put into a graveyard from the battlefield, spawn 2. (Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/0.png" num="308">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -168,7 +168,7 @@ Equip {2}</text>
 			<name>Sunken Stronghold</name>
 			<text>When Sunken Stronghold enters, spawn 4. (Create a 4/4 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
 Whenever a Horde you control enters, put your choice of a +1/+1 or time counter on it.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/9.png" num="276">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/9.png" num="277">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -204,7 +204,7 @@ Function — Each opponent discards a card and you draw a card. ({6}: Trigger an
 		<card>
 			<name>Alex, Intrepid Explorer</name>
 			<text>[+1]: Until end of turn, Alex becomes a 5/5 Human Warrior creature with haste and indestructible. Attach any number of Equipment you control to her. (She doesn&apos;t lose loyalty while she isn&apos;t a planeswalker.)
-[-1]: Amass Villagers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Villager. If you don&apos;t control an Army, create a 0/0 black Villager Army creature token first.)</text>
+[-1]: Amass Villagers 3. (Put three +1/+1 counters on an Army you control. It&apos;s also a Villager. If you don&apos;t control an Army, create a 0/0 black Villager Army creature token first.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/11.png" num="257">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -243,7 +243,7 @@ Whenever a modified creature you control attacks or dies, each opponent loses 1 
 			<text>[0]: Proliferate.
 [-1]: Reveal the top card of your library and put it into your hand. If it&apos;s an artifact card, put a +1/+1 counter on target creature you control.
 [-7]: Exile any number of target permanents you control, then return those cards to the battlefield under your control.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/13.png" num="275">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/13.png" num="276">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -370,7 +370,7 @@ Whenever a modified creature you control attacks or dies, each opponent loses 1 
 			<name>Village Bell</name>
 			<text>Flash
 When Village Bell enters, create two 1/1 white Villager creature tokens. You gain 2 life.
-Function — Until your next turn, target artifact or creature you control becomes a 3/3 Golem artifact creature and gains vigilance. ({6}: Trigger any number of function abilities you control, only as a sorcery.)</text>
+Function — Until your next turn, Village Bell becomes a 3/3 Golem artifact creature and gains vigilance. ({6}: Trigger any number of function abilities you control, only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/21.png" num="45">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -384,7 +384,6 @@ Function — Until your next turn, target artifact or creature you control becom
 			</prop>
 			<tablerow>1</tablerow>
 			<related count="2">Villager MIN</related>
-			<related>Golem MIN</related>
 		</card>
 		<card>
 			<name>Golem MIN</name>
@@ -456,7 +455,7 @@ This creature can&apos;t be blocked.</text>
 		</card>
 		<card>
 			<name>Mob Spawner</name>
-			<text>When Mob Spawner enters, spawn 3. (Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
+			<text>When Mob Spawner enters, spawn 2. (Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
 {1}, {T}: Add {B}, {R}, or {G}.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/26.png" num="300">MIN</set>
 			<prop>
@@ -994,7 +993,7 @@ Raid — At the beginning of your end step, if you attacked this turn, put a +1/
 		<card>
 			<name>Raid Captain</name>
 			<text>Ferocious — At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. If you control a creature with power 4 or greater, that creature gains trample until end of turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/57.png" num="273">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/57.png" num="274">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2234,9 +2233,10 @@ Tame Panda has all mana abilities of land cards in your graveyard.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Transport Donkey</name>
-			<text>At the beginning of your end step, if a creature died this turn, you gain 2 life and draw a card. Otherwise, create a 2/2 white and black Horse creature token.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/127.png" num="278">MIN</set>
+			<name>Loaded Donkey</name>
+			<text>Vigilance
+At the beginning of your end step, if a creature died this turn, you gain 2 life and draw a card. Otherwise, create a 2/2 white and black Horse creature token.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/127.png" num="272">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3145,7 +3145,7 @@ Function — Target creature you control gets +3/+3 and gains indestructible unt
 		</card>
 		<card>
 			<name>Wild Rabbit</name>
-			<text>Gather — Whenever a permanent you control with a mana ability enters, you may create a 2/1 green Rabbit creature token.</text>
+			<text>Gather — Whenever a permanent you control with a mana ability enters, create a 2/1 green Rabbit creature token.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/177.png" num="254">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3434,7 +3434,7 @@ Creatures you control with power 4 or greater can&apos;t be blocked by creatures
 		<card>
 			<name>Wandering Trader</name>
 			<text>When Wandering Trader enters, exile the top three cards of your library.
-{2}: Put target card exiled with Wandering Trader into your hand, then exile the top card of your library.
+{2}: Put a card exiled with Wandering Trader into your hand. Activate only as a sorcery.
 When Wandering Trader leaves the battlefield, put all cards exiled with it into your graveyard.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/193.png" num="284">MIN</set>
 			<prop>
@@ -3490,7 +3490,7 @@ When Mooshroom Herd enters, if it&apos;s not a token and if you&apos;re an explo
 		<card>
 			<name>Village Fletcher</name>
 			<text>Prowess
-Whenever Village Fletcher attacks, if it&apos;s modified, target creature can&apos;t block this turn. (Equipment, Auras you control, and counters are modifications.)</text>
+Whenever one or more modified creatures you control attack, target creature can&apos;t block this turn. (Equipment, Auras you control, and counters are modifications.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/196.png" num="201">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3733,7 +3733,7 @@ Function — Exile up to two artifacts and/or enchantments you control, then ret
 		</card>
 		<card>
 			<name>Sift the Loot</name>
-			<text>Look at the top five cards of your library, put one of them into your hand and the rest on the bottom of your library.
+			<text>Look at the top four cards of your library, put one of them into your hand and the rest on the bottom of your library. You lose 3 life.
 Raid — If you attacked this turn, instead search your library for a card, put it into your hand, then shuffle.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/210.png" num="137">MIN</set>
 			<prop>
@@ -3944,7 +3944,7 @@ When you cycle 11 Music Disc, modified creatures you control gain menace until e
 		</card>
 		<card>
 			<name>Pigstep Music Disc</name>
-			<text>Hordes you control enter with two additional +1/+1 counters on them and have trample.
+			<text>Hordes you control enter with two additional +1/+1 counters on them and have menace.
 Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)
 When you cycle Pigstep Music Disc, Hordes you control get +2/+0 until end of turn.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/222.png" num="184">MIN</set>
@@ -4410,7 +4410,7 @@ When there are three or more meeting counters on Village Fountain, sacrifice it.
 		<card>
 			<name>Minecart Network</name>
 			<text>At the beginning of your end step, put a +1/+1 counter on up to X target creatures you control, where X is the number of artifacts you control.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/248.png" num="272">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/248.png" num="273">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4425,8 +4425,8 @@ When there are three or more meeting counters on Village Fountain, sacrifice it.
 		</card>
 		<card>
 			<name>Spawn Egg</name>
-			<text>Create a token that&apos;s a copy of target creature you control, except it has haste and &quot;At the beginning of the end step, if this token has power 3 or lesser, exile it.&quot;</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/249.png" num="274">MIN</set>
+			<text>Create a token that&apos;s a copy of target creature you control, except it has haste and &quot;At the beginning of the end step, if this token has power 3 or less, exile it.&quot;</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/249.png" num="275">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4483,7 +4483,7 @@ When World Eater enters, exile up to one target nonland permanent. For each card
 At the beginning of your upkeep, choose one. If you&apos;re an explorer, you may choose both instead —
 • Draw a card.
 • Create a Treasure token.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/252.png" num="277">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/252.png" num="278">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5649,7 +5649,8 @@ When Classic Superflat enters, put a +1/+1 counter on target creature you contro
 		<card>
 			<name>Pale Garden</name>
 			<text>{T}: Add {C}.
-{1}, {T}: Scry 2. Activate only if you or a permanent you control became the target of a spell or ability you don&apos;t control since your last turn.</text>
+{T}: Add one mana of any color. Activate only if Pale Garden entered this turn.
+{5}, {T}: Create a tapped 2/2 black Zombie creature token.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/320.png" num="342">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5660,6 +5661,7 @@ When Classic Superflat enters, put a +1/+1 counter on target creature you contro
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
+			<related>Zombie MIN</related>
 		</card>
 		<card>
 			<name>Deep Dark</name>
@@ -6008,7 +6010,7 @@ Whenever you activate an ability of an artifact or creature that isn&apos;t a ma
 		<card>
 			<name>Wither Skull</name>
 			<text>Haste, trample
-At the beginning of the end step, sacrifice Wither Skull.</text>
+Decayed (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/342.png" num="204">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6693,7 +6695,7 @@ Draw two cards. If the sacrificed creature was a Horde, draw three cards instead
 		</card>
 		<card>
 			<name>TNT Block</name>
-			<text>{T}: TNT Block gains &quot;When this artifact untaps, sacrifice it and destroy target nonland permanent you don&apos;t control.&quot; Activate only as a sorcery.</text>
+			<text>{T}: TNT Block gains &quot;When this artifact becomes untapped, sacrifice it and destroy target permanent you don&apos;t control.&quot; Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/382.png" num="306">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6813,7 +6815,7 @@ At the beginning of your end step, you lose 2 life unless you discard a card.
 		</card>
 		<card>
 			<name>Nightly Confrontation</name>
-			<text>Target creature you control gets +2/+2 and gains your choice or hexproof or trample until end of turn.</text>
+			<text>Target creature you control gets +2/+2 and gains your choice of hexproof or trample until end of turn.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/389.png" num="234">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6890,7 +6892,7 @@ Finish 4 — Creatures you control get +2/+2. (Pay four 🧱: Finish this Constr
 			<name>Town Square</name>
 			<text>When Town Square enters, create a 1/1 white Villager creature token.
 {1}, {T}: You get 🧱 (a brick counter).
-Finish 2 — When Town Square becomes finished, create a 3/3 colorless Golem artifact creature token. (Pay two 🧱: Finish this Construction and add this ability, only once as a sorcery.)</text>
+Finish 3 — When Town Square becomes finished, create a 3/3 colorless Golem artifact creature token. (Pay three 🧱: Finish this Construction and add this ability, only once as a sorcery.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/393.png" num="41">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -7071,8 +7073,8 @@ Finish 3 — At the beginning of combat on your turn, target creature you contro
 				<side>front</side>
 				<type>Artifact — Construction</type>
 				<maintype>Artifact</maintype>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -7102,7 +7104,7 @@ Finish 3 — Creatures you control get +1/+1 for each other artifact you control
 			<name>Central Map</name>
 			<text>When Central Map enters, create two 2/2 red Human creature tokens.
 {1}, {T}: You get 🧱 (a brick counter).
-Finish 1 — When Central Map becomes finished, draw a card for each finished Construction you control. (Pay a 🧱: Finish this Construction and add this ability, only once as a sorcery.)</text>
+Finish 3 — When Central Map becomes finished, draw a card for each finished Construction you control. (Pay three 🧱: Finish this Construction and add this ability, only once as a sorcery.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/404.png" num="260">MIN</set>
 			<prop>
 				<layout>normal</layout>

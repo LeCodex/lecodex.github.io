@@ -95,7 +95,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Artifact",
-			"collector_number": "276",
+			"collector_number": "277",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/9.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Planeswalker — Steve",
-			"collector_number": "275",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/13.png"
 			}
@@ -575,7 +575,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Villager Shaman",
-			"collector_number": "273",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/57.png"
 			}
@@ -1271,11 +1271,11 @@
 			}
 		},
 		{
-			"name": "Transport Donkey",
+			"name": "Loaded Donkey",
 			"rarity": "special",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Horse",
-			"collector_number": "278",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/127.png"
 			}
@@ -2485,7 +2485,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Artifact",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/248.png"
 			}
@@ -2495,7 +2495,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "274",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/249.png"
 			}
@@ -2525,7 +2525,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Artifact",
-			"collector_number": "277",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/252.png"
 			}
@@ -4023,7 +4023,7 @@
 		{
 			"name": "Wood Camp",
 			"rarity": "special",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Artifact — Construction",
 			"collector_number": "255",
 			"image_uris": {
@@ -4167,7 +4167,7 @@
 	1 Shedding Turtle
 	1 Ink Squids
 	1 Tame Panda
-	1 Transport Donkey
+	1 Loaded Donkey
 	1 Clear Command
 	1 Wild Fox
 	1 Frost Stray

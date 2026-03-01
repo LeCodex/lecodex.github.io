@@ -1,4 +1,99 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Loaded Donkey added.
+
+Transport Donkey removed.
+
+Unlit Cave
+rules_text: When Unlit Cave enters or is put into a graveyard from the battlefield, spawn menace 2. [i](Create a black 4/4 Horde enchantment creature token with menace and two time counters on it. Remove one whenever a spell is cast. It isn't a creature until it has none.)[/i] => When Unlit Cave enters or is put into a graveyard from the battlefield, spawn 2. [i](Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+
+Alex, Intrepid Explorer
+rules_text: [+1]: Until end of turn, Alex becomes a 5/5 Human Warrior creature with haste and indestructible. Attach any number of Equipment you control to her. [i](She doesn't lose loyalty while she isn't a planeswalker.)[/i]
+[-1]: Amass Villagers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Villager. If you don't control an Army, create a 0/0 black Villager Army creature token first.)[/i] => [+1]: Until end of turn, Alex becomes a 5/5 Human Warrior creature with haste and indestructible. Attach any number of Equipment you control to her. [i](She doesn't lose loyalty while she isn't a planeswalker.)[/i]
+[-1]: Amass Villagers 3. [i](Put three +1/+1 counters on an Army you control. It's also a Villager. If you don't control an Army, create a 0/0 black Villager Army creature token first.)[/i]
+special_text: [+1]: Until end of turn, Alex becomes a 5/5 Human Warrior creature with haste and indestructible. Attach any number of Equipment you control to her. [i](She doesn't lose loyalty while she isn't a planeswalker.)[/i]
+[-1]: Amass Villagers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Villager. If you don't control an Army, create a 0/0 black Villager Army creature token first.)[/i] => [+1]: Until end of turn, Alex becomes a 5/5 Human Warrior creature with haste and indestructible. Attach any number of Equipment you control to her. [i](She doesn't lose loyalty while she isn't a planeswalker.)[/i]
+[-1]: Amass Villagers 3. [i](Put three +1/+1 counters on an Army you control. It's also a Villager. If you don't control an Army, create a 0/0 black Villager Army creature token first.)[/i]
+
+Village Bell
+rules_text: Flash
+When Village Bell enters, create two 1/1 white Villager creature tokens. You gain 2 life.
+Function — Until your next turn, target artifact or creature you control becomes a 3/3 Golem artifact creature and gains vigilance. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i] => Flash
+When Village Bell enters, create two 1/1 white Villager creature tokens. You gain 2 life.
+Function — Until your next turn, Village Bell becomes a 3/3 Golem artifact creature and gains vigilance. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i]
+
+Mob Spawner
+rules_text: When Mob Spawner enters, spawn 3. [i](Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+{1}, {T}: Add {B}, {R}, or {G}. => When Mob Spawner enters, spawn 2. [i](Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+{1}, {T}: Add {B}, {R}, or {G}.
+
+Wild Rabbit
+rules_text: [i]Gather[/i] — Whenever a permanent you control with a mana ability enters, you may create a 2/1 green Rabbit creature token. => [i]Gather[/i] — Whenever a permanent you control with a mana ability enters, create a 2/1 green Rabbit creature token.
+
+Wandering Trader
+rules_text: When Wandering Trader enters, exile the top three cards of your library.
+{2}: Put target card exiled with Wandering Trader into your hand, then exile the top card of your library.
+When Wandering Trader leaves the battlefield, put all cards exiled with it into your graveyard. => When Wandering Trader enters, exile the top three cards of your library.
+{2}: Put a card exiled with Wandering Trader into your hand. Activate only as a sorcery.
+When Wandering Trader leaves the battlefield, put all cards exiled with it into your graveyard.
+
+Village Fletcher
+rules_text: Prowess
+Whenever Village Fletcher attacks, if it's modified, target creature can't block this turn. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Prowess
+Whenever one or more modified creatures you control attack, target creature can't block this turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Sift the Loot
+rules_text: Look at the top five cards of your library, put one of them into your hand and the rest on the bottom of your library.
+[i]Raid[/i] — If you attacked this turn, instead search your library for a card, put it into your hand, then shuffle. => Look at the top four cards of your library, put one of them into your hand and the rest on the bottom of your library. You lose 3 life.
+[i]Raid[/i] — If you attacked this turn, instead search your library for a card, put it into your hand, then shuffle.
+
+Pigstep Music Disc
+rules_text: Hordes you control enter with two additional +1/+1 counters on them and have trample.
+Cycling {1}{R} [i]({1}{R}, Discard this card: Draw a card.)[/i]
+When you cycle Pigstep Music Disc, Hordes you control get +2/+0 until end of turn. => Hordes you control enter with two additional +1/+1 counters on them and have menace.
+Cycling {1}{R} [i]({1}{R}, Discard this card: Draw a card.)[/i]
+When you cycle Pigstep Music Disc, Hordes you control get +2/+0 until end of turn.
+
+Spawn Egg
+rules_text: Create a token that's a copy of target creature you control, except it has haste and “At the beginning of the end step, if this token has power 3 or lesser, exile it.” => Create a token that's a copy of target creature you control, except it has haste and “At the beginning of the end step, if this token has power 3 or less, exile it.”
+
+Pale Garden
+rules_text: {T}: Add {C}.
+{1}, {T}: Scry 2. Activate only if you or a permanent you control became the target of a spell or ability you don't control since your last turn. => {T}: Add {C}.
+{T}: Add one mana of any color. Activate only if Pale Garden entered this turn.
+{5}, {T}: Create a tapped 2/2 black Zombie creature token.
+
+Wither Skull
+rules_text: Haste, trample
+At the beginning of the end step, sacrifice Wither Skull. => Haste, trample
+Decayed [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+TNT Block
+rules_text: {T}: TNT Block gains “When this artifact untaps, sacrifice it and destroy target nonland permanent you don't control.” Activate only as a sorcery. => {T}: TNT Block gains “When this artifact becomes untapped, sacrifice it and destroy target permanent you don't control.” Activate only as a sorcery.
+
+Nightly Confrontation
+rules_text: Target creature you control gets +2/+2 and gains your choice or hexproof or trample until end of turn. => Target creature you control gets +2/+2 and gains your choice of hexproof or trample until end of turn.
+
+Town Square
+rules_text: When Town Square enters, create a 1/1 white Villager creature token.
+{1}, {T}: You get 🧱 [i](a brick counter)[/i].
+Finish 2 — When Town Square becomes finished, create a 3/3 colorless Golem artifact creature token. [i](Pay two 🧱: Finish this Construction and add this ability, only once as a sorcery.)[/i] => When Town Square enters, create a 1/1 white Villager creature token.
+{1}, {T}: You get 🧱 [i](a brick counter)[/i].
+Finish 3 — When Town Square becomes finished, create a 3/3 colorless Golem artifact creature token. [i](Pay three 🧱: Finish this Construction and add this ability, only once as a sorcery.)[/i]
+
+Wood Camp
+cost: {G} => {1}{G}
+
+Central Map
+rules_text: When Central Map enters, create two 2/2 red Human creature tokens.
+{1}, {T}: You get 🧱 [i](a brick counter)[/i].
+Finish 1 — When Central Map becomes finished, draw a card for each finished Construction you control. [i](Pay a 🧱: Finish this Construction and add this ability, only once as a sorcery.)[/i] => When Central Map enters, create two 2/2 red Human creature tokens.
+{1}, {T}: You get 🧱 [i](a brick counter)[/i].
+Finish 3 — When Central Map becomes finished, draw a card for each finished Construction you control. [i](Pay three 🧱: Finish this Construction and add this ability, only once as a sorcery.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
