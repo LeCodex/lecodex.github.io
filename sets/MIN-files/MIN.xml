@@ -5,7 +5,7 @@
 			<name>MIN</name>
 			<longname>Minecraft</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-01</releasedate>
+			<releasedate>2026-04-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1723,7 +1723,7 @@ You may cast Baby Zombie from your graveyard if a Horde you control entered this
 		</card>
 		<card>
 			<name>Polar Bear</name>
-			<text>When Polar Bear enters, create a 2/2 white Bear creature token with lifelink.
+			<text>When Polar Bear enters, create a 2/2 white Bear creature token.
 Whenever a creature you control with power 2 or less dies, put two +1/+1 counters on Polar Bear.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/98.png" num="30">MIN</set>
 			<prop>
@@ -1922,7 +1922,7 @@ Ferocious — Vindicator has indestructible as long as you control another creat
 		</card>
 		<card>
 			<name>Meadow Cow</name>
-			<text>Whenever another creature you control enters or dies, you gain 1 life.
+			<text>Whenever another creature you control enters, you gain 1 life.
 {2}, Sacrifice Meadow Cow: You gain 3 life.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/109.png" num="24">MIN</set>
 			<prop>
@@ -2026,7 +2026,7 @@ Artifact spells you cast cost {1} less to cast.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Villager MIN</related>
+			<related count="2">Villager MIN</related>
 		</card>
 		<card>
 			<name>Kick</name>
@@ -2246,7 +2246,7 @@ At the beginning of your end step, if a creature died this turn, you gain 2 life
 				<cmc>5</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
-				<pt>5/5</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related>Horse MIN</related>
@@ -2421,7 +2421,7 @@ Whenever Nimble Horse attacks, if you&apos;re an explorer, target creature can&a
 		<card>
 			<name>Sniffer</name>
 			<text>Vigilance
-When Sniffer enters, mill three cards. You may return a creature, artifact, or land card from your graveyard to your hand. Then, you may shuffle up to three cards from your graveyard into your library.</text>
+When Sniffer enters, mill three cards. You may return a card from your graveyard to your hand. Then, you may shuffle up to three cards from your graveyard into your library.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/137.png" num="246">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2496,7 +2496,7 @@ Raid — At the beginning of your end step, if you attacked this turn, Ravager d
 		<card>
 			<name>Lava Strider</name>
 			<text>Travel (If there are eight or more lands among your battlefield and graveyard, you&apos;re an explorer for the rest of the game.)
-Haste
+Menace
 When Lava Strider dies, if you&apos;re an explorer, it deals 2 damage to any target.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/141.png" num="173">MIN</set>
 			<prop>
@@ -2755,7 +2755,8 @@ Sacrifice a token: Temple Guardian gains first strike until end of turn. Activat
 		<card>
 			<name>Young Hoglin</name>
 			<text>Travel (If there are eight or more lands among your battlefield and graveyard, you&apos;re an explorer for the rest of the game.)
-As long as you are an explorer, Young Hoglin gets +2/+1 and has haste.</text>
+Haste
+As long as you are an explorer, Young Hoglin gets +2/+1.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/155.png" num="205">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2766,7 +2767,7 @@ As long as you are an explorer, Young Hoglin gets +2/+1 and has haste.</text>
 				<cmc>1</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/1</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related>Explorer MIN</related>
@@ -2774,7 +2775,7 @@ As long as you are an explorer, Young Hoglin gets +2/+1 and has haste.</text>
 		<card>
 			<name>Village Farmer</name>
 			<text>When Village Farmer enters, create a Food token.
-At the beginning of your end step, you may pay {X}. If you do, create X 1/1 white Villager creature tokens. X can&apos;t be greater than the amount of life you gained this turn.</text>
+At the beginning of your end step, if you gained more life this turn than creatures you control, create a 1/1 white Villager creature token.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/156.png" num="46">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3104,7 +3105,7 @@ When Magma Cube dies, create a 1/1 red Elemental creature token.</text>
 				<maintype>Artifact</maintype>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<pt>4/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -3200,7 +3201,7 @@ Draw two cards and create a tapped Tool token. (It&apos;s an artifact with &quot
 		<card>
 			<name>Equipping Station</name>
 			<text>When Equipping Station enters, create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)
-Function — Put a +1/+1 counter on target creature. It gains deathtouch and lifelink until end of turn. ({6}: Trigger any number of function abilities you control, only as a sorcery.)</text>
+Function — Put a +1/+1 counter on target creature. It gains deathtouch until end of turn. ({6}: Trigger any number of function abilities you control, only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/180.png" num="115">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3508,7 +3509,7 @@ Whenever one or more modified creatures you control attack, target creature can&
 		<card>
 			<name>Tuff Golem</name>
 			<text>Vigilance
-At the beginning of your end step, if Tuff Golem is modified or if you control two or more other artifacts, draw a card. (Equipment, Auras you control, and counters are modifications.)</text>
+At the beginning of your end step, if Tuff Golem is modified or if you control three or more nontoken artifacts, draw a card. (Equipment, Auras you control, and counters are modifications.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/197.png" num="42">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3733,8 +3734,8 @@ Function — Exile up to two artifacts and/or enchantments you control, then ret
 		</card>
 		<card>
 			<name>Sift the Loot</name>
-			<text>Look at the top four cards of your library, put one of them into your hand and the rest on the bottom of your library. You lose 3 life.
-Raid — If you attacked this turn, instead search your library for a card, put it into your hand, then shuffle.</text>
+			<text>Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. 
+Raid — If you attacked this turn, you may instead search your library for a card, put it into your hand, then shuffle.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/210.png" num="137">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4352,9 +4353,9 @@ Discard a card, then draw two cards and create a Treasure token.</text>
 		</card>
 		<card>
 			<name>Warden</name>
-			<text>Warden doesn&apos;t untap during your untap step.
-Whenever a creature dies, untap Warden.
-{3}, {T}: Target opponent loses 3 life.</text>
+			<text>Defender, menace
+Whenever a creature dies, Warden can attack as though it didn&apos;t have defender until your next end step.
+{1}, Sacrifice a creature: Target opponent loses 2 life. Activate only once each turn.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/245.png" num="145">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4365,7 +4366,7 @@ Whenever a creature dies, untap Warden.
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4608,7 +4609,7 @@ Equip {1}</text>
 		<card>
 			<name>Grindstone</name>
 			<text>When Grindstone enters, suit up. (You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)
-{T}, Pay 1 life, Sacrifice an artifact: Create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
+{T}, Sacrifice an artifact: Create a tapped Tool token. You gain 1 life. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/259.png" num="120">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5253,8 +5254,7 @@ Endermite can&apos;t block.</text>
 		</card>
 		<card>
 			<name>Copper Golem</name>
-			<text>Copper Golem enters with two +1/+1 counters on it.
-{T}, Remove a +1/+1 counter from Copper Golem: Untap another target artifact or creature. If it&apos;s a creature, put a +1/+1 counter on it. Activate only as a sorcery.</text>
+			<text>{1}, {T}: Untap another target artifact or creature. If it&apos;s an artifact creature, put a +1/+1 counter on it. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/296.png" num="6">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5265,7 +5265,7 @@ Endermite can&apos;t block.</text>
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>1/1</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -6439,7 +6439,8 @@ Hordes you control enter with an additional time counter on them.</text>
 		</card>
 		<card>
 			<name>Village Butcher</name>
-			<text>When Village Butcher enters, pay any number of 🧱. Create a Food token and a 3/3 green Ox creature token, then repeat this process for each 🧱 paid this way.</text>
+			<text>Vigilance
+When Village Butcher enters, pay any number of 🧱. Create a Food token and a 3/3 green Ox creature token, then repeat this process for each 🧱 paid this way.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/367.png" num="252">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6578,8 +6579,8 @@ Hexproof</text>
 		</card>
 		<card>
 			<name>Out in the Sun</name>
-			<text>Exile the top three cards of your library. You may play them until the end of your next turn. At the beginning of that turn&apos;s end step, put any of those cards that you didn&apos;t play into your graveyard.
-Spawn 2. (Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+			<text>Mill two cards. You may play them until the end of your next turn.
+Spawn 4. (Create a 4/4 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/375.png" num="179">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6742,7 +6743,7 @@ Whenever a modified creature you control attacks, exile the top card of your lib
 		</card>
 		<card>
 			<name>Call of the Horde</name>
-			<text>Target creature and each other Horde you control gets +1/+0 and gains haste until end of turn.</text>
+			<text>Target creature and each other creature you control that&apos;s a Horde gets +1/+0 and gains haste until end of turn.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/385.png" num="156">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -7064,7 +7065,7 @@ Finish 2 — Whenever a land you control enters, proliferate. (Pay two 🧱: Fin
 		</card>
 		<card>
 			<name>Wood Camp</name>
-			<text>When Wood Camp enters, destroy target artifact or enchantment.
+			<text>When Wood Camp enters, destroy target artifact, enchantment, or creature with flying.
 {1}, {T}: You get 🧱 (a brick counter).
 Finish 3 — At the beginning of combat on your turn, target creature you control gains indestructible and hexproof until your next turn. (Pay three 🧱: Finish this Construction and add this ability, only once as a sorcery.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/402.png" num="255">MIN</set>
