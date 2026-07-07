@@ -1,4 +1,163 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Trial Raiders added.
+Celebrating Tribe added.
+Bucket Fish added.
+Enclosed Cows added.
+Reinforced Raiders added.
+Fountain Cohort added.
+Equipped Zombie added.
+Underground Bat added.
+
+Trial Raid removed.
+Victory Celebration removed.
+Fish Bucket removed.
+Enclosure Evasion removed.
+Escalating Raid removed.
+Village Fountain removed.
+Equipped Spawn removed.
+Shed Light removed.
+
+Silverfish
+rules_text: [i]Ferocious[/i] — When Silverfish enters, destroy up to one target artifact or enchantment. When you do, if you control a creature with power 4 or greater, spawn 2. [i](Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i] => [i]Ferocious[/i] — When Silverfish enters, if you control a creature with power 4 or greater, spawn 2. [i](Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+pt: 2/1 => 3/2
+
+Mob Farm
+rules_text: At the beginning of your end step, if you don't control a Horde, spawn 3. [i](Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+{2}, {T}, Sacrifice a creature: Draw a card. => When Mob Farm enters and at the beginning of your upkeep, spawn 3 if you don't control a Horde. [i](To spawn 3, create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+{2}, {T}, Sacrifice a creature: Draw a card.
+
+Pillager Raid
+rules_text: When Pillager Raid enters, amass Villagers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Villager. If you don't control an Army, create a 0/0 black Villager Army creature token first.)[/i]
+[i]Raid[/i] — At the beginning of your end step, if you attacked this turn, you draw a card and lose 1 life. => When Pillager Raid enters, amass Villagers 2. [i](Put two +1/+1 counters on an Army you control. It's also a Villager. If you don't control an Army, create a 0/0 black Villager Army creature token first.)[/i]
+[i]Raid[/i] — At the beginning of your postcombat main phase, if you attacked this turn, you draw a card and lose 1 life.
+
+Spectator Mode
+rules_text: Enchant creature
+Enchanted creature loses all abilities and is a colorless 1/1 Spirit creature. [i](It loses all other colors, card types, and creature types.)[/i] => Enchant creature
+Enchanted creature loses all abilities and is a colorless 1/1 Spirit creature. Remove all counters from it. [i](It loses all other colors, card types, and creature types.)[/i]
+
+Ink Squids
+rules_text: When Ink Squids dies, you may return target creature or artifact to its owner's hand. => When Ink Squids enters, you may return target creature or artifact to its owner's hand.
+pt: 3/4 => 3/3
+
+Zombie Reinforcements
+type: Sorcery => Creature — Zombie
+rules_text: Choose one —
+• You may sacrifice an artifact or creature. If you do, return target creature card from your graveyard to the battlefield.
+• Spawn 5. [i](Create a 5/5 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i] => When Zombie Reinforcements enters, spawn 1. [i](Create a 1/1 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+Whenever Zombie Reinforcements attacks, put a +1/+1 counter on each Horde you control.
+pt:  => 3/3
+
+Dragon's Breath
+rules_text: Enchant creature
+Enchanted creature has deathtouch.
+[i]Ferocious[/i] — When Dragon's Breath enters, if you control a creature power 4 or greater, destroy up to one target artifact or enchantment. => Enchant creature
+Enchanted creature has deathtouch.
+[i]Ferocious[/i] — When Dragon's Breath enters, if you control a creature with power 4 or greater, destroy up to one target artifact or enchantment.
+
+Creaking
+rules_text: Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+Whenever Creaking attacks, if you're not an explorer, tap it and put a stun counter on it.
+{1}{U}: Untap Creaking. => Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+Whenever Creaking attacks, if you're not an explorer, tap it and put a stun counter on it.
+{1}{U}, Remove a stun counter from Creaking: Draw a card.
+
+Drowned Zombie
+rules_text: When Drowned Zombie enters, spawn 3. [i](Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+Whenever a Horde you control attacks, Drowned Zombie can't be blocked this turn. => When Drowned Zombie enters, spawn 3. [i](Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+Drowned Zombie can't be blocked as long as you control a Horde.
+pt: 1/1 => 2/1
+
+Insect Infestation
+rules_text: Destroy target artifact or enchantment. Spawn 2. [i](Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i] => Choose one —
+• Destroy target artifact or enchantment.
+• Spawn 4. [i](Create a 4/4 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+
+Third Shriek
+rules_text: Reveal cards from the top of your library until you reveal a land card, then put those cards into your graveyard. When you do, create an X/X black Golem Horror artifact creature token, where X is the number of land cards in your graveyard. => Mill cards until you mill a land card. When you do, create an X/X black Golem Horror artifact creature token, where X is the number of land cards in your graveyard.
+
+Village Librarian
+rules_text: When Village Librarian dies, if it was modified, return another target creature card from your graveyard to the battlefield with mana value lesser than or equal to its toughness. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Village Librarian dies, return another target creature card from your graveyard to the battlefield with mana value lesser than or equal to its toughness.
+
+Village Armorer
+rules_text: First strike
+Function — Target creature you control gets +3/+3 and gains indestructible until end of turn. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i] => Village Armorer has first strike as long as an artifact you control entered this turn.
+Function — Target creature you control gets +3/+3 and gains indestructible until end of turn. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i]
+pt: 2/1 => 3/1
+
+Growing Pack
+type: Enchantment => Creature — Wolf
+rules_text: [i]Ferocious[/i] — At the beginning of your end step, if you control a creature with power 4 or greater, choose one —
+• Create a 2/2 green Wolf creature token.
+• Draw a card. => [i]Ferocious[/i] — At the beginning of your end step, if you control another creature with power 4 or greater, create a 2/2 green Wolf creature token.
+pt:  => 4/3
+
+Rascal
+rules_text: Menace
+{1}{B}, Exile Rascal from your graveyard: Return another target creature card from your graveyard to your hand. => Menace
+{1}{B}, Exile Rascal from your hand or from your graveyard: Return another target creature card from your graveyard to your hand.
+
+Mooshroom Herd
+rules_text: Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+When Mooshroom Herd enters, if it's not a token and if you're an explorer, create a token that's a copy of it. => Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+Ward {2}
+When Mooshroom Herd enters, if it's not a token and if you're an explorer, create a token that's a copy of it.
+
+Tuff Golem
+rules_text: Vigilance
+At the beginning of your end step, if Tuff Golem is modified or if you control three or more nontoken artifacts, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Vigilance
+At the beginning of your end step, if you control three or more nontoken artifacts and/or modified creatures, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Ancient Etchings
+type: Enchantment => Artifact
+cost: {2}{G}{G} => {2}{G}
+rules_text: Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+When Ancient Etchings enters, create two tapped Treasure tokens.
+At the beginning of your end step, if you're an explorer, you may have target noncreature artifact you control become a 3/3 Golem artifact creature. [i](This effect lasts indefinitely.)[/i] => Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+When Ancient Etchings enters, create a 3/3 colorless Golem artifact creature token.
+{T}: Target artifact you control becomes a 3/3 Golem artifact creature until end of turn. Activate only if you're an explorer.
+
+Moody Weather
+rules_text: {1}{G}, Discard a card: Spawn 4. Activate only as a sorcery. [i](To spawn 4, create a 4/4 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+[i]Ferocious[/i] — Whenever a creature you control with power 4 or more dies, you may draw a card. => Discard a card: Spawn 4. Activate only once each turn and only as a sorcery. [i](To spawn 4, create a 4/4 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)[/i]
+[i]Ferocious[/i] — Whenever a creature you control with power 4 or more dies, you may draw a card.
+
+Iron Farm
+rules_text: When Iron Farm enters, create a 3/3 colorless Golem artifact creature token.
+Function — Create two tapped Treasure tokens. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i] => When Iron Farm enters, create a 3/3 colorless Golem artifact creature token and a Treasure token.
+Function — Each opponent discards a card. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i]
+
+Clone Command
+rules_text: When Clone Command enters, create a token that's a copy of target creature, except it's a 1/1 artifact creature.
+Function — Create a token that's a copy of another target token you control. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i] => You may have Clone Command enter as a copy of any creature on the battlefield, except it's a 1/1 enchantment creature and has the following ability.
+Function — Create a token that's a copy of another target token you control. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i]
+
+Moobloom
+rules_text: Vigilance
+Moobloom has lifelink as long as it's modified. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Moobloom has vigilance as long as you control a token.
+Moobloom has lifelink as long as it's modified. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+pt: 3/4 => 4/4
+
+Swoop Down
+rules_text: Swoop Down deals 4 damage to target creature. When excess damage is dealt this way, destroy target artifact. => Swoop Down deals 4 damage to target creature. When excess damage is dealt this way, you may destroy target artifact.
+
+Dashing Nautilus
+rules_text: [i]Gather[/i] — Whenever a permanent you control with a mana ability enters, untap target artifact or creature. If it's a creature, put a +1/+1 counter on it. => Vigilance
+[i]Gather[/i] — Whenever a permanent you control with a mana ability enters, untap target artifact or creature. If it's a creature, it get +1/+1 until end of turn.
+
+Angered Wolf
+rules_text: Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+Reach
+As long as you're an explorer, Angered Wolf can't be blocked by creatures with lesser power. => Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]
+Reach
+When Angered Wolf enters, if you're an explorer, you may have it fight another target creature.
+
+Nightly Confrontation
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

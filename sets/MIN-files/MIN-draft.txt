@@ -25,7 +25,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/5.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/7.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/21.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/59.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/61.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Bat",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/66.png"
 			}
@@ -725,7 +725,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/72.png"
 			}
@@ -745,7 +745,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/74.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/76.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/77.png"
 			}
@@ -795,7 +795,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Boar Barbarian",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/79.png"
 			}
@@ -805,7 +805,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/80.png"
 			}
@@ -845,7 +845,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Boar Archer",
-			"collector_number": "159",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/84.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/85.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/96.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Bear",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/98.png"
 			}
@@ -1005,7 +1005,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/100.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/104.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Ox",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/109.png"
 			}
@@ -1111,11 +1111,11 @@
 			}
 		},
 		{
-			"name": "Trial Raid",
+			"name": "Trial Raiders",
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Sorcery",
-			"collector_number": "196",
+			"type": "Creature — Human",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/111.png"
 			}
@@ -1131,11 +1131,11 @@
 			}
 		},
 		{
-			"name": "Victory Celebration",
+			"name": "Celebrating Tribe",
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
-			"type": "Enchantment",
-			"collector_number": "200",
+			"type": "Creature — Pig Warrior",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/113.png"
 			}
@@ -1145,7 +1145,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/114.png"
 			}
@@ -1175,7 +1175,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "158",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/117.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/122.png"
 			}
@@ -1305,17 +1305,17 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Skeleton Archer",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/130.png"
 			}
 		},
 		{
-			"name": "Fish Bucket",
+			"name": "Bucket Fish",
 			"rarity": "special",
 			"mana_cost": "{U}",
-			"type": "Artifact",
-			"collector_number": "68",
+			"type": "Creature — Fish",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/131.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/132.png"
 			}
@@ -1335,7 +1335,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/133.png"
 			}
@@ -1405,7 +1405,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Beast",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/140.png"
 			}
@@ -1415,7 +1415,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Beast",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/141.png"
 			}
@@ -1435,7 +1435,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/143.png"
 			}
@@ -1444,7 +1444,7 @@
 			"name": "Zombie Reinforcements",
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
-			"type": "Sorcery",
+			"type": "Creature — Zombie",
 			"collector_number": "152",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/144.png"
@@ -1465,7 +1465,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Plant Illusion",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/146.png"
 			}
@@ -1495,7 +1495,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/149.png"
 			}
@@ -1565,7 +1565,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Villager Peasant",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/156.png"
 			}
@@ -1605,7 +1605,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/160.png"
 			}
@@ -1615,7 +1615,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/161.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Boar",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/167.png"
 			}
@@ -1685,7 +1685,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/168.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/171.png"
 			}
@@ -1735,7 +1735,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/173.png"
 			}
@@ -1765,7 +1765,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Villager Artificer",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/176.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/181.png"
 			}
@@ -1824,7 +1824,7 @@
 			"name": "Growing Pack",
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Enchantment",
+			"type": "Creature — Wolf",
 			"collector_number": "227",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/182.png"
@@ -1845,7 +1845,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/184.png"
 			}
@@ -1885,7 +1885,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/188.png"
 			}
@@ -1895,7 +1895,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/189.png"
 			}
@@ -1905,7 +1905,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/190.png"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Homunculus",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/192.png"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/202.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "191",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/205.png"
 			}
@@ -2063,18 +2063,18 @@
 		{
 			"name": "Ancient Etchings",
 			"rarity": "special",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Enchantment",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
 			"collector_number": "207",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/206.png"
 			}
 		},
 		{
-			"name": "Enclosure Evasion",
+			"name": "Enclosed Cows",
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
-			"type": "Instant",
+			"type": "Creature — Ox",
 			"collector_number": "220",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/207.png"
@@ -2085,7 +2085,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/208.png"
 			}
@@ -2115,7 +2115,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/211.png"
 			}
@@ -2135,7 +2135,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Villager Archer",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/213.png"
 			}
@@ -2145,7 +2145,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/214.png"
 			}
@@ -2171,11 +2171,11 @@
 			}
 		},
 		{
-			"name": "Escalating Raid",
+			"name": "Reinforced Raiders",
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
-			"type": "Enchantment",
-			"collector_number": "116",
+			"type": "Creature — Villager Archer",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/217.png"
 			}
@@ -2185,7 +2185,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/218.png"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/222.png"
 			}
@@ -2355,7 +2355,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/235.png"
 			}
@@ -2385,7 +2385,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/238.png"
 			}
@@ -2395,7 +2395,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Artifact",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/239.png"
 			}
@@ -2415,7 +2415,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/241.png"
 			}
@@ -2425,7 +2425,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/242.png"
 			}
@@ -2435,7 +2435,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/243.png"
 			}
@@ -2445,7 +2445,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/244.png"
 			}
@@ -2461,11 +2461,11 @@
 			}
 		},
 		{
-			"name": "Village Fountain",
+			"name": "Fountain Cohort",
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Artifact",
-			"collector_number": "47",
+			"type": "Creature — Villager",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/246.png"
 			}
@@ -2561,11 +2561,11 @@
 			}
 		},
 		{
-			"name": "Equipped Spawn",
+			"name": "Equipped Zombie",
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
-			"type": "Enchantment",
-			"collector_number": "163",
+			"type": "Creature — Zombie Villager",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/256.png"
 			}
@@ -2595,7 +2595,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/259.png"
 			}
@@ -2605,7 +2605,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Enchantment",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/260.png"
 			}
@@ -2635,7 +2635,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/263.png"
 			}
@@ -2665,7 +2665,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Wolf",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/266.png"
 			}
@@ -2705,7 +2705,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/270.png"
 			}
@@ -2735,7 +2735,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/273.png"
 			}
@@ -2765,7 +2765,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/276.png"
 			}
@@ -2935,7 +2935,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/293.png"
 			}
@@ -2955,7 +2955,7 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Mite",
-			"collector_number": "162",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/295.png"
 			}
@@ -2985,7 +2985,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Plant Ox",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/298.png"
 			}
@@ -3025,7 +3025,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Boar Warrior",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/302.png"
 			}
@@ -3355,7 +3355,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/335.png"
 			}
@@ -3375,7 +3375,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/337.png"
 			}
@@ -3385,7 +3385,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/338.png"
 			}
@@ -3395,7 +3395,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/339.png"
 			}
@@ -3411,11 +3411,11 @@
 			}
 		},
 		{
-			"name": "Shed Light",
+			"name": "Underground Bat",
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment",
-			"collector_number": "34",
+			"type": "Creature — Bat",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/341.png"
 			}
@@ -3435,7 +3435,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Nautilus",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/343.png"
 			}
@@ -3445,7 +3445,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/344.png"
 			}
@@ -3585,7 +3585,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Spirit",
-			"collector_number": "160",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/358.png"
 			}
@@ -3595,7 +3595,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/359.png"
 			}
@@ -3615,7 +3615,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/361.png"
 			}
@@ -3635,7 +3635,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Skeleton",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/363.png"
 			}
@@ -3655,7 +3655,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Zombie Nautilus",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/365.png"
 			}
@@ -3695,7 +3695,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "161",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/369.png"
 			}
@@ -3705,7 +3705,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}{W}",
 			"type": "Enchantment",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/370.png"
 			}
@@ -3755,7 +3755,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/375.png"
 			}
@@ -3805,7 +3805,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/380.png"
 			}
@@ -3815,7 +3815,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/381.png"
 			}
@@ -3835,7 +3835,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Horse",
-			"collector_number": "180",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/383.png"
 			}
@@ -3975,7 +3975,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact — Construction",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/397.png"
 			}
@@ -4151,9 +4151,9 @@
 	1 Vindicator
 	1 Meadow Cow
 	1 Banished Witch
-	1 Trial Raid
+	1 Trial Raiders
 	1 Sea Dolphin
-	1 Victory Celebration
+	1 Celebrating Tribe
 	1 Hero of the Village
 	1 Kick
 	1 Time Command
@@ -4171,7 +4171,7 @@
 	1 Clear Command
 	1 Wild Fox
 	1 Frost Stray
-	1 Fish Bucket
+	1 Bucket Fish
 	1 Outpost Defense
 	1 Phantom
 	1 Arctic Fox
@@ -4241,7 +4241,7 @@
 	1 Spider Jockey
 	1 Shared Anger
 	1 Ancient Etchings
-	1 Enclosure Evasion
+	1 Enclosed Cows
 	1 Command Block
 	1 Debug World
 	1 Sift the Loot
@@ -4251,7 +4251,7 @@
 	1 Pillager Horn
 	1 Curse of Binding
 	1 Dungeon Skeleton
-	1 Escalating Raid
+	1 Reinforced Raiders
 	1 Protection Chestplate
 	1 Gradual Growth
 	1 Lightning Rod
@@ -4280,7 +4280,7 @@
 	1 Clone Command
 	1 Pilfer the Bastion
 	1 Warden
-	1 Village Fountain
+	1 Fountain Cohort
 	1 Enchanting Table
 	1 Minecart Network
 	1 Spawn Egg
@@ -4288,7 +4288,7 @@
 	1 Iceologer
 	1 Trail Ruins
 	1 Diamond Gear
-	1 Equipped Spawn
+	1 Equipped Zombie
 	1 Stone Sword
 	1 Grindstone
 	1 Prepared Incursion
@@ -4355,7 +4355,7 @@
 	1 Lightning Strike
 	1 Charging Strike
 	1 Vulture Circle
-	1 Shed Light
+	1 Underground Bat
 	1 Wither Skull
 	1 Dashing Nautilus
 	1 Gather the Loot

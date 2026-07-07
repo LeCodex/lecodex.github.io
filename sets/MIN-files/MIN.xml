@@ -5,7 +5,7 @@
 			<name>MIN</name>
 			<longname>Minecraft</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-25</releasedate>
+			<releasedate>2026-07-07</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -42,7 +42,7 @@
 			<name>Flaming Weapons</name>
 			<text>When Flaming Weapons enters, suit up. (You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)
 {R}: Modified creatures you control get +1/+0 until end of turn. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/2.png" num="167">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/2.png" num="168">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -59,7 +59,7 @@
 			<name>Full Set</name>
 			<text>Create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)
 Suit up. (You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/3.png" num="18">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/3.png" num="19">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -78,7 +78,7 @@ Suit up. (You may reveal an Equipment you own from outside the game and put it i
 			<text>When Fortune Pickaxe enters, attach it to target creature you control.
 Equipped creature gets +2/+1. Whenever it attacks, create a Treasure token.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/4.png" num="169">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/4.png" num="170">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -97,7 +97,7 @@ Equip {2}</text>
 			<text>When Piercing Crossbow enters, attach it to target creature you control.
 Equipped creature gets +2/+0, and has trample and first strike as long as it&apos;s your turn.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/5.png" num="181">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/5.png" num="182">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -133,7 +133,7 @@ Suit up. (You may reveal an Equipment you own from outside the game and put it i
 Whenever Impaling Trident enters or a creature you control dies, put a sharp counter on Impaling Trident.
 Equipped creature gets +1/+1 for each sharp counter on Impaling Trident.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/7.png" num="124">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/7.png" num="123">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -371,7 +371,7 @@ Whenever a modified creature you control attacks or dies, each opponent loses 1 
 			<text>Flash
 When Village Bell enters, create two 1/1 white Villager creature tokens. You gain 2 life.
 Function — Until your next turn, Village Bell becomes a 3/3 Golem artifact creature and gains vigilance. ({6}: Trigger any number of function abilities you control, only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/21.png" num="45">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/21.png" num="46">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1028,7 +1028,7 @@ When Iron Anvil enters, if it was kicked, it deals 2 damage to any target.
 			<text>When Multishot Crossbow enters, attach it to target creature you control.
 Equipped creature gets +1/+1 and has menace.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/59.png" num="127">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/59.png" num="126">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1063,7 +1063,7 @@ Equip {3}</text>
 			<name>Soul Speed</name>
 			<text>When Soul Speed enters, suit up. (You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)
 Whenever you cast a noncreature spell, target creature you control gets +1/+1 and gains haste until end of turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/61.png" num="192">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/61.png" num="193">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1155,7 +1155,7 @@ Gather — Whenever a permanent you control with a mana ability enters, spawn 3.
 			<name>Scurrying Bat</name>
 			<text>Flying
 When Scurrying Bat dies, if it was modified, create 1/1 white Bat creature token with flying. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/66.png" num="33">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/66.png" num="34">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1207,7 +1207,7 @@ Function — Return all cards you own exiled by Closed Server to the battlefield
 		</card>
 		<card>
 			<name>Silverfish</name>
-			<text>Ferocious — When Silverfish enters, destroy up to one target artifact or enchantment. When you do, if you control a creature with power 4 or greater, spawn 2. (Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+			<text>Ferocious — When Silverfish enters, if you control a creature with power 4 or greater, spawn 2. (Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/69.png" num="245">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1218,7 +1218,7 @@ Function — Return all cards you own exiled by Closed Server to the battlefield
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/1</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related>Horde MIN</related>
@@ -1264,7 +1264,7 @@ When Tamed Cat enters, create a tapped Tool token. (It&apos;s an artifact with &
 		<card>
 			<name>Replace with Air</name>
 			<text>Destroy target artifact or enchantment. Untap up to one target artifact you control.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/72.png" num="32">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/72.png" num="33">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1301,7 +1301,7 @@ Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</
 • Spawn 3. (Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
 • Surprise Explosion deals 3 damage to target creature.
 • Destroy target artifact.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/74.png" num="193">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/74.png" num="194">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1335,7 +1335,7 @@ Function — Target player loses 2 life and you gain 2 life. ({6}: Trigger any n
 		<card>
 			<name>Exposing Demolition</name>
 			<text>Destroy target artifact. If you controlled that artifact, spawn 3. (Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/76.png" num="164">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/76.png" num="165">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1351,9 +1351,9 @@ Function — Target player loses 2 life and you gain 2 life. ({6}: Trigger any n
 		</card>
 		<card>
 			<name>Mob Farm</name>
-			<text>At the beginning of your end step, if you don&apos;t control a Horde, spawn 3. (Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
+			<text>When Mob Farm enters and at the beginning of your upkeep, spawn 3 if you don&apos;t control a Horde. (To spawn 3, create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
 {2}, {T}, Sacrifice a creature: Draw a card.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/77.png" num="126">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/77.png" num="125">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1390,7 +1390,7 @@ Function — Target player loses 2 life and you gain 2 life. ({6}: Trigger any n
 			<text>Menace
 Ward—Pay 2 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
 Raid — At the end of combat on your turn, if you attacked this turn, create a Treasure token.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/79.png" num="182">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/79.png" num="183">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1409,7 +1409,7 @@ Raid — At the end of combat on your turn, if you attacked this turn, create a 
 			<name>Uneasy Alliance</name>
 			<text>Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
 Ferocious — That creature deals damage equal to its power to its owner if you controlled a creature with power 4 or greater as you cast this spell.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/80.png" num="198">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/80.png" num="199">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1477,7 +1477,7 @@ Ferocious — That creature deals damage equal to its power to its owner if you 
 			<name>Crossbow Piglin</name>
 			<text>During your turn, Crossbow Piglin has first strike.
 Raid — When Crossbow Piglin enters, if you attacked this turn, it deals 2 damage to any target.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/84.png" num="159">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/84.png" num="160">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1494,7 +1494,7 @@ Raid — When Crossbow Piglin enters, if you attacked this turn, it deals 2 dama
 		<card>
 			<name>Coral Reef</name>
 			<text>Gather — Whenever a permanent you control with a mana ability enters, create a 1/1 blue Fish creature token with &quot;This creature can&apos;t be blocked.&quot; This ability only triggers once each turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/85.png" num="61">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/85.png" num="62">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1690,7 +1690,7 @@ Sacrifice another creature: Village Cleric gains indestructible until end of tur
 			<name>Fang Attack</name>
 			<text>Choose creature or enchantment. Target opponent sacrifices a permanent of that type of their choice.
 Raid — If you attacked this turn, they also lose 1 life and you gain 1 life.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/96.png" num="118">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/96.png" num="117">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1725,7 +1725,7 @@ You may cast Baby Zombie from your graveyard if a Horde you control entered this
 			<name>Polar Bear</name>
 			<text>When Polar Bear enters, create a 2/2 white Bear creature token.
 Whenever a creature you control with power 2 or less dies, put two +1/+1 counters on Polar Bear.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/98.png" num="30">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/98.png" num="31">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1761,8 +1761,8 @@ Whenever a creature you control with power 2 or less dies, put two +1/+1 counter
 		<card>
 			<name>Pillager Raid</name>
 			<text>When Pillager Raid enters, amass Villagers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Villager. If you don&apos;t control an Army, create a 0/0 black Villager Army creature token first.)
-Raid — At the beginning of your end step, if you attacked this turn, you draw a card and lose 1 life.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/100.png" num="132">MIN</set>
+Raid — At the beginning of your postcombat main phase, if you attacked this turn, you draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/100.png" num="131">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1835,7 +1835,7 @@ Function — Draw a card. ({6}: Trigger any number of function abilities you con
 			<name>Husk</name>
 			<text>Deathtouch
 When Husk enters, spawn 3. (Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/104.png" num="121">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/104.png" num="120">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1924,7 +1924,7 @@ Ferocious — Vindicator has indestructible as long as you control another creat
 			<name>Meadow Cow</name>
 			<text>Whenever another creature you control enters, you gain 1 life.
 {2}, Sacrifice Meadow Cow: You gain 3 life.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/109.png" num="24">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/109.png" num="25">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1957,21 +1957,22 @@ Raid — At the beginning of your end step, if you attacked this turn, Banished 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Trial Raid</name>
-			<text>Create a red 2/2 Human creature token.
-Raid — If you attacked this turn, put a +1/+1 counter on each creature token you control.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/111.png" num="196">MIN</set>
+			<name>Trial Raiders</name>
+			<text>Menace
+Raid — When Trial Raiders enters, if you attacked this turn, put a +1/+1 counter on each creature that attacked this turn.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/111.png" num="197">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 			<related>Human MIN</related>
 		</card>
 		<card>
@@ -1993,28 +1994,29 @@ Function — Creatures you control can&apos;t be blocked this turn. ({6}: Trigge
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Victory Celebration</name>
-			<text>When Victory Celebration enters, create a 3/3 red Boar creature token.
-Whenever one or more creatures you control deal combat damage to a player, exile the top card of your library. You may play it this turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/113.png" num="200">MIN</set>
+			<name>Celebrating Tribe</name>
+			<text>Trample
+Raid — At the beginning of your postcombat main phase, if you attacked this turn, exile the top card of your library. You may play it this turn.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/113.png" num="157">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
+				<type>Creature — Pig Warrior</type>
+				<maintype>Creature</maintype>
 				<manacost>3R</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 			<related>Boar MIN</related>
 		</card>
 		<card>
 			<name>Hero of the Village</name>
 			<text>When Hero of the Village enters, create two 1/1 white Villager creature tokens.
 Artifact spells you cast cost {1} less to cast.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/114.png" num="20">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/114.png" num="21">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2064,7 +2066,7 @@ Artifact spells you cast cost {1} less to cast.</text>
 			<name>Critical Strike</name>
 			<text>Target creature gains double strike until end of turn.
 Ferocious — {1}{R}: Return Critical Strike from your graveyard to your hand. Activate only if you control a creature with power 4 or greater, and only as a sorcery.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/117.png" num="158">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/117.png" num="159">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2113,7 +2115,7 @@ Ferocious — {1}{R}: Return Critical Strike from your graveyard to your hand. A
 		<card>
 			<name>Spectator Mode</name>
 			<text>Enchant creature
-Enchanted creature loses all abilities and is a colorless 1/1 Spirit creature. (It loses all other colors, card types, and creature types.)</text>
+Enchanted creature loses all abilities and is a colorless 1/1 Spirit creature. Remove all counters from it. (It loses all other colors, card types, and creature types.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/120.png" num="93">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2149,7 +2151,7 @@ Exile target creature.</text>
 			<text>Choose one or both —
 • Target creature can&apos;t block this turn.
 • Discard a card, then draw two cards.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/122.png" num="170">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/122.png" num="171">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2199,7 +2201,7 @@ Function — Target creature gets -2/-2 until end of turn. ({6}: Trigger any num
 		</card>
 		<card>
 			<name>Ink Squids</name>
-			<text>When Ink Squids dies, you may return target creature or artifact to its owner&apos;s hand.</text>
+			<text>When Ink Squids enters, you may return target creature or artifact to its owner&apos;s hand.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/125.png" num="74">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2210,7 +2212,7 @@ Function — Target creature gets -2/-2 until end of turn. ({6}: Trigger any num
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2293,7 +2295,7 @@ Whenever Wild Fox attacks, you may discard a card. If you do, draw a card. If yo
 			<name>Frost Stray</name>
 			<text>Menace
 Function — Return Frost Stray from your graveyard to the battlefield. ({6}: Trigger any number of function abilities you control, only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/130.png" num="119">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/130.png" num="118">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2308,28 +2310,28 @@ Function — Return Frost Stray from your graveyard to the battlefield. ({6}: Tr
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Fish Bucket</name>
-			<text>When Fish Bucket leaves the battlefield, create a 1/1 blue Fish creature token with &quot;This creature can&apos;t be blocked.&quot;
-{2}, Sacrifice Fish Bucket: Scry 1 and create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/131.png" num="68">MIN</set>
+			<name>Bucket Fish</name>
+			<text>This creature can&apos;t be blocked.
+Sacrifice Bucket Fish: Create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/131.png" num="55">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact</type>
-				<maintype>Artifact</maintype>
+				<type>Creature — Fish</type>
+				<maintype>Creature</maintype>
 				<manacost>U</manacost>
 				<cmc>1</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 			<related>Tool MIN</related>
-			<related>Fish MIN</related>
 		</card>
 		<card>
 			<name>Outpost Defense</name>
 			<text>When Outpost Defense enters and at the beginning of your upkeep, you lose 1 life and amass Villagers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Villager. If you don&apos;t control an Army, create a 0/0 black Villager Army creature token first.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/132.png" num="128">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/132.png" num="127">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2347,7 +2349,7 @@ Function — Return Frost Stray from your graveyard to the battlefield. ({6}: Tr
 			<name>Phantom</name>
 			<text>Flying
 Whenever Phantom attacks and isn&apos;t blocked, if a creature died this turn, defending player discards a card.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/133.png" num="130">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/133.png" num="129">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2479,7 +2481,7 @@ Whenever a Horde you control enters, put a shield counter on The Ender Dragon.</
 			<text>First strike, trample
 Ward—Pay 3 life
 Raid — At the beginning of your end step, if you attacked this turn, Ravager deals 2 damage to target player.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/140.png" num="189">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/140.png" num="190">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2498,7 +2500,7 @@ Raid — At the beginning of your end step, if you attacked this turn, Ravager d
 			<text>Travel (If there are eight or more lands among your battlefield and graveyard, you&apos;re an explorer for the rest of the game.)
 Menace
 When Lava Strider dies, if you&apos;re an explorer, it deals 2 damage to any target.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/141.png" num="173">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/141.png" num="174">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2536,7 +2538,7 @@ At the beginning of your upkeep, if you have activated your Function this game, 
 			<text>Travel (If there are eight or more lands among your battlefield and graveyard, you&apos;re an explorer for the rest of the game.)
 When Nether Portal enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
 {T}: Nether Portal deals 2 damage to target player. Activate only if you&apos;re an explorer.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/143.png" num="177">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/143.png" num="178">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2552,28 +2554,28 @@ When Nether Portal enters, exile the top two cards of your library. Until the en
 		</card>
 		<card>
 			<name>Zombie Reinforcements</name>
-			<text>Choose one —
-• You may sacrifice an artifact or creature. If you do, return target creature card from your graveyard to the battlefield.
-• Spawn 5. (Create a 5/5 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+			<text>When Zombie Reinforcements enters, spawn 1. (Create a 1/1 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
+Whenever Zombie Reinforcements attacks, put a +1/+1 counter on each Horde you control.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/144.png" num="152">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 			<related>Horde MIN</related>
 		</card>
 		<card>
 			<name>Dragon&apos;s Breath</name>
 			<text>Enchant creature
 Enchanted creature has deathtouch.
-Ferocious — When Dragon&apos;s Breath enters, if you control a creature power 4 or greater, destroy up to one target artifact or enchantment.</text>
+Ferocious — When Dragon&apos;s Breath enters, if you control a creature with power 4 or greater, destroy up to one target artifact or enchantment.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/145.png" num="219">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2591,8 +2593,8 @@ Ferocious — When Dragon&apos;s Breath enters, if you control a creature power 
 			<name>Creaking</name>
 			<text>Travel (If there are eight or more lands among your battlefield and graveyard, you&apos;re an explorer for the rest of the game.)
 Whenever Creaking attacks, if you&apos;re not an explorer, tap it and put a stun counter on it.
-{1}{U}: Untap Creaking.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/146.png" num="62">MIN</set>
+{1}{U}, Remove a stun counter from Creaking: Draw a card.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/146.png" num="63">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2648,7 +2650,7 @@ When Skeleton Horse dies, create four 1/1 black Skeleton Archer creature tokens 
 			<name>Change Data</name>
 			<text>As an additional cost to cast Change Data, pay {1} or tap an untapped artifact you control.
 Counter target spell.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/149.png" num="55">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/149.png" num="56">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2664,7 +2666,7 @@ Counter target spell.</text>
 		<card>
 			<name>Drowned Zombie</name>
 			<text>When Drowned Zombie enters, spawn 3. (Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
-Whenever a Horde you control attacks, Drowned Zombie can&apos;t be blocked this turn.</text>
+Drowned Zombie can&apos;t be blocked as long as you control a Horde.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/150.png" num="114">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2675,7 +2677,7 @@ Whenever a Horde you control attacks, Drowned Zombie can&apos;t be blocked this 
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/1</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related>Horde MIN</related>
@@ -2719,7 +2721,9 @@ Whenever a Horde you control attacks, Drowned Zombie can&apos;t be blocked this 
 		</card>
 		<card>
 			<name>Insect Infestation</name>
-			<text>Destroy target artifact or enchantment. Spawn 2. (Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+			<text>Choose one —
+• Destroy target artifact or enchantment.
+• Spawn 4. (Create a 4/4 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/153.png" num="229">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2776,7 +2780,7 @@ As long as you are an explorer, Young Hoglin gets +2/+1.</text>
 			<name>Village Farmer</name>
 			<text>When Village Farmer enters, create a Food token.
 At the beginning of your end step, if you gained more life this turn than creatures you control, create a 1/1 white Villager creature token.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/156.png" num="46">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/156.png" num="47">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2793,7 +2797,7 @@ At the beginning of your end step, if you gained more life this turn than creatu
 		</card>
 		<card>
 			<name>Third Shriek</name>
-			<text>Reveal cards from the top of your library until you reveal a land card, then put those cards into your graveyard. When you do, create an X/X black Golem Horror artifact creature token, where X is the number of land cards in your graveyard.</text>
+			<text>Mill cards until you mill a land card. When you do, create an X/X black Golem Horror artifact creature token, where X is the number of land cards in your graveyard.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/157.png" num="98">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2847,7 +2851,7 @@ At the beginning of your end step, if you gained more life this turn than creatu
 			<text>Ward {2}
 Enderman can&apos;t be blocked.
 Whenever Enderman deals combat damage to a player, you get 🧱 (a brick counter). You may draw a card. If you do, discard a card.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/160.png" num="67">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/160.png" num="68">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2865,7 +2869,7 @@ Whenever Enderman deals combat damage to a player, you get 🧱 (a brick counter
 		<card>
 			<name>Potion of Swiftness</name>
 			<text>Until end of turn, target creature gets +2/-2 and gains haste.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/161.png" num="186">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/161.png" num="187">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2913,7 +2917,7 @@ Whenever Enderman deals combat damage to a player, you get 🧱 (a brick counter
 		</card>
 		<card>
 			<name>Village Librarian</name>
-			<text>When Village Librarian dies, if it was modified, return another target creature card from your graveyard to the battlefield with mana value lesser than or equal to its toughness. (Equipment, Auras you control, and counters are modifications.)</text>
+			<text>When Village Librarian dies, return another target creature card from your graveyard to the battlefield with mana value lesser than or equal to its toughness.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/164.png" num="144">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -2970,7 +2974,7 @@ You draw three cards and lose 3 life.</text>
 			<text>When Hoglin enters, search your library for a Mountain card, put it onto the battlefield tapped, then shuffle.
 Hoglin attacks each combat if able.
 When Hoglin leaves the battlefield, sacrifice a Mountain.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/167.png" num="172">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/167.png" num="173">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2987,7 +2991,7 @@ When Hoglin leaves the battlefield, sacrifice a Mountain.</text>
 		<card>
 			<name>One-Way Trip</name>
 			<text>Exile target nonland permanent. For as long as that card remains exiled, its owner may play it. A spell cast by an opponent this way costs {3} more to cast.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/168.png" num="29">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/168.png" num="30">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3041,7 +3045,7 @@ When Bogged Skeleton dies, it deals 1 damage to any target.</text>
 			<name>TNT Cannon</name>
 			<text>{T}: TNT Cannon deals 1 damage to each opponent.
 Whenever one or more creatures you control attack, TNT Cannon deals that much damage to each opponent.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/171.png" num="195">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/171.png" num="196">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3077,7 +3081,7 @@ You may play lands and cast Construction spells from the top of your library.</t
 			<text>Travel (If there are eight or more lands among your battlefield and graveyard, you&apos;re an explorer for the rest of the game.)
 As long as you&apos;re an explorer, creatures you control get +1/+0.
 When Magma Cube dies, create a 1/1 red Elemental creature token.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/173.png" num="175">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/173.png" num="176">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3128,9 +3132,9 @@ Function — Each opponent loses 3 life unless they sacrifice a nonland permanen
 		</card>
 		<card>
 			<name>Village Armorer</name>
-			<text>First strike
+			<text>Village Armorer has first strike as long as an artifact you control entered this turn.
 Function — Target creature you control gets +3/+3 and gains indestructible until end of turn. ({6}: Trigger any number of function abilities you control, only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/176.png" num="44">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/176.png" num="45">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3140,7 +3144,7 @@ Function — Target creature you control gets +3/+3 and gains indestructible unt
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/1</pt>
+				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3220,7 +3224,7 @@ Function — Put a +1/+1 counter on target creature. It gains deathtouch until e
 			<name>Isn&apos;t It Iron Pick</name>
 			<text>Exile up to one target artifact or enchantment.
 Create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/181.png" num="23">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/181.png" num="24">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3236,21 +3240,20 @@ Create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This
 		</card>
 		<card>
 			<name>Growing Pack</name>
-			<text>Ferocious — At the beginning of your end step, if you control a creature with power 4 or greater, choose one —
-• Create a 2/2 green Wolf creature token.
-• Draw a card.</text>
+			<text>Ferocious — At the beginning of your end step, if you control another creature with power 4 or greater, create a 2/2 green Wolf creature token.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/182.png" num="227">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
 				<manacost>2GG</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 			<related>Wolf MIN</related>
 		</card>
 		<card>
@@ -3275,7 +3278,7 @@ Create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This
 			<name>Fire Charge</name>
 			<text>Target creature gets +1/+0 and gains first strike until end of turn.
 Ferocious — If you control a creature with power 4 or greater, draw a card.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/184.png" num="166">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/184.png" num="167">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3345,7 +3348,7 @@ When Wind Charge enters, target creature gains flying until end of turn. Untap i
 			<name>Forest Fire</name>
 			<text>Travel (If there are eight or more lands among your battlefield and graveyard, you&apos;re an explorer for the rest of the game.)
 Destroy target artifact. If you&apos;re an explorer, destroy up to two target artifacts instead.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/188.png" num="168">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/188.png" num="169">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3364,7 +3367,7 @@ Destroy target artifact. If you&apos;re an explorer, destroy up to two target ar
 			<text>{T}: Draw a card, then discard a card.
 Whenever you discard a card, you may exile that card from your graveyard.
 Function — Put each card exiled with Ender Chest into their owner&apos;s hand. ({6}: Trigger any number of function abilities you control, only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/189.png" num="66">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/189.png" num="67">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3382,7 +3385,7 @@ Function — Put each card exiled with Ender Chest into their owner&apos;s hand.
 			<text>Equipped creature gets +3/+1.
 Whenever equipped creature becomes the target of a spell or ability you control, add {R}.
 Equip {1}</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/190.png" num="171">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/190.png" num="172">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3417,8 +3420,8 @@ Creatures you control with power 4 or greater can&apos;t be blocked by creatures
 		<card>
 			<name>Rascal</name>
 			<text>Menace
-{1}{B}, Exile Rascal from your graveyard: Return another target creature card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/192.png" num="134">MIN</set>
+{1}{B}, Exile Rascal from your hand or from your graveyard: Return another target creature card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/192.png" num="133">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3472,6 +3475,7 @@ Ward—Discard a card (Whenever this creature becomes the target of a spell or a
 		<card>
 			<name>Mooshroom Herd</name>
 			<text>Travel (If there are eight or more lands among your battlefield and graveyard, you&apos;re an explorer for the rest of the game.)
+Ward {2}
 When Mooshroom Herd enters, if it&apos;s not a token and if you&apos;re an explorer, create a token that&apos;s a copy of it.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/195.png" num="232">MIN</set>
 			<prop>
@@ -3509,7 +3513,7 @@ Whenever one or more modified creatures you control attack, target creature can&
 		<card>
 			<name>Tuff Golem</name>
 			<text>Vigilance
-At the beginning of your end step, if Tuff Golem is modified or if you control three or more nontoken artifacts, draw a card. (Equipment, Auras you control, and counters are modifications.)</text>
+At the beginning of your end step, if you control three or more nontoken artifacts and/or modified creatures, draw a card. (Equipment, Auras you control, and counters are modifications.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/197.png" num="42">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3597,7 +3601,7 @@ Function — Pufferfish has base power and toughness 6/6 until end of turn. ({6}
 			<text>Iron Shovel enters with a charge counter on it.
 Equipped creature gets +2/+1 and has &quot;Whenever this creature attacks, you may remove a charge counter from Iron Shovel. When you do, destroy target artifact or enchantment.&quot;
 Equip {2}</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/202.png" num="22">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/202.png" num="23">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3647,7 +3651,7 @@ When Spider Jockey dies, spawn 3. Put all counters that were on Spider Jockey on
 		<card>
 			<name>Shared Anger</name>
 			<text>Ferocious — Whenever a creature you control with power 4 or greater attacks, target creature can&apos;t block this turn. That creature attacks during its controller&apos;s next combat phase if able.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/205.png" num="191">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/205.png" num="192">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3663,16 +3667,16 @@ When Spider Jockey dies, spawn 3. Put all counters that were on Spider Jockey on
 		<card>
 			<name>Ancient Etchings</name>
 			<text>Travel (If there are eight or more lands among your battlefield and graveyard, you&apos;re an explorer for the rest of the game.)
-When Ancient Etchings enters, create two tapped Treasure tokens.
-At the beginning of your end step, if you&apos;re an explorer, you may have target noncreature artifact you control become a 3/3 Golem artifact creature. (This effect lasts indefinitely.)</text>
+When Ancient Etchings enters, create a 3/3 colorless Golem artifact creature token.
+{T}: Target artifact you control becomes a 3/3 Golem artifact creature until end of turn. Activate only if you&apos;re an explorer.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/206.png" num="207">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>2GG</manacost>
-				<cmc>4</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -3681,28 +3685,28 @@ At the beginning of your end step, if you&apos;re an explorer, you may have targ
 			<related>Explorer MIN</related>
 		</card>
 		<card>
-			<name>Enclosure Evasion</name>
-			<text>Kicker {4} (You may pay an additional {4} as you cast this spell.)
-Create a 3/3 green Ox creature token. If this spell was kicked, create an additional one of this token for each artifact you control.</text>
+			<name>Enclosed Cows</name>
+			<text>Whenever you spend your fifth mana each turn, create a 3/3 green Ox creature token.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/207.png" num="220">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Creature — Ox</type>
+				<maintype>Creature</maintype>
 				<manacost>2G</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
 			</prop>
-			<tablerow>3</tablerow>
-			<related count="x">Ox MIN</related>
+			<tablerow>2</tablerow>
+			<related>Ox MIN</related>
 		</card>
 		<card>
 			<name>Command Block</name>
 			<text>When Command Block enters, draw two cards, then discard a card.
 {3}, {T}: Trigger the function ability of target permanent you control. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/208.png" num="59">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/208.png" num="60">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3752,7 +3756,7 @@ Raid — If you attacked this turn, you may instead search your library for a ca
 		<card>
 			<name>Unpleasant Surprise</name>
 			<text>Discard your hand, then draw three cards and spawn 2. (Create a 2/2 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/211.png" num="199">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/211.png" num="200">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3785,7 +3789,7 @@ Equip {2}</text>
 			<name>Illager Patrol</name>
 			<text>Whenever Illager Patrol enters or attacks, amass Villagers 1. (Put a +1/+1 counter on an Army you control. It&apos;s also a Villager. If you don&apos;t control an Army, create a 0/0 black Villager Army creature token first.)
 {1}, Sacrifice another creature: Illager Patrol gets +2/+2 until end of turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/213.png" num="122">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/213.png" num="121">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3804,7 +3808,7 @@ Equip {2}</text>
 			<name>Pillager Horn</name>
 			<text>When Pillager Horn enters, amass Villagers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Villager. If you don&apos;t control an Army, create a 0/0 black Villager Army creature token first.)
 {2}, Sacrifice Pillager Horn: Suit up. (You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/214.png" num="131">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/214.png" num="130">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3854,21 +3858,22 @@ When Dungeon Skeleton dies, suit up. (You may reveal an Equipment you own from o
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Escalating Raid</name>
-			<text>When Escalating Raid enters, amass Villagers 2. (Put two +1/+1 counters on an Army you control. It&apos;s also a Villager. If you don&apos;t control an Army, create a 0/0 black Villager Army creature token first.)
-Whenever one or more modified creatures you control attack, amass Villagers 1. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/217.png" num="116">MIN</set>
+			<name>Reinforced Raiders</name>
+			<text>Haste
+Whenever a modified creature you control attacks, amass Villagers 1. (Equipment, Auras you control, and counters are modifications. To amass Villagers 1, put a +1/+1 counter on an Army you control. It&apos;s also a Villager. If you don&apos;t control an Army, create a 0/0 black Villager Army creature token first.)</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/217.png" num="134">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
+				<type>Creature — Villager Archer</type>
+				<maintype>Creature</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 			<related>Villager Army MIN</related>
 		</card>
 		<card>
@@ -3876,7 +3881,7 @@ Whenever one or more modified creatures you control attack, amass Villagers 1. (
 			<text>When Protection Chestplate enters, attach it to target creature you control.
 Equipped creature gets +1/+2 and has ward {2}.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/218.png" num="31">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/218.png" num="32">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3948,7 +3953,7 @@ When you cycle 11 Music Disc, modified creatures you control gain menace until e
 			<text>Hordes you control enter with two additional +1/+1 counters on them and have menace.
 Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)
 When you cycle Pigstep Music Disc, Hordes you control get +2/+0 until end of turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/222.png" num="184">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/222.png" num="185">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4108,7 +4113,7 @@ Equip {4}</text>
 		</card>
 		<card>
 			<name>Moody Weather</name>
-			<text>{1}{G}, Discard a card: Spawn 4. Activate only as a sorcery. (To spawn 4, create a 4/4 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
+			<text>Discard a card: Spawn 4. Activate only once each turn and only as a sorcery. (To spawn 4, create a 4/4 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
 Ferocious — Whenever a creature you control with power 4 or more dies, you may draw a card.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/231.png" num="231">MIN</set>
 			<prop>
@@ -4180,7 +4185,7 @@ Whenever another nontoken creature you control dies, spawn 2. (Create a 2/2 blac
 		<card>
 			<name>Fang Defense</name>
 			<text>Double target creature&apos;s power until end of turn. If it&apos;s modified, it gains first strike. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/235.png" num="165">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/235.png" num="166">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4231,7 +4236,7 @@ Whenever another nontoken creature you control dies, spawn 2. (Create a 2/2 blac
 		<card>
 			<name>Collect</name>
 			<text>Draw a card, then you may discard a land card. If you do, draw a card.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/238.png" num="58">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/238.png" num="59">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4246,9 +4251,9 @@ Whenever another nontoken creature you control dies, spawn 2. (Create a 2/2 blac
 		</card>
 		<card>
 			<name>Iron Farm</name>
-			<text>When Iron Farm enters, create a 3/3 colorless Golem artifact creature token.
-Function — Create two tapped Treasure tokens. ({6}: Trigger any number of function abilities you control, only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/239.png" num="125">MIN</set>
+			<text>When Iron Farm enters, create a 3/3 colorless Golem artifact creature token and a Treasure token.
+Function — Each opponent discards a card. ({6}: Trigger any number of function abilities you control, only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/239.png" num="124">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4286,7 +4291,7 @@ Whenever you attack for the first time each turn, untap all modified creatures y
 			<text>Choose five. You may choose the same mode more than once.
 • Create a 1/1 white Villager creature token.
 • Choose an ability from among flying, first strike, lifelink, and vigilance not found among creatures you control. Put a counter of that kind on a creature you control.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/241.png" num="28">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/241.png" num="29">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4303,7 +4308,7 @@ Whenever you attack for the first time each turn, untap all modified creatures y
 		<card>
 			<name>Return To Sender</name>
 			<text>Return To Sender deals X damage to target creature or planeswalker, where X is the number of creatures that attacked this turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/242.png" num="190">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/242.png" num="191">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4318,9 +4323,9 @@ Whenever you attack for the first time each turn, untap all modified creatures y
 		</card>
 		<card>
 			<name>Clone Command</name>
-			<text>When Clone Command enters, create a token that&apos;s a copy of target creature, except it&apos;s a 1/1 artifact creature.
+			<text>You may have Clone Command enter as a copy of any creature on the battlefield, except it&apos;s a 1/1 enchantment creature and has the following ability.
 Function — Create a token that&apos;s a copy of another target token you control. ({6}: Trigger any number of function abilities you control, only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/243.png" num="57">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/243.png" num="58">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4337,7 +4342,7 @@ Function — Create a token that&apos;s a copy of another target token you contr
 			<name>Pilfer the Bastion</name>
 			<text>Ferocious — Pilfer the Bastion costs {1} less to cast if you control a creature with power 4 or greater.
 Discard a card, then draw two cards and create a Treasure token.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/244.png" num="185">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/244.png" num="186">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4371,23 +4376,22 @@ Whenever a creature dies, Warden can attack as though it didn&apos;t have defend
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Village Fountain</name>
-			<text>{1}, {T}, Put a meeting counter on Village Fountain: Create a tapped 1/1 white Villager creature token.
-{3}, {T}, Put a meeting counter on Village Fountain: Create a tapped 3/3 colorless Golem artifact creature token.
-When there are three or more meeting counters on Village Fountain, sacrifice it. If you do, draw a card.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/246.png" num="47">MIN</set>
+			<name>Fountain Cohort</name>
+			<text>Vigilance
+Whenever an artifact you control enters, put a meeting counter on Fountain Cohort. If it has three or more meeting counters on it, remove all of them and create a 3/3 colorless Golem artifact creature token.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/246.png" num="18">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact</type>
-				<maintype>Artifact</maintype>
+				<type>Creature — Villager</type>
+				<maintype>Creature</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
-			<related>Villager MIN</related>
+			<tablerow>2</tablerow>
 			<related>Golem MIN</related>
 		</card>
 		<card>
@@ -4552,21 +4556,21 @@ Equip {4}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Equipped Spawn</name>
-			<text>When Equipped Spawn enters, suit up. (You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)
-Whenever you cast an Equipment spell, you may create a 2/2 black Zombie creature token.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/256.png" num="163">MIN</set>
+			<name>Equipped Zombie</name>
+			<text>When Equipped Zombie enters, suit up. You may attach any number of Equipment you control to it. (You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/256.png" num="164">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
+				<type>Creature — Zombie Villager</type>
+				<maintype>Creature</maintype>
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 			<related>Zombie MIN</related>
 		</card>
 		<card>
@@ -4610,7 +4614,7 @@ Equip {1}</text>
 			<name>Grindstone</name>
 			<text>When Grindstone enters, suit up. (You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)
 {T}, Sacrifice an artifact: Create a tapped Tool token. You gain 1 life. (It&apos;s an artifact with &quot;{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.&quot;)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/259.png" num="120">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/259.png" num="119">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4628,7 +4632,7 @@ Equip {1}</text>
 			<name>Prepared Incursion</name>
 			<text>When Prepared Incursion enters, create a 2/2 red Human creature token. It enters with a +1/+1 counter on it for each land card in your graveyard.
 Ferocious — At the beginning of your upkeep, if you control a creature with power 4 or greater, exile the top card of your library. You may play it this turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/260.png" num="188">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/260.png" num="189">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4677,7 +4681,7 @@ Ferocious — At the beginning of your upkeep, if you control a creature with po
 		<card>
 			<name>Fake Abandon</name>
 			<text>Each player sacrifices a creature of their choice. If you sacrificed a creature this way, each opponent also discards a card.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/263.png" num="117">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/263.png" num="116">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4729,7 +4733,7 @@ Ferocious — At the beginning of your upkeep, if you control a creature with po
 			<name>Mesa Wolf</name>
 			<text>{1}{W}: Mesa Wolf becomes a Dog with base power and toughness 3/3.
 {2}{W}: If Mesa Wolf is a Dog, put a +1/+1 counter on it. You gain 1 life.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/266.png" num="25">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/266.png" num="26">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4799,7 +4803,7 @@ Ferocious — At the beginning of your upkeep, if you control a creature with po
 		<card>
 			<name>Precarious Structure</name>
 			<text>Mill three cards. When you do, Precarious Structure deals damage equal to the number of land cards in your graveyard to each creature.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/270.png" num="187">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/270.png" num="188">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4849,7 +4853,7 @@ Ferocious — At the beginning of your upkeep, if you control a creature with po
 		<card>
 			<name>Emperor Penguin</name>
 			<text>Whenever an artifact you control enters, target creature you control gains flying until end of turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/273.png" num="65">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/273.png" num="66">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4905,7 +4909,7 @@ When Shy Armadillo dies, suit up. (You may reveal an Equipment you own from outs
 			<name>Trial Spawner</name>
 			<text>When Trial Spawner enters, spawn 4. (Create a 4/4 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
 Ferocious — Whenever a creature you control with power 4 or more dies, exile the top card of your library. Until your next end step, you may play it.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/276.png" num="197">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/276.png" num="198">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5203,7 +5207,7 @@ Raid — {1}, {T}, Remove a crystal counter from Amethyst Geode: Draw a card. Ac
 			<name>Netherite Excavation</name>
 			<text>Whenever Netherite Excavation enters or you sacrifice a permanent, put a gear counter on Netherite Excavation.
 During your turn, creatures you control get +1/+0 for each gear counter on Netherite Excavation.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/293.png" num="178">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/293.png" num="179">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5238,7 +5242,7 @@ When Zoglin dies, it deals 1 damage to any target.</text>
 			<name>Endermite</name>
 			<text>First strike
 Endermite can&apos;t block.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/295.png" num="162">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/295.png" num="163">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5289,9 +5293,9 @@ When Elder Guardian enters, until your next turn, target creature you don&apos;t
 		</card>
 		<card>
 			<name>Moobloom</name>
-			<text>Vigilance
+			<text>Moobloom has vigilance as long as you control a token.
 Moobloom has lifelink as long as it&apos;s modified. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/298.png" num="26">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/298.png" num="27">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5301,7 +5305,7 @@ Moobloom has lifelink as long as it&apos;s modified. (Equipment, Auras you contr
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/4</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5363,7 +5367,7 @@ Whenever an artifact you control enters, you may tap target creature.</text>
 			<name>Piglin Warrior</name>
 			<text>Piglin Warrior can&apos;t block.
 When Piglin Warrior enters, you may discard a card. If you do, draw a card.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/302.png" num="183">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/302.png" num="184">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5893,7 +5897,7 @@ Equip {2}</text>
 			<name>Potion of Harming</name>
 			<text>Target creature gets -2/-2 until end of turn.
 Raid — Target creature gets -4/-4 instead if you attacked this turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/335.png" num="133">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/335.png" num="132">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5924,8 +5928,8 @@ Raid — Target creature gets -4/-4 instead if you attacked this turn.</text>
 		</card>
 		<card>
 			<name>Swoop Down</name>
-			<text>Swoop Down deals 4 damage to target creature. When excess damage is dealt this way, destroy target artifact.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/337.png" num="194">MIN</set>
+			<text>Swoop Down deals 4 damage to target creature. When excess damage is dealt this way, you may destroy target artifact.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/337.png" num="195">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5941,7 +5945,7 @@ Raid — Target creature gets -4/-4 instead if you attacked this turn.</text>
 		<card>
 			<name>Lightning Strike</name>
 			<text>Lightning Strike deals 3 damage to any target.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/338.png" num="174">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/338.png" num="175">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5957,7 +5961,7 @@ Raid — Target creature gets -4/-4 instead if you attacked this turn.</text>
 		<card>
 			<name>Charging Strike</name>
 			<text>Charging Strike deals 3 damage to any target. Spawn 3. (Create a 3/3 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/339.png" num="157">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/339.png" num="158">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5990,22 +5994,22 @@ When Vulture Circle enters, if it&apos;s not a token, create a token that&apos;s
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Shed Light</name>
-			<text>When Shed Light enters, create a 1/1 white Bat creature token with flying.
-Whenever you activate an ability of an artifact or creature that isn&apos;t a mana ability, you may scry 1. Do this only once each turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/341.png" num="34">MIN</set>
+			<name>Underground Bat</name>
+			<text>Flying
+Whenever you activate an ability that isn&apos;t a mana ability of a permanent you control, Underground Bat gets +1/+0 until end of turn. This ability only triggers thrice each turn.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/341.png" num="44">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
+				<type>Creature — Bat</type>
+				<maintype>Creature</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
 			</prop>
-			<tablerow>1</tablerow>
-			<related>Bat MIN</related>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Wither Skull</name>
@@ -6027,8 +6031,9 @@ Decayed (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</
 		</card>
 		<card>
 			<name>Dashing Nautilus</name>
-			<text>Gather — Whenever a permanent you control with a mana ability enters, untap target artifact or creature. If it&apos;s a creature, put a +1/+1 counter on it.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/343.png" num="63">MIN</set>
+			<text>Vigilance
+Gather — Whenever a permanent you control with a mana ability enters, untap target artifact or creature. If it&apos;s a creature, it get +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/343.png" num="64">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6046,7 +6051,7 @@ Decayed (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</
 			<name>Gather the Loot</name>
 			<text>When Gather the Loot enters, suit up. (You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)
 Whenever one or more modified creatures you control die, draw a card. This ability only triggers once each turn. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/344.png" num="19">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/344.png" num="20">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6276,7 +6281,7 @@ Pink Sheep can&apos;t be blocked by more than one creature.
 			<name>Crying Ghast</name>
 			<text>Flying
 Whenever Crying Ghast attacks, choose an artifact defending player controls. They may sacrifice it. If an artifact isn&apos;t sacrificed this way, Crying Ghast deals damage equal to its power to any target.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/358.png" num="160">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/358.png" num="161">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6296,7 +6301,7 @@ Whenever Crying Ghast attacks, choose an artifact defending player controls. The
 • Destroy target artifact.
 • Discard a card, then draw two cards.
 • Create a 1/1 red Insect creature token with flying and &quot;When this creature dies, it deals 1 damage to any target.&quot;</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/359.png" num="176">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/359.png" num="177">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6314,7 +6319,7 @@ Whenever Crying Ghast attacks, choose an artifact defending player controls. The
 			<name>Angered Wolf</name>
 			<text>Travel (If there are eight or more lands among your battlefield and graveyard, you&apos;re an explorer for the rest of the game.)
 Reach
-As long as you&apos;re an explorer, Angered Wolf can&apos;t be blocked by creatures with lesser power.</text>
+When Angered Wolf enters, if you&apos;re an explorer, you may have it fight another target creature.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/360.png" num="208">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6333,7 +6338,7 @@ As long as you&apos;re an explorer, Angered Wolf can&apos;t be blocked by creatu
 			<name>Deplete</name>
 			<text>Travel (If there are eight or more lands among your battlefield and graveyard, you&apos;re an explorer for the rest of the game.)
 Counter target spell. If you&apos;re an explorer, draw a card.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/361.png" num="64">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/361.png" num="65">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6368,7 +6373,7 @@ Counter target spell. If you&apos;re an explorer, draw a card.</text>
 			<name>Parched</name>
 			<text>When Parched enters, target creature gets -2/-2 until end of turn.
 Whenever you attack, target attacking creature gains menace until end of turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/363.png" num="129">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/363.png" num="128">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6404,7 +6409,7 @@ Hordes you control enter with an additional time counter on them.</text>
 			<name>Coral Nautilus</name>
 			<text>When Coral Nautilus enters, exile up to two target lands you control, then return those cards to the battlefield tapped under their owner&apos;s control.
 {4}{U}: Coral Nautilus can&apos;t be blocked this turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/365.png" num="60">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/365.png" num="61">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6477,7 +6482,7 @@ When Village Butcher enters, pay any number of 🧱. Create a Food token and a 3
 			<name>Difficulty Increase</name>
 			<text>Put a time counter on each Horde you control.
 Suit up. (You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/369.png" num="161">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/369.png" num="162">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6495,7 +6500,7 @@ Suit up. (You may reveal an Equipment you own from outside the game and put it i
 			<text>When Mounting Defense enters, triggers its function ability twice.
 Whenever a creature you control dies, put a +1/+1 counter on a creature you control.
 Function — Create a colorless 3/3 Golem artifact creature. ({6}: Trigger any number of function abilities you control, only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/370.png" num="27">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/370.png" num="28">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6581,7 +6586,7 @@ Hexproof</text>
 			<name>Out in the Sun</name>
 			<text>Mill two cards. You may play them until the end of your next turn.
 Spawn 4. (Create a 4/4 black Horde creature token with two time counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/375.png" num="179">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/375.png" num="180">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6663,7 +6668,7 @@ Ferocious — Draw a card for each creature you control with power 4 or greater.
 		<card>
 			<name>Invite Some Friends</name>
 			<text>Create two 2/2 red Human creature tokens. Create an additional one if you control an artifact. Create an additional one if a creature died this turn.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/380.png" num="21">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/380.png" num="22">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6681,7 +6686,7 @@ Ferocious — Draw a card for each creature you control with power 4 or greater.
 			<name>Immoral Experiment</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Draw two cards. If the sacrificed creature was a Horde, draw three cards instead.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/381.png" num="123">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/381.png" num="122">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6712,7 +6717,7 @@ Draw two cards. If the sacrificed creature was a Horde, draw three cards instead
 			<name>Pack Mule</name>
 			<text>Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.
 Whenever a modified creature you control attacks, exile the top card of your library. You may play it this turn. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/383.png" num="180">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/383.png" num="181">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6972,7 +6977,7 @@ Finish 4 — Once each turn, you may cast an artifact or creature spell with man
 			<text>When Clocktower enters, target nonland permanent&apos;s owner puts it on the top or bottom of their library.
 {1}, {T}: You get 🧱 (a brick counter).
 Finish X — When Clocktower becomes finished, shuffle your hand into your library, then draw X cards. (Pay X 🧱: Finish this Construction and add this ability, only once as a sorcery.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/397.png" num="56">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/397.png" num="57">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
