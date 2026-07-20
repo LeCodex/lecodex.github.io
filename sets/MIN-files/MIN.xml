@@ -11,7 +11,7 @@
 	<cards>
 		<card>
 			<name>Unlit Cave</name>
-			<text>When Unlit Cave enters or is put into a graveyard from the battlefield, spawn 2. (Create a 0/0 black Horde creature token with two +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+			<text>When Unlit Cave enters or is put into a graveyard from the battlefield, spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/0.png" num="308">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -166,8 +166,8 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Sunken Stronghold</name>
-			<text>When Sunken Stronghold enters, spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
-Whenever a Horde you control enters, put your choice of a +1/+1 or time counter on it.</text>
+			<text>When Sunken Stronghold enters, spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)
+Whenever a Horde you control enters, put a +1/+1 counter on it.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/9.png" num="277">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -455,7 +455,7 @@ This creature can&apos;t be blocked.</text>
 		</card>
 		<card>
 			<name>Mob Spawner</name>
-			<text>When Mob Spawner enters, spawn 2. (Create a 0/0 black Horde creature token with two +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
+			<text>When Mob Spawner enters, spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)
 {1}, {T}: Add {B}, {R}, or {G}.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/26.png" num="300">MIN</set>
 			<prop>
@@ -1080,7 +1080,7 @@ Whenever you cast a noncreature spell, target creature you control gets +1/+1 an
 			<name>Herobrine, Never Removed</name>
 			<text>You may cast Herobrine from your graveyard by discarding a card in addition to its other costs.
 Hordes you control have menace.
-[0]: Spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your upkeep.)
+[0]: Spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)
 [-2]: Exile target nonland permanent.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/62.png" num="266">MIN</set>
 			<prop>
@@ -1117,7 +1117,7 @@ Gather — If a permanent you control with a mana ability entered this turn, dra
 		<card>
 			<name>Cave Spider</name>
 			<text>Reach, deathtouch
-Gather — Whenever a permanent you control with a mana ability enters, spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+Gather — Whenever a permanent you control with a mana ability enters, spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/64.png" num="211">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1207,7 +1207,7 @@ Function — Return all cards you own exiled by Closed Server to the battlefield
 		</card>
 		<card>
 			<name>Silverfish</name>
-			<text>Ferocious — When Silverfish enters, if you control a creature with power 4 or greater, spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+			<text>Ferocious — When Silverfish enters, if you control a creature with power 4 or greater, spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/69.png" num="245">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1298,7 +1298,7 @@ Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</
 		<card>
 			<name>Unexpected Explosion</name>
 			<text>Choose one —
-• Spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
+• Spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)
 • Unexpected Explosion deals 2 damage to target creature.
 • Destroy target artifact.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/74.png" num="199">MIN</set>
@@ -1334,7 +1334,7 @@ Function — Target player loses 2 life and you gain 2 life. ({6}: Trigger any n
 		</card>
 		<card>
 			<name>Exposing Demolition</name>
-			<text>Destroy target artifact. If you controlled that artifact, spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+			<text>Destroy target artifact. If you controlled that artifact, spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/76.png" num="165">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1351,7 +1351,7 @@ Function — Target player loses 2 life and you gain 2 life. ({6}: Trigger any n
 		</card>
 		<card>
 			<name>Mob Farm</name>
-			<text>When Mob Farm enters and at the beginning of your upkeep, spawn 3 if you don&apos;t control a Horde. (To spawn 3, create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
+			<text>When Mob Farm enters and at the beginning of your upkeep, spawn 4 if you don&apos;t control a Horde. (To spawn 4, create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)
 {2}, {T}, Sacrifice a creature: Draw a card.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/77.png" num="125">MIN</set>
 			<prop>
@@ -1459,7 +1459,7 @@ Whenever an artifact you control enters, target creature you control gains first
 		</card>
 		<card>
 			<name>Neverending Spawn</name>
-			<text>At the beginning of your end step, put a mob counter on Neverending Spawn, then spawn X, where X is twice the number of mob counters on it. (To spawn X, create a 0/0 black Horde creature token with X +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+			<text>At the beginning of your end step, put a mob counter on Neverending Spawn, then spawn X, where X is twice the number of mob counters on it. (To spawn X, create a 0/0 black Horde creature token with X +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/83.png" num="233">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1637,7 +1637,7 @@ Sacrifice another creature: Village Cleric gains indestructible until end of tur
 		</card>
 		<card>
 			<name>Zombie Villager</name>
-			<text>When Zombie Villager dies, spawn 2. (Create a 0/0 black Horde creature token with two +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+			<text>When Zombie Villager dies, spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/93.png" num="153">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1835,7 +1835,7 @@ Function — Draw a card. ({6}: Trigger any number of function abilities you con
 		<card>
 			<name>Husk</name>
 			<text>Deathtouch
-When Husk enters, spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+When Husk enters, spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/104.png" num="120">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1871,7 +1871,7 @@ When Wither Skeleton enters, suit up. (You may reveal an Equipment you own from 
 		</card>
 		<card>
 			<name>Enter the Cave</name>
-			<text>When Enter the Cave enters, spawn 2. (Create a 0/0 black Horde creature token with two +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
+			<text>When Enter the Cave enters, spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)
 Creature tokens you control get +1/+1.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/106.png" num="221">MIN</set>
 			<prop>
@@ -2555,7 +2555,7 @@ When Nether Portal enters, exile the top two cards of your library. Until the en
 		</card>
 		<card>
 			<name>Zombie Reinforcements</name>
-			<text>When Zombie Reinforcements enters, spawn 1. (Create a 0/0 black Horde creature token with a +1/+1 counter on it. Remove one during your upkeep. Sacrifice it when it has none.)
+			<text>When Zombie Reinforcements enters, spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)
 Whenever Zombie Reinforcements attacks, put a +1/+1 counter on each Horde you control.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/144.png" num="152">MIN</set>
 			<prop>
@@ -2666,7 +2666,7 @@ Counter target spell.</text>
 		</card>
 		<card>
 			<name>Drowned Zombie</name>
-			<text>When Drowned Zombie enters, spawn 2. (Create a 0/0 black Horde creature token with two +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
+			<text>When Drowned Zombie enters, spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)
 Drowned Zombie can&apos;t be blocked as long as you control a Horde.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/150.png" num="114">MIN</set>
 			<prop>
@@ -2724,7 +2724,7 @@ Drowned Zombie can&apos;t be blocked as long as you control a Horde.</text>
 			<name>Insect Infestation</name>
 			<text>Choose one —
 • Destroy target artifact or enchantment.
-• Spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+• Spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/153.png" num="229">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3027,7 +3027,7 @@ When Bogged Skeleton dies, it deals 1 damage to any target.</text>
 			<name>Out of the Webs</name>
 			<text>Choose one —
 • Target creature gets +2/+2 and gains reach until end of turn. Untap it.
-• Spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+• Spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/170.png" num="237">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3618,7 +3618,7 @@ Equip {2}</text>
 		<card>
 			<name>Spider Jockey</name>
 			<text>Reach
-When Spider Jockey dies, spawn 3. Put all counters that were on Spider Jockey on that creature. (To spawn 3, create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+When Spider Jockey dies, spawn 4. Put all counters that were on Spider Jockey on that creature. (To spawn 4, create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/203.png" num="247">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3756,7 +3756,7 @@ Raid — If you attacked this turn, you may instead search your library for a ca
 		</card>
 		<card>
 			<name>Unpleasant Surprise</name>
-			<text>Discard your hand, then draw three cards and spawn 2. (Create a 0/0 black Horde creature token with two +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+			<text>Discard your hand, then draw three cards and spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/211.png" num="200">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4114,7 +4114,7 @@ Equip {4}</text>
 		</card>
 		<card>
 			<name>Moody Weather</name>
-			<text>Discard a card: Spawn 4. Activate only once each turn and only as a sorcery. (To spawn 4, create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
+			<text>Discard a card: Spawn 4. Activate only once each turn and only as a sorcery. (To spawn 4, create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)
 Ferocious — Whenever a creature you control with power 4 or more dies, you may draw a card.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/231.png" num="231">MIN</set>
 			<prop>
@@ -4167,7 +4167,7 @@ Whenever you finish a Construction, return Resource Organization to its owner&ap
 		<card>
 			<name>Zombie Horse</name>
 			<text>Menace
-Whenever another nontoken creature you control dies, spawn 2. (Create a 0/0 black Horde creature token with two +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+Whenever another nontoken creature you control dies, spawn 2. (Create a 0/0 black Horde creature token with two +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/234.png" num="150">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -4908,7 +4908,7 @@ When Shy Armadillo dies, suit up. (You may reveal an Equipment you own from outs
 		</card>
 		<card>
 			<name>Trial Spawner</name>
-			<text>When Trial Spawner enters, spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)
+			<text>When Trial Spawner enters, spawn 5. (Create a 0/0 black Horde creature token with five +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)
 Ferocious — Whenever a creature you control with power 4 or more dies, exile the top card of your library. Until your next end step, you may play it.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/276.png" num="197">MIN</set>
 			<prop>
@@ -5121,7 +5121,7 @@ Wooded Mountains enters tapped unless you control two or fewer other lands.</tex
 		<card>
 			<name>Woodland Mansion</name>
 			<text>Woodland Mansion enters tapped unless you control a Swamp, a Mountain, and a Forest.
-When Woodland Mansion enters untapped, target Horde you control gets +3/+3 until end of turn.
+When Woodland Mansion enters untapped, put two +1/+1 counter on target Horde you control.
 {T}: Add {B}, {R}, or {G}.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/288.png" num="360">MIN</set>
 			<prop>
@@ -5462,7 +5462,7 @@ Function — Create a tapped 1/1 white Bird creature token. ({6}: Trigger any nu
 		</card>
 		<card>
 			<name>Horde MIN</name>
-			<text>At the beginning of your upkeep, remove a time counter from this token. Then if it has none, sacrifice it.</text>
+			<text>At the beginning of your upkeep, remove a +1/+1 counter from this token. Then if it has none, sacrifice it.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/307.png" num="11">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5473,7 +5473,7 @@ Function — Create a tapped 1/1 white Bird creature token. ({6}: Trigger any nu
 				<cmc>0</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>*/*</pt>
+				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
@@ -5961,7 +5961,7 @@ Raid — Target creature gets -4/-4 instead if you attacked this turn.</text>
 		</card>
 		<card>
 			<name>Charging Strike</name>
-			<text>Charging Strike deals 3 damage to any target. Spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+			<text>Charging Strike deals 3 damage to any target. Spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/339.png" num="158">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6334,6 +6334,7 @@ When Angered Wolf enters, if you&apos;re an explorer, you may have it fight anot
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Explorer MIN</related>
 		</card>
 		<card>
 			<name>Deplete</name>
@@ -6351,6 +6352,7 @@ Counter target spell. If you&apos;re an explorer, draw a card.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Explorer MIN</related>
 		</card>
 		<card>
 			<name>Camel Husk</name>
@@ -6391,7 +6393,7 @@ Whenever you attack, target attacking creature gains menace until end of turn.</
 		<card>
 			<name>Zombie Nautilus</name>
 			<text>Zombie Nautilus can&apos;t be blocked by creatures with greater power.
-Hordes you control enter with an additional time counter on them.</text>
+Hordes you control enter with an additional +1/+1 counter on them.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/364.png" num="151">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6465,7 +6467,7 @@ When Village Butcher enters, pay any number of 🧱. Create a Food token and a 3
 		</card>
 		<card>
 			<name>Tide of Monsters</name>
-			<text>Put a time counter on each Horde you control. Creatures you control get +3/+3 and gain trample until end of turn.</text>
+			<text>Put a +1/+1 counter on each Horde you control. Creatures you control get +3/+3 and gain trample until end of turn.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/368.png" num="251">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6481,7 +6483,7 @@ When Village Butcher enters, pay any number of 🧱. Create a Food token and a 3
 		</card>
 		<card>
 			<name>Difficulty Increase</name>
-			<text>Put a time counter on each Horde you control.
+			<text>Put a +1/+1 counter on each creature token you control.
 Suit up. (You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/369.png" num="162">MIN</set>
 			<prop>
@@ -6582,11 +6584,12 @@ Hexproof</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<related>Explorer MIN</related>
 		</card>
 		<card>
 			<name>Out in the Sun</name>
 			<text>Mill two cards. You may play them until the end of your next turn.
-Spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your upkeep. Sacrifice it when it has none.)</text>
+Spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/375.png" num="180">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6616,6 +6619,7 @@ Target creature gets +3/+3 until end of turn. If you&apos;re an explorer, untap 
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Explorer MIN</related>
 		</card>
 		<card>
 			<name>Fletching Table</name>
@@ -6665,6 +6669,7 @@ Ferocious — Draw a card for each creature you control with power 4 or greater.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Explorer MIN</related>
 		</card>
 		<card>
 			<name>Invite Some Friends</name>
