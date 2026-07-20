@@ -741,11 +741,11 @@
 			}
 		},
 		{
-			"name": "Surprise Explosion",
+			"name": "Unexpected Explosion",
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "194",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/74.png"
 			}
@@ -805,7 +805,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "199",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/80.png"
 			}
@@ -1115,7 +1115,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human",
-			"collector_number": "197",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/111.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "196",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/171.png"
 			}
@@ -2765,7 +2765,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact",
-			"collector_number": "198",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/276.png"
 			}
@@ -3375,7 +3375,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "195",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://lecodex.github.io/sets/MIN-files/img/337.png"
 			}
@@ -4117,7 +4117,7 @@
 	1 Creative Mode
 	1 Replace with Air
 	1 Unload
-	1 Surprise Explosion
+	1 Unexpected Explosion
 	1 Respawn Anchor
 	1 Exposing Demolition
 	1 Mob Farm

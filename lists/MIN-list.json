@@ -1584,12 +1584,12 @@
         "position": "116"
     },
     {
-        "card_name": "Surprise Explosion",
+        "card_name": "Swoop Down",
         "number": 194,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "74"
+        "position": "337"
     },
     {
         "card_name": "Silverfish",
@@ -1624,12 +1624,12 @@
         "position": "164"
     },
     {
-        "card_name": "Swoop Down",
+        "card_name": "TNT Cannon",
         "number": 195,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "337"
+        "position": "171"
     },
     {
         "card_name": "Sniffer",
@@ -1664,12 +1664,12 @@
         "position": "245"
     },
     {
-        "card_name": "TNT Cannon",
+        "card_name": "Trial Raiders",
         "number": 196,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "171"
+        "position": "111"
     },
     {
         "card_name": "Spider Jockey",
@@ -1704,12 +1704,12 @@
         "position": "228"
     },
     {
-        "card_name": "Trial Raiders",
+        "card_name": "Trial Spawner",
         "number": 197,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "111"
+        "position": "276"
     },
     {
         "card_name": "Take Inventory",
@@ -1744,12 +1744,12 @@
         "position": "123"
     },
     {
-        "card_name": "Trial Spawner",
+        "card_name": "Uneasy Alliance",
         "number": 198,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "276"
+        "position": "80"
     },
     {
         "card_name": "Tame Panda",
@@ -1784,12 +1784,12 @@
         "position": "105"
     },
     {
-        "card_name": "Uneasy Alliance",
+        "card_name": "Unexpected Explosion",
         "number": 199,
         "shape": "normal",
         "set": "MIN",
         "rotated": false,
-        "position": "80"
+        "position": "74"
     },
     {
         "card_name": "Terraforming",
