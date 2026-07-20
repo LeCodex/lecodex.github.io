@@ -8,7 +8,7 @@ def generateHTML(codes):
 	with open(os.path.join('resources', 'site-config.json'), encoding='utf-8-sig') as f:
 		config = json.load(f)
 		base_url = config.get('base_url', '')
-		hub_name = base_url.split('https://')[1].split('.github.io')[0] if 'https://' in base_url else 'unknown'
+		hub_name = base_url.split('https://')[1].split('.github.io')[0].lower() if 'https://' in base_url else 'unknown'
 
 	# Start creating the HTML file content
 	html_content = '''<html>
@@ -51,7 +51,7 @@ def generateHTML(codes):
 	.deck-display-container {
 		height: 100%;
 		width: 100%;
-		max-width: 1200px;
+		max-width: 1300px;
 		margin: auto;
 		border: 1px solid #d5d9d9;
 		border-top: 4px solid #171717;
@@ -444,7 +444,7 @@ def generateHTML(codes):
 			const hash = window.location.hash.substring(1);
 			if (!hash) return;
 			try {
-				const decoded = atob(hash);
+				const decoded = decodeURIComponent(escape(atob(hash)));
 				if (decoded.startsWith('{')) {
 					// Old JSON format
 					currentDeck = JSON.parse(decoded);
@@ -458,9 +458,12 @@ def generateHTML(codes):
 
 					const parsePart = (str) => {
 						if (!str) return [];
-						return str.split(',').map(item => {
-							const bits = item.split('.');
-							return { set: bits[0], num: bits[1], count: parseInt(bits[2]) };
+						// Try semicolon first (new format), fallback to comma (old format)
+						const items = str.includes(';') ? str.split(';') : str.split(',');
+						return items.map(item => {
+							// Try colon first (new format), fallback to period (old format)
+							const bits = item.includes(':') ? item.split(':') : item.split('.');
+							return { set: bits[0], num: bits[1], count: parseInt(bits[2]), name: bits[3] };
 						});
 					};
 
@@ -556,7 +559,28 @@ def generateHTML(codes):
 		function lookupCards(codes) {
 			if (!codes) return [];
 			return codes.map(item => {
-				const stats = card_list_arrayified.find(c => c.set === item.set && c.number == (item.num || item.number));
+				const name = (item.name || item.card_name || "").trim();
+				const num = item.num || item.number;
+				const set = item.set;
+
+				let stats = null;
+				const notToken = (c) => !c.shape || !c.shape.includes("token");
+				
+				// 1. Try Set + Name + Number
+				if (name && num) {
+					stats = card_list_arrayified.find(c => c.set === set && c.card_name.trim() === name && c.number == num && notToken(c));
+				}
+				
+				// 2. Try Set + Name
+				if (!stats && name) {
+					stats = card_list_arrayified.find(c => c.set === set && c.card_name.trim() === name && notToken(c));
+				}
+				
+				// 3. Try Set + Number
+				if (!stats && num) {
+					stats = card_list_arrayified.find(c => c.set === set && c.number == num && notToken(c));
+				}
+
 				return stats ? { count: item.count, stats: stats } : null;
 			}).filter(c => c !== null);
 		}
@@ -575,37 +599,60 @@ def generateHTML(codes):
 					document.getElementById("view-select").value = "images";
 				}
 
-				// Wait for images to potentially load
-				await new Promise(resolve => setTimeout(resolve, 500));
+				// Wait for images to potentially load and layout to stabilize
+				await new Promise(resolve => setTimeout(resolve, 1000));
 
 				const spoilerCont = container.querySelector(".spoiler-container");
 				if (spoilerCont) {
-					// Temporary style changes for better capture
-					const originalBackground = spoilerCont.style.background;
-					const originalPadding = spoilerCont.style.padding;
-					const originalWidth = spoilerCont.style.width;
-					
-					spoilerCont.style.background = "#f3f3f3";
-					spoilerCont.style.padding = "20px";
-					spoilerCont.style.width = "fit-content";
-					spoilerCont.style.marginRight = "0"; // remove the negative margin trick for capture
+					const currentWidth = spoilerCont.offsetWidth;
 
 					html2canvas(spoilerCont, {
 						useCORS: true,
 						allowTaint: true,
 						backgroundColor: "#f3f3f3",
-						scale: 2 // Higher quality
+						scale: 2,
+						logging: false,
+						onclone: (clonedDoc) => {
+							const cloned = clonedDoc.querySelector(".spoiler-container");
+							if (cloned) {
+								cloned.style.marginRight = "0";
+								cloned.style.padding = "20px";
+								cloned.style.background = "#f3f3f3";
+								cloned.style.width = currentWidth + "px";
+
+								// Add Title to the image
+								const header = clonedDoc.createElement("div");
+								header.style.marginBottom = "20px";
+								header.style.width = "100%";
+								header.style.borderBottom = "1px solid #898989";
+								header.style.paddingBottom = "10px";
+								header.style.display = "flex";
+								header.style.alignItems = "baseline";
+								header.style.gap = "15px";
+
+								const title = clonedDoc.createElement("div");
+								title.innerText = currentDeck.name || "Untitled Deck";
+								title.style.fontFamily = "Beleren";
+								title.style.fontSize = "32px";
+								header.appendChild(title);
+
+								if (currentDeck.format && currentDeck.format !== "None") {
+									const format = clonedDoc.createElement("div");
+									format.innerText = currentDeck.format;
+									format.style.fontSize = "20px";
+									format.style.color = "#666";
+									format.style.fontStyle = "italic";
+									header.appendChild(format);
+								}
+
+								cloned.prepend(header);
+							}
+						}
 					}).then(canvas => {
 						const link = document.createElement('a');
 						link.download = deck_name + ".png";
 						link.href = canvas.toDataURL("image/png");
 						link.click();
-
-						// Restore styles
-						spoilerCont.style.background = originalBackground;
-						spoilerCont.style.padding = originalPadding;
-						spoilerCont.style.width = originalWidth;
-						spoilerCont.style.marginRight = "-70px";
 					});
 				}
 
@@ -690,7 +737,6 @@ def generateHTML(codes):
 					}
 					const card_img = document.createElement("img");
 					card_img.src = getCardImgSrc(card_stats);
-					card_img.loading = "lazy";
 					
 					const fx1 = document.createElement("div"); fx1.className = "card-fx";
 					const fx2 = document.createElement("div"); fx2.className = "card-fx";
@@ -732,7 +778,7 @@ def generateHTML(codes):
 				const div = document.createElement("div");
 				div.className = "spoiler-card";
 				div.style.width = "140px";
-				div.innerHTML = `<div class="spoiler-count">${card.count}</div><img loading="lazy" src="${getCardImgSrc(card.stats)}">`;
+				div.innerHTML = `<div class="spoiler-count">${card.count}</div><img src="${getCardImgSrc(card.stats)}">`;
 				div.onmouseover = () => showCardInGrid(card.stats);
 				div.onclick = () => window.open(getCardUrl(card.stats), '_blank');
 				grid.appendChild(div);

@@ -7,7 +7,7 @@ def generateHTML():
     with open(os.path.join('resources', 'site-config.json'), encoding='utf-8-sig') as f:
         config = json.load(f)
         base_url = config.get('base_url', '')
-        hub_name = base_url.split('https://')[1].split('.github.io')[0] if 'https://' in base_url else 'unknown'
+        hub_name = base_url.split('https://')[1].split('.github.io')[0].lower() if 'https://' in base_url else 'unknown'
 
     # Start creating the HTML file content
     html_content = f'''<html>
@@ -285,6 +285,7 @@ def generateHTML():
         let currentPage = 1;
         const itemsPerPage = 12;
         let cardLookup = {};
+        let cardLookupMap = new Map();
         let allCardsArray = [];
         let setConfigs = {};
         let selectedCards = [];
@@ -343,18 +344,20 @@ def generateHTML():
 '''
 
     html_content += '''
-            for (const set of sets_json.sets) {
+            const setPromises = sets_json.sets.map(async (set) => {
                 try {
                     const prefix = set.hubURL ? set.hubURL : ".";
                     const setConfResp = await fetch(`${prefix}/sets/${set.set_code}-files/${set.set_code}.json`);
-                    setConfigs[set.set_code] = await setConfResp.json();
+                    const setConfig = await setConfResp.json();
                     if (set.hubURL) {
-                        setConfigs[set.set_code].hubURL = set.hubURL;
+                        setConfig.hubURL = set.hubURL;
                     }
+                    setConfigs[set.set_code] = setConfig;
                 } catch (e) {
                     console.error("Could not load config for set:", set.set_code);
                 }
-            }
+            });
+            await Promise.all(setPromises);
 
             // Load formats dynamically
             await fetch(rootPath + '/lists/formats.json')
@@ -376,12 +379,30 @@ def generateHTML():
 
             // Initialize card data structures
             allCardsArray = card_list_arrayified;
-            card_list_arrayified.forEach(card => {
+            cardLookupMap.clear();
+            allCardsArray.forEach(card => {
+                const isToken = card.shape && card.shape.includes('token');
                 const key = `${card.set}-${card.number}`;
-                cardLookup[key] = card;
+                if (!cardLookup[key] || (!isToken && cardLookup[key].shape && cardLookup[key].shape.includes('token'))) {
+                    cardLookup[key] = card;
+                }
+                
+                if (!isToken) {
+                    const name = (card.card_name || "").trim().toLowerCase();
+                    cardLookupMap.set(`${card.set}:${card.number}`, card);
+                    cardLookupMap.set(`${card.set}:${name}`, card);
+                }
             });
 
             await fetchDecks();
+        }
+
+        function getCardStats(item) {
+            const name = (item.name || item.card_name || "").trim().toLowerCase();
+            const num = item.num || item.number;
+            const set = item.set;
+
+            return cardLookupMap.get(`${set}:${num}`) || cardLookupMap.get(`${set}:${name}`);
         }
 
         document.addEventListener("DOMContentLoaded", async function () {
@@ -531,7 +552,7 @@ def generateHTML():
                     const deckCards = (deck.mainboard || []).concat(deck.sideboard || []);
                     const deckCardNames = new Set();
                     deckCards.forEach(item => {
-                        const c = cardLookup[`${item.set}-${item.num}`];
+                        const c = getCardStats(item);
                         if (c) deckCardNames.add(c.card_name);
                     });
 
@@ -605,14 +626,14 @@ def generateHTML():
         }
 
         function getMostExpensiveCard(deck) {
-            const board = (deck.mainboard || []).concat(deck.sideboard || []);
+            const board = (deck.mainboard || []);
             if (board.length === 0) return null;
             
             let bestCard = null;
             let maxScore = -1;
 
             board.forEach(item => {
-                const card = cardLookup[`${item.set}-${item.num}`];
+                const card = getCardStats(item);
                 if (card) {
                     const mv = convertToMV(card.cost);
                     const rarities = { 'mythic': 4, 'rare': 3, 'uncommon': 2, 'common': 1, 'cube': 0 };
