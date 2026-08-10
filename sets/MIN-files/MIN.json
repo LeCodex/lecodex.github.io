@@ -1,8 +1,8 @@
 ﻿{
     "name": "Minecraft",
-    "formats": "Cube Draft",
+    "formats": "",
     "image_type": "png",
-    "draft_structure": "cube",
+    "draft_structure": "play booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -10,12 +10,12 @@
         {
             "card_name": "Unlit Cave",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 308,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "When Unlit Cave enters or is put into a graveyard from the battlefield, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "When Unlit Cave enters or is put into a graveyard from the battlefield, spawn 2. [i](Create a 0/0 black Horde creature token with two +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -31,7 +31,7 @@
         {
             "card_name": "Crafting Bench",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 292,
             "color_identity": "C",
@@ -52,7 +52,7 @@
         {
             "card_name": "Flaming Weapons",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 168,
             "color_identity": "R",
@@ -73,7 +73,7 @@
         {
             "card_name": "Full Set",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 19,
             "color_identity": "WU",
@@ -94,7 +94,7 @@
         {
             "card_name": "Fortune Pickaxe",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 170,
             "color_identity": "R",
@@ -115,7 +115,7 @@
         {
             "card_name": "Piercing Crossbow",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 182,
             "color_identity": "R",
@@ -136,7 +136,7 @@
         {
             "card_name": "Thorny Dissuasion",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 142,
             "color_identity": "B",
@@ -157,7 +157,7 @@
         {
             "card_name": "Impaling Trident",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 123,
             "color_identity": "B",
@@ -178,7 +178,7 @@
         {
             "card_name": "Fish",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Fish",
             "number": 9,
             "color_identity": "U",
@@ -199,12 +199,12 @@
         {
             "card_name": "Sunken Stronghold",
             "color": "BRG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 277,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
-            "rules_text": "When Sunken Stronghold enters, spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]\nWhenever a Horde you control enters, put a +1/+1 counter on it.",
+            "rules_text": "When Sunken Stronghold enters, spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]\nWhenever you attack, put a +1/+1 counter on each Horde you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -220,7 +220,7 @@
         {
             "card_name": "Floating Allay",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Spirit",
             "number": 265,
             "color_identity": "WUB",
@@ -241,7 +241,7 @@
         {
             "card_name": "Alex, Intrepid Explorer",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Planeswalker \u2014 Alex",
             "number": 257,
             "color_identity": "WBR",
@@ -262,7 +262,7 @@
         {
             "card_name": "Village Leatherworker",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Peasant",
             "number": 281,
             "color_identity": "WBR",
@@ -283,7 +283,7 @@
         {
             "card_name": "Steve, Quaint Builder",
             "color": "WUG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Planeswalker \u2014 Steve",
             "number": 276,
             "color_identity": "WUG",
@@ -304,7 +304,7 @@
         {
             "card_name": "Villager",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Villager",
             "number": 8,
             "color_identity": "W",
@@ -325,7 +325,7 @@
         {
             "card_name": "Grazing Grounds",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 226,
             "color_identity": "G",
@@ -346,7 +346,7 @@
         {
             "card_name": "Plains MIN1",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Plains",
             "number": 362,
             "color_identity": "W",
@@ -367,7 +367,7 @@
         {
             "card_name": "Island MIN1",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Island",
             "number": 365,
             "color_identity": "U",
@@ -388,7 +388,7 @@
         {
             "card_name": "Swamp MIN1",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
             "number": 368,
             "color_identity": "B",
@@ -409,7 +409,7 @@
         {
             "card_name": "Mountain MIN1",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
             "number": 371,
             "color_identity": "R",
@@ -430,7 +430,7 @@
         {
             "card_name": "Forest MIN1",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Forest",
             "number": 374,
             "color_identity": "G",
@@ -451,7 +451,7 @@
         {
             "card_name": "Village Bell",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 46,
             "color_identity": "W",
@@ -472,7 +472,7 @@
         {
             "card_name": "Golem",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact Creature \u2014 Golem",
             "number": 28,
             "color_identity": "C",
@@ -493,7 +493,7 @@
         {
             "card_name": "Spirit",
             "color": "UR",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Spirit",
             "number": 26,
             "color_identity": "UR",
@@ -514,7 +514,7 @@
         {
             "card_name": "Sticky Piston",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 305,
             "color_identity": "WUB",
@@ -535,7 +535,7 @@
         {
             "card_name": "Armor Stand",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 289,
             "color_identity": "WBR",
@@ -556,12 +556,12 @@
         {
             "card_name": "Mob Spawner",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 300,
             "color_identity": "BRG",
             "cost": "{2}",
-            "rules_text": "When Mob Spawner enters, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]\n{1}, {T}: Add {B}, {R}, or {G}.",
+            "rules_text": "When Mob Spawner enters, spawn 2. [i](Create a 0/0 black Horde creature token with two +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]\n{1}, {T}: Add {B}, {R}, or {G}.",
             "flavor_text": "[i]A powerful artifact, disabled by a simple torch.[/i]",
             "pt": "",
             "special_text": "",
@@ -577,7 +577,7 @@
         {
             "card_name": "Warm Campfire",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 309,
             "color_identity": "URG",
@@ -598,7 +598,7 @@
         {
             "card_name": "Flower Forest",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Forest Plains",
             "number": 328,
             "color_identity": "WG",
@@ -619,7 +619,7 @@
         {
             "card_name": "River Bed",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Plains Island",
             "number": 346,
             "color_identity": "WU",
@@ -640,7 +640,7 @@
         {
             "card_name": "Mushroom Island",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Island Swamp",
             "number": 338,
             "color_identity": "UB",
@@ -661,7 +661,7 @@
         {
             "card_name": "Badlands Desert",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Plains Swamp",
             "number": 314,
             "color_identity": "WB",
@@ -682,7 +682,7 @@
         {
             "card_name": "Dark Forest",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Swamp Forest",
             "number": 319,
             "color_identity": "BG",
@@ -703,7 +703,7 @@
         {
             "card_name": "Thermal Vent",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Island Mountain",
             "number": 353,
             "color_identity": "UR",
@@ -724,7 +724,7 @@
         {
             "card_name": "Jungle",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Forest Island",
             "number": 335,
             "color_identity": "UG",
@@ -745,7 +745,7 @@
         {
             "card_name": "Savanna",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Mountain Plains",
             "number": 349,
             "color_identity": "WR",
@@ -766,7 +766,7 @@
         {
             "card_name": "Eroded Badlands",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Swamp Mountain",
             "number": 325,
             "color_identity": "BR",
@@ -787,7 +787,7 @@
         {
             "card_name": "Amplified Terrain",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 312,
             "color_identity": "C",
@@ -808,7 +808,7 @@
         {
             "card_name": "Far Lands",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 326,
             "color_identity": "C",
@@ -829,7 +829,7 @@
         {
             "card_name": "Unloaded Chunk",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 355,
             "color_identity": "C",
@@ -850,7 +850,7 @@
         {
             "card_name": "Igloo Basement",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Plains Swamp",
             "number": 331,
             "color_identity": "WB",
@@ -871,7 +871,7 @@
         {
             "card_name": "Ancient City",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Swamp Forest",
             "number": 313,
             "color_identity": "BG",
@@ -892,7 +892,7 @@
         {
             "card_name": "Ruined Portal",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Swamp Mountain",
             "number": 347,
             "color_identity": "BR",
@@ -913,7 +913,7 @@
         {
             "card_name": "Peaceful Village",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Forest Plains",
             "number": 343,
             "color_identity": "WG",
@@ -934,7 +934,7 @@
         {
             "card_name": "Jungle Temple",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Forest Island",
             "number": 336,
             "color_identity": "UG",
@@ -955,7 +955,7 @@
         {
             "card_name": "Witch Hut",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Island Swamp",
             "number": 358,
             "color_identity": "UB",
@@ -976,7 +976,7 @@
         {
             "card_name": "Ocean Monument",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Plains Island",
             "number": 340,
             "color_identity": "WU",
@@ -997,7 +997,7 @@
         {
             "card_name": "Abandoned Mineshaft",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Mountain Plains",
             "number": 311,
             "color_identity": "WR",
@@ -1018,7 +1018,7 @@
         {
             "card_name": "Desert Well",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Island Mountain",
             "number": 321,
             "color_identity": "UR",
@@ -1039,7 +1039,7 @@
         {
             "card_name": "Pillager Outpost",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Mountain Forest",
             "number": 344,
             "color_identity": "RG",
@@ -1060,7 +1060,7 @@
         {
             "card_name": "Combat Arena",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 318,
             "color_identity": "WBR",
@@ -1081,7 +1081,7 @@
         {
             "card_name": "Cherry Grove",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 316,
             "color_identity": "URG",
@@ -1102,7 +1102,7 @@
         {
             "card_name": "The End, Dragon's Realm",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Land",
             "number": 324,
             "color_identity": "C",
@@ -1123,7 +1123,7 @@
         {
             "card_name": "The Nether",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Enchantment Land \u2014 Saga",
             "number": 339,
             "color_identity": "C",
@@ -1144,7 +1144,7 @@
         {
             "card_name": "Curious Axolotl",
             "color": "WU",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Axolotl",
             "number": 261,
             "color_identity": "WU",
@@ -1165,12 +1165,12 @@
         {
             "card_name": "Illusioner",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Wizard",
             "number": 269,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
-            "rules_text": "Menace\nWhen Illusioner enters, you may sacrifice another target nontoken artifact or creature you control. If you do, create two tokens that are copies of it, except they have menace if they're a creature.",
+            "rules_text": "Menace\nWhen Illusioner enters, you may choose another target nontoken artifact or creature you control. Sacrifice it. If you do, create two tokens that are copies of it, except they have menace if they're a creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1186,7 +1186,7 @@
         {
             "card_name": "Zombified Piglin",
             "color": "BR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie Boar",
             "number": 287,
             "color_identity": "BR",
@@ -1207,7 +1207,7 @@
         {
             "card_name": "Raid Captain",
             "color": "RG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Shaman",
             "number": 274,
             "color_identity": "RG",
@@ -1228,7 +1228,7 @@
         {
             "card_name": "Iron Anvil",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 297,
             "color_identity": "C",
@@ -1249,7 +1249,7 @@
         {
             "card_name": "Multishot Crossbow",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 126,
             "color_identity": "B",
@@ -1270,7 +1270,7 @@
         {
             "card_name": "Efficiency Pickaxe",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 14,
             "color_identity": "W",
@@ -1291,7 +1291,7 @@
         {
             "card_name": "Soul Speed",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 193,
             "color_identity": "R",
@@ -1312,15 +1312,15 @@
         {
             "card_name": "Herobrine, Never Removed",
             "color": "BRG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Planeswalker \u2014 Herobrine",
             "number": 266,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
-            "rules_text": "You may cast Herobrine from your graveyard by discarding a card in addition to its other costs.\nHordes you control have menace.\n[0]: Spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]\n[-2]: Exile target nonland permanent.",
+            "rules_text": "You may cast Herobrine from your graveyard by discarding a card in addition to its other costs.\nHordes you control have menace.\n[0]: Spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]\n[-2]: Exile target nonland permanent.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "You may cast Herobrine from your graveyard by discarding a card in addition to its other costs.\nHordes you control have menace.\n[0]: Spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]\n[-2]: Exile target nonland permanent.",
+            "special_text": "You may cast Herobrine from your graveyard by discarding a card in addition to its other costs.\nHordes you control have menace.\n[0]: Spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]\n[-2]: Exile target nonland permanent.",
             "shape": "planeswalker",
             "set": "MIN",
             "loyalty": "3",
@@ -1333,7 +1333,7 @@
         {
             "card_name": "Sculk Spread",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 243,
             "color_identity": "G",
@@ -1354,12 +1354,12 @@
         {
             "card_name": "Cave Spider",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Spider",
             "number": 211,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Reach, deathtouch\n[i]Gather[/i] \u2014 Whenever a permanent you control with a mana ability enters, spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "Reach, deathtouch\n[i]Gather[/i] \u2014 Whenever a permanent you control with a mana ability enters, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/4",
             "special_text": "",
@@ -1375,7 +1375,7 @@
         {
             "card_name": "Composter",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 216,
             "color_identity": "G",
@@ -1396,7 +1396,7 @@
         {
             "card_name": "Scurrying Bat",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Bat",
             "number": 34,
             "color_identity": "W",
@@ -1417,7 +1417,7 @@
         {
             "card_name": "Bat",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Bat",
             "number": 4,
             "color_identity": "W",
@@ -1438,7 +1438,7 @@
         {
             "card_name": "Closed Server",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 5,
             "color_identity": "W",
@@ -1459,12 +1459,12 @@
         {
             "card_name": "Silverfish",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Insect",
             "number": 245,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i]Ferocious[/i] \u2014 When Silverfish enters, if you control a creature with power 4 or greater, spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "[i]Ferocious[/i] \u2014 When Silverfish enters, if you control a creature with power 4 or greater, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1480,7 +1480,7 @@
         {
             "card_name": "Tamed Cat",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Cat",
             "number": 39,
             "color_identity": "W",
@@ -1501,7 +1501,7 @@
         {
             "card_name": "Creative Mode",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 7,
             "color_identity": "W",
@@ -1522,7 +1522,7 @@
         {
             "card_name": "Replace with Air",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 33,
             "color_identity": "W",
@@ -1543,7 +1543,7 @@
         {
             "card_name": "Unload",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
             "number": 99,
             "color_identity": "U",
@@ -1564,12 +1564,12 @@
         {
             "card_name": "Unexpected Explosion",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 199,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Choose one \u2014\n\u2022 Spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]\n\u2022 Unexpected Explosion deals 2 damage to target creature.\n\u2022 Destroy target artifact.",
+            "rules_text": "Choose one \u2014\n\u2022 Spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]\n\u2022 Unexpected Explosion deals 2 damage to target creature.\n\u2022 Destroy target artifact.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1585,7 +1585,7 @@
         {
             "card_name": "Respawn Anchor",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 135,
             "color_identity": "B",
@@ -1606,12 +1606,12 @@
         {
             "card_name": "Exposing Demolition",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 165,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Destroy target artifact. If you controlled that artifact, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "Destroy target artifact. If you controlled that artifact, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i]A breach is also a door to more damage.[/i]",
             "pt": "",
             "special_text": "",
@@ -1627,12 +1627,12 @@
         {
             "card_name": "Mob Farm",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 125,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When Mob Farm enters and at the beginning of your upkeep, spawn 4 if you don't control a Horde. [i](To spawn 4, create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]\n{2}, {T}, Sacrifice a creature: Draw a card.",
+            "rules_text": "When Mob Farm enters and at the beginning of your upkeep, spawn 3 if you don't control a Horde. [i](To spawn 3, create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]\n{2}, {T}, Sacrifice a creature: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1648,7 +1648,7 @@
         {
             "card_name": "Blaze Pack",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Elemental",
             "number": 155,
             "color_identity": "R",
@@ -1669,7 +1669,7 @@
         {
             "card_name": "Piglin Brute",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Boar Barbarian",
             "number": 183,
             "color_identity": "R",
@@ -1690,7 +1690,7 @@
         {
             "card_name": "Uneasy Alliance",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 198,
             "color_identity": "R",
@@ -1711,7 +1711,7 @@
         {
             "card_name": "Cliff Llamas",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Llama",
             "number": 4,
             "color_identity": "W",
@@ -1732,7 +1732,7 @@
         {
             "card_name": "Glow Squid",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Squid",
             "number": 71,
             "color_identity": "U",
@@ -1753,12 +1753,12 @@
         {
             "card_name": "Neverending Spawn",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 233,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "At the beginning of your end step, put a mob counter on Neverending Spawn, then spawn X, where X is twice the number of mob counters on it. [i](To spawn X, create a 0/0 black Horde creature token with X +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "At the beginning of your end step, put a mob counter on Neverending Spawn, then spawn X, where X is twice the number of mob counters on it. [i](To spawn X, create a 0/0 black Horde creature token with X +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1774,7 +1774,7 @@
         {
             "card_name": "Crossbow Piglin",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Boar Archer",
             "number": 160,
             "color_identity": "R",
@@ -1795,7 +1795,7 @@
         {
             "card_name": "Coral Reef",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 62,
             "color_identity": "U",
@@ -1816,7 +1816,7 @@
         {
             "card_name": "Smithing Table",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 37,
             "color_identity": "W",
@@ -1837,7 +1837,7 @@
         {
             "card_name": "Oak Sapling",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Plant",
             "number": 235,
             "color_identity": "G",
@@ -1858,7 +1858,7 @@
         {
             "card_name": "Ramming Goat",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Goat",
             "number": 241,
             "color_identity": "G",
@@ -1879,7 +1879,7 @@
         {
             "card_name": "Evoker",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Shaman",
             "number": 264,
             "color_identity": "URG",
@@ -1900,7 +1900,7 @@
         {
             "card_name": "Village Cleric",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Cleric",
             "number": 280,
             "color_identity": "WB",
@@ -1921,7 +1921,7 @@
         {
             "card_name": "Village Nitwit",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Peasant",
             "number": 48,
             "color_identity": "W",
@@ -1942,7 +1942,7 @@
         {
             "card_name": "Village Fisherman",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Peasant",
             "number": 100,
             "color_identity": "U",
@@ -1963,12 +1963,12 @@
         {
             "card_name": "Zombie Villager",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie Villager",
             "number": 153,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When Zombie Villager dies, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "When Zombie Villager dies, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1984,7 +1984,7 @@
         {
             "card_name": "Village Weaponsmith",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Artificer",
             "number": 202,
             "color_identity": "R",
@@ -2005,7 +2005,7 @@
         {
             "card_name": "Getting an Upgrade",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 70,
             "color_identity": "U",
@@ -2026,7 +2026,7 @@
         {
             "card_name": "Fang Attack",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 117,
             "color_identity": "B",
@@ -2047,7 +2047,7 @@
         {
             "card_name": "Baby Zombie",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie",
             "number": 106,
             "color_identity": "B",
@@ -2068,7 +2068,7 @@
         {
             "card_name": "Polar Bear",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Bear",
             "number": 31,
             "color_identity": "W",
@@ -2089,7 +2089,7 @@
         {
             "card_name": "Bear",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Bear",
             "number": 5,
             "color_identity": "W",
@@ -2110,7 +2110,7 @@
         {
             "card_name": "Pillager Raid",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 131,
             "color_identity": "B",
@@ -2131,7 +2131,7 @@
         {
             "card_name": "Villager Army",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Villager Army",
             "number": 14,
             "color_identity": "B",
@@ -2152,7 +2152,7 @@
         {
             "card_name": "Turn to Data",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 43,
             "color_identity": "W",
@@ -2173,7 +2173,7 @@
         {
             "card_name": "Iron Hopper",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 75,
             "color_identity": "U",
@@ -2194,12 +2194,12 @@
         {
             "card_name": "Husk",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie",
             "number": 120,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Deathtouch\nWhen Husk enters, spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "Deathtouch\nWhen Husk enters, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i]The desert environment made this variant immune to sunlight.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2215,7 +2215,7 @@
         {
             "card_name": "Wither Skeleton",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Skeleton Warrior",
             "number": 148,
             "color_identity": "B",
@@ -2236,12 +2236,12 @@
         {
             "card_name": "Enter the Cave",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 221,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When Enter the Cave enters, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]\nCreature tokens you control get +1/+1.",
+            "rules_text": "When Enter the Cave enters, spawn 2. [i](Create a 0/0 black Horde creature token with two +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]\nCreature tokens you control get +1/+1.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2257,7 +2257,7 @@
         {
             "card_name": "Tool",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact \u2014 Tool",
             "number": 29,
             "color_identity": "C",
@@ -2278,7 +2278,7 @@
         {
             "card_name": "Vindicator",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Barbarian",
             "number": 253,
             "color_identity": "G",
@@ -2299,7 +2299,7 @@
         {
             "card_name": "Meadow Cow",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Ox",
             "number": 25,
             "color_identity": "W",
@@ -2320,7 +2320,7 @@
         {
             "card_name": "Banished Witch",
             "color": "BR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Warlock",
             "number": 258,
             "color_identity": "BR",
@@ -2341,7 +2341,7 @@
         {
             "card_name": "Trial Raiders",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human",
             "number": 196,
             "color_identity": "R",
@@ -2362,7 +2362,7 @@
         {
             "card_name": "Sea Dolphin",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Whale",
             "number": 90,
             "color_identity": "U",
@@ -2383,7 +2383,7 @@
         {
             "card_name": "Celebrating Tribe",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Pig Warrior",
             "number": 157,
             "color_identity": "R",
@@ -2404,7 +2404,7 @@
         {
             "card_name": "Hero of the Village",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 21,
             "color_identity": "W",
@@ -2425,7 +2425,7 @@
         {
             "card_name": "Kick",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 78,
             "color_identity": "U",
@@ -2446,7 +2446,7 @@
         {
             "card_name": "Time Command",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 143,
             "color_identity": "B",
@@ -2467,7 +2467,7 @@
         {
             "card_name": "Critical Strike",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 159,
             "color_identity": "R",
@@ -2488,7 +2488,7 @@
         {
             "card_name": "Take Inventory",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 248,
             "color_identity": "G",
@@ -2509,7 +2509,7 @@
         {
             "card_name": "Ruthless Predation",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 242,
             "color_identity": "G",
@@ -2530,12 +2530,12 @@
         {
             "card_name": "Spectator Mode",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
             "number": 93,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Enchant creature\nEnchanted creature loses all abilities and is a colorless 1/1 Spirit creature. Remove all counters from it. [i](It loses all other colors, card types, and creature types.)[/i]",
+            "rules_text": "Enchant creature\nWhen Spectator Mode enters, remove all counters from enchanted creature.\nEnchanted creature loses all abilities and is a colorless 1/1 Spirit creature. [i](It loses all other colors, card types, and creature types.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2551,7 +2551,7 @@
         {
             "card_name": "Void Command",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 49,
             "color_identity": "W",
@@ -2572,7 +2572,7 @@
         {
             "card_name": "Gold Bartering",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 171,
             "color_identity": "R",
@@ -2593,7 +2593,7 @@
         {
             "card_name": "Wither Rose",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 147,
             "color_identity": "B",
@@ -2614,7 +2614,7 @@
         {
             "card_name": "Shedding Turtle",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Turtle",
             "number": 91,
             "color_identity": "U",
@@ -2635,7 +2635,7 @@
         {
             "card_name": "Ink Squids",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Squid",
             "number": 74,
             "color_identity": "U",
@@ -2656,7 +2656,7 @@
         {
             "card_name": "Tame Panda",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Bear",
             "number": 249,
             "color_identity": "G",
@@ -2677,7 +2677,7 @@
         {
             "card_name": "Loaded Donkey",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Horse",
             "number": 272,
             "color_identity": "WB",
@@ -2698,7 +2698,7 @@
         {
             "card_name": "Clear Command",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 112,
             "color_identity": "B",
@@ -2719,7 +2719,7 @@
         {
             "card_name": "Wild Fox",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Fox",
             "number": 203,
             "color_identity": "R",
@@ -2740,7 +2740,7 @@
         {
             "card_name": "Frost Stray",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Skeleton Archer",
             "number": 118,
             "color_identity": "B",
@@ -2761,7 +2761,7 @@
         {
             "card_name": "Bucket Fish",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Fish",
             "number": 55,
             "color_identity": "U",
@@ -2782,7 +2782,7 @@
         {
             "card_name": "Outpost Defense",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 127,
             "color_identity": "B",
@@ -2803,7 +2803,7 @@
         {
             "card_name": "Phantom",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Spirit",
             "number": 129,
             "color_identity": "B",
@@ -2824,7 +2824,7 @@
         {
             "card_name": "Arctic Fox",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Snow Creature \u2014 Fox",
             "number": 210,
             "color_identity": "G",
@@ -2845,7 +2845,7 @@
         {
             "card_name": "Happy Ghast",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Spirit",
             "number": 72,
             "color_identity": "U",
@@ -2866,7 +2866,7 @@
         {
             "card_name": "Nimble Horse",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Horse",
             "number": 83,
             "color_identity": "U",
@@ -2887,7 +2887,7 @@
         {
             "card_name": "Sniffer",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Beast",
             "number": 246,
             "color_identity": "G",
@@ -2908,7 +2908,7 @@
         {
             "card_name": "Insect",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Insect",
             "number": 20,
             "color_identity": "R",
@@ -2929,7 +2929,7 @@
         {
             "card_name": "The Ender Dragon",
             "color": "BRG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Elder Dragon",
             "number": 263,
             "color_identity": "BRG",
@@ -2950,7 +2950,7 @@
         {
             "card_name": "Ravager",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Beast",
             "number": 190,
             "color_identity": "R",
@@ -2971,7 +2971,7 @@
         {
             "card_name": "Lava Strider",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Beast",
             "number": 174,
             "color_identity": "R",
@@ -2992,7 +2992,7 @@
         {
             "card_name": "How Did We Get Here",
             "color": "WUBRG",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Enchantment",
             "number": 267,
             "color_identity": "WUBRG",
@@ -3013,7 +3013,7 @@
         {
             "card_name": "Nether Portal",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 178,
             "color_identity": "R",
@@ -3034,12 +3034,12 @@
         {
             "card_name": "Zombie Reinforcements",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie",
             "number": 152,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When Zombie Reinforcements enters, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]\nWhenever Zombie Reinforcements attacks, put a +1/+1 counter on each Horde you control.",
+            "rules_text": "When Zombie Reinforcements enters, spawn 2. [i](Create a 0/0 black Horde creature token with two +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]\nWhenever Zombie Reinforcements attacks, put a +1/+1 counter on target attacking Horde you control.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3055,7 +3055,7 @@
         {
             "card_name": "Dragon's Breath",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
             "number": 219,
             "color_identity": "G",
@@ -3076,12 +3076,12 @@
         {
             "card_name": "Creaking",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Plant Illusion",
             "number": 63,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]\nWhenever Creaking attacks, if you're not an explorer, tap it and put a stun counter on it.\n{1}{U}, Remove a stun counter from Creaking: Draw a card.",
+            "rules_text": "Travel [i](If there are eight or more lands among your battlefield and graveyard, you're an explorer for the rest of the game.)[/i]\nWhenever Creaking attacks, if you're not an explorer, tap it and put a stun counter on it.\n{2}{U}, Untap Creaking: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "6/5",
             "special_text": "",
@@ -3097,7 +3097,7 @@
         {
             "card_name": "Skeleton Horse",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Skeleton Horse",
             "number": 139,
             "color_identity": "B",
@@ -3118,7 +3118,7 @@
         {
             "card_name": "Skeleton Archer",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Skeleton Archer",
             "number": 12,
             "color_identity": "B",
@@ -3139,7 +3139,7 @@
         {
             "card_name": "Change Data",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 56,
             "color_identity": "U",
@@ -3160,12 +3160,12 @@
         {
             "card_name": "Drowned Zombie",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie",
             "number": 114,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When Drowned Zombie enters, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]\nDrowned Zombie can't be blocked as long as you control a Horde.",
+            "rules_text": "When Drowned Zombie enters, spawn 2. [i](Create a 0/0 black Horde creature token with two +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]\nDrowned Zombie can't be blocked as long as you control a Horde.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3181,7 +3181,7 @@
         {
             "card_name": "Zombie's Bite",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 154,
             "color_identity": "B",
@@ -3202,7 +3202,7 @@
         {
             "card_name": "Zombie",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Zombie",
             "number": 15,
             "color_identity": "B",
@@ -3223,12 +3223,12 @@
         {
             "card_name": "Insect Infestation",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 229,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Choose one \u2014\n\u2022 Destroy target artifact or enchantment.\n\u2022 Spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy target artifact or enchantment.\n\u2022 Spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3244,7 +3244,7 @@
         {
             "card_name": "Temple Guardian",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact Creature \u2014 Construct",
             "number": 40,
             "color_identity": "W",
@@ -3265,7 +3265,7 @@
         {
             "card_name": "Young Hoglin",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Boar",
             "number": 205,
             "color_identity": "R",
@@ -3286,7 +3286,7 @@
         {
             "card_name": "Village Farmer",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Peasant",
             "number": 47,
             "color_identity": "W",
@@ -3307,7 +3307,7 @@
         {
             "card_name": "Third Shriek",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 98,
             "color_identity": "U",
@@ -3328,7 +3328,7 @@
         {
             "card_name": "Clearcutting",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 213,
             "color_identity": "G",
@@ -3349,7 +3349,7 @@
         {
             "card_name": "Acid Fireball",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 105,
             "color_identity": "B",
@@ -3370,7 +3370,7 @@
         {
             "card_name": "Enderman",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Horror",
             "number": 68,
             "color_identity": "U",
@@ -3391,7 +3391,7 @@
         {
             "card_name": "Potion of Swiftness",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 187,
             "color_identity": "R",
@@ -3412,7 +3412,7 @@
         {
             "card_name": "Village Mason",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Artificer",
             "number": 101,
             "color_identity": "U",
@@ -3433,7 +3433,7 @@
         {
             "card_name": "Gather Experience",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 69,
             "color_identity": "U",
@@ -3454,7 +3454,7 @@
         {
             "card_name": "Village Librarian",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Warlock",
             "number": 144,
             "color_identity": "B",
@@ -3475,7 +3475,7 @@
         {
             "card_name": "Defend the Village",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 12,
             "color_identity": "W",
@@ -3496,7 +3496,7 @@
         {
             "card_name": "Chest Breaking",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 110,
             "color_identity": "B",
@@ -3517,7 +3517,7 @@
         {
             "card_name": "Hoglin",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Boar",
             "number": 173,
             "color_identity": "R",
@@ -3538,7 +3538,7 @@
         {
             "card_name": "One-Way Trip",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 30,
             "color_identity": "W",
@@ -3559,7 +3559,7 @@
         {
             "card_name": "Bogged Skeleton",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Fungus Skeleton Archer",
             "number": 108,
             "color_identity": "B",
@@ -3580,12 +3580,12 @@
         {
             "card_name": "Out of the Webs",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 237,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Choose one \u2014\n\u2022 Target creature gets +2/+2 and gains reach until end of turn. Untap it.\n\u2022 Spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "Choose one \u2014\n\u2022 Target creature gets +2/+2 and gains reach until end of turn. Untap it.\n\u2022 Spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3601,7 +3601,7 @@
         {
             "card_name": "TNT Cannon",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 195,
             "color_identity": "R",
@@ -3622,7 +3622,7 @@
         {
             "card_name": "Terraforming",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 250,
             "color_identity": "G",
@@ -3643,7 +3643,7 @@
         {
             "card_name": "Magma Cube",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Elemental",
             "number": 176,
             "color_identity": "R",
@@ -3664,7 +3664,7 @@
         {
             "card_name": "Flying Machine",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Vehicle",
             "number": 296,
             "color_identity": "C",
@@ -3685,7 +3685,7 @@
         {
             "card_name": "Shrinking Worldborder",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 136,
             "color_identity": "B",
@@ -3706,7 +3706,7 @@
         {
             "card_name": "Village Armorer",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Artificer",
             "number": 45,
             "color_identity": "W",
@@ -3727,7 +3727,7 @@
         {
             "card_name": "Wild Rabbit",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Rabbit",
             "number": 254,
             "color_identity": "G",
@@ -3748,7 +3748,7 @@
         {
             "card_name": "Rabbit",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Rabbit",
             "number": 23,
             "color_identity": "G",
@@ -3769,7 +3769,7 @@
         {
             "card_name": "Stone Age",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 140,
             "color_identity": "B",
@@ -3790,7 +3790,7 @@
         {
             "card_name": "Equipping Station",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 115,
             "color_identity": "B",
@@ -3811,7 +3811,7 @@
         {
             "card_name": "Isn't It Iron Pick",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 24,
             "color_identity": "W",
@@ -3832,7 +3832,7 @@
         {
             "card_name": "Growing Pack",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Wolf",
             "number": 227,
             "color_identity": "G",
@@ -3853,7 +3853,7 @@
         {
             "card_name": "Wolf",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Wolf",
             "number": 24,
             "color_identity": "G",
@@ -3874,7 +3874,7 @@
         {
             "card_name": "Fire Charge",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 167,
             "color_identity": "R",
@@ -3895,7 +3895,7 @@
         {
             "card_name": "Faithful Companion",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Dog",
             "number": 17,
             "color_identity": "W",
@@ -3916,7 +3916,7 @@
         {
             "card_name": "Explore",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 222,
             "color_identity": "G",
@@ -3937,7 +3937,7 @@
         {
             "card_name": "Wind Charge",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Tool",
             "number": 103,
             "color_identity": "U",
@@ -3958,7 +3958,7 @@
         {
             "card_name": "Forest Fire",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 169,
             "color_identity": "R",
@@ -3979,7 +3979,7 @@
         {
             "card_name": "Ender Chest",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 67,
             "color_identity": "U",
@@ -4000,7 +4000,7 @@
         {
             "card_name": "Golden Sword",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 172,
             "color_identity": "R",
@@ -4021,7 +4021,7 @@
         {
             "card_name": "Glare",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Plant Elemental",
             "number": 224,
             "color_identity": "G",
@@ -4042,7 +4042,7 @@
         {
             "card_name": "Rascal",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Homunculus",
             "number": 133,
             "color_identity": "B",
@@ -4063,7 +4063,7 @@
         {
             "card_name": "Wandering Trader",
             "color": "UG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Nomad",
             "number": 284,
             "color_identity": "UG",
@@ -4084,7 +4084,7 @@
         {
             "card_name": "Zombie Giant",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie Giant",
             "number": 149,
             "color_identity": "B",
@@ -4105,7 +4105,7 @@
         {
             "card_name": "Mooshroom Herd",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Fungus Ox",
             "number": 232,
             "color_identity": "G",
@@ -4126,7 +4126,7 @@
         {
             "card_name": "Village Fletcher",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Archer",
             "number": 201,
             "color_identity": "R",
@@ -4147,7 +4147,7 @@
         {
             "card_name": "Tuff Golem",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact Creature \u2014 Golem",
             "number": 42,
             "color_identity": "W",
@@ -4168,7 +4168,7 @@
         {
             "card_name": "Claim Land",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 212,
             "color_identity": "G",
@@ -4189,7 +4189,7 @@
         {
             "card_name": "Bad Omen",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 107,
             "color_identity": "B",
@@ -4210,7 +4210,7 @@
         {
             "card_name": "Shipwreck",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Treasure",
             "number": 302,
             "color_identity": "C",
@@ -4231,7 +4231,7 @@
         {
             "card_name": "Pufferfish",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Fish",
             "number": 86,
             "color_identity": "U",
@@ -4252,7 +4252,7 @@
         {
             "card_name": "Iron Shovel",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 23,
             "color_identity": "W",
@@ -4273,12 +4273,12 @@
         {
             "card_name": "Spider Jockey",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Skeleton Spider",
             "number": 247,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Reach\nWhen Spider Jockey dies, spawn 4. Put all counters that were on Spider Jockey on that creature. [i](To spawn 4, create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "Reach\nWhen Spider Jockey dies, spawn 3. Put all counters that were on Spider Jockey on that creature. [i](To spawn 3, create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4294,7 +4294,7 @@
         {
             "card_name": "Explorer",
             "color": "",
-            "rarity": "cube",
+            "rarity": "special",
             "type": "Token Emblem \u2014 Explorer",
             "number": 2,
             "color_identity": "C",
@@ -4315,7 +4315,7 @@
         {
             "card_name": "Shared Anger",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 192,
             "color_identity": "R",
@@ -4336,7 +4336,7 @@
         {
             "card_name": "Ancient Etchings",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 207,
             "color_identity": "G",
@@ -4357,7 +4357,7 @@
         {
             "card_name": "Enclosed Cows",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Ox",
             "number": 220,
             "color_identity": "G",
@@ -4378,7 +4378,7 @@
         {
             "card_name": "Command Block",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 60,
             "color_identity": "U",
@@ -4399,12 +4399,12 @@
         {
             "card_name": "Debug World",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 11,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When Debug World enters, scry 2.\nFunction \u2014 Exile up to two artifacts and/or enchantments you control, then return those cards to the battlefield under their owner's control. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i]",
+            "rules_text": "When Debug World enters, scry 2.\nFunction \u2014 Exile up to two artifacts and/or enchantments you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4420,7 +4420,7 @@
         {
             "card_name": "Sift the Loot",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 137,
             "color_identity": "B",
@@ -4441,12 +4441,12 @@
         {
             "card_name": "Unpleasant Surprise",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 200,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Discard your hand, then draw three cards and spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "Discard your hand, then draw three cards and spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4462,7 +4462,7 @@
         {
             "card_name": "Elytras",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 294,
             "color_identity": "C",
@@ -4483,7 +4483,7 @@
         {
             "card_name": "Illager Patrol",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Archer",
             "number": 121,
             "color_identity": "B",
@@ -4504,7 +4504,7 @@
         {
             "card_name": "Pillager Horn",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 130,
             "color_identity": "B",
@@ -4525,7 +4525,7 @@
         {
             "card_name": "Curse of Binding",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
             "number": 9,
             "color_identity": "W",
@@ -4546,7 +4546,7 @@
         {
             "card_name": "Dungeon Skeleton",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Skeleton",
             "number": 13,
             "color_identity": "W",
@@ -4567,7 +4567,7 @@
         {
             "card_name": "Reinforced Raiders",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Archer",
             "number": 134,
             "color_identity": "B",
@@ -4588,7 +4588,7 @@
         {
             "card_name": "Protection Chestplate",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 32,
             "color_identity": "W",
@@ -4609,7 +4609,7 @@
         {
             "card_name": "Gradual Growth",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 225,
             "color_identity": "G",
@@ -4630,7 +4630,7 @@
         {
             "card_name": "Lightning Rod",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 79,
             "color_identity": "U",
@@ -4651,7 +4651,7 @@
         {
             "card_name": "11 Music Disc",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 104,
             "color_identity": "B",
@@ -4672,7 +4672,7 @@
         {
             "card_name": "Pigstep Music Disc",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 185,
             "color_identity": "R",
@@ -4693,7 +4693,7 @@
         {
             "card_name": "Far Music Disc",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 223,
             "color_identity": "G",
@@ -4714,7 +4714,7 @@
         {
             "card_name": "Strad Music Disc",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 38,
             "color_identity": "W",
@@ -4735,7 +4735,7 @@
         {
             "card_name": "Mall Music Disc",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 81,
             "color_identity": "U",
@@ -4756,7 +4756,7 @@
         {
             "card_name": "Skeleton Bowman",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Skeleton Archer",
             "number": 138,
             "color_identity": "B",
@@ -4777,7 +4777,7 @@
         {
             "card_name": "Act of Preservation",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 206,
             "color_identity": "G",
@@ -4798,7 +4798,7 @@
         {
             "card_name": "The Wither",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Horror",
             "number": 146,
             "color_identity": "B",
@@ -4819,7 +4819,7 @@
         {
             "card_name": "Jeb Door",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 76,
             "color_identity": "U",
@@ -4840,7 +4840,7 @@
         {
             "card_name": "Ominous Banner",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 236,
             "color_identity": "G",
@@ -4861,12 +4861,12 @@
         {
             "card_name": "Moody Weather",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 231,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Discard a card: Spawn 4. Activate only once each turn and only as a sorcery. [i](To spawn 4, create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]\n[i]Ferocious[/i] \u2014 Whenever a creature you control with power 4 or more dies, you may draw a card.",
+            "rules_text": "Discard a card: Spawn 4. Activate only once each turn and only as a sorcery. [i](To spawn 4, create a 0/0 black Horde creature token with four +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]\n[i]Ferocious[/i] \u2014 Whenever a creature you control with power 4 or more dies, you may draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4882,7 +4882,7 @@
         {
             "card_name": "Planned for It",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 85,
             "color_identity": "U",
@@ -4903,7 +4903,7 @@
         {
             "card_name": "Resource Organization",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 87,
             "color_identity": "U",
@@ -4924,12 +4924,12 @@
         {
             "card_name": "Zombie Horse",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie Horse",
             "number": 150,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Menace\nWhenever another nontoken creature you control dies, spawn 2. [i](Create a 0/0 black Horde creature token with two +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "Menace\nWhenever another nontoken creature you control dies, spawn 2. [i](Create a 0/0 black Horde creature token with two +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -4945,7 +4945,7 @@
         {
             "card_name": "Fang Defense",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 166,
             "color_identity": "R",
@@ -4966,7 +4966,7 @@
         {
             "card_name": "Pig Herd",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Boar",
             "number": 239,
             "color_identity": "G",
@@ -4987,7 +4987,7 @@
         {
             "card_name": "Trading Hall",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 307,
             "color_identity": "C",
@@ -5008,7 +5008,7 @@
         {
             "card_name": "Collect",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 59,
             "color_identity": "U",
@@ -5029,7 +5029,7 @@
         {
             "card_name": "Iron Farm",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 124,
             "color_identity": "B",
@@ -5050,7 +5050,7 @@
         {
             "card_name": "Village Shepherd",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Peasant",
             "number": 282,
             "color_identity": "WBR",
@@ -5071,7 +5071,7 @@
         {
             "card_name": "New Professions",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 29,
             "color_identity": "W",
@@ -5092,7 +5092,7 @@
         {
             "card_name": "Return To Sender",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 191,
             "color_identity": "R",
@@ -5113,7 +5113,7 @@
         {
             "card_name": "Clone Command",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 58,
             "color_identity": "U",
@@ -5134,7 +5134,7 @@
         {
             "card_name": "Pilfer the Bastion",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 186,
             "color_identity": "R",
@@ -5155,7 +5155,7 @@
         {
             "card_name": "Warden",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact Creature \u2014 Golem Horror",
             "number": 145,
             "color_identity": "B",
@@ -5176,7 +5176,7 @@
         {
             "card_name": "Fountain Cohort",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager",
             "number": 18,
             "color_identity": "W",
@@ -5197,7 +5197,7 @@
         {
             "card_name": "Enchanting Table",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 262,
             "color_identity": "WB",
@@ -5218,7 +5218,7 @@
         {
             "card_name": "Minecart Network",
             "color": "WU",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 273,
             "color_identity": "WU",
@@ -5239,7 +5239,7 @@
         {
             "card_name": "Spawn Egg",
             "color": "RG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 275,
             "color_identity": "RG",
@@ -5260,7 +5260,7 @@
         {
             "card_name": "World Eater",
             "color": "WUB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Tool",
             "number": 285,
             "color_identity": "WUB",
@@ -5281,7 +5281,7 @@
         {
             "card_name": "Iceologer",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Wizard",
             "number": 268,
             "color_identity": "URG",
@@ -5302,7 +5302,7 @@
         {
             "card_name": "Trail Ruins",
             "color": "URG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 278,
             "color_identity": "URG",
@@ -5323,7 +5323,7 @@
         {
             "card_name": "Ox",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Ox",
             "number": 22,
             "color_identity": "G",
@@ -5344,7 +5344,7 @@
         {
             "card_name": "Bird",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Bird",
             "number": 6,
             "color_identity": "W",
@@ -5365,7 +5365,7 @@
         {
             "card_name": "Diamond Gear",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 293,
             "color_identity": "C",
@@ -5386,12 +5386,12 @@
         {
             "card_name": "Equipped Zombie",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie Villager",
             "number": 164,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "When Equipped Zombie enters, suit up. You may attach any number of target Equipment you control to it. [i](You may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)[/i]",
+            "rules_text": "When Equipped Zombie enters, suit up. You may attach any number of target Equipment you control to it. [i](To suit up, you may reveal an Equipment you own from outside the game and put it into your hand, or put a +1/+1 counter on a creature.)[/i]",
             "flavor_text": "[i]Each addition makes it more improbable, but never impossible.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5407,7 +5407,7 @@
         {
             "card_name": "Stone Sword",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 141,
             "color_identity": "B",
@@ -5428,7 +5428,7 @@
         {
             "card_name": "Skeleton Warrior",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Skeleton Warrior",
             "number": 13,
             "color_identity": "B",
@@ -5449,7 +5449,7 @@
         {
             "card_name": "Grindstone",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 119,
             "color_identity": "B",
@@ -5470,7 +5470,7 @@
         {
             "card_name": "Prepared Incursion",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 189,
             "color_identity": "R",
@@ -5491,7 +5491,7 @@
         {
             "card_name": "Beast",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Beast",
             "number": 21,
             "color_identity": "G",
@@ -5512,7 +5512,7 @@
         {
             "card_name": "Blast Furnace",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 290,
             "color_identity": "C",
@@ -5533,7 +5533,7 @@
         {
             "card_name": "Fake Abandon",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 116,
             "color_identity": "B",
@@ -5554,7 +5554,7 @@
         {
             "card_name": "A Complete Catalogue",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 215,
             "color_identity": "G",
@@ -5575,7 +5575,7 @@
         {
             "card_name": "Cat",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Cat",
             "number": 7,
             "color_identity": "W",
@@ -5596,7 +5596,7 @@
         {
             "card_name": "Mesa Wolf",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Wolf",
             "number": 26,
             "color_identity": "W",
@@ -5617,7 +5617,7 @@
         {
             "card_name": "Brewing Stand",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 54,
             "color_identity": "U",
@@ -5638,7 +5638,7 @@
         {
             "card_name": "Pick Back Up",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 84,
             "color_identity": "U",
@@ -5659,7 +5659,7 @@
         {
             "card_name": "Chicken Jockey",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie Bird",
             "number": 111,
             "color_identity": "B",
@@ -5680,7 +5680,7 @@
         {
             "card_name": "Precarious Structure",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 188,
             "color_identity": "R",
@@ -5701,7 +5701,7 @@
         {
             "card_name": "Haste Effect",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 228,
             "color_identity": "G",
@@ -5722,7 +5722,7 @@
         {
             "card_name": "Human",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Human",
             "number": 19,
             "color_identity": "R",
@@ -5743,7 +5743,7 @@
         {
             "card_name": "Emperor Penguin",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Bird",
             "number": 66,
             "color_identity": "U",
@@ -5764,7 +5764,7 @@
         {
             "card_name": "Lobsided Crab",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Crab",
             "number": 80,
             "color_identity": "U",
@@ -5785,7 +5785,7 @@
         {
             "card_name": "Shy Armadillo",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Armadillo",
             "number": 35,
             "color_identity": "W",
@@ -5806,12 +5806,12 @@
         {
             "card_name": "Trial Spawner",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 197,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "When Trial Spawner enters, spawn 5. [i](Create a 0/0 black Horde creature token with five +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]\n[i]Ferocious[/i] \u2014 Whenever a creature you control with power 4 or more dies, exile the top card of your library. Until your next end step, you may play it.",
+            "rules_text": "When Trial Spawner enters, spawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]\n[i]Ferocious[/i] \u2014 Whenever a creature you control with power 4 or more dies, exile the top card of your library. Until your next end step, you may play it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5827,7 +5827,7 @@
         {
             "card_name": "Treasure",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
             "number": 30,
             "color_identity": "C",
@@ -5848,7 +5848,7 @@
         {
             "card_name": "Food",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact \u2014 Food",
             "number": 27,
             "color_identity": "C",
@@ -5869,7 +5869,7 @@
         {
             "card_name": "Blowing Breeze",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Elemental",
             "number": 53,
             "color_identity": "U",
@@ -5890,7 +5890,7 @@
         {
             "card_name": "Elemental",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Elemental",
             "number": 18,
             "color_identity": "R",
@@ -5911,7 +5911,7 @@
         {
             "card_name": "Ominous Vault",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 301,
             "color_identity": "C",
@@ -5932,7 +5932,7 @@
         {
             "card_name": "Wooden Boat",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Vehicle",
             "number": 310,
             "color_identity": "C",
@@ -5953,7 +5953,7 @@
         {
             "card_name": "Boar",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Boar",
             "number": 17,
             "color_identity": "R",
@@ -5974,7 +5974,7 @@
         {
             "card_name": "Zombie Villager",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Zombie Villager",
             "number": 16,
             "color_identity": "B",
@@ -5995,7 +5995,7 @@
         {
             "card_name": "MIN DRAFT ARCHETYPES",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Archetypes",
             "number": 3,
             "color_identity": "WUBRG",
@@ -6016,7 +6016,7 @@
         {
             "card_name": "Golem Horror",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact Creature \u2014 Golem Horror",
             "number": 10,
             "color_identity": "B",
@@ -6037,7 +6037,7 @@
         {
             "card_name": "Wooded Mountains",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land \u2014 Mountain Forest",
             "number": 359,
             "color_identity": "RG",
@@ -6058,7 +6058,7 @@
         {
             "card_name": "Woodland Mansion",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 360,
             "color_identity": "BRG",
@@ -6079,7 +6079,7 @@
         {
             "card_name": "Redstone Contraption",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 345,
             "color_identity": "WUB",
@@ -6100,7 +6100,7 @@
         {
             "card_name": "Impressive Build",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 332,
             "color_identity": "WUG",
@@ -6121,7 +6121,7 @@
         {
             "card_name": "Shulker Box",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 303,
             "color_identity": "WUG",
@@ -6142,7 +6142,7 @@
         {
             "card_name": "Amethyst Geode",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 288,
             "color_identity": "C",
@@ -6163,7 +6163,7 @@
         {
             "card_name": "Netherite Excavation",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 179,
             "color_identity": "R",
@@ -6184,7 +6184,7 @@
         {
             "card_name": "Zoglin",
             "color": "BR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie Boar",
             "number": 286,
             "color_identity": "BR",
@@ -6205,7 +6205,7 @@
         {
             "card_name": "Endermite",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Mite",
             "number": 163,
             "color_identity": "R",
@@ -6226,7 +6226,7 @@
         {
             "card_name": "Copper Golem",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact Creature \u2014 Golem",
             "number": 6,
             "color_identity": "W",
@@ -6247,7 +6247,7 @@
         {
             "card_name": "Elder Guardian",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Elder Construct",
             "number": 15,
             "color_identity": "W",
@@ -6268,7 +6268,7 @@
         {
             "card_name": "Moobloom",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Plant Ox",
             "number": 27,
             "color_identity": "W",
@@ -6289,7 +6289,7 @@
         {
             "card_name": "Mangrove Frog",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Frog",
             "number": 82,
             "color_identity": "U",
@@ -6310,7 +6310,7 @@
         {
             "card_name": "Shulker",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Elemental",
             "number": 92,
             "color_identity": "U",
@@ -6331,7 +6331,7 @@
         {
             "card_name": "Wild Ocelot",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Cat",
             "number": 102,
             "color_identity": "U",
@@ -6352,7 +6352,7 @@
         {
             "card_name": "Piglin Warrior",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Boar Warrior",
             "number": 184,
             "color_identity": "R",
@@ -6373,7 +6373,7 @@
         {
             "card_name": "Desert Camel",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Camel",
             "number": 218,
             "color_identity": "G",
@@ -6394,7 +6394,7 @@
         {
             "card_name": "The Killer Bunny",
             "color": "RG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Rabbit",
             "number": 271,
             "color_identity": "RG",
@@ -6415,7 +6415,7 @@
         {
             "card_name": "Village Toolsmith",
             "color": "UG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Artificer",
             "number": 283,
             "color_identity": "UG",
@@ -6436,7 +6436,7 @@
         {
             "card_name": "Small Chicken",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Bird",
             "number": 36,
             "color_identity": "W",
@@ -6457,7 +6457,7 @@
         {
             "card_name": "Horde",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Horde",
             "number": 11,
             "color_identity": "B",
@@ -6478,7 +6478,7 @@
         {
             "card_name": "Brick Reserve",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Reminder",
             "number": 1,
             "color_identity": "C",
@@ -6499,7 +6499,7 @@
         {
             "card_name": "Windswept Hills",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 357,
             "color_identity": "C",
@@ -6520,7 +6520,7 @@
         {
             "card_name": "Classic Superflat",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 317,
             "color_identity": "W",
@@ -6541,7 +6541,7 @@
         {
             "card_name": "Shattered Forest",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 350,
             "color_identity": "C",
@@ -6562,7 +6562,7 @@
         {
             "card_name": "Old Growth Taiga",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 341,
             "color_identity": "C",
@@ -6583,7 +6583,7 @@
         {
             "card_name": "Mangrove Swamp",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 337,
             "color_identity": "C",
@@ -6604,7 +6604,7 @@
         {
             "card_name": "Jagged Peaks",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 334,
             "color_identity": "C",
@@ -6625,7 +6625,7 @@
         {
             "card_name": "Dripstone Caves",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 322,
             "color_identity": "C",
@@ -6646,7 +6646,7 @@
         {
             "card_name": "Sandy Beach",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 348,
             "color_identity": "C",
@@ -6667,7 +6667,7 @@
         {
             "card_name": "Gravelly Hills",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 329,
             "color_identity": "C",
@@ -6688,7 +6688,7 @@
         {
             "card_name": "Bamboo Jungle",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 315,
             "color_identity": "C",
@@ -6709,7 +6709,7 @@
         {
             "card_name": "Sunflower Plains",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 352,
             "color_identity": "C",
@@ -6730,7 +6730,7 @@
         {
             "card_name": "Pale Garden",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 342,
             "color_identity": "C",
@@ -6751,7 +6751,7 @@
         {
             "card_name": "Deep Dark",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 320,
             "color_identity": "C",
@@ -6772,7 +6772,7 @@
         {
             "card_name": "Tunneler's Dream",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 354,
             "color_identity": "R",
@@ -6793,7 +6793,7 @@
         {
             "card_name": "Infinite Ocean",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 333,
             "color_identity": "U",
@@ -6814,7 +6814,7 @@
         {
             "card_name": "Hillless Desert",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 330,
             "color_identity": "B",
@@ -6835,7 +6835,7 @@
         {
             "card_name": "Flat Overworld",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 327,
             "color_identity": "G",
@@ -6856,7 +6856,7 @@
         {
             "card_name": "End City",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 323,
             "color_identity": "C",
@@ -6877,7 +6877,7 @@
         {
             "card_name": "Skyblock",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 351,
             "color_identity": "C",
@@ -6898,7 +6898,7 @@
         {
             "card_name": "The Void",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Land",
             "number": 356,
             "color_identity": "C",
@@ -6919,7 +6919,7 @@
         {
             "card_name": "Plains MIN2",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Plains",
             "number": 363,
             "color_identity": "W",
@@ -6940,7 +6940,7 @@
         {
             "card_name": "Island MIN2",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Island",
             "number": 366,
             "color_identity": "U",
@@ -6961,7 +6961,7 @@
         {
             "card_name": "Swamp MIN2",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
             "number": 369,
             "color_identity": "B",
@@ -6982,7 +6982,7 @@
         {
             "card_name": "Mountain MIN2",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
             "number": 372,
             "color_identity": "R",
@@ -7003,7 +7003,7 @@
         {
             "card_name": "Forest MIN2",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Forest",
             "number": 375,
             "color_identity": "G",
@@ -7024,7 +7024,7 @@
         {
             "card_name": "Iron Spear",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
             "number": 298,
             "color_identity": "C",
@@ -7045,7 +7045,7 @@
         {
             "card_name": "Potion of Harming",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 132,
             "color_identity": "B",
@@ -7066,7 +7066,7 @@
         {
             "card_name": "Crossbow Shot",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 8,
             "color_identity": "W",
@@ -7087,7 +7087,7 @@
         {
             "card_name": "Swoop Down",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 194,
             "color_identity": "R",
@@ -7108,7 +7108,7 @@
         {
             "card_name": "Lightning Strike",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 175,
             "color_identity": "R",
@@ -7129,12 +7129,12 @@
         {
             "card_name": "Charging Strike",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 158,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Charging Strike deals 3 damage to any target. Spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "Charging Strike deals 3 damage to any target. Spawn 2. [i](Create a 0/0 black Horde creature token with two +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7150,7 +7150,7 @@
         {
             "card_name": "Vulture Circle",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Bird",
             "number": 50,
             "color_identity": "W",
@@ -7171,7 +7171,7 @@
         {
             "card_name": "Underground Bat",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Bat",
             "number": 44,
             "color_identity": "W",
@@ -7192,7 +7192,7 @@
         {
             "card_name": "Wither Skull",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Horror Elemental",
             "number": 204,
             "color_identity": "R",
@@ -7213,7 +7213,7 @@
         {
             "card_name": "Dashing Nautilus",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Nautilus",
             "number": 64,
             "color_identity": "U",
@@ -7234,7 +7234,7 @@
         {
             "card_name": "Gather the Loot",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 20,
             "color_identity": "W",
@@ -7255,7 +7255,7 @@
         {
             "card_name": "Copper Chest",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 291,
             "color_identity": "C",
@@ -7276,7 +7276,7 @@
         {
             "card_name": "Horse",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Horse",
             "number": 25,
             "color_identity": "WB",
@@ -7297,7 +7297,7 @@
         {
             "card_name": "Roll Back",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 88,
             "color_identity": "U",
@@ -7318,7 +7318,7 @@
         {
             "card_name": "Snow Golem",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Snow Artifact Creature \u2014 Golem",
             "number": 304,
             "color_identity": "C",
@@ -7339,7 +7339,7 @@
         {
             "card_name": "Village Cartographer",
             "color": "WUG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Advisor",
             "number": 279,
             "color_identity": "WUG",
@@ -7360,7 +7360,7 @@
         {
             "card_name": "Trader Llama",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Llama",
             "number": 1,
             "color_identity": "C",
@@ -7381,7 +7381,7 @@
         {
             "card_name": "Large Slime",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Ooze",
             "number": 230,
             "color_identity": "G",
@@ -7397,12 +7397,12 @@
             "alias": "",
             "position": "351",
             "rotated": false,
-            "notes": "Creature slot\nBomb\nComplexity flag"
+            "notes": "Creature slot\nBomb\nComplexity flag\n!tokens Brick Reserve MIN"
         },
         {
             "card_name": "Pink Sheep",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Sheep",
             "number": 240,
             "color_identity": "G",
@@ -7423,7 +7423,7 @@
         {
             "card_name": "Forest",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Forest",
             "number": 373,
             "color_identity": "G",
@@ -7444,7 +7444,7 @@
         {
             "card_name": "Mountain",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
             "number": 370,
             "color_identity": "R",
@@ -7465,7 +7465,7 @@
         {
             "card_name": "Plains",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Plains",
             "number": 361,
             "color_identity": "W",
@@ -7486,7 +7486,7 @@
         {
             "card_name": "Swamp",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
             "number": 367,
             "color_identity": "B",
@@ -7507,7 +7507,7 @@
         {
             "card_name": "Island",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Basic Land \u2014 Island",
             "number": 364,
             "color_identity": "U",
@@ -7528,7 +7528,7 @@
         {
             "card_name": "Crying Ghast",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Spirit",
             "number": 161,
             "color_identity": "R",
@@ -7549,7 +7549,7 @@
         {
             "card_name": "Nest Harvest",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 177,
             "color_identity": "R",
@@ -7570,7 +7570,7 @@
         {
             "card_name": "Angered Wolf",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Wolf",
             "number": 208,
             "color_identity": "G",
@@ -7591,7 +7591,7 @@
         {
             "card_name": "Deplete",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 65,
             "color_identity": "U",
@@ -7612,7 +7612,7 @@
         {
             "card_name": "Camel Husk",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie Camel",
             "number": 109,
             "color_identity": "B",
@@ -7633,7 +7633,7 @@
         {
             "card_name": "Parched",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Skeleton",
             "number": 128,
             "color_identity": "B",
@@ -7654,7 +7654,7 @@
         {
             "card_name": "Zombie Nautilus",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie Nautilus",
             "number": 151,
             "color_identity": "B",
@@ -7675,7 +7675,7 @@
         {
             "card_name": "Coral Nautilus",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Zombie Nautilus",
             "number": 61,
             "color_identity": "U",
@@ -7696,7 +7696,7 @@
         {
             "card_name": "Wooly Sheep",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Sheep",
             "number": 256,
             "color_identity": "G",
@@ -7717,7 +7717,7 @@
         {
             "card_name": "Village Butcher",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Villager Peasant",
             "number": 252,
             "color_identity": "G",
@@ -7738,7 +7738,7 @@
         {
             "card_name": "Tide of Monsters",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 251,
             "color_identity": "G",
@@ -7759,7 +7759,7 @@
         {
             "card_name": "Difficulty Increase",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 162,
             "color_identity": "R",
@@ -7780,12 +7780,12 @@
         {
             "card_name": "Mounting Defense",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 28,
             "color_identity": "W",
             "cost": "{5}{W}",
-            "rules_text": "When Mounting Defense enters, triggers its function ability twice.\nWhenever a creature you control dies, put a +1/+1 counter on a creature you control.\nFunction \u2014 Create a colorless 3/3 Golem artifact creature. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i]",
+            "rules_text": "When Mounting Defense enters, triggers its function ability twice.\nWhenever a creature you control dies, put a +1/+1 counter on a creature you control.\nFunction \u2014 Create a 3/3 colorless Golem artifact creature. [i]({6}: Trigger any number of function abilities you control, only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7801,7 +7801,7 @@
         {
             "card_name": "Brown Mooshroom",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Fungus Ox",
             "number": 3,
             "color_identity": "W",
@@ -7822,7 +7822,7 @@
         {
             "card_name": "Wooly Bull",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Ox",
             "number": 52,
             "color_identity": "W",
@@ -7843,7 +7843,7 @@
         {
             "card_name": "Tadpole Knot",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Frog",
             "number": 97,
             "color_identity": "U",
@@ -7864,7 +7864,7 @@
         {
             "card_name": "Submerged Conduit",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 96,
             "color_identity": "U",
@@ -7885,12 +7885,12 @@
         {
             "card_name": "Out in the Sun",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 180,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Mill two cards. You may play them until the end of your next turn.\nSpawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Remove one during your end step. Sacrifice it when it has none.)[/i]",
+            "rules_text": "Mill two cards. You may play them until the end of your next turn.\nSpawn 4. [i](Create a 0/0 black Horde creature token with four +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i]Most monsters fear the light, but creepers remain.[/i]",
             "pt": "",
             "special_text": "",
@@ -7906,7 +7906,7 @@
         {
             "card_name": "Pierce Through",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 238,
             "color_identity": "G",
@@ -7927,12 +7927,12 @@
         {
             "card_name": "Fletching Table",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 295,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "{1}, {T}: Put a +1/+1 counter on target creature you control. If it has power 4 or greater, it gains trample and \u201cWhenever this creature deals combat damage to an opponent, draw a card.\u201d until end of turn.",
+            "rules_text": "{1}, {T}: Put a +1/+1 counter on target creature you control. If it has power 4 or greater, it gains trample and \u201cWhenever this creature deals combat damage to an opponent, draw a card.\u201d until end of turn. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7948,12 +7948,12 @@
         {
             "card_name": "Jungle Parrot",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Bird",
             "number": 77,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Flying\nAt the beginning of your end step, you may pay {3}. If you do, copy a noncreature spell you cast this turn. You may cast the copy without paying its mana cost.",
+            "rules_text": "Flying\nAt the beginning of your end step, you may pay {3}. If you do, exile target noncreature card from your graveyard that was put there this turn. Copy it. You may cast the copy without paying its mana cost.",
             "flavor_text": "[i]It likes to imitate any sound it hears, sometimes scaring its owner.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -7969,7 +7969,7 @@
         {
             "card_name": "Comfort in Darkness",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 214,
             "color_identity": "G",
@@ -7990,7 +7990,7 @@
         {
             "card_name": "Invite Some Friends",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 22,
             "color_identity": "W",
@@ -8011,7 +8011,7 @@
         {
             "card_name": "Immoral Experiment",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 122,
             "color_identity": "B",
@@ -8032,7 +8032,7 @@
         {
             "card_name": "TNT Block",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 306,
             "color_identity": "C",
@@ -8053,7 +8053,7 @@
         {
             "card_name": "Pack Mule",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Horse",
             "number": 181,
             "color_identity": "R",
@@ -8074,7 +8074,7 @@
         {
             "card_name": "Loom",
             "color": "",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact",
             "number": 299,
             "color_identity": "C",
@@ -8095,7 +8095,7 @@
         {
             "card_name": "Call of the Horde",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 156,
             "color_identity": "R",
@@ -8116,7 +8116,7 @@
         {
             "card_name": "Damaged Golem",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact Creature \u2014 Golem",
             "number": 10,
             "color_identity": "W",
@@ -8137,7 +8137,7 @@
         {
             "card_name": "School of Fish",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Fish",
             "number": 89,
             "color_identity": "U",
@@ -8158,7 +8158,7 @@
         {
             "card_name": "Deep Dive",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 113,
             "color_identity": "B",
@@ -8179,7 +8179,7 @@
         {
             "card_name": "Nightly Confrontation",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 234,
             "color_identity": "G",
@@ -8200,7 +8200,7 @@
         {
             "card_name": "Archery Range",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 209,
             "color_identity": "G",
@@ -8221,7 +8221,7 @@
         {
             "card_name": "Industrial District",
             "color": "UG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 270,
             "color_identity": "UG",
@@ -8242,7 +8242,7 @@
         {
             "card_name": "Beacon Platform",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 2,
             "color_identity": "W",
@@ -8263,7 +8263,7 @@
         {
             "card_name": "Town Square",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 41,
             "color_identity": "W",
@@ -8284,7 +8284,7 @@
         {
             "card_name": "Faction Base",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 16,
             "color_identity": "W",
@@ -8305,7 +8305,7 @@
         {
             "card_name": "Ice Highway",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 73,
             "color_identity": "U",
@@ -8326,7 +8326,7 @@
         {
             "card_name": "Watchful Outpost",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 51,
             "color_identity": "W",
@@ -8347,7 +8347,7 @@
         {
             "card_name": "Clocktower",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 57,
             "color_identity": "U",
@@ -8368,7 +8368,7 @@
         {
             "card_name": "Storage System",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 95,
             "color_identity": "U",
@@ -8389,7 +8389,7 @@
         {
             "card_name": "Spleef Arena",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 94,
             "color_identity": "U",
@@ -8410,7 +8410,7 @@
         {
             "card_name": "Deep Mine",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 217,
             "color_identity": "G",
@@ -8431,7 +8431,7 @@
         {
             "card_name": "Shore Lighthouse",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 244,
             "color_identity": "G",
@@ -8452,7 +8452,7 @@
         {
             "card_name": "Wood Camp",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 255,
             "color_identity": "G",
@@ -8473,7 +8473,7 @@
         {
             "card_name": "Block Museum",
             "color": "WU",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 259,
             "color_identity": "WU",
@@ -8494,7 +8494,7 @@
         {
             "card_name": "Central Map",
             "color": "WUG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Artifact \u2014 Construction",
             "number": 260,
             "color_identity": "WUG",
@@ -8513,5 +8513,5 @@
             "notes": "!tokens Brick Reserve MIN;Human MIN<2>"
         }
     ],
-    "version": 6
+    "version": 7
 }
