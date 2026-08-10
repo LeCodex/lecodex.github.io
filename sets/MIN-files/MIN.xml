@@ -149,7 +149,7 @@ Equip {2}</text>
 		<card>
 			<name>Fish MIN</name>
 			<text>This creature can&apos;t be blocked.</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/8.png" num="9">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/8.png" num="9">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -260,7 +260,7 @@ Whenever a modified creature you control attacks or dies, each opponent loses 1 
 		<card>
 			<name>Villager MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/14.png" num="8">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/14.png" num="8">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -294,7 +294,7 @@ Whenever a modified creature you control attacks or dies, each opponent loses 1 
 		<card>
 			<name>Plains MIN1</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/16.png" num="362">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/16.png" num="362">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -309,7 +309,7 @@ Whenever a modified creature you control attacks or dies, each opponent loses 1 
 		<card>
 			<name>Island MIN1</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/17.png" num="365">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/17.png" num="365">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -324,7 +324,7 @@ Whenever a modified creature you control attacks or dies, each opponent loses 1 
 		<card>
 			<name>Swamp MIN1</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/18.png" num="368">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/18.png" num="368">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -339,7 +339,7 @@ Whenever a modified creature you control attacks or dies, each opponent loses 1 
 		<card>
 			<name>Mountain MIN1</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/19.png" num="371">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/19.png" num="371">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -354,7 +354,7 @@ Whenever a modified creature you control attacks or dies, each opponent loses 1 
 		<card>
 			<name>Forest MIN1</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/20.png" num="374">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/20.png" num="374">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -388,7 +388,7 @@ Function — Until your next turn, Village Bell becomes a 3/3 Golem artifact cre
 		<card>
 			<name>Golem MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/22.png" num="28">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/22.png" num="28">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -405,7 +405,7 @@ Function — Until your next turn, Village Bell becomes a 3/3 Golem artifact cre
 			<name>Spirit MIN</name>
 			<text>Haste; decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)
 This creature can&apos;t be blocked.</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/23.png" num="26">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/23.png" num="26">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1173,7 +1173,7 @@ When Scurrying Bat dies, if it was modified, create 1/1 white Bat creature token
 		<card>
 			<name>Bat MIN</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/67.png" num="4">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/67.png" num="4">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1744,7 +1744,7 @@ Whenever a creature you control with power 2 or less dies, put two +1/+1 counter
 		<card>
 			<name>Bear MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/99.png" num="5">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/99.png" num="5">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1780,7 +1780,7 @@ Raid — At the beginning of your postcombat main phase, if you attacked this tu
 		<card>
 			<name>Villager Army MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/101.png" num="14">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/101.png" num="14">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1890,7 +1890,7 @@ Creature tokens you control get +1/+1.</text>
 		<card>
 			<name>Tool MIN</name>
 			<text>{T}: Add {C}. This mana can&apos;t be spent to cast nonartifact spells.</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/107.png" num="29">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/107.png" num="29">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2444,7 +2444,7 @@ When Sniffer enters, mill three cards. You may return a card from your graveyard
 			<name>Insect MIN</name>
 			<text>Flying
 When this creature dies, it deals 1 damage to any target.</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/138.png" num="20">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/138.png" num="20">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2522,7 +2522,7 @@ When Lava Strider dies, if you&apos;re an explorer, it deals 2 damage to any tar
 			<text>Hexproof
 When How Did We Get Here? enters, you may cast a spell with mana value 5 or less from your hand without paying its mana cost.
 At the beginning of your upkeep, if you have activated your Function this game, are an explorer, and control an Equipment, a Horde, and a Construction, you win the game.</text>
-			<set rarity="mythic" picurl="https://lecodex.github.io/sets/MIN-files/img/142.png" num="267">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/142.png" num="267">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2633,7 +2633,7 @@ When Skeleton Horse dies, create four 1/1 black Skeleton Archer creature tokens 
 		<card>
 			<name>Skeleton Archer MIN</name>
 			<text>Lifelink, menace</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/148.png" num="12">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/148.png" num="12">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2706,7 +2706,7 @@ Drowned Zombie can&apos;t be blocked as long as you control a Horde.</text>
 		<card>
 			<name>Zombie MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/152.png" num="15">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/152.png" num="15">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3171,7 +3171,7 @@ Function — Target creature you control gets +3/+3 and gains indestructible unt
 		<card>
 			<name>Rabbit MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/178.png" num="23">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/178.png" num="23">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3261,7 +3261,7 @@ Create a tapped Tool token. (It&apos;s an artifact with &quot;{T}: Add {C}. This
 		<card>
 			<name>Wolf MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/183.png" num="24">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/183.png" num="24">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3638,7 +3638,7 @@ When Spider Jockey dies, spawn 3. Put all counters that were on Spider Jockey on
 		<card>
 			<name>Explorer MIN</name>
 			<text>From the depths of the Nether to the isles of the End, from scorched deserts to frozen ice peaks, you&apos;ve seen it all!</text>
-			<set rarity="special" picurl="https://lecodex.github.io/sets/MIN-files/img/204.png" num="2">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/204.png" num="2">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4508,7 +4508,7 @@ At the beginning of your upkeep, choose one. If you&apos;re an explorer, you may
 		<card>
 			<name>Ox MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/253.png" num="22">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/253.png" num="22">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4526,7 +4526,7 @@ At the beginning of your upkeep, choose one. If you&apos;re an explorer, you may
 		<card>
 			<name>Bird MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/254.png" num="6">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/254.png" num="6">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4597,7 +4597,7 @@ Equip {1}</text>
 		<card>
 			<name>Skeleton Warrior MIN</name>
 			<text>Deathtouch</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/258.png" num="13">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/258.png" num="13">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4651,7 +4651,7 @@ Ferocious — At the beginning of your upkeep, if you control a creature with po
 		<card>
 			<name>Beast MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/261.png" num="21">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/261.png" num="21">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4716,7 +4716,7 @@ Ferocious — At the beginning of your upkeep, if you control a creature with po
 		<card>
 			<name>Cat MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/265.png" num="7">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/265.png" num="7">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4837,7 +4837,7 @@ Ferocious — At the beginning of your upkeep, if you control a creature with po
 		<card>
 			<name>Human MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/272.png" num="19">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/272.png" num="19">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4928,7 +4928,7 @@ Ferocious — Whenever a creature you control with power 4 or more dies, exile t
 		<card>
 			<name>Treasure MIN</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/277.png" num="30">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/277.png" num="30">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4943,7 +4943,7 @@ Ferocious — Whenever a creature you control with power 4 or more dies, exile t
 		<card>
 			<name>Food MIN</name>
 			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/278.png" num="27">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/278.png" num="27">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4977,7 +4977,7 @@ Whenever a land card is put into your graveyard from anywhere for the first time
 		<card>
 			<name>Elemental MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/280.png" num="18">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/280.png" num="18">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5026,7 +5026,7 @@ Crew 1</text>
 		<card>
 			<name>Boar MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/283.png" num="17">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/283.png" num="17">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5044,7 +5044,7 @@ Crew 1</text>
 		<card>
 			<name>Zombie Villager MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/284.png" num="16">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/284.png" num="16">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5071,7 +5071,7 @@ Crew 1</text>
  {G}{U} [b]GATHER[/b] Explore and create Tools to accelerate into late-game threats.
 {G}{W}{U} [b]BUILDING [/b]Slowly build up your Construction, giving you access to more abilities and synergies.
  {W}{U} [b]ARTIFACTS[/b] Get discounts and bonus abilities for having artifacts under your control.</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/285.png" num="3">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/285.png" num="3">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5087,7 +5087,7 @@ Crew 1</text>
 		<card>
 			<name>Golem Horror MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/286.png" num="10">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/286.png" num="10">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5464,7 +5464,7 @@ Function — Create a tapped 1/1 white Bird creature token. ({6}: Trigger any nu
 		<card>
 			<name>Horde MIN</name>
 			<text>At the beginning of your upkeep, remove a +1/+1 counter from this token. Then if it has none, sacrifice it.</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/307.png" num="11">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/307.png" num="11">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5482,7 +5482,7 @@ Function — Create a tapped 1/1 white Bird creature token. ({6}: Trigger any nu
 		<card>
 			<name>Brick Reserve MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/308.png" num="1">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/308.png" num="1">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5806,7 +5806,7 @@ When Flat Overworld enters, put up to one target card from your graveyard on top
 		<card>
 			<name>Plains MIN2</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/329.png" num="363">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/329.png" num="363">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5821,7 +5821,7 @@ When Flat Overworld enters, put up to one target card from your graveyard on top
 		<card>
 			<name>Island MIN2</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/330.png" num="366">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/330.png" num="366">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5836,7 +5836,7 @@ When Flat Overworld enters, put up to one target card from your graveyard on top
 		<card>
 			<name>Swamp MIN2</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/331.png" num="369">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/331.png" num="369">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5851,7 +5851,7 @@ When Flat Overworld enters, put up to one target card from your graveyard on top
 		<card>
 			<name>Mountain MIN2</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/332.png" num="372">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/332.png" num="372">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5866,7 +5866,7 @@ When Flat Overworld enters, put up to one target card from your graveyard on top
 		<card>
 			<name>Forest MIN2</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/333.png" num="375">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/333.png" num="375">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6085,7 +6085,7 @@ Whenever one or more modified creatures you control die, draw a card. This abili
 		<card>
 			<name>Horse MIN</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/346.png" num="25">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/346.png" num="25">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6208,7 +6208,7 @@ Pink Sheep can&apos;t be blocked by more than one creature.
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/353.png" num="373">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/353.png" num="373">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6223,7 +6223,7 @@ Pink Sheep can&apos;t be blocked by more than one creature.
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/354.png" num="370">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/354.png" num="370">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6238,7 +6238,7 @@ Pink Sheep can&apos;t be blocked by more than one creature.
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/355.png" num="361">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/355.png" num="361">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6253,7 +6253,7 @@ Pink Sheep can&apos;t be blocked by more than one creature.
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/356.png" num="367">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/356.png" num="367">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6268,7 +6268,7 @@ Pink Sheep can&apos;t be blocked by more than one creature.
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/MIN-files/img/357.png" num="364">MIN</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/357.png" num="364">MIN</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

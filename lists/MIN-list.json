@@ -3285,6 +3285,14 @@
         "position": "308"
     },
     {
+        "card_name": "Explorer",
+        "number": 2,
+        "shape": "token",
+        "set": "MIN",
+        "rotated": false,
+        "position": "204"
+    },
+    {
         "card_name": "MIN DRAFT ARCHETYPES",
         "number": 3,
         "shape": "token",
@@ -3323,14 +3331,6 @@
         "set": "MIN",
         "rotated": false,
         "position": "277"
-    },
-    {
-        "card_name": "Explorer",
-        "number": 2,
-        "shape": "token",
-        "set": "MIN",
-        "rotated": false,
-        "position": "204"
     },
     {
         "card_name": "Bat",
