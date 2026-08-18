@@ -1758,7 +1758,7 @@
             "number": 233,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "At the beginning of your end step, put a mob counter on Neverending Spawn, then spawn X, where X is twice the number of mob counters on it. [i](To spawn X, create a 0/0 black Horde creature token with X +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
+            "rules_text": "Neverending Spawn enters with a mob counter on it.\nAt the beginning of your end step, put a mob counter on Neverending Spawn, then spawn X, where X the number of mob counters on it. [i](To spawn X, create a 0/0 black Horde creature token with X +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1769,7 +1769,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "Creature slot\nGW archetype\nBomb\n!tokens Horde MIN<4>"
+            "notes": "Creature slot\nGW archetype\nBomb\n!tokens Horde MIN"
         },
         {
             "card_name": "Crossbow Piglin",
@@ -3605,7 +3605,7 @@
             "type": "Artifact",
             "number": 195,
             "color_identity": "R",
-            "cost": "{1}{R}",
+            "cost": "{2}{R}",
             "rules_text": "{T}: TNT Cannon deals 1 damage to each opponent.\nWhenever one or more creatures you control attack, TNT Cannon deals that much damage to each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -4352,7 +4352,7 @@
             "alias": "",
             "position": "206",
             "rotated": false,
-            "notes": "Creature slot\nKinda generic\nResource, ramping\n!tokens Treasure MIN<2>;Explorer MIN\nComplexity flag"
+            "notes": "Creature slot\nKinda generic\nResource, ramping\n!tokens Golem MIN;Explorer MIN\nComplexity flag"
         },
         {
             "card_name": "Enclosed Cows",
@@ -6462,7 +6462,7 @@
             "number": 11,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "At the beginning of your upkeep, remove a +1/+1 counter from this token. Then if it has none, sacrifice it.",
+            "rules_text": "Whenever this token attacks or blocks, remove a +1/+1 counter from it at the beginning of the next upkeep.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -7827,7 +7827,7 @@
             "number": 52,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When Wooly Bull enters or dies, reveal the top card of your library. If it's an artifact card, put it into your hand, otherwise you may put it into your graveyard.",
+            "rules_text": "When Wooly Bull dies, reveal the top three cards of your library. You may put an artifact card from among them into your hand. Put the rest into your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -7901,7 +7901,7 @@
             "alias": "",
             "position": "375",
             "rotated": false,
-            "notes": "Complexity flag"
+            "notes": "Complexity flag\n!tokens Horde MIN"
         },
         {
             "card_name": "Pierce Through",
@@ -8121,7 +8121,7 @@
             "number": 10,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "Damaged Golem enters with a +1/+1 counter on it for each artifact you control.\n{2}: Put a +1/+1 counter on Damaged Golem.\nWhen Damaged Golem dies, distribute its counters among creatures you control.",
+            "rules_text": "Damaged Golem enters with a +1/+1 counter on it for each other artifact you control.\n{2}: Put a +1/+1 counter on Damaged Golem.\nWhen Damaged Golem dies, distribute its counters among creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",

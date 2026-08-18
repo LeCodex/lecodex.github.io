@@ -1713,7 +1713,7 @@
 		{
 			"name": "TNT Cannon",
 			"rarity": "special",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Artifact",
 			"collector_number": "195",
 			"image_uris": {

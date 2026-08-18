@@ -5,7 +5,7 @@
 			<name>MIN</name>
 			<longname>Minecraft</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-10</releasedate>
+			<releasedate>2026-08-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1459,7 +1459,8 @@ Whenever an artifact you control enters, target creature you control gains first
 		</card>
 		<card>
 			<name>Neverending Spawn</name>
-			<text>At the beginning of your end step, put a mob counter on Neverending Spawn, then spawn X, where X is twice the number of mob counters on it. (To spawn X, create a 0/0 black Horde creature token with X +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)</text>
+			<text>Neverending Spawn enters with a mob counter on it.
+At the beginning of your end step, put a mob counter on Neverending Spawn, then spawn X, where X the number of mob counters on it. (To spawn X, create a 0/0 black Horde creature token with X +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/83.png" num="233">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -1472,7 +1473,7 @@ Whenever an artifact you control enters, target creature you control gains first
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="4">Horde MIN</related>
+			<related>Horde MIN</related>
 		</card>
 		<card>
 			<name>Crossbow Piglin</name>
@@ -3053,8 +3054,8 @@ Whenever one or more creatures you control attack, TNT Cannon deals that much da
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -3683,7 +3684,7 @@ When Ancient Etchings enters, create a 3/3 colorless Golem artifact creature tok
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related count="2">Treasure MIN</related>
+			<related>Golem MIN</related>
 			<related>Explorer MIN</related>
 		</card>
 		<card>
@@ -5463,7 +5464,7 @@ Function — Create a tapped 1/1 white Bird creature token. ({6}: Trigger any nu
 		</card>
 		<card>
 			<name>Horde MIN</name>
-			<text>At the beginning of your upkeep, remove a +1/+1 counter from this token. Then if it has none, sacrifice it.</text>
+			<text>Whenever this token attacks or blocks, remove a +1/+1 counter from it at the beginning of the next upkeep.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/307.png" num="11">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6537,7 +6538,7 @@ Function — Create a 3/3 colorless Golem artifact creature. ({6}: Trigger any n
 		</card>
 		<card>
 			<name>Wooly Bull</name>
-			<text>When Wooly Bull enters or dies, reveal the top card of your library. If it&apos;s an artifact card, put it into your hand, otherwise you may put it into your graveyard.</text>
+			<text>When Wooly Bull dies, reveal the top three cards of your library. You may put an artifact card from among them into your hand. Put the rest into your graveyard.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/372.png" num="52">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6604,6 +6605,7 @@ Spawn 4. (Create a 0/0 black Horde creature token with four +1/+1 counters on it
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<related>Horde MIN</related>
 		</card>
 		<card>
 			<name>Pierce Through</name>
@@ -6772,7 +6774,7 @@ Whenever a modified creature you control attacks, exile the top card of your lib
 		</card>
 		<card>
 			<name>Damaged Golem</name>
-			<text>Damaged Golem enters with a +1/+1 counter on it for each artifact you control.
+			<text>Damaged Golem enters with a +1/+1 counter on it for each other artifact you control.
 {2}: Put a +1/+1 counter on Damaged Golem.
 When Damaged Golem dies, distribute its counters among creatures you control.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/386.png" num="10">MIN</set>
