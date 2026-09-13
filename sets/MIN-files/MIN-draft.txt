@@ -63,7 +63,7 @@
 		{
 			"name": "Thorny Dissuasion",
 			"rarity": "special",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "142",
 			"image_uris": {
@@ -3633,7 +3633,7 @@
 		{
 			"name": "Clocktower",
 			"rarity": "special",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Artifact — Construction",
 			"collector_number": "57",
 			"image_uris": {

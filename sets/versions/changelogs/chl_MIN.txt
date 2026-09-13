@@ -1,4 +1,42 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Thorny Dissuasion
+cost: {B} => {1}{B}
+
+Mob Farm
+rules_text: When Mob Farm enters and at the beginning of your upkeep, spawn 3 if you don't control a Horde. [i](To spawn 3, create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]
+{2}, {T}, Sacrifice a creature: Draw a card. => At the beginning of your end step, if you don't control any creatures or a creature you control died this turn, spawn 3. [i](Create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)[/i]
+{2}, {T}, Sacrifice a creature: Draw a card.
+
+Blaze Pack
+pt: 3/3 => 3/4
+
+Third Shriek
+rules_text: Mill cards until you mill a land card. When you do, create an X/X black Golem Horror artifact creature token, where X is the number of land cards in your graveyard. => Mill a card until you mill a land card. When you do, create an X/X black Golem Horror artifact creature token, where X is the number of land cards in your graveyard.
+
+Resource Organization
+rules_text: When Resource Organization enters, draw two cards, then discard a card.
+Whenever you finish a Construction, return Resource Organization to its owner's hand. => When Resource Organization enters, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Whenever you finish a Construction, return Resource Organization to its owner's hand.
+
+Elder Guardian
+rules_text: First strike, lifelink
+When Elder Guardian enters, until your next turn, target creature you don't control can't attack or block and its activated abilities can't be activated. => First strike, lifelink
+When Elder Guardian enters, tap target creature you don't control and put a stun counter on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+Underground Bat
+rules_text: Flying
+Whenever you activate an ability that isn't a mana ability of a permanent you control, Underground Bat gets +1/+0 until end of turn. This ability only triggers thrice each turn. => Flying
+Whenever you activate an ability that isn't a mana ability of a permanent you control, Underground Bat gets +1/+0 until end of turn. This ability only triggers twice each turn.
+
+Clocktower
+cost: {2}{U} => {3}{U}
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Sharp Grindstone added.

@@ -5,7 +5,7 @@
 			<name>MIN</name>
 			<longname>Minecraft</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-09</releasedate>
+			<releasedate>2026-09-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -120,8 +120,8 @@ Suit up. (You may reveal an Equipment you own from outside the game and put it i
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -1185,7 +1185,7 @@ Function — Target player loses 2 life and you gain 2 life. ({6}: Trigger any n
 		</card>
 		<card>
 			<name>Mob Farm</name>
-			<text>When Mob Farm enters and at the beginning of your upkeep, spawn 3 if you don&apos;t control a Horde. (To spawn 3, create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)
+			<text>At the beginning of your end step, if you don&apos;t control any creatures or a creature you control died this turn, spawn 3. (Create a 0/0 black Horde creature token with three +1/+1 counters on it. Whenever it attacks or blocks, remove one from it at the beginning of the next upkeep.)
 {2}, {T}, Sacrifice a creature: Draw a card.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/68.png" num="124">MIN</set>
 			<prop>
@@ -1215,7 +1215,7 @@ Function — Target player loses 2 life and you gain 2 life. ({6}: Trigger any n
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2528,7 +2528,7 @@ At the beginning of your end step, if you gained more life this turn than creatu
 		</card>
 		<card>
 			<name>Third Shriek</name>
-			<text>Mill cards until you mill a land card. When you do, create an X/X black Golem Horror artifact creature token, where X is the number of land cards in your graveyard.</text>
+			<text>Mill a card until you mill a land card. When you do, create an X/X black Golem Horror artifact creature token, where X is the number of land cards in your graveyard.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/142.png" num="98">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -3828,7 +3828,7 @@ Ferocious — Whenever a creature you control with power 4 or more dies, you may
 		</card>
 		<card>
 			<name>Resource Organization</name>
-			<text>When Resource Organization enters, draw two cards, then discard a card.
+			<text>When Resource Organization enters, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
 Whenever you finish a Construction, return Resource Organization to its owner&apos;s hand.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/215.png" num="87">MIN</set>
 			<prop>
@@ -4723,7 +4723,7 @@ Endermite can&apos;t block.</text>
 		<card>
 			<name>Elder Guardian</name>
 			<text>First strike, lifelink
-When Elder Guardian enters, until your next turn, target creature you don&apos;t control can&apos;t attack or block and its activated abilities can&apos;t be activated.</text>
+When Elder Guardian enters, tap target creature you don&apos;t control and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/266.png" num="15">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -5411,7 +5411,7 @@ When Vulture Circle enters, if it&apos;s not a token, create a token that&apos;s
 		<card>
 			<name>Underground Bat</name>
 			<text>Flying
-Whenever you activate an ability that isn&apos;t a mana ability of a permanent you control, Underground Bat gets +1/+0 until end of turn. This ability only triggers thrice each turn.</text>
+Whenever you activate an ability that isn&apos;t a mana ability of a permanent you control, Underground Bat gets +1/+0 until end of turn. This ability only triggers twice each turn.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/MIN-files/img/308.png" num="44">MIN</set>
 			<prop>
 				<layout>normal</layout>
@@ -6389,8 +6389,8 @@ Finish X — When Clocktower becomes finished, shuffle your hand into your libra
 				<side>front</side>
 				<type>Artifact — Construction</type>
 				<maintype>Artifact</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
