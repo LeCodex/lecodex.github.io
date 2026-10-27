@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>TLC</name>
+			<longname>Tellurion Commander</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-10-27</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Trax, Broken Record</name>
+			<text>Whenever you cast an instant or sorcery spell for the first time each turn, copy it, then exile it with three time counters on it. If it doesn&apos;t have suspend, it gains suspend. (At the beginning of your upkeep, remove a time counter. When the last one is removed, cast it without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/0.png" num="11">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>URW</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dr Kel, Lone Astronomer</name>
+			<text>Constellation — Whenever an enchantment you control enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
+Artifacts you control have exalted. (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn for each instance of exalted among permanents you control.)</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/1.png" num="6">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Doctor</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Old Man</name>
+			<text>Whenever The Old Man enters or attacks, put a decayed counter on another target creature. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Whenever a player sacrifices a creature, put a +1/+1 counter on The Old Man.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/2.png" num="2">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unknown</name>
+			<text>If you would lose life during your turn, you may instead lose half that much life, rounded up.
+You can&apos;t gain life.</text>
+			<set rarity="mythic" picurl="https://lecodex.github.io/sets/TLC-files/img/3.png" num="1">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ask and Ye Shall Receive</name>
+			<text>This land is every basic land type. (It has &quot;{T}: Add {W}, {U}, {B}, {R}, or {G}.&quot;)
+At the beginning of the end step, you lose the game.</text>
+			<set rarity="mythic" picurl="https://lecodex.github.io/sets/TLC-files/img/4.png" num="5">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sita and Samut, Speedsters</name>
+			<text>First strike, vigilance, haste
+Creatures you control that entered this turn can&apos;t be blocked.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/5.png" num="10">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>GUR</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nimona, Free Shapeshifter</name>
+			<text>As Nimona enters, you may her become a copy of a creature you control until end of turn, except her name is Nimona, Free Shapeshifter and she has the following abilities.
+Haste
+At the beginning of the end step, return Nimona to her owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/6.png" num="3">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The King of Armello</name>
+			<text>When The King enters, you become the monarch.
+King&apos;s Declaration — At the beginning of your upkeep, exile cards from the top of your library until you exile three nonland cards. The monarch chooses one of them. You may cast it without paying its mana cost. If you don&apos;t cast a spell this way, each player loses 2 life.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/7.png" num="7">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Lady of Pain&apos;s Rule</name>
+			<text>Players can&apos;t attack more than one player each combat.
+Whenever a player attacks you, The Lady deals X damage to them and you gain X life, where X is the number of attacking creatures.</text>
+			<set rarity="mythic" picurl="https://lecodex.github.io/sets/TLC-files/img/8.png" num="8">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Riverfolk Company</name>
+			<text>Play with your hand revealed.
+During each opponent&apos;s turn, they may play cards from your hand and may spend mana of any type to cast them. Spells cast this way can&apos;t target you or permanents you control.
+Whenever an opponent casts a spell or plays a land from your hand, draw a card and create a 1/1 blue Otter creature token.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/9.png" num="9">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Otter Mercernary</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Airoki, Apex of All</name>
+			<text>Mutate {W}{U}{B}{R}{G}
+Each non-Human creature spell you control with no abilities have mutate. The mutate cost is equal to its mana cost.
+Whenever this creature mutates, you may draw a card.</text>
+			<set rarity="mythic" picurl="https://lecodex.github.io/sets/TLC-files/img/10.png" num="4">TLC</set>
+			<prop>
+				<layout>mutate</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

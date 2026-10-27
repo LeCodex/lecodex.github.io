@@ -4,6 +4,11 @@
             "set_code": "MIN",
             "set_name": "Minecraft",
             "formats": ""
+        },
+        {
+            "set_code": "TLC",
+            "set_name": "Tellurion Commander",
+            "formats": "Commander"
         }
     ]
 }
