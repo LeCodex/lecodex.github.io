@@ -1,4 +1,32 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+The Sapphire Star added.
+
+Unknown removed.
+
+Ask and Ye Shall Receive
+
+Sita and Samut, Speedsters
+
+Nimona, Free Shapeshifter
+
+The King of Armello
+
+The Lady of Pain's Rule
+
+The Riverfolk Company
+rules_text: Play with your hand revealed.
+During each opponent's turn, they may play cards from your hand and may spend mana of any type to cast them. Spells cast this way can't target you or permanents you control.
+Whenever an opponent casts a spell or plays a land from your hand, draw a card and create a 1/1 blue Otter creature token. => Play with your hand revealed.
+During each opponent's turn, they may play cards from your hand and may spend mana of any type to cast them. Spells cast this way can't target you or permanents you control.
+Creatures you own but don't control are goaded.
+Whenever an opponent casts a spell or plays a land from your hand, draw a card.
+
+Airoki, Apex of All
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
