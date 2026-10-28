@@ -12,7 +12,7 @@
 		<card>
 			<name>Trax, Broken Record</name>
 			<text>Whenever you cast an instant or sorcery spell for the first time each turn, copy it, then exile it with three time counters on it. If it doesn&apos;t have suspend, it gains suspend. (At the beginning of your upkeep, remove a time counter. When the last one is removed, cast it without paying its mana cost.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/0.png" num="11">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/0.png" num="17">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -30,7 +30,7 @@
 			<name>Dr Kel, Lone Astronomer</name>
 			<text>Constellation — Whenever an enchantment you control enters, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)
 Artifacts you control have exalted. (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn for each instance of exalted among permanents you control.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/1.png" num="5">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/1.png" num="9">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -48,7 +48,7 @@ Artifacts you control have exalted. (Whenever a creature you control attacks alo
 			<name>The Old Man</name>
 			<text>Whenever The Old Man enters or attacks, put a decayed counter on another target creature. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Whenever a player sacrifices a creature, put a +1/+1 counter on The Old Man.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/2.png" num="1">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/2.png" num="2">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -66,7 +66,7 @@ Whenever a player sacrifices a creature, put a +1/+1 counter on The Old Man.</te
 			<name>Ask and Ye Shall Receive</name>
 			<text>This land is every basic land type. (It has &quot;{T}: Add {W}, {U}, {B}, {R}, or {G}.&quot;)
 At the beginning of the end step, you lose the game.</text>
-			<set rarity="mythic" picurl="https://lecodex.github.io/sets/TLC-files/img/3.png" num="4">TLC</set>
+			<set rarity="mythic" picurl="https://lecodex.github.io/sets/TLC-files/img/3.png" num="8">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -81,7 +81,7 @@ At the beginning of the end step, you lose the game.</text>
 			<name>Sita and Samut, Speedsters</name>
 			<text>First strike, vigilance, haste
 Creatures you control that entered this turn can&apos;t be blocked.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/4.png" num="10">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/4.png" num="15">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -100,7 +100,7 @@ Creatures you control that entered this turn can&apos;t be blocked.</text>
 			<text>As Nimona enters, you may her become a copy of a creature you control until end of turn, except her name is Nimona, Free Shapeshifter and she has the following abilities.
 Haste
 At the beginning of the end step, return Nimona to her owner&apos;s hand.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/5.png" num="2">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/5.png" num="6">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,7 +118,7 @@ At the beginning of the end step, return Nimona to her owner&apos;s hand.</text>
 			<name>The King of Armello</name>
 			<text>When The King enters, you become the monarch.
 King&apos;s Declaration — At the beginning of your upkeep, exile cards from the top of your library until you exile three nonland cards. The monarch chooses one of them. You may cast it without paying its mana cost. If you don&apos;t cast a spell this way, each player loses 2 life.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/6.png" num="6">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/6.png" num="10">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -136,7 +136,7 @@ King&apos;s Declaration — At the beginning of your upkeep, exile cards from th
 			<name>The Lady of Pain&apos;s Rule</name>
 			<text>Players can&apos;t attack more than one player each combat.
 Whenever a player attacks you, The Lady deals X damage to them and you gain X life, where X is the number of attacking creatures.</text>
-			<set rarity="mythic" picurl="https://lecodex.github.io/sets/TLC-files/img/7.png" num="7">TLC</set>
+			<set rarity="mythic" picurl="https://lecodex.github.io/sets/TLC-files/img/7.png" num="11">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -155,7 +155,7 @@ Whenever a player attacks you, The Lady deals X damage to them and you gain X li
 During each opponent&apos;s turn, they may play cards from your hand and may spend mana of any type to cast them. Spells cast this way can&apos;t target you or permanents you control.
 Creatures you own but don&apos;t control are goaded.
 Whenever an opponent casts a spell or plays a land from your hand, draw a card.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/8.png" num="8">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/8.png" num="13">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -174,7 +174,7 @@ Whenever an opponent casts a spell or plays a land from your hand, draw a card.<
 			<text>Mutate {W}{U}{B}{R}{G}
 Each non-Human creature spell you control with no abilities have mutate. The mutate cost is equal to its mana cost.
 Whenever this creature mutates, you may draw a card.</text>
-			<set rarity="mythic" picurl="https://lecodex.github.io/sets/TLC-files/img/9.png" num="3">TLC</set>
+			<set rarity="mythic" picurl="https://lecodex.github.io/sets/TLC-files/img/9.png" num="7">TLC</set>
 			<prop>
 				<layout>mutate</layout>
 				<side>front</side>
@@ -192,7 +192,7 @@ Whenever this creature mutates, you may draw a card.</text>
 			<name>The Sapphire Star</name>
 			<text>Weapon Proficiency — Whenever an Equipment becomes attached to The Sapphire Star, the Equipment gains all abilities of itself for as long as it remains attached to them. Unattach all other Equipment attached to them.
 Boast — {1}{R}: Choose target creature defending player controls. Only that creature can block The Sapphire Star this turn. When it dies this turn, create a tapped Treasure token.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/10.png" num="9">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/10.png" num="14">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -203,6 +203,116 @@ Boast — {1}{R}: Choose target creature defending player controls. Only that cr
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Baba, Central Park Witch</name>
+			<text>Whenever Baba attacks, tap target creature you don&apos;t control. If it&apos;s already tapped, it becomes a 1/1 blue Bird creature with flying and loses all other colors, creature types, and abilities until end of turn.
+Whenever another creature becomes tapped during your turn, Baba gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://lecodex.github.io/sets/TLC-files/img/11.png" num="1">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Rat King</name>
+			<text>When The Rat King enters, create a 1/1 black Rat creature token.
+Whenever one or more Rats you control attack, each opponent loses that much life and you gain that much life.</text>
+			<set rarity="uncommon" picurl="https://lecodex.github.io/sets/TLC-files/img/12.png" num="3">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Rat Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deadman Danny</name>
+			<text>Haste
+Whenever Deadman Danny attacks, you may have him gain flying until end of turn. If you do, sacrifice him at the end of combat.
+When Deadman Danny dies, he deals damage equal to his power to any target.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/13.png" num="4">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Skeleton Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infernus, Ixian Barman</name>
+			<text>Flame Dаsh — Haste; firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)
+Napalm — If a source you control would deal noncombat damage to an opponent or a permanent an opponent controls during a combat phase, it deals that much damage plus 1 instead.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/14.png" num="5">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>McGinnis, Fairfax Inventor</name>
+			<text>Whenever McGinnis enters or attacks, create a 0/2 colorless Construct artifact creature token with defender.
+{2}, Tap X untapped Constructs you control: Each opponent loses X life.
+{2}, Sacrifice a Construct: You gain 2 life and draw a card.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/15.png" num="12">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Solomon, Wise Old Man</name>
+			<text>Warriors, Clerics, Knights, Soldiers, and Nobles you control get +1/+1.
+{W}{B}, {T}: Exile target creature you control. If it&apos;s a token, create a 1/1 white and black Warrior creature token, otherwise return it to the battlefield under its owner&apos;s control.</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/16.png" num="16">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

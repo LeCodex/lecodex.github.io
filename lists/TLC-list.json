@@ -3,19 +3,69 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Baba, Central Park Witch",
+        "number": 1,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "11"
     },
     {
         "card_name": "The Old Man",
-        "number": 1,
+        "number": 2,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
         "position": "2"
     },
     {
+        "card_name": "Deadman Danny",
+        "number": 4,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "The Rat King",
+        "number": 3,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Infernus, Ixian Barman",
+        "number": 5,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Nimona, Free Shapeshifter",
-        "number": 2,
+        "number": 6,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -36,11 +86,49 @@
     {
         "card_name": "er"
     },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "McGinnis, Fairfax Inventor",
+        "number": 12,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
     {
         "card_name": "er"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Solomon, Wise Old Man",
+        "number": 16,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "16"
     },
     {
         "card_name": "e"
@@ -50,7 +138,7 @@
     },
     {
         "card_name": "The Lady of Pain's Rule",
-        "number": 7,
+        "number": 11,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -58,7 +146,7 @@
     },
     {
         "card_name": "The Riverfolk Company",
-        "number": 8,
+        "number": 13,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -75,7 +163,7 @@
     },
     {
         "card_name": "The Sapphire Star",
-        "number": 9,
+        "number": 14,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -101,7 +189,7 @@
     },
     {
         "card_name": "Dr Kel, Lone Astronomer",
-        "number": 5,
+        "number": 9,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -109,7 +197,7 @@
     },
     {
         "card_name": "The King of Armello",
-        "number": 6,
+        "number": 10,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -117,7 +205,7 @@
     },
     {
         "card_name": "Sita and Samut, Speedsters",
-        "number": 10,
+        "number": 15,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -125,7 +213,7 @@
     },
     {
         "card_name": "Trax, Broken Record",
-        "number": 11,
+        "number": 17,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -133,7 +221,7 @@
     },
     {
         "card_name": "Airoki, Apex of All",
-        "number": 3,
+        "number": 7,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -156,7 +244,7 @@
     },
     {
         "card_name": "Ask and Ye Shall Receive",
-        "number": 4,
+        "number": 8,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,

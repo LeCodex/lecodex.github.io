@@ -1,4 +1,16 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Baba, Central Park Witch added.
+The Rat King added.
+Deadman Danny added.
+Infernus, Ixian Barman added.
+McGinnis, Fairfax Inventor added.
+Solomon, Wise Old Man added.
+
+
+
+VERSION 2 CHANGELOG
 ====================
 
 The Sapphire Star added.
