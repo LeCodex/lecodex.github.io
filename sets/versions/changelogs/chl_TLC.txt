@@ -1,4 +1,19 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Seeka, Roommate Menace added.
+Betty, Paranormal Influencer added.
+Professor Stella added.
+The Doorman added.
+Paige, Voracious Reader added.
+Siffrin, Looping Traveler added.
+Yung Venuz, God of Gunz added.
+Bianca, Lap Sitter added.
+The Woodland Alliance added.
+
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Baba, Central Park Witch added.
