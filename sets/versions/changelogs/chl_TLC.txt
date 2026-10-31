@@ -1,4 +1,42 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+The Monarch added.
+Otter added.
+Construct added.
+Wall added.
+Knight added.
+Dragon added.
+
+
+The King of Armello
+rules_text: When The King enters, you become the monarch.
+[i]King's Declaration[/i] — At the beginning of your upkeep, exile cards from the top of your library until you exile three nonland cards. The monarch chooses one of them. You may cast it without paying its mana cost. If you don't cast a spell this way, each player loses 2 life. => When The King enters, you become the monarch.
+[i]King's Declaration[/i] — At the beginning of your upkeep, exile cards from the top of your library until you exile three nonland cards. The monarch chooses one of them. You may cast it by paying life equal to its mana value instead of paying its mana cost. If you don't cast a spell this way, each player loses 2 life.
+pt: 4/4 => 3/4
+
+The Riverfolk Company
+rules_text: Play with your hand revealed.
+During each opponent's turn, they may play cards from your hand and may spend mana of any type to cast them. Spells cast this way can't target you or permanents you control.
+Creatures you own but don't control are goaded.
+Whenever an opponent casts a spell or plays a land from your hand, draw a card. => Play with your hand revealed.
+During each opponent's turn, they may play cards from your hand and may spend mana of any type to cast them. Spells cast this way can't target you or permanents you control.
+Whenever an opponent casts a spell or plays a land from your hand, draw a card and create a 1/1 blue Otter creature token.
+
+Deadman Danny
+
+Seeka, Roommate Menace
+rules_text: Partner with Betty, Paranormal Investigator [i](When this creature enters, target player may put Betty into their hand from their library, then shuffle.)[/i]
+Menace
+Whenever you sacrifice a permanent, put a +1/+1 counter on Seeka. She deals 1 damage to herself. => Partner with Betty, Paranormal Investigator [i](When this creature enters, target player may put Betty into their hand from their library, then shuffle.)[/i]
+Menace
+Whenever you sacrifice a permanent, put a +1/+1 counter on Seeka. She deals 1 damage to target creature you control.
+
+Bianca, Lap Sitter
+rules_text: When Bianca enters and at the beginning of your upkeep, gain control of target creature until end of turn. It gains haste and defender until end of turn. => When Bianca enters and at the beginning of your upkeep, gain control of target creature until end of turn. It gains defender and haste until end of turn.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Seeka, Roommate Menace added.

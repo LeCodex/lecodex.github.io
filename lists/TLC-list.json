@@ -24,12 +24,12 @@
         "position": "18"
     },
     {
-        "card_name": "Deadman Danny",
-        "number": 8,
+        "card_name": "Infernus, Ixian Barman",
+        "number": 9,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "13"
+        "position": "14"
     },
     {
         "card_name": "e"
@@ -59,31 +59,6 @@
         "position": "2"
     },
     {
-        "card_name": "Infernus, Ixian Barman",
-        "number": 9,
-        "shape": "normal",
-        "set": "TLC",
-        "rotated": false,
-        "position": "14"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "The Rat King",
-        "number": 7,
-        "shape": "normal",
-        "set": "TLC",
-        "rotated": false,
-        "position": "12"
-    },
-    {
         "card_name": "Nimona, Free Shapeshifter",
         "number": 10,
         "shape": "normal",
@@ -101,7 +76,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "The Rat King",
+        "number": 7,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "12"
     },
     {
         "card_name": "Seeka, Roommate Menace",
@@ -130,6 +110,26 @@
         "set": "TLC",
         "rotated": false,
         "position": "23"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Deadman Danny",
+        "number": 8,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "13"
     },
     {
         "card_name": "e"
@@ -354,6 +354,79 @@
         "set": "TLC",
         "rotated": false,
         "position": "3"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "The Monarch",
+        "number": 1,
+        "shape": "token",
+        "set": "TLC",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Wall",
+        "number": 2,
+        "shape": "token",
+        "set": "TLC",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Construct",
+        "number": 6,
+        "shape": "token",
+        "set": "TLC",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Knight",
+        "number": 3,
+        "shape": "token",
+        "set": "TLC",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Otter",
+        "number": 4,
+        "shape": "token",
+        "set": "TLC",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Dragon",
+        "number": 5,
+        "shape": "token",
+        "set": "TLC",
+        "rotated": false,
+        "position": "31"
     },
     {
         "card_name": "e"

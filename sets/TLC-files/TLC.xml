@@ -117,7 +117,7 @@ At the beginning of the end step, return Nimona to her owner&apos;s hand.</text>
 		<card>
 			<name>The King of Armello</name>
 			<text>When The King enters, you become the monarch.
-King&apos;s Declaration — At the beginning of your upkeep, exile cards from the top of your library until you exile three nonland cards. The monarch chooses one of them. You may cast it without paying its mana cost. If you don&apos;t cast a spell this way, each player loses 2 life.</text>
+King&apos;s Declaration — At the beginning of your upkeep, exile cards from the top of your library until you exile three nonland cards. The monarch chooses one of them. You may cast it by paying life equal to its mana value instead of paying its mana cost. If you don&apos;t cast a spell this way, each player loses 2 life.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/6.png" num="17">TLC</set>
 			<prop>
 				<layout>normal</layout>
@@ -128,7 +128,7 @@ King&apos;s Declaration — At the beginning of your upkeep, exile cards from th
 				<cmc>4</cmc>
 				<colors>UBR</colors>
 				<coloridentity>UBR</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -153,8 +153,7 @@ Whenever a player attacks you, The Lady deals X damage to them and you gain X li
 			<name>The Riverfolk Company</name>
 			<text>Play with your hand revealed.
 During each opponent&apos;s turn, they may play cards from your hand and may spend mana of any type to cast them. Spells cast this way can&apos;t target you or permanents you control.
-Creatures you own but don&apos;t control are goaded.
-Whenever an opponent casts a spell or plays a land from your hand, draw a card.</text>
+Whenever an opponent casts a spell or plays a land from your hand, draw a card and create a 1/1 blue Otter creature token.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/8.png" num="21">TLC</set>
 			<prop>
 				<layout>normal</layout>
@@ -247,7 +246,7 @@ Whenever one or more Rats you control attack, each opponent loses that much life
 			<text>Haste
 Whenever Deadman Danny attacks, you may have him gain flying until end of turn. If you do, sacrifice him at the end of combat.
 When Deadman Danny dies, he deals damage equal to his power to any target.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/13.png" num="8">TLC</set>
+			<set rarity="uncommon" picurl="https://lecodex.github.io/sets/TLC-files/img/13.png" num="8">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -320,7 +319,7 @@ Napalm — If a source you control would deal noncombat damage to an opponent or
 			<name>Seeka, Roommate Menace</name>
 			<text>Partner with Betty, Paranormal Investigator (When this creature enters, target player may put Betty into their hand from their library, then shuffle.)
 Menace
-Whenever you sacrifice a permanent, put a +1/+1 counter on Seeka. She deals 1 damage to herself.</text>
+Whenever you sacrifice a permanent, put a +1/+1 counter on Seeka. She deals 1 damage to target creature you control.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/17.png" num="11">TLC</set>
 			<prop>
 				<layout>normal</layout>
@@ -446,7 +445,7 @@ Pop Pop — {2}{R}{R}: Copy target instant or sorcery spell you control. You may
 		</card>
 		<card>
 			<name>Bianca, Lap Sitter</name>
-			<text>When Bianca enters and at the beginning of your upkeep, gain control of target creature until end of turn. It gains haste and defender until end of turn.</text>
+			<text>When Bianca enters and at the beginning of your upkeep, gain control of target creature until end of turn. It gains defender and haste until end of turn.</text>
 			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/24.png" num="15">TLC</set>
 			<prop>
 				<layout>normal</layout>
@@ -479,6 +478,114 @@ Whenever an opponent attacks you and/or planeswalkers you control, manifest the 
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Monarch TLC</name>
+			<text>At the beginning of your end step, draw a card.
+Whenever a creature deals combat damage to you, its controller becomes the monarch.</text>
+			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/26.png" num="1">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>The King of Armello</reverse-related>
+		</card>
+		<card>
+			<name>Otter TLC</name>
+			<text></text>
+			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/27.png" num="4">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Otter</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>The Riverfolk Company</reverse-related>
+		</card>
+		<card>
+			<name>Construct TLC</name>
+			<text>This creature gets +1/+1 for each artifact you control.</text>
+			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/28.png" num="6">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Professor Stella</reverse-related>
+		</card>
+		<card>
+			<name>Wall TLC</name>
+			<text></text>
+			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/29.png" num="2">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Paige, Voracious Reader</reverse-related>
+		</card>
+		<card>
+			<name>Knight TLC</name>
+			<text>Vigilance</text>
+			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/30.png" num="3">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Paige, Voracious Reader</reverse-related>
+		</card>
+		<card>
+			<name>Dragon TLC</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/31.png" num="5">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Paige, Voracious Reader</reverse-related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
