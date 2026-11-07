@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "20"
+        "position": "19"
     },
     {
         "card_name": "Professor Stella",
@@ -13,26 +13,31 @@
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "19"
-    },
-    {
-        "card_name": "Betty, Paranormal Influencer",
-        "number": 5,
-        "shape": "normal",
-        "set": "TLC",
-        "rotated": false,
         "position": "18"
     },
     {
-        "card_name": "Infernus, Ixian Barman",
-        "number": 9,
+        "card_name": "Betty, Paranormal Influencer",
+        "number": 6,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "14"
+        "position": "17"
     },
     {
-        "card_name": "e"
+        "card_name": "Infernus, Ixian Barman",
+        "number": 11,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Victor, Pain Battery",
+        "number": 15,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "33"
     },
     {
         "card_name": "Siffrin, Looping Traveler",
@@ -40,19 +45,19 @@
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "22"
+        "position": "21"
     },
     {
-        "card_name": "Baba, Central Park Witch",
-        "number": 3,
+        "card_name": "Vnwxt, Excited Emcee",
+        "number": 5,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "11"
+        "position": "36"
     },
     {
         "card_name": "The Old Man",
-        "number": 6,
+        "number": 8,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -60,7 +65,7 @@
     },
     {
         "card_name": "Nimona, Free Shapeshifter",
-        "number": 10,
+        "number": 12,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -73,23 +78,28 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Baba, Central Park Witch",
+        "number": 3,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "10"
     },
     {
-        "card_name": "The Rat King",
+        "card_name": "The Double King",
         "number": 7,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "12"
+        "position": "37"
     },
     {
         "card_name": "Seeka, Roommate Menace",
-        "number": 11,
+        "number": 13,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "17"
+        "position": "16"
     },
     {
         "card_name": "e"
@@ -101,15 +111,20 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "The Rat King",
+        "number": 9,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "11"
     },
     {
         "card_name": "Yung Venuz, God of Gunz",
-        "number": 12,
+        "number": 14,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "23"
+        "position": "22"
     },
     {
         "card_name": "e"
@@ -124,12 +139,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "Deadman Danny",
-        "number": 8,
+        "card_name": "Deadman Danny, Test Dummy",
+        "number": 10,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "13"
+        "position": "12"
     },
     {
         "card_name": "e"
@@ -152,11 +167,11 @@
     },
     {
         "card_name": "McGinnis, Fairfax Inventor",
-        "number": 19,
+        "number": 20,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "15"
+        "position": "14"
     },
     {
         "card_name": "e"
@@ -184,36 +199,11 @@
     },
     {
         "card_name": "Solomon, Wise Old Man",
-        "number": 24,
+        "number": 26,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "16"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "The Lady of Pain's Rule",
-        "number": 18,
-        "shape": "normal",
-        "set": "TLC",
-        "rotated": false,
-        "position": "7"
-    },
-    {
-        "card_name": "Paige, Voracious Reader",
-        "number": 20,
-        "shape": "normal",
-        "set": "TLC",
-        "rotated": false,
-        "position": "21"
-    },
-    {
-        "card_name": "e"
+        "position": "15"
     },
     {
         "card_name": "e"
@@ -223,19 +213,19 @@
     },
     {
         "card_name": "Bianca, Lap Sitter",
-        "number": 15,
+        "number": 17,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "24"
+        "position": "23"
     },
     {
-        "card_name": "The Riverfolk Company",
+        "card_name": "Paige, Voracious Reader",
         "number": 21,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "8"
+        "position": "20"
     },
     {
         "card_name": "e"
@@ -248,14 +238,19 @@
     },
     {
         "card_name": "The Sapphire Star",
+        "number": 23,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "The Riverfolk Company",
         "number": 22,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "10"
-    },
-    {
-        "card_name": "e"
+        "position": "7"
     },
     {
         "card_name": "er"
@@ -274,7 +269,7 @@
     },
     {
         "card_name": "Dr Kel, Lone Astronomer",
-        "number": 16,
+        "number": 18,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -282,15 +277,23 @@
     },
     {
         "card_name": "The King of Armello",
-        "number": 17,
+        "number": 19,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
         "position": "6"
     },
     {
+        "card_name": "Seven, Undying Ascendant",
+        "number": 24,
+        "shape": "normal",
+        "set": "TLC",
+        "rotated": false,
+        "position": "35"
+    },
+    {
         "card_name": "Sita and Samut, Speedsters",
-        "number": 23,
+        "number": 25,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -298,7 +301,7 @@
     },
     {
         "card_name": "Trax, Broken Record",
-        "number": 25,
+        "number": 27,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -306,22 +309,19 @@
     },
     {
         "card_name": "Airoki, Apex of All",
-        "number": 13,
+        "number": 16,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "9"
+        "position": "8"
     },
     {
         "card_name": "The Woodland Alliance",
-        "number": 26,
+        "number": 28,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
-        "position": "25"
-    },
-    {
-        "card_name": "e"
+        "position": "24"
     },
     {
         "card_name": "e"
@@ -349,7 +349,7 @@
     },
     {
         "card_name": "Ask and Ye Shall Receive",
-        "number": 14,
+        "number": 29,
         "shape": "normal",
         "set": "TLC",
         "rotated": false,
@@ -381,28 +381,36 @@
     },
     "a->token",
     {
-        "card_name": "The Monarch",
-        "number": 1,
-        "shape": "token",
-        "set": "TLC",
-        "rotated": false,
-        "position": "26"
-    },
-    {
         "card_name": "Wall",
         "number": 2,
         "shape": "token",
         "set": "TLC",
         "rotated": false,
-        "position": "29"
+        "position": "28"
     },
     {
         "card_name": "Construct",
-        "number": 6,
+        "number": 8,
         "shape": "token",
         "set": "TLC",
         "rotated": false,
-        "position": "28"
+        "position": "27"
+    },
+    {
+        "card_name": "Construct",
+        "number": 9,
+        "shape": "token",
+        "set": "TLC",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "The Monarch",
+        "number": 1,
+        "shape": "token",
+        "set": "TLC",
+        "rotated": false,
+        "position": "25"
     },
     {
         "card_name": "Knight",
@@ -410,32 +418,39 @@
         "shape": "token",
         "set": "TLC",
         "rotated": false,
-        "position": "30"
+        "position": "29"
     },
     {
-        "card_name": "Otter",
+        "card_name": "Bird",
         "number": 4,
-        "shape": "token",
-        "set": "TLC",
-        "rotated": false,
-        "position": "27"
-    },
-    {
-        "card_name": "Dragon",
-        "number": 5,
         "shape": "token",
         "set": "TLC",
         "rotated": false,
         "position": "31"
     },
     {
-        "card_name": "e"
+        "card_name": "Otter",
+        "number": 5,
+        "shape": "token",
+        "set": "TLC",
+        "rotated": false,
+        "position": "26"
     },
     {
-        "card_name": "e"
+        "card_name": "Rat",
+        "number": 6,
+        "shape": "token",
+        "set": "TLC",
+        "rotated": false,
+        "position": "32"
     },
     {
-        "card_name": "e"
+        "card_name": "Dragon",
+        "number": 7,
+        "shape": "token",
+        "set": "TLC",
+        "rotated": false,
+        "position": "30"
     },
     {
         "card_name": "e"

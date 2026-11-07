@@ -1,4 +1,111 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Deadman Danny, Test Dummy added.
+Bird added.
+Rat added.
+Victor, Pain Battery added.
+Construct added.
+Seven, Undying Ascendant added.
+Vnwxt, Excited Emcee added.
+The Double King added.
+
+The Lady of Pain's Rule removed.
+Deadman Danny removed.
+
+Ask and Ye Shall Receive
+
+The Riverfolk Company
+type: Legendary Creature — Otter Mercernary => Legendary Creature — Otter Mercenary
+
+Airoki, Apex of All
+
+The Sapphire Star
+
+Baba, Central Park Witch
+rules_text: Whenever Baba attacks, tap target creature you don't control. If it's already tapped, it becomes a 1/1 blue Bird creature with flying and loses all other colors, creature types, and abilities until end of turn.
+Whenever another creature becomes tapped during your turn, Baba gets +1/+0 until end of turn. => Whenever Baba attacks, tap target creature you don't control. If it's already tapped, create a 1/1 blue Bird creature token with flying.
+Whenever another creature becomes tapped during your turn, Baba gets +1/+0 until end of turn.
+Partner—Ritualists
+
+The Rat King
+rules_text: When The Rat King enters, create a 1/1 black Rat creature token.
+Whenever one or more Rats you control attack, each opponent loses that much life and you gain that much life. => When The Rat King enters, create a 1/1 black Rat creature token.
+Whenever one or more Rats you control attack, each opponent loses that much life and you gain that much life.
+Partner—Ritualists
+
+Infernus, Ixian Barman
+rules_text: [i]Flame Dаsh[/i] — Haste; firebending 1 [i](Whenever this creature attacks, add {R}. This mana lasts until end of combat.)[/i]
+[i]Napalm [/i]— If a source you control would deal noncombat damage to an opponent or a permanent an opponent controls during a combat phase, it deals that much damage plus 1 instead. => [i]Flame Dаsh[/i] — Haste; firebending 1 [i](Whenever this creature attacks, add {R}. This mana lasts until end of combat.)[/i]
+[i]Napalm [/i]— If a source you control would deal noncombat damage to an opponent or a permanent an opponent controls during a combat phase, it deals that much damage plus 1 instead.
+Partner—Ritualists
+
+McGinnis, Fairfax Inventor
+rules_text: Whenever McGinnis enters or attacks, create a 0/2 colorless Construct artifact creature token with defender.
+{2}, Tap X untapped Constructs you control: Each opponent loses X life.
+{2}, Sacrifice a Construct: You gain 2 life and draw a card. => Whenever McGinnis enters or attacks, create a 0/2 colorless Construct artifact creature token with defender.
+{2}, Tap X untapped Constructs you control: Each opponent loses X life.
+{2}, Sacrifice a Construct: You gain 2 life and draw a card.
+Partner—Ritualists
+
+Solomon, Wise Old Man
+rules_text: Warriors, Clerics, Knights, Soldiers, and Nobles you control get +1/+1.
+{W}{B}, {T}: Exile target creature you control. If it's a token, create a 1/1 white and black Warrior creature token, otherwise return it to the battlefield under its owner's control. => Warriors, Clerics, Knights, Soldiers, and Nobles you control get +1/+1.
+{W}{B}, {T}: Exile target creature you control. If it's a token, create a 1/1 white and black Warrior creature token, otherwise return it to the battlefield under its owner's control.
+Partner—Ritualists
+
+Seeka, Roommate Menace
+cost: {2}{R} => {1}{R}
+rules_text: Partner with Betty, Paranormal Investigator [i](When this creature enters, target player may put Betty into their hand from their library, then shuffle.)[/i]
+Menace
+Whenever you sacrifice a permanent, put a +1/+1 counter on Seeka. She deals 1 damage to target creature you control. => Partner with Betty, Paranormal Influencer [i](When this creature enters, target player may put Betty into their hand from their library, then shuffle.)[/i]
+Menace
+Whenever you sacrifice a permanent, put a +1/+1 counter on Seeka. She deals 1 damage to target creature you control.
+pt: 2/3 => 1/2
+
+Betty, Paranormal Influencer
+cost: {1}{B} => {2}{B}
+rules_text: Partner with Seeka, Roommate Menace [i](When this creature enters, target player may put Seeka into their hand from their library, then shuffle.)[/i]
+Whenever a Demon, Devil, or Spirit you control enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you draw your second card each turn, create a Treasure token. => Partner with Seeka, Roommate Menace [i](When this creature enters, target player may put Seeka into their hand from their library, then shuffle.)[/i]
+Whenever a Demon, Devil, or Spirit you control enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you draw your second card each turn, create a tapped Treasure token.
+
+Professor Stella
+
+The Doorman
+type: Legendary Creature — Avatar Citizen => Legendary Creature — Avatar Employee
+rules_text: Ward {1}
+[i]Hotel Guest[/i] — Whenever The Doorman enters or attacks, you may exile another target creature until it leaves the battlefield. If you do, return each other card exiled with it to the battlefield tapped. => Ward {1}
+[i]Hotel Guest[/i] — Whenever The Doorman enters or attacks, you may exile another target creature until it leaves the battlefield. If you do, return each other card exiled with it to the battlefield tapped.
+Partner—Ritualists
+
+Paige, Voracious Reader
+rules_text: Whenever you draw a card except the first one you draw in each of your draw steps, create a 0/2 colorless Wall creature token with defender if it's the first time this ability resolved this turn, a 2/2 white Knight creature token with vigilance if it's the second, and 4/4 red Dragon creature token with flying if it's the third. => Whenever you draw a card except the first one you draw in each of your draw steps, create a 0/2 colorless Wall creature token with defender if it's the first time this ability resolved this turn, a 2/2 white Knight creature token with vigilance if it's the second, or a 4/4 red Dragon creature token with flying if it's the third.
+Partner—Ritualists
+
+Siffrin, Looping Traveler
+
+Yung Venuz, God of Gunz
+
+Bianca, Lap Sitter
+
+The Woodland Alliance
+
+The Monarch
+
+Otter
+
+Construct
+
+Wall
+
+Knight
+
+Dragon
+
+
+VERSION 5 CHANGELOG
 ====================
 
 The Monarch added.
