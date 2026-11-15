@@ -551,7 +551,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "!related The King of Armello"
+            "notes": "!related The King of Armello;The Double King"
         },
         {
             "card_name": "Otter",
@@ -575,11 +575,11 @@
             "notes": "!related The Riverfolk Company"
         },
         {
-            "card_name": "Construct",
+            "card_name": "Construct (Stella)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Construct",
-            "number": 8,
+            "number": 9,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This creature gets +1/+1 for each artifact you control.",
@@ -593,7 +593,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "!related Professor Stella"
+            "notes": "!related Professor Stella\n!exportname Construct (Stella)"
         },
         {
             "card_name": "Wall",
@@ -683,7 +683,7 @@
             "card_name": "Rat",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2014 Token",
+            "type": "Token Creature \u2014 Rat",
             "number": 6,
             "color_identity": "B",
             "cost": "",
@@ -722,11 +722,11 @@
             "notes": ""
         },
         {
-            "card_name": "Construct",
+            "card_name": "Construct (McGinnis)",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Construct",
-            "number": 9,
+            "number": 8,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Defender",
@@ -736,11 +736,11 @@
             "shape": "token",
             "set": "TLC",
             "loyalty": "",
-            "artist": "",
+            "artist": "Valve",
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "!related McGinnis, Fairfax Inventor"
+            "notes": "!related McGinnis, Fairfax Inventor\n!exportname Construct (McGinnis)"
         },
         {
             "card_name": "Seven, Undying Ascendant",
@@ -792,7 +792,7 @@
             "number": 7,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Menace\nWhen The Double King enters, target opponent becomes the monarch.\nWhenever you become the monarch, the previous monarch loses 3 life and discards a card, you draw a card and gain 3 life, then target opponent becomes the monarch.",
+            "rules_text": "Menace\nWhen The Double King enters, target opponent becomes the monarch.\nWhenever you become the monarch, the previous monarch loses 2 life and discards a card, you draw a card and gain 2 life, then target opponent becomes the monarch.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",

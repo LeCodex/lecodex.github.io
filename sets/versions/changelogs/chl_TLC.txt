@@ -1,4 +1,26 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Construct (Stella) added.
+Construct (McGinnis) added.
+
+Construct removed.
+Construct removed.
+
+The Monarch
+
+Rat
+type: Token Creature — Token => Token Creature — Rat
+
+The Double King
+rules_text: Menace
+When The Double King enters, target opponent becomes the monarch.
+Whenever you become the monarch, the previous monarch loses 3 life and discards a card, you draw a card and gain 3 life, then target opponent becomes the monarch. => Menace
+When The Double King enters, target opponent becomes the monarch.
+Whenever you become the monarch, the previous monarch loses 2 life and discards a card, you draw a card and gain 2 life, then target opponent becomes the monarch.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Deadman Danny, Test Dummy added.

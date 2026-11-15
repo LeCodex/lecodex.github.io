@@ -5,7 +5,7 @@
 			<name>TLC</name>
 			<longname>Tellurion Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-08</releasedate>
+			<releasedate>2026-11-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -486,6 +486,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
 			<tablerow>1</tablerow>
 			<token>1</token>
 			<reverse-related>The King of Armello</reverse-related>
+			<reverse-related>The Double King</reverse-related>
 		</card>
 		<card>
 			<name>Otter TLC</name>
@@ -507,9 +508,9 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
 			<reverse-related>The Riverfolk Company</reverse-related>
 		</card>
 		<card>
-			<name>Construct TLC</name>
+			<name>Construct (Stella) TLC</name>
 			<text>This creature gets +1/+1 for each artifact you control.</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/27.png" num="8">TLC</set>
+			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/27.png" num="9">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -604,7 +605,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Token Creature — Token</type>
+				<type>Token Creature — Rat</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -636,9 +637,9 @@ Partner—Ritualists</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Construct TLC</name>
+			<name>Construct (McGinnis) TLC</name>
 			<text>Defender</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/34.png" num="9">TLC</set>
+			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/34.png" num="8">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -694,7 +695,7 @@ Each creature card in your graveyard that&apos;s a Performer or Bard has encore.
 			<name>The Double King</name>
 			<text>Menace
 When The Double King enters, target opponent becomes the monarch.
-Whenever you become the monarch, the previous monarch loses 3 life and discards a card, you draw a card and gain 3 life, then target opponent becomes the monarch.</text>
+Whenever you become the monarch, the previous monarch loses 2 life and discards a card, you draw a card and gain 2 life, then target opponent becomes the monarch.</text>
 			<set rarity="uncommon" picurl="https://lecodex.github.io/sets/TLC-files/img/37.png" num="7">TLC</set>
 			<prop>
 				<layout>normal</layout>

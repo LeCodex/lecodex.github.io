@@ -389,20 +389,20 @@
         "position": "28"
     },
     {
-        "card_name": "Construct",
+        "card_name": "Construct (McGinnis)",
         "number": 8,
         "shape": "token",
         "set": "TLC",
         "rotated": false,
-        "position": "27"
+        "position": "34"
     },
     {
-        "card_name": "Construct",
+        "card_name": "Construct (Stella)",
         "number": 9,
         "shape": "token",
         "set": "TLC",
         "rotated": false,
-        "position": "34"
+        "position": "27"
     },
     {
         "card_name": "The Monarch",
