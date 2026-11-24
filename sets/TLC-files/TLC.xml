@@ -5,14 +5,14 @@
 			<name>TLC</name>
 			<longname>Tellurion Commander</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-15</releasedate>
+			<releasedate>2026-11-24</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Trax, Broken Record</name>
 			<text>Whenever you cast an instant or sorcery spell for the first time each turn, copy it, then exile it with three time counters on it. If it doesn&apos;t have suspend, it gains suspend. (At the beginning of your upkeep, remove a time counter. When the last one is removed, cast it without paying its mana cost.)</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/0.png" num="27">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/0.png" num="28">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -66,7 +66,7 @@ Whenever a player sacrifices a creature, put a +1/+1 counter on The Old Man.</te
 			<name>Ask and Ye Shall Receive</name>
 			<text>This land is every basic land type. (It has &quot;{T}: Add {W}, {U}, {B}, {R}, or {G}.&quot;)
 At the beginning of the end step, you lose the game.</text>
-			<set rarity="special" picurl="https://lecodex.github.io/sets/TLC-files/img/3.png" num="29">TLC</set>
+			<set rarity="special" picurl="https://lecodex.github.io/sets/TLC-files/img/3.png" num="30">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -81,7 +81,7 @@ At the beginning of the end step, you lose the game.</text>
 			<name>Sita and Samut, Speedsters</name>
 			<text>First strike, vigilance, haste
 Creatures you control that entered this turn can&apos;t be blocked.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/4.png" num="25">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/4.png" num="26">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -137,7 +137,7 @@ King&apos;s Declaration — At the beginning of your upkeep, exile cards from th
 			<text>Play with your hand revealed.
 During each opponent&apos;s turn, they may play cards from your hand and may spend mana of any type to cast them. Spells cast this way can&apos;t target you or permanents you control.
 Whenever an opponent casts a spell or plays a land from your hand, draw a card and create a 1/1 blue Otter creature token.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/7.png" num="22">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/7.png" num="23">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -174,7 +174,7 @@ Whenever this creature mutates, you may draw a card.</text>
 			<name>The Sapphire Star</name>
 			<text>Weapon Proficiency — Whenever an Equipment becomes attached to The Sapphire Star, the Equipment gains all abilities of itself for as long as it remains attached to them. Unattach all other Equipment attached to them.
 Boast — {1}{R}: Choose target creature defending player controls. Only that creature can block The Sapphire Star this turn. When it dies this turn, create a tapped Treasure token.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/9.png" num="23">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/9.png" num="24">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -290,7 +290,7 @@ Partner—Ritualists</text>
 			<text>Warriors, Clerics, Knights, Soldiers, and Nobles you control get +1/+1.
 {W}{B}, {T}: Exile target creature you control. If it&apos;s a token, create a 1/1 white and black Warrior creature token, otherwise return it to the battlefield under its owner&apos;s control.
 Partner—Ritualists</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/15.png" num="26">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/15.png" num="27">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -381,9 +381,9 @@ Partner—Ritualists</text>
 		</card>
 		<card>
 			<name>Paige, Voracious Reader</name>
-			<text>Whenever you draw a card except the first one you draw in each of your draw steps, create a 0/2 colorless Wall creature token with defender if it&apos;s the first time this ability resolved this turn, a 2/2 white Knight creature token with vigilance if it&apos;s the second, or a 4/4 red Dragon creature token with flying if it&apos;s the third.
+			<text>At the beginning of your end step, create a 0/2 colorless Wall creature token with defender. If you&apos;ve drawn two cards this turn, create a 2/2 white Knight creature token with vigilance instead. If you&apos;ve drawn three or more cards this turn, create a 4/4 red Dragon creature token with flying instead.
 Partner—Ritualists</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/20.png" num="21">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/20.png" num="22">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -456,7 +456,7 @@ Pop Pop — {2}{R}{R}: Copy target instant or sorcery spell you control. You may
 			<text>Face-down creatures you control cost {1} less to turn face up. 
 Whenever a permanent you control is turned face up, put a +1/+1 counter on The Woodland Alliance and draw a card.
 Whenever an opponent attacks you and/or planeswalkers you control, manifest the top card of that player&apos;s library.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/24.png" num="28">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/24.png" num="29">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -510,7 +510,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
 		<card>
 			<name>Construct (Stella) TLC</name>
 			<text>This creature gets +1/+1 for each artifact you control.</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/27.png" num="9">TLC</set>
+			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/27.png" num="10">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -639,7 +639,7 @@ Partner—Ritualists</text>
 		<card>
 			<name>Construct (McGinnis) TLC</name>
 			<text>Defender</text>
-			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/34.png" num="8">TLC</set>
+			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/34.png" num="9">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -657,7 +657,7 @@ Partner—Ritualists</text>
 			<name>Seven, Undying Ascendant</name>
 			<text>Whenever Seven attacks, tap target creature defending player controls and put a stun counter on it. Then if there are six or more tapped creatures with a counter on them, draw a card.
 Escalating Exposure — Seven gets +1/+1 for each tapped creature opponents control.</text>
-			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/35.png" num="24">TLC</set>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/35.png" num="25">TLC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -707,6 +707,41 @@ Whenever you become the monarch, the previous monarch loses 2 life and discards 
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clue TLC</name>
+			<text>{2}, Sacrifice this token: Draw a card.</text>
+			<set rarity="common" picurl="https://lecodex.github.io/sets/TLC-files/img/38.png" num="8">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>Dr Kel, Lone Astronomer</reverse-related>
+		</card>
+		<card>
+			<name>Nurse Harrow, Harsh Healer</name>
+			<text>Lifelink
+Whenever you attack, Nurse Harrow deals damage equal to her power to target creature you control. If it was dealt lethal damage that way, draw a card. Otherwise, it gains indestructible until end of turn.
+Partner—Ritualists</text>
+			<set rarity="rare" picurl="https://lecodex.github.io/sets/TLC-files/img/39.png" num="21">TLC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Doctor</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

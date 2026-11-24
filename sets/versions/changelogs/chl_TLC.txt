@@ -1,4 +1,17 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Clue added.
+Nurse Harrow, Harsh Healer added.
+
+
+Paige, Voracious Reader
+rules_text: Whenever you draw a card except the first one you draw in each of your draw steps, create a 0/2 colorless Wall creature token with defender if it's the first time this ability resolved this turn, a 2/2 white Knight creature token with vigilance if it's the second, or a 4/4 red Dragon creature token with flying if it's the third.
+Partner—Ritualists => At the beginning of your end step, create a 0/2 colorless Wall creature token with defender. If you've drawn two cards this turn, create a 2/2 white Knight creature token with vigilance instead. If you've drawn three or more cards this turn, create a 4/4 red Dragon creature token with flying instead.
+Partner—Ritualists
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Construct (Stella) added.
